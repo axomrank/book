@@ -1,0 +1,22 @@
+{
+  "title": "From Sukaphaa to Gomdhar Konwar",
+  "volume": "I",
+  "created": "2026-10-10",
+  "generation_mode": "native built-in image generation",
+  "image": "/home/angsuman/Desktop/Insta_Angsumi/output/imagegen/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v1.png",
+  "native_pixel_dimensions": [
+    1050,
+    1498
+  ],
+  "image_sha256": "45375ea570ca8020151a5149742a67881eb644fb44ace3b65bde6b0d437fdc24",
+  "pdf": "/home/angsuman/Desktop/Insta_Angsumi/output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_7x10.pdf",
+  "pdf_size_inches": [
+    7,
+    10
+  ],
+  "pdf_aspect_ratio": "7:10",
+  "prompt": "/home/angsuman/Desktop/Insta_Angsumi/book/cover/native_image_prompt.txt",
+  "author_credit": "No personal author name supplied; AxomRank is the publication branding",
+  "illustration": "Modern symbolic AI illustration; not a documentary reconstruction",
+  "visual_text_check": "Title, series dates, volume, subtitle, volume dates and branding checked against cover_details.json"
+}

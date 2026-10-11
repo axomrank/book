@@ -1,0 +1,6 @@
+{
+  "checked": "five chapter structures, footnotes, local Markdown links, source IDs, unique claim IDs, combined manuscript consistency",
+  "issues": [],
+  "passed": true,
+  "historical_limit": "This structural check does not resolve historical contradictions or replace source review."
+}

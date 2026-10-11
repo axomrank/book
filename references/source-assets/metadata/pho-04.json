@@ -1,0 +1,143 @@
+{
+  "record": {
+    "id": "PHO-04",
+    "path": "photographs/pho-04-a-chamber-in-talatal-ghar-in-sivasagar-assam.jpg",
+    "title": "A chamber in Talatal Ghar in Sivasagar, Assam.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_chamber_in_Talatal_Ghar_in_Sivasagar,_Assam.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_chamber_in_Talatal_Ghar_in_Sivasagar%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Joli Rumi",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "অসমৰ শিৱসাগৰৰ ৰংপুৰত অৱস্থিত আহোম স্বৰ্গদেউসকলৰ দ্বাৰা নিৰ্মিত তলাতল ঘৰ",
+    "date_created": "2024-01-03 13:12:10",
+    "commons_upload_timestamp": "2024-01-15T12:44:26Z",
+    "checked_at": "2026-10-11",
+    "bytes": 3272609,
+    "sha256": "5d611a27133c3b9ac27a69beb426575db3e3a11b04fbf175c476fb83df6f0ae3",
+    "width": 4032,
+    "height": 2268,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A chamber in Talatal Ghar in Sivasagar, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_chamber_in_Talatal_Ghar_in_Sivasagar,_Assam.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "144007132": {
+          "pageid": 144007132,
+          "ns": 6,
+          "title": "File:A chamber in Talatal Ghar in Sivasagar, Assam.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2024-01-15T12:44:26Z",
+              "size": 3272609,
+              "width": 4032,
+              "height": 2268,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_chamber_in_Talatal_Ghar_in_Sivasagar%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_chamber_in_Talatal_Ghar_in_Sivasagar,_Assam.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144007132",
+              "sha1": "49ee9576fd4995e82d0075d59d5fb606a9ee075b",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-01-15 12:44:26",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A chamber in Talatal Ghar in Sivasagar, Assam",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Talatal Ghar|Self-published work|Files with coordinates missing SDC location of creation",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "26.965994",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "94.624397",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "অসমৰ শিৱসাগৰৰ ৰংপুৰত অৱস্থিত আহোম স্বৰ্গদেউসকলৰ দ্বাৰা নিৰ্মিত তলাতল ঘৰ",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-01-03 13:12:10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Joli Rumi",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

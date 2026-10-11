@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "PHO-11",
+    "path": "photographs/pho-11-a-glimpse-of-na-duar-historic-gate-of-ahom-era.jpg",
+    "title": "A glimpse of Na-Duar, historic gate of Ahom era.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_glimpse_of_Na-Duar,_historic_gate_of_Ahom_era.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/A_glimpse_of_Na-Duar%2C_historic_gate_of_Ahom_era.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "JyotiPN",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "Na Duar refers to one of the three main historical gates of the city of Rangpur (modern-day Sivasagar) during the glorious Ahom Kingdom era",
+    "date_created": "2026-02-16 13:07:43",
+    "commons_upload_timestamp": "2026-06-02T08:31:42Z",
+    "checked_at": "2026-10-11",
+    "bytes": 7443652,
+    "sha256": "770dcc653aabf185045a67e80792f99ed78d2b0f8283b3c7350d309672bd1b89",
+    "width": 3000,
+    "height": 3821,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A glimpse of Na-Duar, historic gate of Ahom era.jpg — JyotiPN; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_glimpse_of_Na-Duar,_historic_gate_of_Ahom_era.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "193241250": {
+          "pageid": 193241250,
+          "ns": 6,
+          "title": "File:A glimpse of Na-Duar, historic gate of Ahom era.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2026-06-02T08:31:42Z",
+              "size": 7443652,
+              "width": 3000,
+              "height": 3821,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/A_glimpse_of_Na-Duar%2C_historic_gate_of_Ahom_era.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_glimpse_of_Na-Duar,_historic_gate_of_Ahom_era.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193241250",
+              "sha1": "efb404e752f93827374f1fa110066686774c9503",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-02 08:31:42",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A glimpse of Na-Duar, historic gate of Ahom era",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ahom Kingdom|History of Assam|Sivasagar|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Na Duar refers to one of the three main historical gates of the city of Rangpur (modern-day Sivasagar) during the glorious Ahom Kingdom era",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-02-16 13:07:43",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:JyotiPN\" title=\"User:JyotiPN\">JyotiPN</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

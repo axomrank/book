@@ -1,0 +1,26 @@
+Use case: stylized-concept / book cover design.
+Create a beautiful complete FRONT COVER for a serious three-volume history series. This cover is VOLUME I. Exact portrait aspect ratio 7:10, preferably 1400 x 2000 pixels or a larger proportional size. The complete cover fills the image edge to edge and is viewed straight on. It is a usable flat front-cover composition whose lettering and central illustration have convincing sculpted 3D depth. Do not show a tilted book, spine, page block, tabletop, or a surrounding mockup scene.
+
+Brand and tone: AxomRank, rooted in Assam, accurate and accessible learning, respectful of the kingdom's many communities. Deep maroon #80151A, warm ivory #F7F2EC, charcoal #292929, restrained antique gold. Premium editorial design, calm and authoritative, visually striking without fantasy spectacle. A finely textured maroon cloth background with tasteful shallow embossed detailing and delicate gold rules. Generous negative space and very readable lettering.
+
+Typography: raised gold lettering with subtle realistic bevels and shadow, excellent spacing, refined strong legible display typography paired with clean sans-serif secondary labels. Main title is the largest element in the upper half. It must be spelled EXACTLY as below, including the double a at the end of Sukaphaa. Render every line clearly and do not add or repeat words.
+
+Text hierarchy and exact content:
+Upper small line: "A HISTORY OF THE AHOM DYNASTY"
+Dominant main title over three balanced lines:
+"From Sukaphaa"
+"to Gomdhar"
+"Konwar"
+Small series date line immediately below: "1228–1828"
+Mid-cover elegant volume label: "VOLUME I"
+Volume subtitle, prominent but smaller than the main title:
+"Origins, Foundation"
+"and Expansion"
+Volume date line: "1228–1603"
+Bottom brand wordmark: "AXOMRANK"
+Small imprint beneath the wordmark: "An AxomRank History Publication"
+Final very small but readable line: "Rooted in Assam. Rising with You."
+
+Artwork: one integrated sculpted 3D bas-relief landscape occupying the lower-middle area, below the volume dates and above the imprint. An elegant flowing Brahmaputra-inspired river carved into aged bronze and gold, mist-softened Patkai-inspired mountain ridges, quiet dark green forest, and a few low earth-covered royal burial mounds inspired by Charaideo. Create tangible miniature sculptural layers with restrained directional light, carved metal edges and realistic material depth. Symbolic historical landscape, not an archaeological plan or a literal photograph. The landscape should flow organically into the maroon cover rather than sit inside a stock-image rectangle. Make the river a graceful compositional line suggesting a long historical journey. The typography must remain unobstructed.
+
+Avoid invented portraits, generic Indian palaces, Mughal domes, European crowns, fantasy warriors, modern national flags, made-up Tai script, invented artefacts, excessive ornament, fireworks, cheap metallic gradients, giant tourist collages, lorem ipsum, watermarks, ISBN numbers, edition claims, price, author names, or review quotes. Do not invent or redraw an official logo: the AXOMRANK wordmark is sufficient. Keep the two chronological ranges clearly separated, because 1228–1828 is the whole series and 1228–1603 is Volume I. Produce the cover artwork itself, not an angled product mockup. Opaque background.

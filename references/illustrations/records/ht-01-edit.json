@@ -1,0 +1,8 @@
+{
+  "id": "HT-01",
+  "generator": "native image_gen",
+  "prompt": "Edit Image 1, the generated Rang Ghar reconstruction. Image 2 is owner-supplied Rang Ghar artwork used ONLY to clarify building silhouette, not colouring or exact ornamental proof. Correct the roof and facade proportions to the recognisable compact two-storey pavilion: LOW broad smoothly CURVED inverted-boat/barrel-shaped roof, not a tall straight pitched hip roof with long ridge. A small central roof pavilion and restrained small reverse-facing end forms consistent with the silhouette reference. Round-topped rather than pointed-Mughal arch openings. Keep two storeys, earthy plaster/brick, green field, quiet ivory sky and same realistic editorial rendering. Do not add towers, flags, royal people or decorative fantasy. Avoid copying logo colours/design, no lettering or watermark. This is an unmeasured conceptual architectural reconstruction, not exact survey.",
+  "reference": "illustrations/collection-v1/variants/ht-01-rang-ghar-v1-rejected.png",
+  "additional_reference": "brand-kit/v1/logo/source/rang-ghar-original.jpg",
+  "selected_master": "illustrations/collection-v1/masters/history-teaching/ht-01-rang-ghar-v2.png"
+}

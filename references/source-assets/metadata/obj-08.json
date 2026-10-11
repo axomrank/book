@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "OBJ-08",
+    "path": "objects/obj-08-manuscript-sml.jpg",
+    "title": "Manuscript-sml.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manuscript-sml.JPG",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Manuscript-sml.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Satyakam Phukan",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "Specimen of an old Assamese Manuscript in Xasi bark",
+    "date_created": "2011-09-18 06:48:02",
+    "commons_upload_timestamp": "2012-12-17T12:05:44Z",
+    "checked_at": "2026-10-11",
+    "bytes": 179100,
+    "sha256": "3314734319fe03fa25caf467faca2d1785845a5abd665427130bfbb23683898d",
+    "width": 721,
+    "height": 540,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "authentic object/document reproduction; source identification needs editorial review",
+    "public_credit": "Manuscript-sml.JPG — Satyakam Phukan; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Manuscript-sml.JPG",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "23231137": {
+          "pageid": 23231137,
+          "ns": 6,
+          "title": "File:Manuscript-sml.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2012-12-17T12:05:44Z",
+              "size": 179100,
+              "width": 721,
+              "height": 540,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Manuscript-sml.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Manuscript-sml.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23231137",
+              "sha1": "0bff3b5e4ef863d0f95e1d919b323eadc41206bf",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-12-17 12:05:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Manuscript-sml",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Canon PowerShot A480|Self-published work|Assamese texts",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Specimen of an old Assamese Manuscript in Xasi bark",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-09-18 06:48:02",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Satyakam_Phukan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Satyakam Phukan (page does not exist)\">Satyakam Phukan</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

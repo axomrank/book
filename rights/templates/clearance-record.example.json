@@ -1,0 +1,16 @@
+{
+  "asset_path": null,
+  "source_sha256": null,
+  "creator": null,
+  "public_credit": null,
+  "rights_status": "pending",
+  "permission_record_id": null,
+  "permission_basis": null,
+  "approved_scope": [],
+  "public_evidence_reference": null,
+  "private_permission_evidence_reference": null,
+  "approval_date": null,
+  "permission_expires_at": null,
+  "review_owner": "Angsuman Das",
+  "notes": "Example only. Complete from actual reviewed evidence. A future permission record is not created by filling this example."
+}

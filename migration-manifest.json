@@ -1,0 +1,962 @@
+{
+  "date": "2026-10-11",
+  "source_repository": "https://github.com/axomrank/Social_Media_asset",
+  "source_commit": "1e9577133728fb43df5e7cb3c0277250269c5eda",
+  "operation": "non-destructive copy",
+  "files": [
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/Ahom_Dynasty_Book_Plan_1228_to_Gomdhar_Konwar.md",
+      "path": "book/Ahom_Dynasty_Book_Plan_1228_to_Gomdhar_Konwar.md",
+      "bytes": 71632,
+      "sha256": "fba41650564d2cfc1793c9fd9e04c3487dbe6144d75e90e1c87acd6f34011449"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/Ahom_Dynasty_Chapter_Overview.md",
+      "path": "book/Ahom_Dynasty_Chapter_Overview.md",
+      "bytes": 32409,
+      "sha256": "086e75dd21f7c95e3e552d49e653197b1b6107c639b9f4fa85794ac0a4e45585"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/Book_Title_Shortlist_AxomRank.md",
+      "path": "book/Book_Title_Shortlist_AxomRank.md",
+      "bytes": 3941,
+      "sha256": "a53f8d326c59dc99b55c818bf09bd7d707cb3f0f2f31aef798845da9d8d59e39"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/chapter_plan.json",
+      "path": "book/chapter_plan.json",
+      "bytes": 44497,
+      "sha256": "d5751a8356ac09719a36b8dac906fa4a5f1e40d1a1c3d34a94a78562c400f0bd"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/cover/cover_details.json",
+      "path": "book/cover/cover_details.json",
+      "bytes": 1081,
+      "sha256": "b056ce88afa26dbcf2acf869cf68adda6b7c64c3eb59674f9792cd10dce71ec5"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/cover/cover_generation_record.json",
+      "path": "book/cover/cover_generation_record.json",
+      "bytes": 993,
+      "sha256": "63a4c40d245d6e9f9f21894755ec85c5a1ba09e7bfb798c8d8e2c7cb2b3dd422"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/cover/cover_generation_record_v2.json",
+      "path": "book/cover/cover_generation_record_v2.json",
+      "bytes": 1345,
+      "sha256": "65b97888c463dd36734d1148fa8272e0cc33aa27cc70e43b686a702c4bf00e7f"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/cover/cover_generation_record_v3.json",
+      "path": "book/cover/cover_generation_record_v3.json",
+      "bytes": 1029,
+      "sha256": "d2a2e51de125970f4fa3541176418c1e9af73eb8843c402296043f8faf0b9c83"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/cover/native_image_prompt.txt",
+      "path": "book/cover/native_image_prompt.txt",
+      "bytes": 3375,
+      "sha256": "b57dabaf944b225b2386593da5a0058bbb973f631994420fc5978f55bb332789"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/cover/native_image_prompt_v2.txt",
+      "path": "book/cover/native_image_prompt_v2.txt",
+      "bytes": 4143,
+      "sha256": "b5bc1dccd80ac393018eba2ed67375b1f9462c50e92da7c9c9ac06d7719e2283"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/cover/native_image_prompt_v3.txt",
+      "path": "book/cover/native_image_prompt_v3.txt",
+      "bytes": 1858,
+      "sha256": "fbf859d5b4d2aba38d4da76b37c6beaf2b3f7a5b59a5e9df9c77e7d99e2d9ca0"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/README.md",
+      "path": "book/volume_01/README.md",
+      "bytes": 3889,
+      "sha256": "bd89ef60fd7e8dd1553bbc8548c722c35a4b57ff6da21a707bd8e82e086f0f61"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/Volume_I_Opening_Manuscript_Chapters_01_to_05.md",
+      "path": "book/volume_01/Volume_I_Opening_Manuscript_Chapters_01_to_05.md",
+      "bytes": 55390,
+      "sha256": "8258b21086c840a1d5abfd9e017bfa6da8cb5a645c152a5f6a5b7853f902688c"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/appendices/working_chronology_1228_1603.md",
+      "path": "book/volume_01/appendices/working_chronology_1228_1603.md",
+      "bytes": 4029,
+      "sha256": "254075172bc9bd697b75fa7e254a7b68660812a58f652024358228cb6b5fa2c5"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/manuscript/01_How_We_Know_Ahom_History.md",
+      "path": "book/volume_01/manuscript/01_How_We_Know_Ahom_History.md",
+      "bytes": 11151,
+      "sha256": "8c7cc86cdb3436dc11c2ccfaedb08540ab8b6b9cb97714114b5dca49e549bd21"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/manuscript/02_The_Valley_Before_1228.md",
+      "path": "book/volume_01/manuscript/02_The_Valley_Before_1228.md",
+      "bytes": 11334,
+      "sha256": "302739661f0c29e95976d6aa98bc1a158328302f363ac858598817ce51a9b14f"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/manuscript/03_Tai_Origins_and_Royal_Ancestry.md",
+      "path": "book/volume_01/manuscript/03_Tai_Origins_and_Royal_Ancestry.md",
+      "bytes": 10381,
+      "sha256": "961a776d9f8315619806a8911d6ec72daa4baebe46ba3984dacd263a564c80bc"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/manuscript/04_Across_the_Patkai.md",
+      "path": "book/volume_01/manuscript/04_Across_the_Patkai.md",
+      "bytes": 9958,
+      "sha256": "949911dcd13e3d8e34d54f15a23965c16e4e4d923a55dc32b5bde5dd2a449d54"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/manuscript/05_Sukaphaa_and_the_Founding_Kingdom.md",
+      "path": "book/volume_01/manuscript/05_Sukaphaa_and_the_Founding_Kingdom.md",
+      "bytes": 11885,
+      "sha256": "e54b9a75a56de0293b259adbcfd778c22cf14590f59f2c58bc91f4ec87c6cf73"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/progress.json",
+      "path": "book/volume_01/progress.json",
+      "bytes": 1585,
+      "sha256": "94e6d2bd0332f3c0b3126a236be38d9a82d0972ad576b372460fed580c4278ad"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/render_chapter_01.py",
+      "path": "book/volume_01/render_chapter_01.py",
+      "bytes": 5434,
+      "sha256": "faeff3db9581169638e82575030a1da57d38430df8eb6d79820790345cf4e92e"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/additional_download_inventory.json",
+      "path": "book/volume_01/research/additional_download_inventory.json",
+      "bytes": 533,
+      "sha256": "1f6d7205fb9bbbcdf34f0bf475ac2275143b27ebe6ba8c859f737d028880891d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/chapter_dossiers.md",
+      "path": "book/volume_01/research/chapter_dossiers.md",
+      "bytes": 20905,
+      "sha256": "93c3b1152618036f150dfc9417042dacf6cab6ca5fc31a89961a0bf32191602e"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/claim_register.json",
+      "path": "book/volume_01/research/claim_register.json",
+      "bytes": 28095,
+      "sha256": "d29ab42782e7264b70174ceb591321e35f0a39258200a1bde39f2f5b906b6ac8"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/claim_register.md",
+      "path": "book/volume_01/research/claim_register.md",
+      "bytes": 14900,
+      "sha256": "6a0b1f6ba8f8ea0f5974b06be6be8d88f8144244d01b3019a09d6f75043c485c"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/diplomatic_register_seed.md",
+      "path": "book/volume_01/research/diplomatic_register_seed.md",
+      "bytes": 2222,
+      "sha256": "6fdca83704b42067f63a04f3de336b118fcb3d0fd37cd19638b3b097593fa2de"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/download_inventory.json",
+      "path": "book/volume_01/research/download_inventory.json",
+      "bytes": 1223,
+      "sha256": "2a5e49e9b7d50df7b738b77b93a147c76f65423cb0b9537583872456c830a9ec"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/extracted/Barua_1930_Ahom_Buranji.txt",
+      "path": "book/volume_01/research/extracted/Barua_1930_Ahom_Buranji.txt",
+      "bytes": 394,
+      "sha256": "99b9a88d9dbc5c3a09409b529a4f55c0232d31b160c2dec0c5468449ff10178b"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/extracted/Gait_1906_A_History_of_Assam.txt",
+      "path": "book/volume_01/research/extracted/Gait_1906_A_History_of_Assam.txt",
+      "bytes": 975915,
+      "sha256": "5a6ec1249326e01476d233111026c659cd8ab729700cb86bd5a8b4c0b7332efd"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/extracted/Gait_background_pages.txt",
+      "path": "book/volume_01/research/extracted/Gait_background_pages.txt",
+      "bytes": 23736,
+      "sha256": "ad04d216f210d3866657605906b381e29236b079dea094fe7bab67cfd0fc02b1"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/extracted/Gait_calendars_pages.txt",
+      "path": "book/volume_01/research/extracted/Gait_calendars_pages.txt",
+      "bytes": 13068,
+      "sha256": "5ae7b09830cba0e08690bc52e4cd7f798ea92206872e358678d7b05bfe99b51e"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/extracted/Gait_chronology_pages.txt",
+      "path": "book/volume_01/research/extracted/Gait_chronology_pages.txt",
+      "bytes": 13073,
+      "sha256": "4161fbaa10cd1014c7824d4e5c231cfef8fde595e6f529fbad9fc2a78e130d95"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/extracted/Gait_intro_pages.txt",
+      "path": "book/volume_01/research/extracted/Gait_intro_pages.txt",
+      "bytes": 11015,
+      "sha256": "25163a4f9931782159e8252e8ad1ced9deed3f0b5efa06f5b362ea807b027b2a"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/extracted/Gait_later_early_pages.txt",
+      "path": "book/volume_01/research/extracted/Gait_later_early_pages.txt",
+      "bytes": 19113,
+      "sha256": "0876b85ef454c0e485086eebf3b846f1e0d39c50e49fc93aba8354ec579d4a6d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/extracted/Gait_origins_pages.txt",
+      "path": "book/volume_01/research/extracted/Gait_origins_pages.txt",
+      "bytes": 23822,
+      "sha256": "f7d7caf51c81aafd68e44c2c43dc1d8ac4a809f645a9afdd76c838cb59441e57"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/name_authority_seed.json",
+      "path": "book/volume_01/research/name_authority_seed.json",
+      "bytes": 2648,
+      "sha256": "83b74d2c9fb3040de42c3505897a46b2d8d04baa91eea61816b581fddb810d52"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_ancestry-030.png",
+      "path": "book/volume_01/research/page_checks/barua_ancestry-030.png",
+      "bytes": 195800,
+      "sha256": "2ad37c3a60f56160e84154afb7f3502b23435ec31ad1a85d9e7150369a6aebb5"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_ancestry-031.png",
+      "path": "book/volume_01/research/page_checks/barua_ancestry-031.png",
+      "bytes": 214493,
+      "sha256": "509b1ed96ad5c5998156f4baf445f4db8cd952d45c5cd4adf890b46fa53455f9"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_founder-040.png",
+      "path": "book/volume_01/research/page_checks/barua_founder-040.png",
+      "bytes": 202633,
+      "sha256": "c6dc063e3ee61dbd1501bd248c971c4ce5344f212567f0e5a3791bc0917d7c39"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_founder-041.png",
+      "path": "book/volume_01/research/page_checks/barua_founder-041.png",
+      "bytes": 182192,
+      "sha256": "5f27fc96112a88e609615a882d4e319dc94a724f86fb8ffd2666e69bfec3d7fe"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_founder-042.png",
+      "path": "book/volume_01/research/page_checks/barua_founder-042.png",
+      "bytes": 262501,
+      "sha256": "f048785a79c52a59e080474212363ad4a51f10dee68bb518492b5c1253169335"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_founder-043.png",
+      "path": "book/volume_01/research/page_checks/barua_founder-043.png",
+      "bytes": 185141,
+      "sha256": "5ac00d85052163860bfa720467b3087453c3b269513122acc66a82f2d5e1e096"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_founder-044.png",
+      "path": "book/volume_01/research/page_checks/barua_founder-044.png",
+      "bytes": 174811,
+      "sha256": "bf2dedbe68035e72c1e4681234fa0ca6e67b22a1116e3eadc1c1a7a79ffa85c2"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_intro-001.png",
+      "path": "book/volume_01/research/page_checks/barua_intro-001.png",
+      "bytes": 36992,
+      "sha256": "d33d853ef8baa0c7208e5eb0d090e11e27894f84baa560fbf5ff3fb32f0eb1e6"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_intro-002.png",
+      "path": "book/volume_01/research/page_checks/barua_intro-002.png",
+      "bytes": 20555,
+      "sha256": "72e20c7b4e5cff773b6d76aeec8dfcb3b27d43aa0af7893e4450f73445462408"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_intro-003.png",
+      "path": "book/volume_01/research/page_checks/barua_intro-003.png",
+      "bytes": 187567,
+      "sha256": "2834e9ac8414bdce74ad12c06a91d85f35b6c2e137346e0d39130b10a026db50"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_intro-004.png",
+      "path": "book/volume_01/research/page_checks/barua_intro-004.png",
+      "bytes": 112903,
+      "sha256": "326720e701f6331f03028c60b0b3983ac6f67aed1f02d9b7d574596d153a3ddd"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_intro-005.png",
+      "path": "book/volume_01/research/page_checks/barua_intro-005.png",
+      "bytes": 88110,
+      "sha256": "910ba79fe69b44c0a802f95765ec35eb7d53b5ca4780e284686bfc12c1da430d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_intro-006.png",
+      "path": "book/volume_01/research/page_checks/barua_intro-006.png",
+      "bytes": 16098,
+      "sha256": "15f8806fa547b74fa58f30c9fe24eb4b634cd35b2f6ed050bb875392df1c0b50"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_intro-007.png",
+      "path": "book/volume_01/research/page_checks/barua_intro-007.png",
+      "bytes": 121072,
+      "sha256": "5a54292c23ef678bdc885286fd790ec4f0bf42bb677b9cac355e57ce1d62006f"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_intro-008.png",
+      "path": "book/volume_01/research/page_checks/barua_intro-008.png",
+      "bytes": 156823,
+      "sha256": "e6c3bdc0be4deb3a6bcef32a18ec4f95e1662d5315f64361aea6a9ffc14d0b2b"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_migration-050.png",
+      "path": "book/volume_01/research/page_checks/barua_migration-050.png",
+      "bytes": 203830,
+      "sha256": "ea119ee868cd462c0d65afb8238bc2c35481585d053fa825a63b0a93866e129a"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_migration-051.png",
+      "path": "book/volume_01/research/page_checks/barua_migration-051.png",
+      "bytes": 224302,
+      "sha256": "76d61f319fe0868bea47b6a1ab7bf81f9bcbb6fb04f9bfe6791083c38ed69aa0"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_migration-052.png",
+      "path": "book/volume_01/research/page_checks/barua_migration-052.png",
+      "bytes": 237875,
+      "sha256": "435a87d8ea894952ed8852a4adaab26865376987ee24845bf894abf987184022"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_migration-053.png",
+      "path": "book/volume_01/research/page_checks/barua_migration-053.png",
+      "bytes": 192745,
+      "sha256": "5f39296e8a903c06c533a5c6f5fae45d838186a68b4adc0c2e5a0bb6bd7a1e4d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_migration-054.png",
+      "path": "book/volume_01/research/page_checks/barua_migration-054.png",
+      "bytes": 201741,
+      "sha256": "fb78c95fd3c032457176be7beacd770d256014322693ca264ca2067ae7340505"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_preface-003.png",
+      "path": "book/volume_01/research/page_checks/barua_preface-003.png",
+      "bytes": 249270,
+      "sha256": "b3c6bb4dc2dda23fdf40be5dd810cc50c763d23596f27ef72aa2f7c418f4e7d7"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_regnal-055.png",
+      "path": "book/volume_01/research/page_checks/barua_regnal-055.png",
+      "bytes": 206761,
+      "sha256": "1b856f545ce3493fc88e6774ce58971ed56420bf8447ce714f4b0fcfb4126797"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/barua_regnal-056.png",
+      "path": "book/volume_01/research/page_checks/barua_regnal-056.png",
+      "bytes": 230231,
+      "sha256": "504b65ab49c1120867bec96d3493405fd6f78a5dfe06bb6e136bcc820e455eb4"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/gait_migration-100.png",
+      "path": "book/volume_01/research/page_checks/gait_migration-100.png",
+      "bytes": 1518548,
+      "sha256": "785488d03dee0c16d3914d2283d4a69075371088320fcb8277648284b1580498"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/page_checks/gait_migration-101.png",
+      "path": "book/volume_01/research/page_checks/gait_migration-101.png",
+      "bytes": 1541756,
+      "sha256": "1792c7105356e5d65cee05c7be947cdb911ec85c6b3e79edbf2861776f8df493"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/research_log.md",
+      "path": "book/volume_01/research/research_log.md",
+      "bytes": 5340,
+      "sha256": "b4b0d7c151f475ee458be2dcd1270afb2fa39c91c3d4e125842d3d7a252dd46e"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/source_register.json",
+      "path": "book/volume_01/research/source_register.json",
+      "bytes": 8641,
+      "sha256": "a5701d8ea64f8b0dbab0cd2c5068a07df8cc4b77fb17f9b8418e0bd512c7d921"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/source_register.md",
+      "path": "book/volume_01/research/source_register.md",
+      "bytes": 8302,
+      "sha256": "5fab9e95128e11d4c008c3ce94b595363232a0904612c27fe69fa9dc9fbb8441"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/sources/Barua_1930_Ahom_Buranji.pdf",
+      "path": "book/volume_01/research/sources/Barua_1930_Ahom_Buranji.pdf",
+      "bytes": 51498306,
+      "sha256": "85ad78add10c22e7f5249c53cad12e4f1a5da6fd7d0726bd802fed63b4abc970"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/sources/Gait_1906_A_History_of_Assam.pdf",
+      "path": "book/volume_01/research/sources/Gait_1906_A_History_of_Assam.pdf",
+      "bytes": 35651137,
+      "sha256": "6f872c497bb8e32734355761fe0be2f902dcc528ecf2467b5bdc1b1e80af30bf"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/book/volume_01/research/validation_report.json",
+      "path": "book/volume_01/research/validation_report.json",
+      "bytes": 289,
+      "sha256": "903a2452e9bbe9830cbd45bd3c5bafee10ae9ec73c4c417d68dc74ce3ff81704"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/output/imagegen/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v2.png",
+      "path": "output/imagegen/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v2.png",
+      "bytes": 2541564,
+      "sha256": "9fda7c3a328c0462e7ef0f9147dcbee94981895e18883a5f81b17bb35daa7e24"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/output/pdf/Ahom_Volume_I_Chapter_01_7x10.pdf",
+      "path": "output/pdf/Ahom_Volume_I_Chapter_01_7x10.pdf",
+      "bytes": 63509,
+      "sha256": "13538effbce7504861bdf4682bfb73afc61c696c6255c56b7421304c88383e05"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/output/pdf/Ahom_Volume_I_Chapter_01_7x10_layout.json",
+      "path": "output/pdf/Ahom_Volume_I_Chapter_01_7x10_layout.json",
+      "bytes": 658,
+      "sha256": "0213c120d5ef23f9e84bb2f50df10776965943cb87840930f88737a20fe0b1ea"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/output/pdf/Ahom_Volume_I_Chapter_01_7x10_validation.json",
+      "path": "output/pdf/Ahom_Volume_I_Chapter_01_7x10_validation.json",
+      "bytes": 405,
+      "sha256": "67707ea1bb073e8aff078e9128838802cadab7fb7395b65ae47e798131b25c66"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_7x10.pdf",
+      "path": "output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_7x10.pdf",
+      "bytes": 4802572,
+      "sha256": "ae82fdb70c828e56ec19a508e6b60f205d70d3cbece5790007c18f38762a71bb"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v2_7x10.pdf",
+      "path": "output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v2_7x10.pdf",
+      "bytes": 3891596,
+      "sha256": "e63b4d42984fd7948beb39613e7af77dca12d4de354e41a6e08455b25bbaaf03"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v3_7x10.pdf",
+      "path": "output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v3_7x10.pdf",
+      "bytes": 3914416,
+      "sha256": "99616015c768120fa00d2cea83777df0d04308e1ed6e1278c37ca46ec081571c"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/chapter_01/page-1.png",
+      "path": "tmp/pdfs/chapter_01/page-1.png",
+      "bytes": 311483,
+      "sha256": "e9485aad68a39efa4d8eb8b9de2345a0ce5fb1b12fe21688c5bf29abf6b76f6d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/chapter_01/page-2.png",
+      "path": "tmp/pdfs/chapter_01/page-2.png",
+      "bytes": 398161,
+      "sha256": "95c879f787092242a21b5a30d4c2928287060c9bc8ab385b4b9ef8e7079d0540"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/chapter_01/page-3.png",
+      "path": "tmp/pdfs/chapter_01/page-3.png",
+      "bytes": 323746,
+      "sha256": "e4aca6188b49afce88dc44353032491e95866a577b9a30514c6ed06eae7ad6f2"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/chapter_01/page-4.png",
+      "path": "tmp/pdfs/chapter_01/page-4.png",
+      "bytes": 317370,
+      "sha256": "bbd3945a99810768dbaeeb0cd2b7c55c7f465095713f54ea975714520920a3ad"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/chapter_01/page-5.png",
+      "path": "tmp/pdfs/chapter_01/page-5.png",
+      "bytes": 248366,
+      "sha256": "151d2b864dbf55a105af32edb7b89c1e133cbfa6043c7de7080ae2d30ac97990"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/chapter_01/page-6.png",
+      "path": "tmp/pdfs/chapter_01/page-6.png",
+      "bytes": 171807,
+      "sha256": "320e7eab56a75befff505d0f4382759143fbeb229eae99a1867e6ee33ffa3361"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/cover/cover-1.png",
+      "path": "tmp/pdfs/cover/cover-1.png",
+      "bytes": 2844461,
+      "sha256": "7b797fff37e0f677ee610d84ea6adeae609e20262a6e23d4830b0bdff07e08e1"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/cover_v2/cover-1.png",
+      "path": "tmp/pdfs/cover_v2/cover-1.png",
+      "bytes": 2054900,
+      "sha256": "72cdc4118a3a2b8e688b1372b46b0abd7580a7602110380ddad8a6bc92de2414"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/tmp/pdfs/cover_v3/cover-1.png",
+      "path": "tmp/pdfs/cover_v3/cover-1.png",
+      "bytes": 1996537,
+      "sha256": "03f5b6028ca1f77e617df28f9b4a55910a1bf06350ec2d0217994074cd774e54"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-jungle-expedition.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-jungle-expedition.png",
+      "bytes": 2812310,
+      "sha256": "aa3640a7c9e45ce0cc297db746d3c4957d1e1e8130f4db8cd7688ff60b99ed21"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/borgohain-burhagohain-patra-mantri.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/borgohain-burhagohain-patra-mantri.png",
+      "bytes": 1734481,
+      "sha256": "b326a4f7f0d40058d3573a2885e234163db752c1602df9f33540ddd493483425"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sati-sadhani-warrior.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/sati-sadhani-warrior.png",
+      "bytes": 3243605,
+      "sha256": "4f017b298af63a7c1066712ef246890dfa30459b63da4c198b12b2e2a1ad08e2"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-face-closeup.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-face-closeup.png",
+      "bytes": 2325045,
+      "sha256": "7f24ee2b1bdb28eca75f55fec529d8ff8e3f549119697293bc2d3b5bf52dd616"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sati-sadhani-heroic-queen.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/sati-sadhani-heroic-queen.png",
+      "bytes": 2777536,
+      "sha256": "9ff4ffb15e8dd72419b5d2c24358cf865d37207598c6cdf3a9624f1a82d47fcb"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/parbatia-gohain-1.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/parbatia-gohain-1.png",
+      "bytes": 1903122,
+      "sha256": "6ab0943d55e9a3f01f85633b63072f4fdf943fb391212f106ed39740cd9caffb"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-on-throne-side.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-on-throne-side.png",
+      "bytes": 2024755,
+      "sha256": "af51d7f0a38a18a5eee5b9f9efbb638fda12dbfe0d420db62fa60953ab859443"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/parbatia-gohain-2.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/parbatia-gohain-2.png",
+      "bytes": 1613616,
+      "sha256": "7917727903a4eb5cf7bff3accb5e849b232bc88c5bd97079d2f6e0e415cdb6ae"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-royal-throne-standing.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-royal-throne-standing.png",
+      "bytes": 2276694,
+      "sha256": "d8fb898b9dbc9aeefb273f209e0b4e94b3c582db1a83d7d4b4b65154c85e6894"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/ahom-noble-warrior.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/ahom-noble-warrior.png",
+      "bytes": 3268873,
+      "sha256": "35903dd85b1e0eed68bd305ccc7d4b0f52eade32ea928fed32213d9b05c90a26"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-brahmaputra-riverbank.png",
+      "path": "social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-brahmaputra-riverbank.png",
+      "bytes": 3022281,
+      "sha256": "1ce8c332fded47b149f085400ea31fee5885542d36bb50d9d03c1b58de6a8afa"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/download_manifest.json",
+      "path": "social assent/download_manifest.json",
+      "bytes": 66115,
+      "sha256": "15f211343380c76f7a6a6ebc273a3177a752f40e3b6156411a47a334f32ab824"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/Insta_Angsumi/social assent/AHOM/lfs_availability_report.json",
+      "path": "social assent/AHOM/lfs_availability_report.json",
+      "bytes": 51281,
+      "sha256": "5494c857b64cd8a132e7cf60dfc21069ad84f779621371b607c93873662ddd33"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/projects/ahom-history/ahom buronji manuscript.webp",
+      "path": "references/legacy/ahom buronji manuscript.webp",
+      "bytes": 81052,
+      "sha256": "c3586d13859306a3d4592797324b74c2d1ff618c46eae076f4970fb317e1520b"
+    },
+    {
+      "source": "/home/angsuman/.codex/generated_images/01a1265a-9b26-7a12-adb9-1afc56d9e685/exec-c3c8fc35-ef80-4d11-920c-e3ca0ee3f5b2.png",
+      "path": "output/imagegen/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v3.png",
+      "bytes": 2455742,
+      "sha256": "2e14514a93d19f73e72e919d24a522ca29b5f06bacab5677d281065df933fa67"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/objects/obj-01-assam-coin-sketch-by-jean-baptise-tavernir.jpg",
+      "path": "references/source-assets/objects/obj-01-assam-coin-sketch-by-jean-baptise-tavernir.jpg",
+      "bytes": 80006,
+      "sha256": "c8f7c283f4aec402f6d46fcdd13990c5adb10a137260f454ec1e624e43dacb88"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/obj-01.json",
+      "path": "references/source-assets/metadata/obj-01.json",
+      "bytes": 6268,
+      "sha256": "af34fdf12cc89ee1c4016a90467200be2ee955a74fc1a38367e2e756b3f7ff85"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/objects/obj-02-assam-shiva-simha-squar-coin.jpg",
+      "path": "references/source-assets/objects/obj-02-assam-shiva-simha-squar-coin.jpg",
+      "bytes": 66636,
+      "sha256": "beccab39429d029957f5cc1b63d9df0e3a66e6d05d48322de543a8b846a42f73"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/obj-02.json",
+      "path": "references/source-assets/metadata/obj-02.json",
+      "bytes": 5519,
+      "sha256": "8d4c03a805189fa70806a19d8361cb8954a66698f7fb67dd0a1b531ea4c83642"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/objects/obj-03-coin-of-ahom-queen-ambika-devi.jpg",
+      "path": "references/source-assets/objects/obj-03-coin-of-ahom-queen-ambika-devi.jpg",
+      "bytes": 33837,
+      "sha256": "c191abac0c2d1e0baa093e783a99e6f4ef2ea4e54dc7ab8f882a402b97612933"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/obj-03.json",
+      "path": "references/source-assets/metadata/obj-03.json",
+      "bytes": 5458,
+      "sha256": "ad8b4b83e1287834c5a09b7755b30441fd5f6f6ba7611f7c27a0016cd1925de5"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/objects/obj-04-coin-of-assam-lakshmi-singha.jpg",
+      "path": "references/source-assets/objects/obj-04-coin-of-assam-lakshmi-singha.jpg",
+      "bytes": 187335,
+      "sha256": "34df2f3077418d758ad4ab07c865dbdea64beaf3b24df2a9b7ffaeafa91fd18f"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/obj-04.json",
+      "path": "references/source-assets/metadata/obj-04.json",
+      "bytes": 6322,
+      "sha256": "dde9158daec3552d49b5ebbbec4db8189de69801d94eea5cbc5261c1abaf6251"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/objects/obj-05-siva-1.jpg",
+      "path": "references/source-assets/objects/obj-05-siva-1.jpg",
+      "bytes": 16230,
+      "sha256": "a3bb8834e82b1c05700e3c70c42edb05e0f218bc89aa4ab351898932cd996a65"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/obj-05.json",
+      "path": "references/source-assets/metadata/obj-05.json",
+      "bytes": 5293,
+      "sha256": "f3ad896813f8cf5bb0ad65a66a194f9dd3c723038002a7f227ea6f402bfcb025"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/objects/obj-06-nidhanpur-copper-plate-inscriptions-of-kumar-bhaskar-varman.jpg",
+      "path": "references/source-assets/objects/obj-06-nidhanpur-copper-plate-inscriptions-of-kumar-bhaskar-varman.jpg",
+      "bytes": 4009698,
+      "sha256": "3556c26a0a6d291abe704c9ffa183820edeeafafeb6ca79feb8463f545088085"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/obj-06.json",
+      "path": "references/source-assets/metadata/obj-06.json",
+      "bytes": 6000,
+      "sha256": "2382c88cb7af31d5f7b12721849eaefcb7f78b1a8b0e205a25ac26c010bcf85d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/objects/obj-07-kanai-barasi-rock-cut-inscriptions-of-1205-ce-in-north-guwahati-08.jpg",
+      "path": "references/source-assets/objects/obj-07-kanai-barasi-rock-cut-inscriptions-of-1205-ce-in-north-guwahati-08.jpg",
+      "bytes": 3826688,
+      "sha256": "61cd03ff45714927fb735e5c360a0ee90983e50ce3542023aba985a38fe30d59"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/obj-07.json",
+      "path": "references/source-assets/metadata/obj-07.json",
+      "bytes": 5805,
+      "sha256": "504309f18c0401f5bc58505b6afd20b7d034bcc998e93f943f4c979248e72313"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/objects/obj-08-manuscript-sml.jpg",
+      "path": "references/source-assets/objects/obj-08-manuscript-sml.jpg",
+      "bytes": 179100,
+      "sha256": "3314734319fe03fa25caf467faca2d1785845a5abd665427130bfbb23683898d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/obj-08.json",
+      "path": "references/source-assets/metadata/obj-08.json",
+      "bytes": 5421,
+      "sha256": "b8ee422dc548b1199182cb14e89475242e72d89d7904028b5600ca4c38463b9f"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/photographs/pho-02-ahom-architectural-marvel.jpg",
+      "path": "references/source-assets/photographs/pho-02-ahom-architectural-marvel.jpg",
+      "bytes": 3894703,
+      "sha256": "83813c0d11365cc3697647bb7d279e89f554a6047e9e36275da0e8fe13e9cb2d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/pho-02.json",
+      "path": "references/source-assets/metadata/pho-02.json",
+      "bytes": 7081,
+      "sha256": "4e4084f357d67593a07fcf929dc7fa708e881ac67885fea8b9eb3e513f2aa469"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/photographs/pho-04-a-chamber-in-talatal-ghar-in-sivasagar-assam.jpg",
+      "path": "references/source-assets/photographs/pho-04-a-chamber-in-talatal-ghar-in-sivasagar-assam.jpg",
+      "bytes": 3272609,
+      "sha256": "5d611a27133c3b9ac27a69beb426575db3e3a11b04fbf175c476fb83df6f0ae3"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/pho-04.json",
+      "path": "references/source-assets/metadata/pho-04.json",
+      "bytes": 6252,
+      "sha256": "4acdf1e50983cba2eb1fb1a6d63a15625ae7d960359bfb26a6d18375e2edac4b"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/photographs/pho-05-a-partial-view-of-talatal-ghar-in-sivasagar-assam.jpg",
+      "path": "references/source-assets/photographs/pho-05-a-partial-view-of-talatal-ghar-in-sivasagar-assam.jpg",
+      "bytes": 2664755,
+      "sha256": "d8570f8333bbbdb6a03b358624fb3a27684f6798e298d154762fe1f03daf6c16"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/pho-05.json",
+      "path": "references/source-assets/metadata/pho-05.json",
+      "bytes": 6302,
+      "sha256": "4a88ba05d3d1d998d1293b91868cdddeff2ff1e6dfc16ab8c19dc24804d2e3eb"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/photographs/pho-06-a-side-view-of-talatal-ghar-in-sivasagar-assam.jpg",
+      "path": "references/source-assets/photographs/pho-06-a-side-view-of-talatal-ghar-in-sivasagar-assam.jpg",
+      "bytes": 3410978,
+      "sha256": "9ce8ccb808d80d6aeff8e3d85f4f6113784f7eeadfea614407816df26ac77d96"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/pho-06.json",
+      "path": "references/source-assets/metadata/pho-06.json",
+      "bytes": 6122,
+      "sha256": "338803a6d42b0f9754edeeee3fd0eb5301f71788e43181cc5ffbe63d7d78b96d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/photographs/pho-11-a-glimpse-of-na-duar-historic-gate-of-ahom-era.jpg",
+      "path": "references/source-assets/photographs/pho-11-a-glimpse-of-na-duar-historic-gate-of-ahom-era.jpg",
+      "bytes": 7443652,
+      "sha256": "770dcc653aabf185045a67e80792f99ed78d2b0f8283b3c7350d309672bd1b89"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/metadata/pho-11.json",
+      "path": "references/source-assets/metadata/pho-11.json",
+      "bytes": 5756,
+      "sha256": "c3fa624e051d1b31a2d0b57d80c571884436a70a01a11195744e88fa7d39d604"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/adm1-source-metadata.json",
+      "path": "references/source-assets/maps/adm1-source-metadata.json",
+      "bytes": 1805,
+      "sha256": "9086ff5f5115719030a66e351cb99a1f9135a6118e5e134bedc8abf6fc66f466"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/adm2-source-metadata.json",
+      "path": "references/source-assets/maps/adm2-source-metadata.json",
+      "bytes": 1834,
+      "sha256": "00d3cc816abf8a76bb1e6252201e5a96af78f8e9940dff860a4b58cf07388a52"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/assam-overview.geojson",
+      "path": "references/source-assets/maps/assam-overview.geojson",
+      "bytes": 3625778,
+      "sha256": "f92b62767ffb16b924eb34f55d79d917123355348d5c396aca6328cd248a0f9d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/assam-overview.png",
+      "path": "references/source-assets/maps/assam-overview.png",
+      "bytes": 132553,
+      "sha256": "21430e4eb843dc841c2b5d267a0c59da7711c23fb23cb5adc02e5dbfb7731d73"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/assam-overview.svg",
+      "path": "references/source-assets/maps/assam-overview.svg",
+      "bytes": 570548,
+      "sha256": "c8584e06a5414c971e533394796c843944300d5fda3ab95ce5fb4400551d466b"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/guwahati-district-context.geojson",
+      "path": "references/source-assets/maps/guwahati-district-context.geojson",
+      "bytes": 85734,
+      "sha256": "6718a117bd09da49a9ca0b2d36a8e69d28d49f6467b1ef2cccb6fe8c6fdfc847"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/guwahati-district-context.png",
+      "path": "references/source-assets/maps/guwahati-district-context.png",
+      "bytes": 136652,
+      "sha256": "9bf834eda04bb1be1074b534eb68b711a0b91d6b388b17838748a2e9b8ad194d"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/guwahati-district-context.svg",
+      "path": "references/source-assets/maps/guwahati-district-context.svg",
+      "bytes": 19304,
+      "sha256": "1e7affc14378e54ca0c115302fa9d19dc8d92cbd3553d2539ca54b3d0b154732"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/silchar-district-context.geojson",
+      "path": "references/source-assets/maps/silchar-district-context.geojson",
+      "bytes": 154286,
+      "sha256": "4ae6b0f9774e9d829b65192f70d47a10de9b352ef20200b882dadf14c6037ec4"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/silchar-district-context.png",
+      "path": "references/source-assets/maps/silchar-district-context.png",
+      "bytes": 118565,
+      "sha256": "ffac3e024b8a0026e6b9f95c6ab3a3b6cafeccf5e44d7623db4b6b701f449989"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/silchar-district-context.svg",
+      "path": "references/source-assets/maps/silchar-district-context.svg",
+      "bytes": 33691,
+      "sha256": "d411d5c97aacd9593d66621feb155ab1cd67c3d194bdd49bc870ccb932493865"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/sivasagar-district-context.geojson",
+      "path": "references/source-assets/maps/sivasagar-district-context.geojson",
+      "bytes": 65135,
+      "sha256": "2532317085f89c7f420f9c5b07f99e20c26f2872a4b1eb360a96901c6a7d0340"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/sivasagar-district-context.png",
+      "path": "references/source-assets/maps/sivasagar-district-context.png",
+      "bytes": 113464,
+      "sha256": "478196bc4adc014e3e8d5e4de5a6f315d9233c3524e1851a643892a823b95982"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/sivasagar-district-context.svg",
+      "path": "references/source-assets/maps/sivasagar-district-context.svg",
+      "bytes": 14308,
+      "sha256": "75add4d942e94996ca7e800915839c4cac70ac16684430717550078c132bf0e0"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/source-assets/pilot-v1/maps/source-register.json",
+      "path": "references/source-assets/maps/source-register.json",
+      "bytes": 3780,
+      "sha256": "bda8dcd45dcb6f1097daf79086d244c63a007a264e2756892f79258477aab996"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/masters/history-teaching/ht-01-rang-ghar-v2.png",
+      "path": "references/illustrations/masters/history-teaching/ht-01-rang-ghar-v2.png",
+      "bytes": 2398390,
+      "sha256": "7df46706d216036d5bd03574ede7c4aa31c02898903e887ff309a639f65999f8"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/masters/history-teaching/ht-02-moidam-section-v2.png",
+      "path": "references/illustrations/masters/history-teaching/ht-02-moidam-section-v2.png",
+      "bytes": 2931798,
+      "sha256": "be6f3b95de4adfc2b7b888e042526f70e986be22e410f78e5812d887bc7f94dc"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/masters/history-teaching/ht-03-talatal-corridor.png",
+      "path": "references/illustrations/masters/history-teaching/ht-03-talatal-corridor.png",
+      "bytes": 2883486,
+      "sha256": "42e727fbaa4e3499fa5fd2662041652083c053715760463fe283dd93c27bd627"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/masters/history-teaching/ht-04-tank-landscape.png",
+      "path": "references/illustrations/masters/history-teaching/ht-04-tank-landscape.png",
+      "bytes": 2465737,
+      "sha256": "a23850661bd3934abc9c4c90edb5cdb6e733407d3789a2b31b8bcc32c9c71d11"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/records/ht-04.json",
+      "path": "references/illustrations/records/ht-04.json",
+      "bytes": 2776,
+      "sha256": "30233cff6c6fc09b52070eef7e0f5637e1aeac94792489de916419d0a1edb954"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/records/ht-02-edit.json",
+      "path": "references/illustrations/records/ht-02-edit.json",
+      "bytes": 1082,
+      "sha256": "e993c8058751d9d03bf3ad25532d01123c3d8a11bcc7a95e931b4048937b2f1f"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/records/ht-01.json",
+      "path": "references/illustrations/records/ht-01.json",
+      "bytes": 3186,
+      "sha256": "c9247eda721d481161d12abc44866e77b85700688547ae447dbc1f09eb26e05e"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/records/ht-02.json",
+      "path": "references/illustrations/records/ht-02.json",
+      "bytes": 3056,
+      "sha256": "331dee21648736953de62769ad9592bd3d172a8a08d762fac2d3236a494df7c5"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/records/ht-01-edit.json",
+      "path": "references/illustrations/records/ht-01-edit.json",
+      "bytes": 1205,
+      "sha256": "2941c81dea28b47b18bef8eecfda61ce06fd66439ff06bfb40bfecf37f29959b"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/records/ht-03.json",
+      "path": "references/illustrations/records/ht-03.json",
+      "bytes": 2883,
+      "sha256": "609bbbba881517f506a126918f2aa9e697bc3730ecaa34389c9485f3ca7fa267"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/evidence/HISTORY_BRIEFS.md",
+      "path": "references/illustrations/evidence/HISTORY_BRIEFS.md",
+      "bytes": 2936,
+      "sha256": "0b348debc068e272b83843dfa53ffdc494bf2b50ceeaf5425895ad0f9321cd74"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/illustrations/collection-v1/README.md",
+      "path": "references/illustrations/README.md",
+      "bytes": 2751,
+      "sha256": "0ee4e8b92277a29e5d46bece6c7d1a1fe1663cf41966a3e42e4923bf27c53136"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/rights/templates/ADULT_PARTICIPANT_RELEASE.md",
+      "path": "rights/templates/ADULT_PARTICIPANT_RELEASE.md",
+      "bytes": 1947,
+      "sha256": "874f19d90ae539f4375ac8ec360774bbe020bab34f2d0242f8f2dbb77429d801"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/rights/templates/CONTRIBUTOR_CONSENT_AND_LICENCE.md",
+      "path": "rights/templates/CONTRIBUTOR_CONSENT_AND_LICENCE.md",
+      "bytes": 5269,
+      "sha256": "82be862d7c1f263d260f361e7318e29e98e0db65813d8d10fad7e34cbe31a616"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/rights/templates/RIGHTS_CONFIRMATION.md",
+      "path": "rights/templates/RIGHTS_CONFIRMATION.md",
+      "bytes": 1196,
+      "sha256": "a2dd9a370c1db059e66db1840deba8a3e3228861dd5625cbfafbca6ba5b8c3bf"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/rights/templates/clearance-record.example.json",
+      "path": "rights/templates/clearance-record.example.json",
+      "bytes": 521,
+      "sha256": "aa012493e2040740e6322002090c7971671f2ca1dc80479dddbd34de5349eb0f"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/rights/registers/asset-register.json",
+      "path": "rights/original-register-snapshot/asset-register.json",
+      "bytes": 1025234,
+      "sha256": "25c18db7fe883e61fff733a7d524ec53b37ca053705432bc194f3aa5667c8e4c"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/rights/registers/summary.json",
+      "path": "rights/original-register-snapshot/summary.json",
+      "bytes": 538,
+      "sha256": "74e82bc047038b4660561442d74adda56c7fd14c2c83e5094b9a1e4e6a82f1cc"
+    },
+    {
+      "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/Social_Media_asset/rights/registers/ASSET_REGISTER.md",
+      "path": "rights/original-register-snapshot/ASSET_REGISTER.md",
+      "bytes": 128319,
+      "sha256": "447ef42b1710bfa1e329bc86c34449a6704114ef74a34b817d6be3cd3fccd2e7"
+    },
+    {
+      "source": "/home/angsuman/.codex/generated_images/01a1265a-9b26-7a12-adb9-1afc56d9e685/exec-84167920-7353-4c8d-8d0e-03e42036f2b5.png",
+      "path": "output/imagegen/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v1.png",
+      "bytes": 3460618,
+      "sha256": "45375ea570ca8020151a5149742a67881eb644fb44ace3b65bde6b0d437fdc24"
+    }
+  ]
+}

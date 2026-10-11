@@ -1,0 +1,129 @@
+{
+  "record": {
+    "id": "OBJ-05",
+    "path": "objects/obj-05-siva-1.jpg",
+    "title": "Siva-1.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Siva-1.JPG",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Siva-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Dilbar and Dosai",
+    "source_statement": "Scan by  User:Satyakam Phukan  of the Hastividyarnava",
+    "licence": "Public domain",
+    "licence_url": "",
+    "usage_terms": "Public domain",
+    "attribution_required": "false",
+    "copyrighted": "False",
+    "description": "Page from an old Assamese manuscript  or a treatise on elephants",
+    "date_created": "18 th  century date QS:P,+1750-00-00T00:00:00Z/7",
+    "commons_upload_timestamp": "2013-02-17T13:38:03Z",
+    "checked_at": "2026-10-11",
+    "bytes": 16230,
+    "sha256": "a3bb8834e82b1c05700e3c70c42edb05e0f218bc89aa4ab351898932cd996a65",
+    "width": 269,
+    "height": 264,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "authentic object/document reproduction; source identification needs editorial review",
+    "public_credit": "Siva-1.JPG — Dilbar and Dosai; Public domain; https://commons.wikimedia.org/wiki/File:Siva-1.JPG",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "continue": {
+      "iistart": "2012-12-17T12:05:43Z",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "23231136": {
+          "pageid": 23231136,
+          "ns": 6,
+          "title": "File:Siva-1.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2013-02-17T13:38:03Z",
+              "size": 16230,
+              "width": 269,
+              "height": 264,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Siva-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Siva-1.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23231136",
+              "sha1": "ceeec1089ca1ccaccb04ee8d68454a39a62c4ee1",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-02-17 13:38:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Siva-1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "History of Assam|Taken with Canon PowerShot A480|PD India|Assamese texts",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Page from an old Assamese manuscript  or a treatise on elephants",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "18<sup>th</sup> century<div style=\"display: none;\">date QS:P,+1750-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Scan by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Satyakam_Phukan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Satyakam Phukan (page does not exist)\">User:Satyakam Phukan</a> of the Hastividyarnava",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Dilbar and Dosai",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

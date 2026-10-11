@@ -1,0 +1,8 @@
+{
+  "id": "HT-02",
+  "generator": "native image_gen",
+  "prompt": "Edit the generated moidam teaching cutaway. Correct ONLY the enclosing-wall layout and teaching-model clarity: remove the octagonal wall from the mound summit; instead place one LOW OCTAGONAL perimeter wall on flat ground SURROUNDING THE ENTIRE BASE of the mound, with its front portion cut away in the same vertical section as the earth so the hollow brick vault stays visible. Keep a small simple summit shrine, grassy earthen mound and a single hollow brick vault. Clean deliberately cut section plane, not excavated trench, no loose remains, coffins, grave goods, people or ritual. Keep ivory open sky, warm natural materials, square composition and realistic rendering. No pyramids, extra towers, text or archaeological dimension claims. Conceptual reconstruction not to scale.",
+  "reference": "illustrations/collection-v1/variants/ht-02-moidam-section-v1-rejected.png",
+  "additional_reference": null,
+  "selected_master": "illustrations/collection-v1/masters/history-teaching/ht-02-moidam-section-v2.png"
+}

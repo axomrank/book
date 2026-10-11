@@ -1,0 +1,21 @@
+{
+  "version": "v3",
+  "mode": "Native built-in image generation edit",
+  "generated_image_source": "/home/angsuman/.codex/generated_images/01a1265a-9b26-7a12-adb9-1afc56d9e685/exec-c3c8fc35-ef80-4d11-920c-e3ca0ee3f5b2.png",
+  "saved_png": "/home/angsuman/Desktop/Insta_Angsumi/output/imagegen/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v3.png",
+  "saved_pdf": "/home/angsuman/Desktop/Insta_Angsumi/output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v3_7x10.pdf",
+  "prompt": "/home/angsuman/Desktop/Insta_Angsumi/book/cover/native_image_prompt_v3.txt",
+  "edit_target": "/home/angsuman/Desktop/Insta_Angsumi/output/imagegen/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v2.png",
+  "revision": "Taller adult proportions, smaller head, longer legs; existing cover design preserved",
+  "png_dimensions": [
+    1051,
+    1497
+  ],
+  "png_sha256": "2e14514a93d19f73e72e919d24a522ca29b5f06bacab5677d281065df933fa67",
+  "pdf_page_inches": [
+    7,
+    10
+  ],
+  "date": "2026-10-10",
+  "previous_version_preserved": true
+}

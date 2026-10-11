@@ -1,0 +1,23 @@
+{
+  "id": "HT-02",
+  "master": "illustrations/collection-v1/masters/history-teaching/ht-02-moidam-section-v2.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nHistorical asset: use a carefully rendered tactile architectural teaching model, unoccupied, earthy muted brick/plaster, quiet ivory sky/background. No photographs claimed. Source brief exists; keep reconstruction limited to stated documented components and avoid invented towers, ornamental motifs, costumes and events. No contemporary household reference.\nSubject/scene: Evidence-bound conceptual cutaway miniature of ONE Tai-Ahom moidam: smooth grass-covered earthen mound over ONE hollow brick/earth burial vault, simple small shrine on summit and low octagonal enclosure. Cut face reveals vault structurally but NO human remains, grave goods, ritual, coffins or excavators. Respectful sacred-site teaching model, not Egyptian pyramid or actual excavation. No invented interior ornament, no precise dimensions. All labels added separately.",
+  "reference": null,
+  "sources": [
+    "https://whc.unesco.org/en/list/1711/",
+    "https://whc.unesco.org/document/206972"
+  ],
+  "evidence_brief": "illustrations/collection-v1/evidence/HISTORY_BRIEFS.md",
+  "classification": "AI-generated conceptual reconstruction — not to scale",
+  "review_status": "batch_authorised_technical_reviewed",
+  "heritage_review": "pending; no measured survey or costume reconstruction asserted",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "original_variant": "illustrations/collection-v1/variants/ht-02-moidam-section-v1-rejected.png",
+  "edit_record": "illustrations/collection-v1/records/ht-02-edit.json",
+  "visual_review": {
+    "alt_text": "A teaching cutaway shows a grassy burial mound over a hollow brick vault, summit shrine and low surrounding wall.",
+    "notes": "Revision places enclosure around mound base. Vault/shrine geometry and proportions simplified, not an excavation; no human remains."
+  }
+}

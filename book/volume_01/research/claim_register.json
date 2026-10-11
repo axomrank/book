@@ -1,0 +1,907 @@
+[
+  {
+    "id": "V1-C001",
+    "chapter": 1,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "intro iii–vii; PDF 17–21",
+    "topic": "source history",
+    "statement": "1890s research programme collected chronicles and material records",
+    "evidence_status": "edition report",
+    "independently_corroborated": false,
+    "next_check": "Expand with institutional archival history."
+  },
+  {
+    "id": "V1-C002",
+    "chapter": 1,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "intro iv–v; PDF 18–19",
+    "topic": "dependence",
+    "statement": "Gait relied on Barua and Deodhai scholars for Tai-Ahom translation",
+    "evidence_status": "author acknowledgement",
+    "independently_corroborated": false,
+    "next_check": "Do not count Gait and Barua as independent corroboration."
+  },
+  {
+    "id": "V1-C003",
+    "chapter": 1,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "preface; PDF 3",
+    "topic": "editing",
+    "statement": "Modern reign headings and paragraph divisions were editor additions",
+    "evidence_status": "editor acknowledgement",
+    "independently_corroborated": false,
+    "next_check": "Compare manuscript organisation when images are obtained."
+  },
+  {
+    "id": "V1-C004",
+    "chapter": 1,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "preface; PDF 3",
+    "topic": "preservation",
+    "statement": "Manuscript obtained from a Deodhai pandit in 1894 and written on prepared bark",
+    "evidence_status": "editor report",
+    "independently_corroborated": false,
+    "next_check": "Trace provenance and surviving manuscript identity."
+  },
+  {
+    "id": "V1-C005",
+    "chapter": 1,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "preface; PDF 3",
+    "topic": "silence",
+    "statement": "Editor acknowledged important persons and religious subjects absent or incomplete",
+    "evidence_status": "editor acknowledgement",
+    "independently_corroborated": false,
+    "next_check": "Acquire complementary genres."
+  },
+  {
+    "id": "V1-C006",
+    "chapter": 1,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "intro ii; PDF 16; pp. 67–74; PDF 93–100",
+    "topic": "interpretation",
+    "statement": "Colonial text uses racial and civilisational hierarchy",
+    "evidence_status": "direct textual observation",
+    "independently_corroborated": false,
+    "next_check": "Reject framework; distinguish documentary reports from explanation."
+  },
+  {
+    "id": "V1-C007",
+    "chapter": 1,
+    "source_ids": [
+      "U1711"
+    ],
+    "locator": "official property description",
+    "topic": "material evidence",
+    "statement": "Charaideo is described as the Tai-Ahom royal necropolis",
+    "evidence_status": "official modern description",
+    "independently_corroborated": false,
+    "next_check": "Individual burials require archaeological dating and attribution."
+  },
+  {
+    "id": "V1-C008",
+    "chapter": 2,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 36–41; PDF 62–67",
+    "topic": "political setting",
+    "statement": "Valley narrative includes Chutiya, Kachari and Bhuyan powers",
+    "evidence_status": "retrospective synthesis",
+    "independently_corroborated": false,
+    "next_check": "Do not make exact 1228 boundaries from this alone."
+  },
+  {
+    "id": "V1-C009",
+    "chapter": 2,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 37–38; PDF 63–64",
+    "topic": "Bhuyans",
+    "statement": "Lists and traditions of the twelve Bhuyans vary",
+    "evidence_status": "reported textual variation",
+    "independently_corroborated": false,
+    "next_check": "No permanent fixed twelve-member federation inferred."
+  },
+  {
+    "id": "V1-C010",
+    "chapter": 2,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 39–40; PDF 65–66",
+    "topic": "Chutiya origins",
+    "statement": "Early royal ancestry includes legendary elements",
+    "evidence_status": "tradition",
+    "independently_corroborated": false,
+    "next_check": "Compare independent Chutiya evidence and archaeology."
+  },
+  {
+    "id": "V1-C011",
+    "chapter": 2,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 41; PDF 67",
+    "topic": "geography",
+    "statement": "Kamarupa and Kamata usages require historical interpretation",
+    "evidence_status": "synthesis requiring review",
+    "independently_corroborated": false,
+    "next_check": "Use dated names and approximate zones."
+  },
+  {
+    "id": "V1-C012",
+    "chapter": 2,
+    "source_ids": [
+      "S2018"
+    ],
+    "locator": "section 3.2, p. 129; PDF 156",
+    "topic": "agriculture",
+    "statement": "Relative importance of cultivation types before Ahom rule is described as uncertain",
+    "evidence_status": "modern scholarly qualification",
+    "independently_corroborated": false,
+    "next_check": "Acquire underlying literature; no blanket first-introduction claim."
+  },
+  {
+    "id": "V1-C013",
+    "chapter": 3,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 67–74; PDF 93–100",
+    "topic": "Tai setting",
+    "statement": "Early narrative connects dynasty with eastern Tai/Shan polities",
+    "evidence_status": "source-based orientation",
+    "independently_corroborated": false,
+    "next_check": "Verify place identities and modern historiography."
+  },
+  {
+    "id": "V1-C014",
+    "chapter": 3,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "pp. 24–25 and 44; PDF 30–31 and 50",
+    "topic": "genealogy",
+    "statement": "Distinct passages describe Sukaphaa ancestry and departure",
+    "evidence_status": "parallel passages in one witness",
+    "independently_corroborated": false,
+    "next_check": "Do not silently reconcile family relationships."
+  },
+  {
+    "id": "V1-C015",
+    "chapter": 3,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 24; PDF 30",
+    "topic": "origin story",
+    "statement": "Khunlung and Khunlai descend from heaven",
+    "evidence_status": "divine-origin tradition",
+    "independently_corroborated": false,
+    "next_check": "Use for legitimacy and cosmology, not a verified political event."
+  },
+  {
+    "id": "V1-C016",
+    "chapter": 3,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 71–72; PDF 97–98",
+    "topic": "traditional date",
+    "statement": "568 is given as a traditional origin date",
+    "evidence_status": "tradition",
+    "independently_corroborated": false,
+    "next_check": "Exclude from independently dated regnal chronology."
+  },
+  {
+    "id": "V1-C017",
+    "chapter": 3,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 73; PDF 99",
+    "topic": "religious translation",
+    "statement": "Alternative Indra and Vasistha origin version is recorded",
+    "evidence_status": "variant tradition",
+    "independently_corroborated": false,
+    "next_check": "Do not equate every Tai deity with Hindu glosses."
+  },
+  {
+    "id": "V1-C018",
+    "chapter": 3,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "pp. 25 and 44; PDF 31 and 50",
+    "topic": "ritual objects",
+    "statement": "Somdeo/Sengdeo and Sheng/Shengden forms occur in migration-related passages",
+    "evidence_status": "translated textual report",
+    "independently_corroborated": false,
+    "next_check": "Check original language and identities before equating all objects."
+  },
+  {
+    "id": "V1-C019",
+    "chapter": 3,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 25; PDF 31",
+    "topic": "ritual lineages",
+    "statement": "Founding companions linked to Deodhai and Mohan ancestry",
+    "evidence_status": "genealogical tradition",
+    "independently_corroborated": false,
+    "next_check": "Compare family records; not a contemporary passenger list."
+  },
+  {
+    "id": "V1-C020",
+    "chapter": 4,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 74; PDF 100",
+    "topic": "departure",
+    "statement": "Departure dated 1215 and arrival at Khamjang 1228",
+    "evidence_status": "working chronicle chronology",
+    "independently_corroborated": false,
+    "next_check": "Check cyclical calendar and distinct manuscripts."
+  },
+  {
+    "id": "V1-C021",
+    "chapter": 4,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 74; PDF 100",
+    "topic": "numbers",
+    "statement": "Nine thousand followers, eight nobles, two elephants and three hundred horses reported",
+    "evidence_status": "traditional numerical report",
+    "independently_corroborated": false,
+    "next_check": "No independent census established."
+  },
+  {
+    "id": "V1-C022",
+    "chapter": 4,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 44; PDF 50",
+    "topic": "numbers",
+    "statement": "Three thousand cooking pots, each feeding three men, reported",
+    "evidence_status": "chronicle provisioning figure",
+    "independently_corroborated": false,
+    "next_check": "Do not derive a verified demographic composition."
+  },
+  {
+    "id": "V1-C023",
+    "chapter": 4,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 74; PDF 100",
+    "topic": "demography",
+    "statement": "Adult-male predominance is Gait's inference",
+    "evidence_status": "historian inference",
+    "independently_corroborated": false,
+    "next_check": "Do not present as a count in the primary narrative."
+  },
+  {
+    "id": "V1-C024",
+    "chapter": 4,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "pp. 44–45; PDF 50–51",
+    "topic": "route",
+    "statement": "Migration passes through named inhabited territories",
+    "evidence_status": "chronicle report",
+    "independently_corroborated": false,
+    "next_check": "Identify places individually; no surveyed route established."
+  },
+  {
+    "id": "V1-C025",
+    "chapter": 4,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 45; PDF 51",
+    "topic": "violence",
+    "statement": "Chronicle attributes severe atrocities to Sukaphaa's forces",
+    "evidence_status": "uncorroborated chronicle report",
+    "independently_corroborated": false,
+    "next_check": "Compare textual witnesses and frontier perspectives."
+  },
+  {
+    "id": "V1-C026",
+    "chapter": 4,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 25; PDF 31",
+    "topic": "negotiation",
+    "statement": "Tribute, continued local residence and joining the following reported",
+    "evidence_status": "chronicle general account",
+    "independently_corroborated": false,
+    "next_check": "Do not assign indiscriminately to every route stage."
+  },
+  {
+    "id": "V1-C027",
+    "chapter": 4,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "pp. 45–46; PDF 51–52",
+    "topic": "river travel",
+    "statement": "Rafts and travel on the Dihing described",
+    "evidence_status": "chronicle report",
+    "independently_corroborated": false,
+    "next_check": "No invented boat specification or fleet size."
+  },
+  {
+    "id": "V1-C028",
+    "chapter": 4,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 75; PDF 101",
+    "topic": "settlement",
+    "statement": "Abhaypur move dated 1236 and Habung move 1240",
+    "evidence_status": "working chronology",
+    "independently_corroborated": false,
+    "next_check": "Compare cyclical dates and durations."
+  },
+  {
+    "id": "V1-C029",
+    "chapter": 4,
+    "source_ids": [
+      "G1906",
+      "B1930"
+    ],
+    "locator": "G p. 75/PDF 101; B p. 46/PDF 52",
+    "topic": "duration conflict",
+    "statement": "Habung two years, 1240–1244 interval, and three harvests differ",
+    "evidence_status": "unresolved discrepancy",
+    "independently_corroborated": false,
+    "next_check": "Retain readings; check counting and translation."
+  },
+  {
+    "id": "V1-C030",
+    "chapter": 5,
+    "source_ids": [
+      "G1906",
+      "B1930"
+    ],
+    "locator": "G p. 75/PDF 101; B p. 47/PDF 53",
+    "topic": "Charaideo",
+    "statement": "Foundation conventionally dated 1253, translated text gives cyclical year",
+    "evidence_status": "working chronology",
+    "independently_corroborated": false,
+    "next_check": "Independent date conversion needed."
+  },
+  {
+    "id": "V1-C031",
+    "chapter": 5,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 47; PDF 53",
+    "topic": "ritual",
+    "statement": "Charaideo foundation includes two horse sacrifices and spirit offerings",
+    "evidence_status": "chronicle report",
+    "independently_corroborated": false,
+    "next_check": "Not archaeological proof of an individual ceremony."
+  },
+  {
+    "id": "V1-C032",
+    "chapter": 5,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 75–76; PDF 101–102",
+    "topic": "incorporation",
+    "statement": "Conflict, conciliation and intermarriage with Moran and Borahi reported",
+    "evidence_status": "retrospective court-based synthesis",
+    "independently_corroborated": false,
+    "next_check": "Seek local perspectives and distinct arrangements."
+  },
+  {
+    "id": "V1-C033",
+    "chapter": 5,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "pp. 34–38; PDF 40–44",
+    "topic": "service families",
+    "statement": "Genealogical passages record service roles across reigns",
+    "evidence_status": "textual observation",
+    "independently_corroborated": false,
+    "next_check": "Do not assign all roles to Sukaphaa."
+  },
+  {
+    "id": "V1-C034",
+    "chapter": 5,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 76; PDF 102",
+    "topic": "offices",
+    "statement": "Two senior Gohain offices associated with foundation",
+    "evidence_status": "chronicle-derived report",
+    "independently_corroborated": false,
+    "next_check": "Early functions need comparison; exclude later offices without evidence."
+  },
+  {
+    "id": "V1-C035",
+    "chapter": 5,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "pp. 45–46; PDF 51–52",
+    "topic": "local authority",
+    "statement": "Representatives left at places during movement",
+    "evidence_status": "chronicle report",
+    "independently_corroborated": false,
+    "next_check": "Appointment does not prove permanent uniform administration."
+  },
+  {
+    "id": "V1-C036",
+    "chapter": 5,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 25; PDF 31",
+    "topic": "country name",
+    "statement": "Mungdunshukham glossed through golden gardens",
+    "evidence_status": "edition translation",
+    "independently_corroborated": false,
+    "next_check": "Linguistic etymology unverified."
+  },
+  {
+    "id": "V1-C037",
+    "chapter": 5,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 76; PDF 102",
+    "topic": "diplomacy",
+    "statement": "Gifts sent to eastern rulers represented as brothers",
+    "evidence_status": "chronicle-derived report",
+    "independently_corroborated": false,
+    "next_check": "Extract recipient/date details from additional witnesses."
+  },
+  {
+    "id": "V1-C038",
+    "chapter": 5,
+    "source_ids": [
+      "G1906",
+      "B1930"
+    ],
+    "locator": "G p. 76/PDF 102; B p. 47/PDF 53",
+    "topic": "death",
+    "statement": "Sukaphaa death and Suteuphaa succession dated 1268",
+    "evidence_status": "shared-lineage working chronology",
+    "independently_corroborated": false,
+    "next_check": "Do not call agreement independent proof."
+  },
+  {
+    "id": "V1-C039",
+    "chapter": 5,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 47; PDF 53",
+    "topic": "duration",
+    "statement": "Forty-one full years stated versus 1228–1268 arithmetic",
+    "evidence_status": "counting question",
+    "independently_corroborated": false,
+    "next_check": "Inclusive counting possible, not yet established."
+  },
+  {
+    "id": "V1-C040",
+    "chapter": 5,
+    "source_ids": [
+      "B1930",
+      "G1906"
+    ],
+    "locator": "B p. 38/PDF 44; G pp. 84–94/PDF 110–120",
+    "topic": "conquest attribution",
+    "statement": "Barua genealogical passage broadly attributes conquests to founder that Gait places later",
+    "evidence_status": "unresolved textual scope",
+    "independently_corroborated": false,
+    "next_check": "Do not add all sixteenth-century conquests to founder biography."
+  },
+  {
+    "id": "V1-C041",
+    "chapter": 6,
+    "source_ids": [
+      "G1906",
+      "B1930"
+    ],
+    "locator": "G pp. 76–78/PDF 102–104; B pp. 47–48/PDF 53–54",
+    "topic": "successors",
+    "statement": "Sequence Suteuphaa, Subinphaa, Sukhaangphaa",
+    "evidence_status": "shared-lineage baseline",
+    "independently_corroborated": false,
+    "next_check": "Separate reign dossiers and name variants."
+  },
+  {
+    "id": "V1-C042",
+    "chapter": 6,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 76; PDF 102",
+    "topic": "Nara relations",
+    "statement": "Marriage negotiations and a failed expedition under Suteuphaa reported",
+    "evidence_status": "chronicle-derived report",
+    "independently_corroborated": false,
+    "next_check": "External witness and motive checks pending."
+  },
+  {
+    "id": "V1-C043",
+    "chapter": 6,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 77; PDF 103",
+    "topic": "population",
+    "statement": "Growth through immigration suggested as probable",
+    "evidence_status": "historian inference",
+    "independently_corroborated": false,
+    "next_check": "Do not present a population trend as measured data."
+  },
+  {
+    "id": "V1-C044",
+    "chapter": 6,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "pp. 47–48; PDF 53–54",
+    "topic": "Kamata marriage",
+    "statement": "Peace overture says daughter; ensuing bride called sister Rajani",
+    "evidence_status": "internal relationship conflict",
+    "independently_corroborated": false,
+    "next_check": "Resolve against original language and other witnesses."
+  },
+  {
+    "id": "V1-C045",
+    "chapter": 7,
+    "source_ids": [
+      "G1906",
+      "B1930"
+    ],
+    "locator": "G p. 78/PDF 104; B pp. 48–49/PDF 54–55",
+    "topic": "accession conflict",
+    "statement": "Gait gives Sutupha 1364; Barua records five-year vacancy after predecessor death in 1364",
+    "evidence_status": "unresolved chronology",
+    "independently_corroborated": false,
+    "next_check": "Keep 1369 as one derived reading, not settled correction."
+  },
+  {
+    "id": "V1-C046",
+    "chapter": 7,
+    "source_ids": [
+      "B1930"
+    ],
+    "locator": "p. 49; PDF 55",
+    "topic": "reign duration conflict",
+    "statement": "Sutupha death 1376 with thirteen full years clashes with five-year vacancy",
+    "evidence_status": "internal contradiction",
+    "independently_corroborated": false,
+    "next_check": "Compare manuscript and calendar; do not repair silently."
+  },
+  {
+    "id": "V1-C047",
+    "chapter": 7,
+    "source_ids": [
+      "B1930",
+      "G1906"
+    ],
+    "locator": "B p. 49/PDF 55; G p. 79/PDF 105",
+    "topic": "Tyao Khamti conflict",
+    "statement": "Barua prints death 1380 and reign nine years; Gait uses 1380–1389",
+    "evidence_status": "unresolved printed date problem",
+    "independently_corroborated": false,
+    "next_check": "Potential misprint requires evidence, not assumption."
+  },
+  {
+    "id": "V1-C048",
+    "chapter": 7,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 79–80; PDF 105–106",
+    "topic": "interregna",
+    "statement": "Ministerial rule during periods without installed king reported",
+    "evidence_status": "chronicle-derived report",
+    "independently_corroborated": false,
+    "next_check": "Vacancy does not establish disappearance of the state."
+  },
+  {
+    "id": "V1-C049",
+    "chapter": 8,
+    "source_ids": [
+      "G1906",
+      "B1930"
+    ],
+    "locator": "G pp. 79–81/PDF 105–107; B pp. 49–50/PDF 55–56",
+    "topic": "Bamuni Konwar",
+    "statement": "Sudangphaa raised in a Brahman household and installed in 1397",
+    "evidence_status": "shared-lineage tradition",
+    "independently_corroborated": false,
+    "next_check": "Distinguish narrative details and degree of corroboration."
+  },
+  {
+    "id": "V1-C050",
+    "chapter": 8,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 80–81; PDF 106–107",
+    "topic": "ritual change",
+    "statement": "Brahman household and advisers associated with court influence",
+    "evidence_status": "chronicle-derived report",
+    "independently_corroborated": false,
+    "next_check": "No automatic sudden total religious conversion inferred."
+  },
+  {
+    "id": "V1-C051",
+    "chapter": 8,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 81; PDF 107",
+    "topic": "frontier agreement",
+    "statement": "1401 agreement associated with Nongnyang and oath ceremony",
+    "evidence_status": "working event report",
+    "independently_corroborated": false,
+    "next_check": "Not a surveyed modern international boundary."
+  },
+  {
+    "id": "V1-C052",
+    "chapter": 9,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 82–83; PDF 108–109",
+    "topic": "sparse reigns",
+    "statement": "Some fifteenth-century reigns have little recorded detail",
+    "evidence_status": "documentary limit",
+    "independently_corroborated": false,
+    "next_check": "Lack of notices does not prove peace or prosperity."
+  },
+  {
+    "id": "V1-C053",
+    "chapter": 9,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 82; PDF 108",
+    "topic": "battle variants",
+    "statement": "Susenphaa Tangsu encounter has conflicting accounts",
+    "evidence_status": "reported source conflict",
+    "independently_corroborated": false,
+    "next_check": "Keep separate battle versions."
+  },
+  {
+    "id": "V1-C054",
+    "chapter": 10,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 83–87; PDF 109–113",
+    "topic": "Suhungmung",
+    "statement": "1497 accession, expanded campaigns and offices reported",
+    "evidence_status": "working reign dossier",
+    "independently_corroborated": false,
+    "next_check": "Verify titles and date each institutional change."
+  },
+  {
+    "id": "V1-C055",
+    "chapter": 10,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 86–87; PDF 112–113",
+    "topic": "Borpatrogohain",
+    "statement": "Creation of third Gohain office linked to Senglung narrative",
+    "evidence_status": "chronicle-derived report",
+    "independently_corroborated": false,
+    "next_check": "Compare Kansheng traditions before harmonising names."
+  },
+  {
+    "id": "V1-C056",
+    "chapter": 11,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 84–86; PDF 110–112",
+    "topic": "Chutiya war",
+    "statement": "1516/1518 and ruler-name alternatives noted before 1523 conquest",
+    "evidence_status": "unresolved campaign details",
+    "independently_corroborated": false,
+    "next_check": "Require Chutiya traditions and separate chronology."
+  },
+  {
+    "id": "V1-C057",
+    "chapter": 11,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 85; PDF 111",
+    "topic": "queen narrative",
+    "statement": "Defeated royal couple episode differs from popular named Sati Sadhani accounts",
+    "evidence_status": "research gap",
+    "independently_corroborated": false,
+    "next_check": "Do not claim the popular biography is verified here."
+  },
+  {
+    "id": "V1-C058",
+    "chapter": 12,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 87–94; PDF 113–120",
+    "topic": "Kachari campaigns",
+    "statement": "Several campaigns and puppet-ruler arrangements described",
+    "evidence_status": "chronicle-derived report",
+    "independently_corroborated": false,
+    "next_check": "Compare Kachari/Dimasa evidence and distinguish claimed/held land."
+  },
+  {
+    "id": "V1-C059",
+    "chapter": 13,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 88–93; PDF 114–119",
+    "topic": "Bengal chronology",
+    "statement": "Husain Shah's Kamata campaign and later Ahom invasions must be distinguished",
+    "evidence_status": "chronology warning",
+    "independently_corroborated": false,
+    "next_check": "Do not merge dates, targets and commanders."
+  },
+  {
+    "id": "V1-C060",
+    "chapter": 13,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 90–91; PDF 116–117",
+    "topic": "Turbak",
+    "statement": "1532–1533 campaign includes variant death/casualty accounts",
+    "evidence_status": "chronicle-derived campaign baseline",
+    "independently_corroborated": false,
+    "next_check": "External commander identity and battle details unresolved."
+  },
+  {
+    "id": "V1-C061",
+    "chapter": 13,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 92; PDF 118",
+    "topic": "Moria origin story",
+    "statement": "Captive-origin account contains derogatory claims about skill",
+    "evidence_status": "court-derived tradition",
+    "independently_corroborated": false,
+    "next_check": "Do not reproduce as factual community incapacity."
+  },
+  {
+    "id": "V1-C062",
+    "chapter": 14,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 95–97; PDF 121–123",
+    "topic": "Garhgaon",
+    "statement": "Suklenmung accession and capital development reported",
+    "evidence_status": "working chronology",
+    "independently_corroborated": false,
+    "next_check": "Require archaeology and distinguish later buildings."
+  },
+  {
+    "id": "V1-C063",
+    "chapter": 14,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 97; PDF 123",
+    "topic": "coin",
+    "statement": "Early octagonal Tai-script coin attributed to Suklenmung",
+    "evidence_status": "numismatic claim needing object check",
+    "independently_corroborated": false,
+    "next_check": "Locate museum/corpus accession; do not invent object ID."
+  },
+  {
+    "id": "V1-C064",
+    "chapter": 15,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 97–101; PDF 123–127",
+    "topic": "Koch challenge",
+    "statement": "Long Sukhaamphaa reign includes defeat, terms, hostages and recovery",
+    "evidence_status": "working reign dossier",
+    "independently_corroborated": false,
+    "next_check": "Compare Koch genealogy and diplomatic accounts."
+  },
+  {
+    "id": "V1-C065",
+    "chapter": 15,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 98–99; PDF 124–125",
+    "topic": "1563",
+    "statement": "Chilarai occupies capital and settlement follows",
+    "evidence_status": "chronicle-derived report",
+    "independently_corroborated": false,
+    "next_check": "Exact terms and quantities require cross-checking."
+  },
+  {
+    "id": "V1-C066",
+    "chapter": 15,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "p. 99; PDF 125",
+    "topic": "hostages",
+    "statement": "Dice-based return story competes with political explanation",
+    "evidence_status": "reported alternative interpretations",
+    "independently_corroborated": false,
+    "next_check": "Do not write legend as verified diplomatic mechanism."
+  },
+  {
+    "id": "V1-C067",
+    "chapter": 15,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 100–101; PDF 126–127",
+    "topic": "environment",
+    "statement": "Flood, locust, smallpox and earthquake notices occur in long reign",
+    "evidence_status": "chronicle-derived notices",
+    "independently_corroborated": false,
+    "next_check": "No modern mortality or crop-loss totals inferred."
+  },
+  {
+    "id": "V1-C068",
+    "chapter": 16,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 76–101; PDF 102–127",
+    "topic": "regional order",
+    "statement": "Marriage, gifts, tribute, refuge and hostages recur in regional relations",
+    "evidence_status": "analytical synthesis from reports",
+    "independently_corroborated": false,
+    "next_check": "Extract each mission into a dated register; categories differ."
+  },
+  {
+    "id": "V1-C069",
+    "chapter": 15,
+    "source_ids": [
+      "G1906"
+    ],
+    "locator": "pp. 101–102; PDF 127–128",
+    "topic": "endpoint",
+    "statement": "Sukhaamphaa death assigned 1603; older histories used 1611",
+    "evidence_status": "explicit historiographical conflict",
+    "independently_corroborated": false,
+    "next_check": "Explain witness preference; volume boundary 1603 remains working."
+  }
+]

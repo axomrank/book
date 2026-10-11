@@ -1,0 +1,20 @@
+[
+  {
+    "id": "B1930OCR",
+    "url": "https://ocrdigitalfile.nvli.in/cslrepository/4028/RB860-ocr.pdf",
+    "status": "failed",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "A1957",
+    "url": "https://eprints.soas.ac.uk/29178/1/10731273.pdf",
+    "status": "failed",
+    "error": "<urlopen error [Errno -5] No address associated with hostname>"
+  },
+  {
+    "id": "R2023",
+    "url": "https://rgu.ac.in/wp-content/uploads/2023/05/BAHIS101.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

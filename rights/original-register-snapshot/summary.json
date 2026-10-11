@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-11",
+  "assets_registered": 911,
+  "rights_status_counts": {
+    "pending": 691,
+    "licence_documented": 122,
+    "generation_terms_review": 88,
+    "owner_requested_brand_copy": 5,
+    "owner_requested_template": 5
+  },
+  "eligible_for_declared_use": 125,
+  "open_permissions": 779,
+  "notes": "No signed contributor forms or missing creator permissions were fabricated. ZIP packages are excluded as containers; each constituent file is inventoried. Registers exclude themselves to avoid a recursive inventory."
+}

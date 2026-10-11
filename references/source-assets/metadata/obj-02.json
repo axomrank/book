@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "OBJ-02",
+    "path": "objects/obj-02-assam-shiva-simha-squar-coin.jpg",
+    "title": "Assam Shiva Simha Squar coin.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Assam_Shiva_Simha_Squar_coin.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Assam_Shiva_Simha_Squar_coin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Muddy Rhino",
+    "source_statement": "Own work  KM#75, RB#I4.2",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "Assam Shiva Simha Square coin",
+    "date_created": "2019-05-31",
+    "commons_upload_timestamp": "2019-05-30T20:41:25Z",
+    "checked_at": "2026-10-11",
+    "bytes": 66636,
+    "sha256": "beccab39429d029957f5cc1b63d9df0e3a66e6d05d48322de543a8b846a42f73",
+    "width": 662,
+    "height": 315,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "authentic object/document reproduction; source identification needs editorial review",
+    "public_credit": "Assam Shiva Simha Squar coin.jpg — Muddy Rhino; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Assam_Shiva_Simha_Squar_coin.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "79346426": {
+          "pageid": 79346426,
+          "ns": 6,
+          "title": "File:Assam Shiva Simha Squar coin.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2019-05-30T20:41:25Z",
+              "size": 66636,
+              "width": 662,
+              "height": 315,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Assam_Shiva_Simha_Squar_coin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Assam_Shiva_Simha_Squar_coin.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79346426",
+              "sha1": "c15907c9ee8b91b9f4094c5bbf634f290ea551ff",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-05-30 20:41:25",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Assam Shiva Simha Squar coin",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GODL-India|Self-published work|Unreviewed photos of GODL-India|Coins of Assam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Assam Shiva Simha Square coin",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-05-31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> KM#75, RB#I4.2",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Muddy_Rhino&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Muddy Rhino (page does not exist)\">Muddy Rhino</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

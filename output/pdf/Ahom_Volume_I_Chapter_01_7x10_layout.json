@@ -1,0 +1,38 @@
+{
+  "output": "/home/angsuman/Desktop/Insta_Angsumi/output/pdf/Ahom_Volume_I_Chapter_01_7x10.pdf",
+  "source": "/home/angsuman/Desktop/Insta_Angsumi/book/volume_01/manuscript/01_How_We_Know_Ahom_History.md",
+  "pages": 6,
+  "width_inches": 7,
+  "height_inches": 10,
+  "aspect_ratio": "7:10",
+  "body_font": "Noto Serif 11 pt",
+  "body_leading_pt": 15.5,
+  "notes": 6,
+  "development_notes_included": false,
+  "page_boxes": [
+    [
+      504.0,
+      720.0
+    ],
+    [
+      504.0,
+      720.0
+    ],
+    [
+      504.0,
+      720.0
+    ],
+    [
+      504.0,
+      720.0
+    ],
+    [
+      504.0,
+      720.0
+    ],
+    [
+      504.0,
+      720.0
+    ]
+  ]
+}

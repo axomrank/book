@@ -1,0 +1,17 @@
+[
+  {"id":"P001","preferred":"Sukaphaa","variants":["Sukapha","Shukapha","Shukāpha"],"status":"Working orthography; Gait and Barua forms retained","role":"Founding ruler"},
+  {"id":"P002","preferred":"Suteuphaa","variants":["Suteupha","Shuteupha"],"status":"Working orthography","role":"Early successor"},
+  {"id":"P003","preferred":"Subinphaa","variants":["Subinpha","Shubinpha"],"status":"Working orthography","role":"Early successor"},
+  {"id":"P004","preferred":"Sukhaangphaa","variants":["Sukhangpha","Shukhangpha"],"status":"Working orthography; distinguish from Sukhaamphaa","role":"Ruler, working dates 1293–1332"},
+  {"id":"P005","preferred":"Sukhrangphaa","variants":["Sukhrangpha","Shukhrampha"],"status":"Working equivalence; original-language review pending","role":"Ruler, working dates 1332–1364"},
+  {"id":"P006","preferred":"Sutuphaa","variants":["Sutupha","Shutupha"],"status":"Accession date disputed","role":"Fourteenth-century ruler"},
+  {"id":"P007","preferred":"Tyao Khamti","variants":["Tyaokhamti","Tyaokhamthi","Tao-Khamthi"],"status":"Orthography and printed date conflict need review","role":"Fourteenth-century ruler"},
+  {"id":"P008","preferred":"Sudangphaa","variants":["Sudangpha","Shudangpha","Bamuni Konwar"],"status":"Working spelling; epithet explained as a tradition","role":"Ruler, working dates 1397–1407"},
+  {"id":"P009","preferred":"Suhungmung","variants":["Suhung","Dihingia Raja"],"status":"Titles to be dated separately; not every title assumed identical in use","role":"Ruler, working dates 1497–1539"},
+  {"id":"P010","preferred":"Suklenmung","variants":["Suklen","Garhgaya Raja"],"status":"Working spelling and title; coin attribution pending","role":"Ruler, working dates 1539–1552"},
+  {"id":"P011","preferred":"Sukhaamphaa","variants":["Sukhampha","Sukham","Khora Raja"],"status":"Working spelling; distinguish from Sukhaangphaa; death date requires cross-check","role":"Ruler, working dates 1552–1603"},
+  {"id":"PL001","preferred":"Charaideo","variants":["Charaideu","Charāideu"],"status":"Historical site; individual monument phases not all founder-era","role":"Royal centre and funerary landscape"},
+  {"id":"PL002","preferred":"Maulung","variants":[],"status":"Reported homeland name; definitive modern identification not adopted","role":"Origin geography"},
+  {"id":"PL003","preferred":"Habung","variants":[],"status":"Region in settlement narrative; exact medieval extent unresolved","role":"Early settlement phase"},
+  {"id":"PL004","preferred":"Garhgaon","variants":["Gargaon"],"status":"Capital phases must be dated individually","role":"Sixteenth-century royal centre"}
+]

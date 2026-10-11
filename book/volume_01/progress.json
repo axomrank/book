@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-10",
+  "volume": 1,
+  "scope": "Chapters 1\u201316; origins to working endpoint 1603",
+  "drafted_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "research_dossiers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "claim_records": 69,
+  "source_register_entries": 12,
+  "full_source_pdfs_downloaded": 2,
+  "diplomatic_seed_records": 11,
+  "word_counts": [
+    {
+      "chapter": 1,
+      "file": "/home/angsuman/Desktop/Insta_Angsumi/book/volume_01/manuscript/01_How_We_Know_Ahom_History.md",
+      "main_prose_words": 1364,
+      "all_file_words": 1624
+    },
+    {
+      "chapter": 2,
+      "file": "/home/angsuman/Desktop/Insta_Angsumi/book/volume_01/manuscript/02_The_Valley_Before_1228.md",
+      "main_prose_words": 1388,
+      "all_file_words": 1646
+    },
+    {
+      "chapter": 3,
+      "file": "/home/angsuman/Desktop/Insta_Angsumi/book/volume_01/manuscript/03_Tai_Origins_and_Royal_Ancestry.md",
+      "main_prose_words": 1332,
+      "all_file_words": 1524
+    },
+    {
+      "chapter": 4,
+      "file": "/home/angsuman/Desktop/Insta_Angsumi/book/volume_01/manuscript/04_Across_the_Patkai.md",
+      "main_prose_words": 1212,
+      "all_file_words": 1461
+    },
+    {
+      "chapter": 5,
+      "file": "/home/angsuman/Desktop/Insta_Angsumi/book/volume_01/manuscript/05_Sukaphaa_and_the_Founding_Kingdom.md",
+      "main_prose_words": 1422,
+      "all_file_words": 1715
+    }
+  ],
+  "main_prose_words": 6718,
+  "complete_volume": false,
+  "publication_ready": false
+}

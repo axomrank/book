@@ -1,0 +1,28 @@
+Create a completely new modern 3D illustrated front cover for VOLUME I of "From Sukaphaa to Gomdhar Konwar". Portrait 7:10 composition. This is cover art itself, straight-on and edge-to-edge, not a photograph of a physical book.
+
+Use the three supplied images as the actual visual references:
+Image 1, sukapha-face-closeup.png: character identity reference. Preserve the mature face, brows, facial structure, composed expression, feathered gold headwear, blue clothing and gold collar as the appearance of our illustrated Sukaphaa character.
+Image 2, sukapha-jungle-expedition.png: full body costume, maroon sash, covered sword, forest journey and posture reference.
+Image 3, sukapha-brahmaputra-riverbank.png: river setting, follower clothing, boat, and journey atmosphere reference. These are modern AI illustrations, not authenticated portraits; use them consistently as design references.
+
+The user specifically rejected a typical ornate history-book cover. Make this visibly different: contemporary art direction, a striking full-colour 3D character and a beautifully rendered sculptural landscape. No ornamental border, corner decorations, antique leather, gilt frame, faux old book, embossed gold title, traditional serif typography, tourism collage, or bronze bas-relief. Do not reuse the previous cover design.
+
+STYLE: High-end cinematic 3D illustration, a semi-realistic mature human character with convincing dimensional form, expressive face, physically based materials, soft fabric texture, believable hands and proportions. A crafted 3D scene with tangible depth and soft studio shadows; not merely a photographic portrait with lettering added. No childish big head, toy proportions, caricature, or cartoon comedy. Calm courage and forward movement.
+
+COMPOSITION: Warm ivory #F7F2EC background with plenty of clean negative space. Upper 40 percent is strong editorial typography. Lower 55 percent is a single integrated 3D scene: the referenced Sukaphaa stands prominently, in three-quarter view moving forward, looking towards the viewer. His blue tunic, muted gold trim and feathered cap are recognisable from the references, with a maroon waist sash and a sheathed sword. He stands on a cutaway floating piece of earth containing a winding silvery river, soft sandbank, lush tropical forest, and small green hill contours. Two much smaller travelling companions and a river boat are secondary elements drawn from image 3. The cutaway terrain creates clear 3D thickness and cast shadows; the scene is one coherent diorama, not a collage. A simple large matte maroon curved shape behind part of the landscape provides brand contrast. Forested low hills, not snowy alpine mountains. Nothing overlaps or obscures the title. Use blue from the reference outfit alongside AxomRank's maroon, warm ivory and charcoal.
+
+TYPOGRAPHY: Contemporary bold clean sans-serif, excellent kerning and clear reading hierarchy, not serif. Main title is deep maroon, large and memorable with very subtle matte dimensional extrusion if helpful; no metallic gold letters. Smaller information uses charcoal clean sans-serif. Use the following text exactly, with correct spelling. Sukaphaa ends in two a letters. Gomdhar is G-o-m-d-h-a-r. Konwar is K-o-n-w-a-r. Do not invent an author.
+
+Small top label: "VOLUME I  |  1228–1603"
+Largest main title, three balanced lines:
+"From Sukaphaa"
+"to Gomdhar"
+"Konwar"
+Below main title, smaller: "A History of the Ahom Dynasty"
+Small series period: "1228–1828"
+Volume subtitle, clear and readable above the illustration: "Origins, Foundation and Expansion"
+Bottom publication wordmark, clean sans-serif: "AXOMRANK"
+Small bottom line: "An AxomRank History Publication"
+Final small signature: "Rooted in Assam. Rising with You."
+
+All text must be comfortably inside safe margins and precisely readable. Title leads, character scene supplies the 3D impact, bottom branding remains tidy. Refined, dramatic, accessible historical storytelling. Do not add ISBN, price, publication edition, fabricated quotes, fake Tai script, any other name, or watermark. Opaque background. Deliver one finished cover composition.

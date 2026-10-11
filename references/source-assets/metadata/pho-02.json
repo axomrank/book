@@ -1,0 +1,143 @@
+{
+  "record": {
+    "id": "PHO-02",
+    "path": "photographs/pho-02-ahom-architectural-marvel.jpg",
+    "title": "Ahom architectural Marvel.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ahom_architectural_Marvel.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ahom_architectural_Marvel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Thapalens",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "A decorative, lotus-shaped brick structure with carved bas-relief panels installed on the grounds in front of Rang Ghar in Sivasagar, Assam, India.",
+    "date_created": "2026-03-25 13:47:15",
+    "commons_upload_timestamp": "2026-09-24T09:53:39Z",
+    "checked_at": "2026-10-11",
+    "bytes": 3894703,
+    "sha256": "83813c0d11365cc3697647bb7d279e89f554a6047e9e36275da0e8fe13e9cb2d",
+    "width": 4096,
+    "height": 2304,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "Ahom architectural Marvel.jpg — Thapalens; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Ahom_architectural_Marvel.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "200130386": {
+          "pageid": 200130386,
+          "ns": 6,
+          "title": "File:Ahom architectural Marvel.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2026-09-24T09:53:39Z",
+              "size": 3894703,
+              "width": 4096,
+              "height": 2304,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ahom_architectural_Marvel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ahom_architectural_Marvel.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=200130386",
+              "sha1": "5289ad8fbc6c82f08657f0d990cf3cf07206087f",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-09-24 09:53:39",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ahom architectural Marvel",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ahom Kingdom|Assam|Rang Ghar|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Self-published work missing SDC copyright license|Indian monuments with Wikidata QIDs|Files with coordinates missing SDC location of creation|Images from Wiki Loves Monuments missing SDC participant in|Images from Wiki Loves Monuments missing SDC inception|Images from Wiki Loves Monuments missing SDC copyright license|Images from Wiki Loves Monuments missing SDC copyright status|Images from Wiki Loves Monuments missing SDC creator|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments missing SDC source of file|Files from competitions organized by West Bengal Wikimedians User Group|Uploaded via Campaign:wlm-in-as|Images from Wiki Loves Monuments 2026|Images from Wiki Loves Monuments 2026 in India|Images from WLM 2026 India under review by Montage tool",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "26.967055",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "94.619086",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A decorative, lotus-shaped brick structure with carved bas-relief panels installed on the grounds in front of Rang Ghar in Sivasagar, Assam, India.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-03-25 13:47:15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thapalens&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thapalens (page does not exist)\">Thapalens</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

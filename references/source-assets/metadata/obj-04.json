@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "OBJ-04",
+    "path": "objects/obj-04-coin-of-assam-lakshmi-singha.jpg",
+    "title": "Coin of Assam, Lakshmi Singha.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coin_of_Assam,_Lakshmi_Singha.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Coin_of_Assam%2C_Lakshmi_Singha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Unknown author Unknown author",
+    "source_statement": "https://www.jstor.org/stable/community.28206067?searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DAssam%2Bcoin&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Aa7048e393f3033da7632bd8d51e7fa39",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+    "attribution_required": "false",
+    "copyrighted": "True",
+    "description": "Creator: ; Date: date made: 1775; associated date: 1775; Material: gold (overall material); Measurements: overall: .2 cm x 2.32 cm; 3/32 in x 29/32 in",
+    "date_created": "1775-01-05",
+    "commons_upload_timestamp": "2023-03-29T18:36:40Z",
+    "checked_at": "2026-10-11",
+    "bytes": 187335,
+    "sha256": "34df2f3077418d758ad4ab07c865dbdea64beaf3b24df2a9b7ffaeafa91fd18f",
+    "width": 1102,
+    "height": 1102,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "authentic object/document reproduction; source identification needs editorial review",
+    "public_credit": "Coin of Assam, Lakshmi Singha.jpg — Unknown author Unknown author; CC0; https://commons.wikimedia.org/wiki/File:Coin_of_Assam,_Lakshmi_Singha.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "130155550": {
+          "pageid": 130155550,
+          "ns": 6,
+          "title": "File:Coin of Assam, Lakshmi Singha.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2023-03-29T18:36:40Z",
+              "size": 187335,
+              "width": 1102,
+              "height": 1102,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Coin_of_Assam%2C_Lakshmi_Singha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coin_of_Assam,_Lakshmi_Singha.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130155550",
+              "sha1": "9dc8d212f64f9310c0d1567821c3e1b93d47992a",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-03-29 18:36:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Coin of Assam, Lakshmi Singha",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ahom Kingdom|Assam|CC-Zero|Template Unknown (author)|Coins of the Ahom Kingdom|Coins of Assam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Creator: ; Date: date made: 1775; associated date: 1775; Material: gold (overall material); Measurements: overall: .2 cm x 2.32 cm; 3/32 in x 29/32 in",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1775-01-05",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.jstor.org/stable/community.28206067?searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DAssam%2Bcoin&amp;ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&amp;refreqid=fastly-default%3Aa7048e393f3033da7632bd8d51e7fa39\">https://www.jstor.org/stable/community.28206067?searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DAssam%2Bcoin&amp;ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&amp;refreqid=fastly-default%3Aa7048e393f3033da7632bd8d51e7fa39</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

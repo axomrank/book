@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "OBJ-03",
+    "path": "objects/obj-03-coin-of-ahom-queen-ambika-devi.jpg",
+    "title": "Coin of Ahom queen Ambika devi.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coin_of_Ahom_queen_Ambika_devi.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Coin_of_Ahom_queen_Ambika_devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "ComparingQuantities",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "Coin of Ahom queen Ambika devi (1732)",
+    "date_created": "1732-01-25",
+    "commons_upload_timestamp": "2022-12-26T07:14:55Z",
+    "checked_at": "2026-10-11",
+    "bytes": 33837,
+    "sha256": "c191abac0c2d1e0baa093e783a99e6f4ef2ea4e54dc7ab8f882a402b97612933",
+    "width": 367,
+    "height": 364,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "authentic object/document reproduction; source identification needs editorial review",
+    "public_credit": "Coin of Ahom queen Ambika devi.jpg — ComparingQuantities; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Coin_of_Ahom_queen_Ambika_devi.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "127025953": {
+          "pageid": 127025953,
+          "ns": 6,
+          "title": "File:Coin of Ahom queen Ambika devi.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2022-12-26T07:14:55Z",
+              "size": 33837,
+              "width": 367,
+              "height": 364,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Coin_of_Ahom_queen_Ambika_devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coin_of_Ahom_queen_Ambika_devi.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127025953",
+              "sha1": "93c31aee99dab11858c9059c86c8d1389612847c",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-12-26 07:14:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Coin of Ahom queen Ambika devi",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ahom Kingdom|Self-published work|Coins of Assam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Coin of Ahom queen Ambika devi (1732)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1732-01-25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:ComparingQuantities\" title=\"User:ComparingQuantities\">ComparingQuantities</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

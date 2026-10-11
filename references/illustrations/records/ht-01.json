@@ -1,0 +1,23 @@
+{
+  "id": "HT-01",
+  "master": "illustrations/collection-v1/masters/history-teaching/ht-01-rang-ghar-v2.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nHistorical asset: use a carefully rendered tactile architectural teaching model, unoccupied, earthy muted brick/plaster, quiet ivory sky/background. No photographs claimed. Source brief exists; keep reconstruction limited to stated documented components and avoid invented towers, ornamental motifs, costumes and events. No contemporary household reference.\nSubject/scene: Evidence-bound conceptual architectural reconstruction on ivory ground: an unoccupied two-storey Ahom Rang Ghar-inspired pavilion, elongated octagonal footprint, arched openings and distinctive inverted-boat-shaped roof, earthy plaster/brick material. Simple green field around, no modern tourist elements, no kings, costumes, animal fights, battle or imaginary towers. Do not copy logo or pretend measured architectural survey. Proposed form only; exact ornament/proportions require heritage review.",
+  "reference": null,
+  "sources": [
+    "https://sivasagar.assam.gov.in/index.php/tourist-place-detail/276"
+  ],
+  "evidence_brief": "illustrations/collection-v1/evidence/HISTORY_BRIEFS.md",
+  "classification": "AI-generated conceptual reconstruction — not to scale",
+  "review_status": "batch_authorised_technical_reviewed",
+  "heritage_review": "pending; no measured survey or costume reconstruction asserted",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "original_variant": "illustrations/collection-v1/variants/ht-01-rang-ghar-v1-rejected.png",
+  "edit_record": "illustrations/collection-v1/records/ht-01-edit.json",
+  "additional_reference": "brand-kit/v1/logo/source/rang-ghar-original.jpg",
+  "visual_review": {
+    "alt_text": "A conceptual two-storey Rang Ghar-inspired pavilion has a curved boat-like roof and arched openings.",
+    "notes": "Roof revised using official photo inspection and supplied artwork silhouette. Exact arch profiles, ornament, proportions, colours and period setting remain conjectural; heritage review required."
+  }
+}

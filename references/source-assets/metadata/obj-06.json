@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "OBJ-06",
+    "path": "objects/obj-06-nidhanpur-copper-plate-inscriptions-of-kumar-bhaskar-varman.jpg",
+    "title": "Nidhanpur Copper Plate Inscriptions of Kumar Bhaskar Varman.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Nidhanpur_Copper_Plate_Inscriptions_of_Kumar_Bhaskar_Varman.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nidhanpur_Copper_Plate_Inscriptions_of_Kumar_Bhaskar_Varman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "নৰুনা বৰুৱা",
+    "source_statement": "Own work",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "usage_terms": "Creative Commons Attribution 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "কুমাৰ ভাস্কৰবৰ্মাৰ নিধানপুৰৰ তামৰ ফলি",
+    "date_created": "2025-05-08 11:03:09",
+    "commons_upload_timestamp": "2025-05-09T16:30:43Z",
+    "checked_at": "2026-10-11",
+    "bytes": 4009698,
+    "sha256": "3556c26a0a6d291abe704c9ffa183820edeeafafeb6ca79feb8463f545088085",
+    "width": 3072,
+    "height": 4096,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "authentic object/document reproduction; source identification needs editorial review",
+    "public_credit": "Nidhanpur Copper Plate Inscriptions of Kumar Bhaskar Varman.jpg — নৰুনা বৰুৱা; CC BY 4.0; https://commons.wikimedia.org/wiki/File:Nidhanpur_Copper_Plate_Inscriptions_of_Kumar_Bhaskar_Varman.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "164977827": {
+          "pageid": 164977827,
+          "ns": 6,
+          "title": "File:Nidhanpur Copper Plate Inscriptions of Kumar Bhaskar Varman.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2025-05-09T16:30:43Z",
+              "size": 4009698,
+              "width": 3072,
+              "height": 4096,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nidhanpur_Copper_Plate_Inscriptions_of_Kumar_Bhaskar_Varman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nidhanpur_Copper_Plate_Inscriptions_of_Kumar_Bhaskar_Varman.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=164977827",
+              "sha1": "9a07633451bad84424ffc916044e5c5d2458069d",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-05-09 16:30:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Nidhanpur Copper Plate Inscriptions of Kumar Bhaskar Varman",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Inscriptions in India|Taken with Realme C63",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "কুমাৰ ভাস্কৰবৰ্মাৰ নিধানপুৰৰ তামৰ ফলি",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-05-08 11:03:09",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E0%A6%A8%E0%A7%B0%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%AC%E0%A7%B0%E0%A7%81%E0%A7%B1%E0%A6%BE\" title=\"User:নৰুনা বৰুৱা\">নৰুনা বৰুৱা</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

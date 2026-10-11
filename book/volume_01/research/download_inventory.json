@@ -1,0 +1,26 @@
+[
+  {
+    "id": "G1906",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/A_History_of_Assam_by_E._A._Gait.pdf",
+    "file": "/home/angsuman/Desktop/Insta_Angsumi/book/volume_01/research/sources/Gait_1906_A_History_of_Assam.pdf",
+    "bytes": 35651137,
+    "sha256": "6f872c497bb8e32734355761fe0be2f902dcc528ecf2467b5bdc1b1e80af30bf",
+    "status": "downloaded and text extracted",
+    "access_date": "2026-10-10"
+  },
+  {
+    "id": "B1930",
+    "url": "https://rarebooksocietyofindia.org/book_archive/196174216674_10156417306701675.pdf",
+    "file": "/home/angsuman/Desktop/Insta_Angsumi/book/volume_01/research/sources/Barua_1930_Ahom_Buranji.pdf",
+    "bytes": 51498306,
+    "sha256": "85ad78add10c22e7f5249c53cad12e4f1a5da6fd7d0726bd802fed63b4abc970",
+    "status": "downloaded; image-only PDF; native extraction yielded no readable text; selected pages inspected visually",
+    "access_date": "2026-10-10"
+  },
+  {
+    "id": "A1966",
+    "url": "https://pahar.in/pahar/Books%20and%20Articles/Indian%20Subcontinent/1966%20The%20History%20of%20Medieval%20Assam%20from%20the%2013th%20to%20the%2017th%20century%20by%20Acharya%20s.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

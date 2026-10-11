@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "mode": "Native built-in image generation",
+  "generated_image_source": "/home/angsuman/.codex/generated_images/01a1265a-9b26-7a12-adb9-1afc56d9e685/exec-ecdb9522-9192-4e2e-a554-2bfc9ff005b1.png",
+  "saved_png": "/home/angsuman/Desktop/Insta_Angsumi/output/imagegen/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v2.png",
+  "saved_pdf": "/home/angsuman/Desktop/Insta_Angsumi/output/pdf/From_Sukaphaa_to_Gomdhar_Konwar_Volume_I_Cover_v2_7x10.pdf",
+  "prompt": "/home/angsuman/Desktop/Insta_Angsumi/book/cover/native_image_prompt_v2.txt",
+  "reference_images": [
+    "/home/angsuman/Desktop/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-face-closeup.png",
+    "/home/angsuman/Desktop/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-jungle-expedition.png",
+    "/home/angsuman/Desktop/Insta_Angsumi/social assent/assamese-ai-gallery/images/history-and-royalty/sukapha-brahmaputra-riverbank.png"
+  ],
+  "png_dimensions": [
+    1051,
+    1497
+  ],
+  "png_sha256": "9fda7c3a328c0462e7ef0f9147dcbee94981895e18883a5f81b17bb35daa7e24",
+  "pdf_page_inches": [
+    7,
+    10
+  ],
+  "date": "2026-10-10",
+  "illustration_status": "Modern AI illustration based on supplied local AI artworks; not an authenticated portrait",
+  "previous_version_preserved": true
+}
