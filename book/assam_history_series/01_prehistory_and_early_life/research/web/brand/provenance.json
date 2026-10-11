@@ -1,0 +1,11 @@
+{
+  "source": "AxomRank shared brand-kit/v1",
+  "logo": "logo/svg/rang-ghar-small-maroon.svg",
+  "font_license": "OFL.txt",
+  "palette": {
+    "maroon": "#80151A",
+    "ivory": "#F7F2EC",
+    "charcoal": "#292929",
+    "gold": "#A77B37"
+  }
+}

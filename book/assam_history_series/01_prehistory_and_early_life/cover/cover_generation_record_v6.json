@@ -1,0 +1,16 @@
+{
+  "book": "B01",
+  "date": "2026-10-11",
+  "tool": "image_gen.imagegen",
+  "mode": "Entire creative cover generated natively, with v5 as visual reference",
+  "input": "Before_the_Kingdoms_Cover_v5_outline.png",
+  "output": "Before_the_Kingdoms_Cover_v6_sculptural.png",
+  "prompt": "native_cover_prompt_v6.txt",
+  "design": "Asymmetric layered ivory paper aperture over maroon; suspended stone objects; serif title; clear Assam History masthead; restrained gold line",
+  "classification": "Modern stylized AI illustrative montage, not a reconstruction or documentary artifact reproduction",
+  "reference_limits": "Reference stone silhouettes interpreted freely; generated surface carvings and decorative textures are artistic inventions and must not be treated as evidence",
+  "reference_provenance": "User image inputs and unverified identity, chronology and rights recorded in cover_generation_record_v3.json",
+  "review": "Visually inspected: title, subtitle, Assam History and Book 01 correct; publisher readable; all three object forms present; new composition distinct from earlier layouts",
+  "status": "Design proof; factual review and print preparation pending",
+  "previous_versions": "Retained"
+}

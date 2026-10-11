@@ -1,0 +1,32 @@
+{
+  "planning_date": "2026-10-11",
+  "series_book": 3,
+  "title": "Kamarupa I — Barma/Varman: Dynasty, State, and Society",
+  "scope": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+  "status": "planned",
+  "planned_chapters": [
+    "B03-C01",
+    "B03-C02",
+    "B03-C03",
+    "B03-C04",
+    "B03-C05",
+    "B03-C06",
+    "B03-C07",
+    "B03-C08",
+    "B03-C09",
+    "B03-C10",
+    "B03-C11",
+    "B03-C12",
+    "B03-C13",
+    "B03-C14",
+    "B03-C15",
+    "B03-C16"
+  ],
+  "content_divisions": 80,
+  "drafted_chapters": [],
+  "research_dossiers": [],
+  "main_prose_words": 0,
+  "complete_book": false,
+  "publication_ready": false,
+  "manuscript_home": "manuscript/"
+}

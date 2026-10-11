@@ -1,0 +1,27 @@
+{
+  "trim_inches": [
+    7,
+    10
+  ],
+  "pdf_points": [
+    504,
+    720
+  ],
+  "artwork_pixels": [
+    1355,
+    1161
+  ],
+  "artwork_placement_points": [
+    0.0,
+    32.07970479704795,
+    504.0,
+    431.8405904059041
+  ],
+  "fonts": [
+    "NotoSans-Regular",
+    "NotoSans-Bold"
+  ],
+  "status": "Front cover design proof; printer bleed/profile/spine not specified",
+  "original_logo_preserved": true,
+  "author_credit": "No personal author supplied; none invented"
+}

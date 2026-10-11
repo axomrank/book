@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "B01-C01",
+    "number": 1,
+    "title": "Reading the Deep Past",
+    "status": "Source-cited first draft; scholarly review pending",
+    "source_ids": [
+      "ARCH-01",
+      "ARCH-02",
+      "ARCH-04",
+      "ARCH-05",
+      "ARCH-08",
+      "METH-01"
+    ],
+    "claim_ids": [
+      "B01-CL015",
+      "B01-CL016",
+      "B01-CL017",
+      "B01-CL018",
+      "B01-CL019",
+      "B01-CL020",
+      "B01-CL021",
+      "B01-CL022"
+    ],
+    "gaps": "Check excavation context, laboratory method, reference epoch, uncertainty, calibration and independent corroboration for every date. Keep oral/textual traditions separate from dated deposits.",
+    "divisions": [
+      {
+        "id": "B01-C01-D01",
+        "research_question": "Archaeological contexts and the limits of surviving evidence",
+        "candidate_sources": [
+          "ARCH-08"
+        ],
+        "status": "Covered in first draft; source locators and limits in Chapter 01 audit",
+        "required_evidence": "Check excavation context, laboratory method, reference epoch, uncertainty, calibration and independent corroboration for every date. Keep oral/textual traditions separate from dated deposits."
+      },
+      {
+        "id": "B01-C01-D02",
+        "research_question": "Stratigraphy, excavation records, and the difference between finds and sites",
+        "candidate_sources": [
+          "ARCH-08"
+        ],
+        "status": "Covered in first draft; source locators and limits in Chapter 01 audit",
+        "required_evidence": "Check excavation context, laboratory method, reference epoch, uncertainty, calibration and independent corroboration for every date. Keep oral/textual traditions separate from dated deposits."
+      },
+      {
+        "id": "B01-C01-D03",
+        "research_question": "Radiocarbon and other dating methods, calibration, and uncertainty ranges",
+        "candidate_sources": [
+          "ARCH-08"
+        ],
+        "status": "Covered in first draft; source locators and limits in Chapter 01 audit",
+        "required_evidence": "Check excavation context, laboratory method, reference epoch, uncertainty, calibration and independent corroboration for every date. Keep oral/textual traditions separate from dated deposits."
+      },
+      {
+        "id": "B01-C01-D04",
+        "research_question": "Separate prehistoric evidence from later origin legends",
+        "candidate_sources": [
+          "ARCH-08"
+        ],
+        "status": "Covered in first draft; source locators and limits in Chapter 01 audit",
+        "required_evidence": "Check excavation context, laboratory method, reference epoch, uncertainty, calibration and independent corroboration for every date. Keep oral/textual traditions separate from dated deposits."
+      },
+      {
+        "id": "B01-C01-D05",
+        "research_question": "How museums and field reports support a responsible reconstruction",
+        "candidate_sources": [
+          "ARCH-08"
+        ],
+        "status": "Covered in first draft; source locators and limits in Chapter 01 audit",
+        "required_evidence": "Check excavation context, laboratory method, reference epoch, uncertainty, calibration and independent corroboration for every date. Keep oral/textual traditions separate from dated deposits."
+      }
+    ],
+    "visual_ids": [
+      "TH04-P21",
+      "TH04-P22",
+      "D01-P02",
+      "D03-P48",
+      "D03-P49",
+      "D10-P07",
+      "D10-P12",
+      "D07-P09"
+    ],
+    "audit": "CHAPTER_01_RESEARCH_AUDIT.md"
+  },
+  {
+    "id": "B01-C02",
+    "number": 2,
+    "title": "Rivers, Hills, and Changing Landscapes",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ENV01",
+      "ENV02",
+      "ENV03",
+      "RIV01"
+    ],
+    "claim_ids": [
+      "B01-CL008",
+      "B01-CL009",
+      "B01-CL010",
+      "B01-CL014"
+    ],
+    "gaps": "Add Assam-specific Barak palaeoenvironment studies and site-level sediment/preservation research. Modern boundaries and river channels are orientation only.",
+    "divisions": [
+      {
+        "id": "B01-C02-D01",
+        "research_question": "Brahmaputra and Barak catchments as different historical environments",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Add Assam-specific Barak palaeoenvironment studies and site-level sediment/preservation research. Modern boundaries and river channels are orientation only."
+      },
+      {
+        "id": "B01-C02-D02",
+        "research_question": "River migration, sedimentation, wetlands, and preservation bias",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Add Assam-specific Barak palaeoenvironment studies and site-level sediment/preservation research. Modern boundaries and river channels are orientation only."
+      },
+      {
+        "id": "B01-C02-D03",
+        "research_question": "Hill corridors and valley travel without projecting modern borders",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Add Assam-specific Barak palaeoenvironment studies and site-level sediment/preservation research. Modern boundaries and river channels are orientation only."
+      },
+      {
+        "id": "B01-C02-D04",
+        "research_question": "Climate reconstruction from dated environmental records",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Add Assam-specific Barak palaeoenvironment studies and site-level sediment/preservation research. Modern boundaries and river channels are orientation only."
+      },
+      {
+        "id": "B01-C02-D05",
+        "research_question": "How landscape change affects the visibility of early occupation",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Add Assam-specific Barak palaeoenvironment studies and site-level sediment/preservation research. Modern boundaries and river channels are orientation only."
+      }
+    ],
+    "visual_ids": [
+      "M12",
+      "D10-P02",
+      "D02-P03",
+      "D07-P03",
+      "D07-P06",
+      "D07-P07",
+      "D07-P09"
+    ]
+  },
+  {
+    "id": "B01-C03",
+    "number": 3,
+    "title": "The Earliest Human Traces",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ARCH-01",
+      "ARCH-02",
+      "ARCH-03",
+      "ARCH-04",
+      "ARCH-05",
+      "ARCH-07"
+    ],
+    "claim_ids": [
+      "B01-CL001",
+      "B01-CL002",
+      "B01-CL003",
+      "B01-CL004",
+      "B01-CL005",
+      "B01-CL007"
+    ],
+    "gaps": "Locate securely stratified earliest stone-tool contexts inside present Assam; audit historical provincial labels and geological ages. No date for first human arrival is established here.",
+    "divisions": [
+      {
+        "id": "B01-C03-D01",
+        "research_question": "Inventory reported early stone tools and find circumstances",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate securely stratified earliest stone-tool contexts inside present Assam; audit historical provincial labels and geological ages. No date for first human arrival is established here."
+      },
+      {
+        "id": "B01-C03-D02",
+        "research_question": "Distinguish excavated assemblages from surface collections",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate securely stratified earliest stone-tool contexts inside present Assam; audit historical provincial labels and geological ages. No date for first human arrival is established here."
+      },
+      {
+        "id": "B01-C03-D03",
+        "research_question": "Test proposed age and tool classifications against specialist studies",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate securely stratified earliest stone-tool contexts inside present Assam; audit historical provincial labels and geological ages. No date for first human arrival is established here."
+      },
+      {
+        "id": "B01-C03-D04",
+        "research_question": "Place local evidence within Northeast and South Asian comparisons",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate securely stratified earliest stone-tool contexts inside present Assam; audit historical provincial labels and geological ages. No date for first human arrival is established here."
+      },
+      {
+        "id": "B01-C03-D05",
+        "research_question": "Document gaps without claiming absence of human occupation",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate securely stratified earliest stone-tool contexts inside present Assam; audit historical provincial labels and geological ages. No date for first human arrival is established here."
+      }
+    ],
+    "visual_ids": [
+      "TH04-F21",
+      "D01-P02",
+      "D03-P48"
+    ]
+  },
+  {
+    "id": "B01-C04",
+    "number": 4,
+    "title": "Hunting, Gathering, and Seasonal Life",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ARCH-01",
+      "ARCH-02",
+      "ARCH-03",
+      "ARCH-04",
+      "ARCH-05",
+      "ARCH-07",
+      "ENV01",
+      "ENV02",
+      "ENV03",
+      "RIV01",
+      "ARCH-08"
+    ],
+    "claim_ids": [
+      "B01-CL001",
+      "B01-CL002",
+      "B01-CL003",
+      "B01-CL004",
+      "B01-CL005",
+      "B01-CL007",
+      "B01-CL008",
+      "B01-CL009",
+      "B01-CL010",
+      "B01-CL014",
+      "B01-CL015"
+    ],
+    "gaps": "Acquire faunal/floral inventories, hearth/house evidence, recovery methods and taphonomic analysis. Do not infer hunting diet or unchanged social life from modern communities.",
+    "divisions": [
+      {
+        "id": "B01-C04-D01",
+        "research_question": "What faunal and botanical remains can reveal about food",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07",
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire faunal/floral inventories, hearth/house evidence, recovery methods and taphonomic analysis. Do not infer hunting diet or unchanged social life from modern communities."
+      },
+      {
+        "id": "B01-C04-D02",
+        "research_question": "Tool use, wear, and possible activities at different sites",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07",
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire faunal/floral inventories, hearth/house evidence, recovery methods and taphonomic analysis. Do not infer hunting diet or unchanged social life from modern communities."
+      },
+      {
+        "id": "B01-C04-D03",
+        "research_question": "Seasonal mobility as a hypothesis requiring environmental support",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07",
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire faunal/floral inventories, hearth/house evidence, recovery methods and taphonomic analysis. Do not infer hunting diet or unchanged social life from modern communities."
+      },
+      {
+        "id": "B01-C04-D04",
+        "research_question": "Shelter, hearths, and household evidence where preserved",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07",
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire faunal/floral inventories, hearth/house evidence, recovery methods and taphonomic analysis. Do not infer hunting diet or unchanged social life from modern communities."
+      },
+      {
+        "id": "B01-C04-D05",
+        "research_question": "Why living communities are not unchanged models of prehistoric people",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-07",
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire faunal/floral inventories, hearth/house evidence, recovery methods and taphonomic analysis. Do not infer hunting diet or unchanged social life from modern communities."
+      }
+    ],
+    "visual_ids": [
+      "DJL17-F2A",
+      "D01-P03",
+      "D07-P03",
+      "D07-P07"
+    ]
+  },
+  {
+    "id": "B01-C05",
+    "number": 5,
+    "title": "Daojali Hading and Neolithic Evidence",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ARCH-01",
+      "ARCH-02",
+      "ARCH-03",
+      "ARCH-04",
+      "ARCH-05"
+    ],
+    "claim_ids": [
+      "B01-CL001",
+      "B01-CL002",
+      "B01-CL003",
+      "B01-CL004",
+      "B01-CL005"
+    ],
+    "gaps": "Obtain 1961 field records, original pottery study and 2025 reconnaissance report with sample contexts and assays. Test the archive provenance of LD1728.",
+    "divisions": [
+      {
+        "id": "B01-C05-D01",
+        "research_question": "Discovery and excavation history from the original reports",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Obtain 1961 field records, original pottery study and 2025 reconnaissance report with sample contexts and assays. Test the archive provenance of LD1728."
+      },
+      {
+        "id": "B01-C05-D02",
+        "research_question": "Context of ground stone tools and pottery assemblages",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Obtain 1961 field records, original pottery study and 2025 reconnaissance report with sample contexts and assays. Test the archive provenance of LD1728."
+      },
+      {
+        "id": "B01-C05-D03",
+        "research_question": "Chronometric estimates and disagreement over cultural sequence",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Obtain 1961 field records, original pottery study and 2025 reconnaissance report with sample contexts and assays. Test the archive provenance of LD1728."
+      },
+      {
+        "id": "B01-C05-D04",
+        "research_question": "Proposed links with eastern regions, tested through material comparisons",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Obtain 1961 field records, original pottery study and 2025 reconnaissance report with sample contexts and assays. Test the archive provenance of LD1728."
+      },
+      {
+        "id": "B01-C05-D05",
+        "research_question": "What the site establishes and what remains conjectural",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Obtain 1961 field records, original pottery study and 2025 reconnaissance report with sample contexts and assays. Test the archive provenance of LD1728."
+      }
+    ],
+    "visual_ids": [
+      "DJL17-F2A",
+      "DJL17-F2B",
+      "DJL17-F3A",
+      "DJL17-F3B",
+      "D01-P02",
+      "D01-P03",
+      "D01-P04"
+    ]
+  },
+  {
+    "id": "B01-C06",
+    "number": 6,
+    "title": "Other Early Sites and Regional Sequences",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ARCH-01",
+      "ARCH-02",
+      "ARCH-03",
+      "ARCH-04",
+      "ARCH-05",
+      "ARCH-08"
+    ],
+    "claim_ids": [
+      "B01-CL001",
+      "B01-CL002",
+      "B01-CL003",
+      "B01-CL004",
+      "B01-CL005",
+      "B01-CL015"
+    ],
+    "gaps": "Compare Sarutaru and Marakdola primary reports, resolve excavation seasons, and review the 2024 AMS sample table. Surface survey chronology remains provisional.",
+    "divisions": [
+      {
+        "id": "B01-C06-D01",
+        "research_question": "Survey Sarutaru and other reported sites with verified provenance",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Compare Sarutaru and Marakdola primary reports, resolve excavation seasons, and review the 2024 AMS sample table. Surface survey chronology remains provisional."
+      },
+      {
+        "id": "B01-C06-D02",
+        "research_question": "Compare site assemblages without assuming identical chronology",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Compare Sarutaru and Marakdola primary reports, resolve excavation seasons, and review the 2024 AMS sample table. Surface survey chronology remains provisional."
+      },
+      {
+        "id": "B01-C06-D03",
+        "research_question": "Hill and valley preservation and sampling differences",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Compare Sarutaru and Marakdola primary reports, resolve excavation seasons, and review the 2024 AMS sample table. Surface survey chronology remains provisional."
+      },
+      {
+        "id": "B01-C06-D04",
+        "research_question": "Locate material from older collections and test identification",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Compare Sarutaru and Marakdola primary reports, resolve excavation seasons, and review the 2024 AMS sample table. Surface survey chronology remains provisional."
+      },
+      {
+        "id": "B01-C06-D05",
+        "research_question": "Build a dated site catalogue with unresolved entries marked",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Compare Sarutaru and Marakdola primary reports, resolve excavation seasons, and review the 2024 AMS sample table. Surface survey chronology remains provisional."
+      }
+    ],
+    "visual_ids": [
+      "TH04-F21",
+      "TH04-F22",
+      "TH04-F23",
+      "TH04-P11",
+      "TH04-P21",
+      "TH04-P22",
+      "TH04-P32A",
+      "TH04-P32B",
+      "TH04-P39A",
+      "TH04-P39B",
+      "D03-P48",
+      "D03-P49",
+      "D03-P50",
+      "D03-P51",
+      "D03-P52",
+      "D10-P06",
+      "D10-P07",
+      "D10-P08",
+      "D10-P09",
+      "D10-P11",
+      "D10-P12",
+      "D10-P13",
+      "D02-P03",
+      "D02-P04",
+      "D02-P05",
+      "D02-P06"
+    ]
+  },
+  {
+    "id": "B01-C07",
+    "number": 7,
+    "title": "Pottery, Stone, and Craft Knowledge",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ARCH-01",
+      "ARCH-02",
+      "ARCH-03",
+      "ARCH-04",
+      "ARCH-05",
+      "ARCH-08"
+    ],
+    "claim_ids": [
+      "B01-CL001",
+      "B01-CL002",
+      "B01-CL003",
+      "B01-CL004",
+      "B01-CL005",
+      "B01-CL015"
+    ],
+    "gaps": "Verify raw material identification, use-wear, pottery technology and sourcing. Separate production experiments from excavated observations.",
+    "divisions": [
+      {
+        "id": "B01-C07-D01",
+        "research_question": "Manufacturing sequences and evidence for local production",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Verify raw material identification, use-wear, pottery technology and sourcing. Separate production experiments from excavated observations."
+      },
+      {
+        "id": "B01-C07-D02",
+        "research_question": "Cord-marking, vessel shapes, and functional interpretations",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Verify raw material identification, use-wear, pottery technology and sourcing. Separate production experiments from excavated observations."
+      },
+      {
+        "id": "B01-C07-D03",
+        "research_question": "Stone sourcing and the limits of trade inferences",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Verify raw material identification, use-wear, pottery technology and sourcing. Separate production experiments from excavated observations."
+      },
+      {
+        "id": "B01-C07-D04",
+        "research_question": "Experimental comparisons clearly separated from archaeological results",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Verify raw material identification, use-wear, pottery technology and sourcing. Separate production experiments from excavated observations."
+      },
+      {
+        "id": "B01-C07-D05",
+        "research_question": "Changes in craft practice across secure excavated contexts",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Verify raw material identification, use-wear, pottery technology and sourcing. Separate production experiments from excavated observations."
+      }
+    ],
+    "visual_ids": [
+      "JAR19-F01",
+      "JAR19-F02",
+      "JAR19-F03",
+      "JAR19-F04",
+      "JAR19-F05",
+      "JAR19-F06",
+      "JAR19-F07",
+      "JAR19-F08",
+      "JAR19-F09",
+      "JAR19-F10",
+      "JAR19-F11",
+      "TH04-P11",
+      "TH04-P32A",
+      "TH04-P32B",
+      "TH04-P39A",
+      "TH04-P39B",
+      "DJL17-F2A",
+      "DJL17-F2B",
+      "DJL17-F3A",
+      "DJL17-F3B",
+      "D01-P03",
+      "D01-P04",
+      "D03-P49",
+      "D03-P50",
+      "D03-P51",
+      "D03-P52",
+      "D10-P05",
+      "D10-P06",
+      "D10-P08",
+      "D10-P09",
+      "D10-P11",
+      "D10-P13",
+      "D02-P04",
+      "D02-P05",
+      "D02-P06",
+      "D06-P04",
+      "D06-P05",
+      "D06-P07"
+    ]
+  },
+  {
+    "id": "B01-C08",
+    "number": 8,
+    "title": "Cultivation and Settled Life",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ENV01",
+      "ENV02",
+      "ENV03",
+      "ARCH-08"
+    ],
+    "claim_ids": [
+      "B01-CL008",
+      "B01-CL009",
+      "B01-CL010",
+      "B01-CL015"
+    ],
+    "gaps": "Locate directly dated plant macroremains, rice spikelet bases or well-contextualised phytoliths. Grinding stones and generic Cerealia pollen do not identify domesticated rice.",
+    "divisions": [
+      {
+        "id": "B01-C08-D01",
+        "research_question": "Plant remains and the evidential threshold for cultivation",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate directly dated plant macroremains, rice spikelet bases or well-contextualised phytoliths. Grinding stones and generic Cerealia pollen do not identify domesticated rice."
+      },
+      {
+        "id": "B01-C08-D02",
+        "research_question": "Investigate rice history without assuming one arrival date",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate directly dated plant macroremains, rice spikelet bases or well-contextualised phytoliths. Grinding stones and generic Cerealia pollen do not identify domesticated rice."
+      },
+      {
+        "id": "B01-C08-D03",
+        "research_question": "Settlement permanence, storage, and household organisation",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate directly dated plant macroremains, rice spikelet bases or well-contextualised phytoliths. Grinding stones and generic Cerealia pollen do not identify domesticated rice."
+      },
+      {
+        "id": "B01-C08-D04",
+        "research_question": "Interaction between cultivation, gathering, and changing landscapes",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate directly dated plant macroremains, rice spikelet bases or well-contextualised phytoliths. Grinding stones and generic Cerealia pollen do not identify domesticated rice."
+      },
+      {
+        "id": "B01-C08-D05",
+        "research_question": "Separate agricultural origins from modern ethnic ownership narratives",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Locate directly dated plant macroremains, rice spikelet bases or well-contextualised phytoliths. Grinding stones and generic Cerealia pollen do not identify domesticated rice."
+      }
+    ],
+    "visual_ids": [
+      "D07-P03",
+      "D07-P06",
+      "D07-P07",
+      "D07-P09"
+    ]
+  },
+  {
+    "id": "B01-C09",
+    "number": 9,
+    "title": "Exchange and Connections",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "BUR01",
+      "BUR02",
+      "BUR03",
+      "ARCH-08"
+    ],
+    "claim_ids": [
+      "B01-CL011",
+      "B01-CL012",
+      "B01-CL013",
+      "B01-CL015"
+    ],
+    "gaps": "Require mineralogical/chemical sourcing and dated contexts before drawing exchange or migration routes. Compare Assam and neighbouring regions without transferring their dates.",
+    "divisions": [
+      {
+        "id": "B01-C09-D01",
+        "research_question": "Raw-material movement and distribution of related artifacts",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Require mineralogical/chemical sourcing and dated contexts before drawing exchange or migration routes. Compare Assam and neighbouring regions without transferring their dates."
+      },
+      {
+        "id": "B01-C09-D02",
+        "research_question": "Hill routes, river corridors, and possible exchange networks",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Require mineralogical/chemical sourcing and dated contexts before drawing exchange or migration routes. Compare Assam and neighbouring regions without transferring their dates."
+      },
+      {
+        "id": "B01-C09-D03",
+        "research_question": "Comparative evidence from surrounding regions with their own dates",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Require mineralogical/chemical sourcing and dated contexts before drawing exchange or migration routes. Compare Assam and neighbouring regions without transferring their dates."
+      },
+      {
+        "id": "B01-C09-D04",
+        "research_question": "Distinguish exchange, migration, and stylistic similarity",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Require mineralogical/chemical sourcing and dated contexts before drawing exchange or migration routes. Compare Assam and neighbouring regions without transferring their dates."
+      },
+      {
+        "id": "B01-C09-D05",
+        "research_question": "Explain when network models exceed available evidence",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Require mineralogical/chemical sourcing and dated contexts before drawing exchange or migration routes. Compare Assam and neighbouring regions without transferring their dates."
+      }
+    ],
+    "visual_ids": [
+      "JAR19-F01",
+      "JAR19-F02",
+      "JAR19-F03",
+      "JAR19-F04",
+      "JAR19-F05",
+      "JAR19-F06",
+      "JAR19-F07",
+      "JAR19-F08",
+      "JAR19-F09",
+      "JAR19-F10",
+      "JAR19-F11",
+      "DJL17-F2A",
+      "DJL17-F2B",
+      "JAR22-F01",
+      "JAR22-F02",
+      "JAR22-F04",
+      "JAR22-F05",
+      "JAR22-F06",
+      "JAR22-F07",
+      "JAR22-F08",
+      "JAR22-F09",
+      "JAR22-F10",
+      "M12",
+      "D01-P03",
+      "D10-P02",
+      "D06-P04",
+      "D06-P06",
+      "M13",
+      "M11"
+    ]
+  },
+  {
+    "id": "B01-C10",
+    "number": 10,
+    "title": "Burials, Megaliths, and Social Memory",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "BUR01",
+      "BUR02",
+      "BUR03",
+      "ARCH-08"
+    ],
+    "claim_ids": [
+      "B01-CL011",
+      "B01-CL012",
+      "B01-CL013",
+      "B01-CL015"
+    ],
+    "gaps": "Find Assam jar excavation dates, associated human remains and osteological results. Document alternative uses and community permissions; avoid ethnic attribution from proximity.",
+    "divisions": [
+      {
+        "id": "B01-C10-D01",
+        "research_question": "Record dated burial evidence and associated material",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Find Assam jar excavation dates, associated human remains and osteological results. Document alternative uses and community permissions; avoid ethnic attribution from proximity."
+      },
+      {
+        "id": "B01-C10-D02",
+        "research_question": "Megalithic traditions across the wider region without conflating periods",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Find Assam jar excavation dates, associated human remains and osteological results. Document alternative uses and community permissions; avoid ethnic attribution from proximity."
+      },
+      {
+        "id": "B01-C10-D03",
+        "research_question": "Ritual interpretations and alternative explanations",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Find Assam jar excavation dates, associated human remains and osteological results. Document alternative uses and community permissions; avoid ethnic attribution from proximity."
+      },
+      {
+        "id": "B01-C10-D04",
+        "research_question": "Ethnographic analogy with explicit collection dates and limits",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Find Assam jar excavation dates, associated human remains and osteological results. Document alternative uses and community permissions; avoid ethnic attribution from proximity."
+      },
+      {
+        "id": "B01-C10-D05",
+        "research_question": "Protect sacred contexts and record community knowledge respectfully",
+        "candidate_sources": [
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Find Assam jar excavation dates, associated human remains and osteological results. Document alternative uses and community permissions; avoid ethnic attribution from proximity."
+      }
+    ],
+    "visual_ids": [
+      "JAR19-F01",
+      "JAR19-F02",
+      "JAR19-F03",
+      "JAR19-F04",
+      "JAR19-F05",
+      "JAR19-F06",
+      "JAR19-F07",
+      "JAR19-F08",
+      "JAR19-F09",
+      "JAR19-F10",
+      "JAR19-F11",
+      "TH04-F22",
+      "TH04-F23",
+      "JAR22-F01",
+      "JAR22-F02",
+      "JAR22-F04",
+      "JAR22-F05",
+      "JAR22-F06",
+      "JAR22-F07",
+      "JAR22-F08",
+      "JAR22-F09",
+      "JAR22-F10",
+      "D10-P05",
+      "D06-P04",
+      "D06-P05",
+      "D06-P06",
+      "D06-P07",
+      "D06-P08",
+      "D06-P09",
+      "D06-P10",
+      "M13",
+      "M11"
+    ]
+  },
+  {
+    "id": "B01-C11",
+    "number": 11,
+    "title": "Approaching the Early Historic Period",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ARCH-01",
+      "ARCH-02",
+      "ARCH-03",
+      "ARCH-04",
+      "ARCH-05",
+      "ARCH-06",
+      "ARCH-08"
+    ],
+    "claim_ids": [
+      "B01-CL001",
+      "B01-CL002",
+      "B01-CL003",
+      "B01-CL004",
+      "B01-CL005",
+      "B01-CL006",
+      "B01-CL015"
+    ],
+    "gaps": "Acquire primary Ambari season reports and early metal contexts. Reported 2025 Daojali furnace/slag needs independent association and dates; do not apply the pottery age to it.",
+    "divisions": [
+      {
+        "id": "B01-C11-D01",
+        "research_question": "Investigate metals without imposing a universal three-age sequence",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-06",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire primary Ambari season reports and early metal contexts. Reported 2025 Daojali furnace/slag needs independent association and dates; do not apply the pottery age to it."
+      },
+      {
+        "id": "B01-C11-D02",
+        "research_question": "Changes in settlement scale and production where securely dated",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-06",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire primary Ambari season reports and early metal contexts. Reported 2025 Daojali furnace/slag needs independent association and dates; do not apply the pottery age to it."
+      },
+      {
+        "id": "B01-C11-D03",
+        "research_question": "Written records and their relationship to archaeological sequences",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-06",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire primary Ambari season reports and early metal contexts. Reported 2025 Daojali furnace/slag needs independent association and dates; do not apply the pottery age to it."
+      },
+      {
+        "id": "B01-C11-D04",
+        "research_question": "Ambari as a bridge to later urban archaeology, with excavation phases checked",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-06",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire primary Ambari season reports and early metal contexts. Reported 2025 Daojali furnace/slag needs independent association and dates; do not apply the pottery age to it."
+      },
+      {
+        "id": "B01-C11-D05",
+        "research_question": "Explain overlap between prehistoric and early historic evidence",
+        "candidate_sources": [
+          "ARCH-01",
+          "ARCH-02",
+          "ARCH-03",
+          "ARCH-04",
+          "ARCH-05",
+          "ARCH-06",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Acquire primary Ambari season reports and early metal contexts. Reported 2025 Daojali furnace/slag needs independent association and dates; do not apply the pottery age to it."
+      }
+    ],
+    "visual_ids": [
+      "D10-P11",
+      "D10-P12",
+      "D10-P13",
+      "M01",
+      "M02",
+      "M03",
+      "M04",
+      "M05",
+      "M06",
+      "M08",
+      "M09",
+      "M10"
+    ]
+  },
+  {
+    "id": "B01-C12",
+    "number": 12,
+    "title": "What Can Be Known Before Kingdoms",
+    "status": "Initial research pass; not ready for drafting",
+    "source_ids": [
+      "ENV01",
+      "ENV02",
+      "ENV03",
+      "BUR01",
+      "BUR02",
+      "BUR03",
+      "RIV01",
+      "ARCH-08"
+    ],
+    "claim_ids": [
+      "B01-CL008",
+      "B01-CL009",
+      "B01-CL010",
+      "B01-CL011",
+      "B01-CL012",
+      "B01-CL013",
+      "B01-CL014",
+      "B01-CL015"
+    ],
+    "gaps": "Build a source-qualified chronology and evidence confidence matrix; retain blank entries where evidence is insufficient. The transition into polities requires separate evidence.",
+    "divisions": [
+      {
+        "id": "B01-C12-D01",
+        "research_question": "Synthesize securely dated developments and remaining gaps",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Build a source-qualified chronology and evidence confidence matrix; retain blank entries where evidence is insufficient. The transition into polities requires separate evidence."
+      },
+      {
+        "id": "B01-C12-D02",
+        "research_question": "Compare competing models of settlement and connection",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Build a source-qualified chronology and evidence confidence matrix; retain blank entries where evidence is insufficient. The transition into polities requires separate evidence."
+      },
+      {
+        "id": "B01-C12-D03",
+        "research_question": "Reject biological ancestry as a direct substitute for culture or polity",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Build a source-qualified chronology and evidence confidence matrix; retain blank entries where evidence is insufficient. The transition into polities requires separate evidence."
+      },
+      {
+        "id": "B01-C12-D04",
+        "research_question": "Provide a reader guide to the site and dating registers",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Build a source-qualified chronology and evidence confidence matrix; retain blank entries where evidence is insufficient. The transition into polities requires separate evidence."
+      },
+      {
+        "id": "B01-C12-D05",
+        "research_question": "Introduce early historical polities without inventing a smooth transition",
+        "candidate_sources": [
+          "ENV01",
+          "ENV02",
+          "ENV03",
+          "BUR01",
+          "BUR02",
+          "BUR03",
+          "RIV01",
+          "ARCH-08"
+        ],
+        "status": "Initial sources mapped; division-level verification pending",
+        "required_evidence": "Build a source-qualified chronology and evidence confidence matrix; retain blank entries where evidence is insufficient. The transition into polities requires separate evidence."
+      }
+    ],
+    "visual_ids": [
+      "D06-P10"
+    ]
+  }
+]

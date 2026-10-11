@@ -1,0 +1,456 @@
+ISSN 0376-5156Trivedi et al. – Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India   45
+Geophytology 55(1): 45–54
+May 2025
+
+
+  Holocene vegetation dynamics and climate variability inferred
+           from pollen records from Northeast India
+                   Anjali Trivedi1*, Arnab Phukan2, Anupam Nag3, Bikash Gogoi4,
+                   Panchanan Dehingia5, V. Sreenivasa Rao6 and Neetu Harmukh7
+
+          Birbal Sahni Institute of Palaeosciences, 53, University Road, Lucknow- 226007, India.
+         1,3
+
+                        E-mail: 1anjali_trivedi@bsip.res.in, 3anupam.nag@bsip.res.in
+          2 ,4,5
+                 Department of Geological Sciences, Gauhati University, Guwahati-781014, India.
+ Email: phukanarnab058@gmail.com, 4bikash.gogoi@gauhati.ac.in, 5panchanangeology@gmail.com
+         2
+
+        6
+          Forest and Climate Change Department, Aranya Bhawan, Nava Raipur- 492007, India.
+                                     Email: nituharmuk123@gmail.com
+  7
+    State Biodiversity Board, Forest and Climate Change Department, Aranya Bhawan, Nava Raipur-
+                               492007, India. Email: raosvemula@gmail.com
+                                            * Corresponding Author
+        Manuscript received: Original submission: 15 April 2025, Re-submission: 20 May 2025
+                                   Accepted for publication: 27 May 2025
+
+                                                                ABSTRACT
+                   Trivedi A., Phukan A., Nag A., Gogoi B. Dehingia P. Rao S.V. & Harmukh N. 2025. Holocene vegetation
+               dynamics and climate variability inferred from pollen records from Northeast India. Geophytology 55(1): 45–54.
+
+                      We report the preliminary findings of a palynological investigation conducted on a 50 cm long sediment core
+               retrieved from a swamp within the Gauhati University Campus, Kamrup Metropolitan District, Guwahati, Assam,
+               Northeast India for understanding the vegetation dynamics. The palynological assemblage reveals a rich diversity
+               of pollen taxa including tropical moist deciduous taxa, marshy taxa, highland species, anthropic indicators and
+               ferns. Based on the relative abundances these pollen taxa, three distinct pollen zones GU-I, GU-II and GU-III
+               have been identified. The presence of tropical moist deciduous taxa including Syzygium cumini, Shorea robusta,
+               Lagerstroemia in the first zone suggest that a moist and more humid climate prevailed throughout the period of
+               sediment accumulation. The presence of highland taxa such as Abies, Pinus and Alnus indicates wind activity
+               facilitating the transport of pollen grain from higher elevations. Furthermore, the higher frequencies of cultural
+               pollen taxa such as Poaceae and Cerealia in Pollen Zone GU-I and GU-II reflect significant human activity. The
+               decline of moist deciduous taxa along with non-arboreal elements in Pollen Zone GU-II suggests a shift towards
+               relatively cooler and drier climatic conditions. In contrast, a subsequent increase in the abundance of Shorea robusta
+               in Pollen Zone GU-III (younger zone) indicates an amelioration of climate, characterized by relatively warm and
+               humid conditions than previous phase in the region.
+
+                    Keywords: Pollen, vegetation, climate, Holocene, Assam, Northeast India.
+
+
+
+                      INTRODUCTION                                           region have reported substantial alterations in forest
+    Northeastern India experiences climate                                   composition and structure in response to climatic
+primarily shaped by the Indian Summer Monsoon                                variability, anthropogenic pressures, and variations
+(ISM), marked by intense seasonal rainfall and                               in monsoon intensity (Bera & Basumatary 2013).
+recurrent flooding (Breitenbach et al. 2010).                                Lakes, functioning as natural sedimentary basins,
+Studies conducted across the Northeast Indian                                represent vital repositories of palaeoenvironmental
+
+                                                   © The Palaeobotanical Society, Lucknow, India
+46                                       Geophytology, Volume 55(1), 2025
+
+
+records. It is widely recognized that many of              91°40'4.66"E), situated on the left bank of the
+these lakes originated during the early Holocene           Brahmaputra River in the Kamrup Metropolitan
+and underwent progressive infilling driven by              District, Assam, India (Figure 1). The local geology
+climatic fluctuations from the late Holocene to the        of the area represents an extension of the Shilong
+present (Agarwal et al. 1992; Singh 1996). For the         Plateau, characterized by Precambrian crystalline
+understanding of these Holocene environmental              basement rocks (Özcan et al. 2018). The major rock
+and climate change events at the regional to               types in the region are of Precambrian-Cambrian
+global scale, pollen analysis has become one of            age and primarily comprise quartz-feldspathic
+the common proxies (Zhao et al. 2009). However,            gneiss, granite, granodiorite, amphibolite, and
+the specific palaeoenvironmental history of Assam          calc-silicate rocks (Shukla et al. 1989). The granitic
+in Brahmaputra plains remains inadequately                 hills within the Gauhati University campus trend
+understood.                                                in an east-west direction. The lowland areas where
+     The Brahmaputra River, the seventh largest            sediment accumulates are covered with brown and
+river in the world (Hovius 1998; Tandon & Sinha            reddish sandy loam soils rich in both macro and
+2007), has formed a vast and extensive valley in           micro nutrients (Kar & Borthakur 2007).
+the state of Assam, India. With a sediment yield of        Climate
+852.4 t/km²/year, the Brahmaputra River holds the               The study area experiences a subtropical
+highest sediment yield globally (Latrubesse 2008).         monsoon climate (Neog & Khinchi 2015) with
+The Guwahati city of Assam, is a fast growing city         distinct seasonal variations. Winters (November-
+situated at the bank of river Brahmaputra.                 February) are characterized by dry and cool
+     The present study has been carried out in             conditions, while summers (May-August) are hot
+pursuit of understanding the vegetation and                and humid. The precipitation regime begins in
+climate change in the recent past in Northeast             April with sporadic rainfall events, occasionally
+India. Although the absolute dates for the sample          manifesting as heavy downpours accompanied by
+collected could not be procured due to some                cyclonic disturbances. The South-West Monsoon,
+constraints, nonetheless the vegetation changes            contributing approximately 80% of the annual
+obtained from the core samples and associated              precipitation, typically commences in early June
+climate change are discerned and discussed based           and continues through October with periods
+on relative chronology established for the present         of intense rainfall. Long-term meteorological
+study, on the basis of available studies of sediment       data (1951-2000) indicate that August records
+cores having radiometric chronology from nearby            the highest average maximum temperature of
+areas. This study contributes to the growing body          32.1°C, while January exhibits the lowest average
+of palaeoenvironmental research and provides a             minimum temperature of 10.2°C. The region
+foundation for future investigations incorporating         receives an average annual precipitation of 1500
+absolute dating techniques to further refine our           mm, predominantly concentrated during the
+understanding of vegetation and climate dynamics           monsoon months (Neog & Khinchi 2015).
+in the recent past.
+                                                           Vegetation
+           REGIONAL SETTINGS                                    The GUC is enriched with a rich biodiversity.
+Study Site and Geological Setting                          Out of the 484 acres of total area, nearly 40% of
+                                                           the campus are marshlands, 10% are under hillocks
+   The study area is located within the Gauhati
+                                                           and rest of the plains are undulating highlands
+University Campus (GUC; 26°9'16.16"N,
+                                                           (Sustainable Campus 2021). The vegetation of
+               Trivedi et al. – Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India   47
+
+
+
+
+Figure 1. Digital Elevation Model (DEM) illustrating the location of the Gauhati University swamp, Assam, India.
+
+Gauhati University can be broadly classified into                           at GUC, sediment samples were obtained from a
+five types (Kar & Borthakur 2007) including                                 swamp situated within the campus premises. Core
+degraded alluvial inundated grasslands, riparian                            extraction was carried out using a 50 cm long PVC
+seasonal carpet vegetation, aquatic vegetation,                             pipe. A total of 10 samples were systematically
+waste land vegetation and highland vegetation.                              collected from the core for subsequent
+The Campus comprises about 337 species of                                   palynological analysis.
+Angiospermic taxa wherein monocots are                                      Pollen analysis
+represented by 93 species and dicots by 244 species.
+                                                                                 For pollen analysis, 10 samples were extracted
+Asteraceae with 17 species is most dominating
+                                                                            from the 50 cm deep core, with a consistent
+family along with Euphorbiaceae, Verbenaceae,
+                                                                            sampling interval of 5 cm. After the collection
+Poaceae, Cyperaceae, Hydrocaritaceae are other
+                                                                            of the samples, about 10 gm of each sample was
+dominating families found in the campus (Kar &
+                                                                            treated with 10% aqueous KOH to remove the
+Borthakur 2007) (Table 1).
+                                                                            humus. Thereafter, the samples were treated
+         MATERIALS AND METHODS                                              with hydrofluoric acid (HF) in order to remove
+                                                                            the silica followed by the standard procedure of
+Sediment trench
+                                                                            acetolysis (Erdtman 1943), using a mixture of
+     For the present palynological investigation                            acetic anhydrite and conc. sulfuric acid (H2SO4)
+48                                               Geophytology, Volume 55(1), 2025
+
+
+Table 1. Modern vegetation across the study region.                2024) and by comparing the specimens with those
+S. No. Species name                    Family                      in the pollen slides collection at the herbarium
+1       Albizia lebbeck                Fabaceae                    of the Birbal Sahni Institute of Palaeosciences.
+2       Albizia lucidior               Fabaceae
+                                                                   Temporary pollen slides were prepared, and pollen
+3       Alstonia scholaris             Apocynaceae
+4       Alternanthera philoxeroides    Amaranthaceae               and spore identification data was documented
+5       Areca catechu                  Arecaceae                   using an Olympus BX52 microscope equipped
+6       Artocarpus chaplasha           Moraceae                    with an Olympus DP23 camera at a magnification
+7       Artocarpus heterophyllus       Moraceae
+                                                                   of ×400.
+8       Azadirachta indica             Meliaceae
+9       Bombax ceiba                   Malvaceae
+10      Caryota urens                  Arecaceae
+                                                                                      RESULTS
+11      Cassia fistula                 Fabaceae                        The palynological record procured from the
+12      Chukrassia tabularis           Meliaceae
+                                                                   GUC site core, was divided into three distinct
+13      Cocos nucifera                 Arecaceae
+14      Colocasia esculenta            Araceae                     pollen zones on the basis of characteristic palyno-
+15      Delonix regia                  Fabaceae                    composition and quantification of major arboreal
+16      Dillenia indica                Dilleniaceae                and non-arboreal pollen taxa (Figure 2). The
+17      Diplazium esculentum           Athyriaceae
+                                                                   chronological sequence ranges from Pollen Zone
+18      Erythrina indica               Fabaceae
+19      Ficus religiosa                Moraceae                    GU-I, representing the oldest sediments, to Pollen
+20      Ficus rumphii                  Moraceae                    Zone GU-III, corresponding to the most recent
+21      Ipomoea aquatica               Convolvulaceae              sediments. Some significant pollens and spores are
+22      Lagerstroemia speciosa         Lythraceae
+                                                                   depicted in Figure 3.
+23      Lannea coromandelica           Anacardiaceae
+24      Ludwigia octovalvis            Onagraceae                  Pollen Zone GU-I (50-30 cm): Syzygium cumini,
+25      Mangifera indica               Anacardiaceae               Ailanthus excelsa, Bombax ceiba, Pinus, Abies,
+26      Melia azedarach                Meliaceae
+27      Mesua ferrea                   Calophyllaceae
+                                                                   Shorea robusta, Poaceae, Cerealia
+28      Michelia champaca              Magnoliaceae                    This pollen zone is characterized by a
+29      Millettia pinnata              Fabaceae
+                                                                  dominance of arboreal pollen (AP) over non
+30      Mimusops elengi                Sapotaceae
+31      Monoon longifolium             Annonaceae                 arboreal pollen (NAP). Among AP, prominent
+32      Neolamarckia cadamba           Rubiaceae                  highland tree taxa such as Abies (1.5-4.2%), Pinus
+33      Oroxylum indicum               Bignoniaceae               (1.9-5.9%), and Alnus (0.7%) are well represented
+34      Parthenium hysterophorus       Asteraceae
+35      Peltophorum pterocarpum        Fabaceae
+                                                                  in this zone. Moist deciduous taxa such as
+36      Phoenix dactylifera            Arecaceae                  Syzygium cumini (15.9-28.2%) dominates this
+37      Pontederia crassipes           Pontederiaceae             zone with a high frequency followed by Ailanthus
+38      Pteris spp.                    Pteridaceae                excelsa (6.7-22.4%). Other arboreal taxa include
+39      Samanea saman                  Fabaceae
+40      Saccharum spp.                 Poaceae(grass)
+                                                                  Myrtaceae (5.9-6.7%), Shorea robusta (0.7-
+41      Syzygium cumini                Myrtaceae                  2.5%), Lagerstroemia (1.18%), Bombax ceiba
+42      Syzygium jambos                Myrtaceae                  (4.6%), Palmae (0.84%), Anacardaceae (9.3-
+43      Setaria spp.                   Poaceae(grass)             14.2%). NAP are dominated by terrestrial herbs
+44      Terminalia chebula             Combretaceae
+                                                                  including Poaceae (10.7-20.7%) followed by
+                                                                  Cerealia (2.9-8%) and other potential cultivated
+in the ratio of 9:1. In the end, the samples were
+                                                                  taxa such as Chenopodiaceae (0.8-1.4%) and
+preserved in 50% glycerin and few drops of phenol
+                                                                  Caryophyllaceae (0.5-2.9%). The heathland taxa
+solution for microscopic examination. Pollen and
+                                                                  are represented by Asteraceae (2.1-5%), Ageratum
+spore identification was carried out based on prior
+                                                                  conyzoides (2.2-2.9%), Aster tripolium (0.6-
+studies (Basumatary et al. 2014; Trivedi et al.
+            Trivedi et al. – Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India   49
+
+
+4.4%) and Alternanthera (0-2.5%). Additional                             Others species including, Shorea robusta (0.5-
+terrestrial herbs include Eclipta alba (0-4.2%) and                      1.65%), Lagerstroemia (16%), Bombax ceiba (0.5-
+Convolvulceae (0-0.8%). Ferns are also prominent                         1.1%) also showed increased abundance. Palmae
+in this zone, with a frequency of 11.4-18.6%.                            (1-1.6%) reappeared in this zone. Among the
+Pollen Zone GU-II (30-15 cm): Syzygium                                   highland taxa’s Pinus (4-7%), Abies (0.5%) and
+cumini, Pinus, Ailanthus excelsa, Anacardaceae,                          Alnus (0.5%) show lower frequencies than previous
+Poaceae, Cerealia                                                        zone. NAP including Poaceae (3.8-4.8%) and
+                                                                         Cerealia (5.9-6.1%) are declining significantly in
+     This zone is marked by a predominance of AP
+                                                                         this zone when compared to the earlier phases. The
+over NAP. The frequencies of highland taxa such
+                                                                         other non-arboreals viz., Caryophyllaceae (1.6-
+as Pinus (2.4-11.6%), Abies (0.4-3.2%) and Alnus
+                                                                         2.7%) also exhibit reduced values. Anacardaceae
+(0.4-0.6%) are higher compared to previous zone.
+                                                                         (10.8-25%) is the only shrub represented. More
+Among the moist deciduous taxa Syzygium cumini
+                                                                         terrestrial herbs include Eclipta alba (0.5%), and
+(16.2-32.1%) continues to dominate followed by
+                                                                         Convolvulceae (1-1.1%). The heathland taxa such
+Myrtaceae (7.1-17.3%), and Ailanthus excelsa
+                                                                         as Aster tripolium (1.11%), Asteraceae (4.3-6.1%),
+(1.9-6.4%). Shorea robusta (0.7%) and Bombax
+                                                                         and Alternanthera (1.6%) are in moderately low
+ceiba (0.7%), are present in minor quantities,
+                                                                         values while Ageratum conyzoides disappeared in
+while Anacardaceae (7.9-16.2%) shows increased
+                                                                         this zone. The marshy taxa Ludwigia (0.5-1.1%)
+percentage. NAP such as Poaceae (7.4-9.7%)
+                                                                         reduces significantly. Fern spores (27.4-46.1%)
+declines from previous phase while Cerealia
+                                                                         are more abundant in this zone, with higher
+(1.2-12.8%) increases along with potential
+                                                                         frequencies compared to the previous two zones.
+cropland taxa such as Caryophyllaceae (4.5-
+9.2%) show an increase in abundance, along with                                                    DISCUSSION
+Chenopodiaceae (0.7%) as compared to previous                                 Climate serves as a major determinant
+zone. The heathland taxa viz., Asteraceae (11.6%),                       influencing plant distribution patterns thereby
+Ageratum conyzoides (0-2.5%), Aster tripolium                            playing a critical role in the reconstruction
+(5.8%), Alternanthera (4.9%) are present in                              of past vegetation dynamics and associated
+scattered quantities. Ludwigia (4.9%) a marshy                           climatic conditions. In the present study, pollen
+taxon appears for the first time in this zone. More                      assemblages retrieved from the swamp within
+terrestrial including Eclipta alba (1.4%) reduced                        Gauhati University in Assam has been employed
+and Convolvulceae disappeared in this zone. Ferns                        to infer past vegetation structure and climate
+(20.7-29.7%) are notably more abundant compared                          variability. As mentioned earlier, the absolute
+to the previous zone.                                                    chronological control is not available for the studied
+Pollen Zone GU-III (15-0 cm): Syzygium cumini,                           core, however, the relative ages are estimated
+Alianthus excelsa, Pinus, Shorea robusta,                                on the basis of other available palynological
+Bombax ceiba, Poaceae, Cerealia                                          studies of the sediment cores. The core lengths
+    During this phase there is a significant increase                    and chronologies of these cores are plotted and
+in AP than NAP. This zone is characterized by the                        vegetation and climate inferences are envisaged
+dominance of AP than NAP. Among AP, moist                                on the basis of estimated chronology (Figure 4).
+deciduous taxa such as Syzygium cumini (11.1-                            The retrieved palyno-composition is categorized
+26.2%), Myrtaceae (11.1-13.5%), Alianthus                                into three distinct zones, and is instrumental in
+excelsa (12.2-21.7%) are prominent, showing                              understanding the vegetation dynamics that had
+higher frequencies compared to earlier zones.                            occurred in the recent past in the studies region.
+50                                                 Geophytology, Volume 55(1), 2025
+
+
+
+
+Figure 2. Pollen frequency chart recovered from the Gauhati University swamp, Assam, India.
+
+The salient features of each zones are discussed in                  Himalaya also document the expansion of moist
+the following.                                                       deciduous forests, including Shorea robusta,
+     The palynological analysis of the core                          indicative of strengthened monsoon conditions
+sediments corresponding to Pollen Zone GU-I                          during the mid-Holocene, coinciding with the
+(50-30 cm) indicates a notable expansion of                          HCO (Nag et al. 2025). Similarly, multiple sites
+forest grooves under a warm and humid climatic                       across Northeast India including lakes in the Mikir
+regime, accompanied by increased precipitation.                      Hills (Bera 2003; Trivedi 2022), Dabaka Swamp
+The presence of Shorea robusta signifies that the                    (Dixit & Bera 2012), Chayagaon Swamp (Dixit
+region was receiving good amount of precipitation                    & Bera 2013), Srinagar Lake (Bhattacharyya et
+and timely onset of monsoon. Additionally, the                       al. 2011), and Ziro Lake (Ghosh et al. 2014) also
+presence of Cerealia alongside potential cultivated                  reflect enhanced precipitation associated with the
+taxa Chenopodiaceae and Caryophyllaceae points                       HCO (Figure 4). Further supporting evidence
+towards agricultural activities in the vicinity of the               comes from the Central Ganga Plain, where
+swamp during this phase. These findings collectively                 records from Lahuradewa Lake (Chauhan et al.
+suggest an intensification of the ISM during this                    2009), Jalesar Lake (Trivedi et al. 2013), Kikar Tal
+period, consistent with the Holocene Climate                         (Saxena & Trivedi 2017), and Lashoda Tal (Trivedi
+Optimum (HCO) observed globally between 8000                         et al. 2019), indicate warm and humid conditions
+and 4000 cal yr BP (Benarde 1996). Comparable                        and an active southwest monsoon during the same
+records from Renuka Lake in the Northwestern                         interval.
+               Trivedi et al. – Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India   51
+
+
+
+
+Figure 3. Some pollen and spores recovered from the Gauhati University swamp. 1. Abies 2. Pinus 3. Alnus 4. Shorea robusta
+5. Lagerstroemia 6. Eucalyptus 7. Anacardiaceae 8. Bombax ceiba 9. Convolvulaceae 10. Aegle marmelos 11. Ailanthus excelsa
+12. Cerealia 13. Caryophyllaceae 14. Eclipta alba 15. Asteraceae 16. Aster tripolium 17. Alternanthera 18. Chenopodiaceae/Amaranthaceae
+19. Xanthium 20. Poaceae 21. Ludwigia 22. Fern Monolete 23. Fern Trilete 24. Algal spore.
+52                                                  Geophytology, Volume 55(1), 2025
+
+
+     In Pollen Zone GU-II (30-15 cm), a decline                       the Deosila Swamp in Northeast India, indicating
+in forest groves and a corresponding expansion                        that cool and dry climatic conditions prevailed
+of open landscapes with scattered vegetation is                       between 6340 and 2970 cal yr BP (Dixit & Bera
+evident. The reduced abundance of Shorea robusta,                     2011). Records from Renuka Lake also reflect a
+compared to the preceding phase, suggests that the                    weakening of the ISM between 4460 and 3480
+region experienced less warm and marked decline                       cal yr BP, suggesting the dominance of cool and
+in precipitation. A concurrent decrease in Bombax                     dry conditions during this interval (Nag et al.
+ceiba among the arboreal taxa further supports the                    2025). Additionally, speleothem δ¹⁸O records
+inference of diminishing rainfall. Moreover, the                      from Mawmluh Cave identified a drought phase
+notable increase in Cerealia and Caryophyllaceae                      between 4200 and 3900 cal yr BP (Kathayat et
+indicates intensification of agricultural activities                  al. 2018). Pollen-based vegetation and moisture
+in the vicinity of the swamp. The first appearance                    reconstructions from Tso Moriri Lake in Ladakh
+of marshy taxa such as Ludwigia point towards                         reveal a long-term Holocene trend toward
+the development and stabilization of marshy                           increasing aridity from ~5200 to 3000 cal yr BP,
+fringes along the periphery of the swamp, further                     with particularly heightened dryness between
+suggesting a contraction of the lake extent during                    ~4500 and 3600 cal yr BP (Leipe et al. 2014).
+this phase.                                                           Collectively, these findings support the occurrence
+     Similar evidence has been documented from                        of the 4200 cal yr BP event an abrupt, globally
+
+
+
+
+Figure 4. Comparative chart illustrating the relative chronology of selected lake systems across Northeast India and inferences drawn for
+present study.
+            Trivedi et al. – Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India      53
+
+
+recognized cold and dry phase marking the onset                             cal yr BP aridification (Meghalayan age)
+of the Meghalayan age (Booth et al. 2005).                                  event, highlighting both regional climatic
+     In Pollen Zone GU-III (15-0 cm), the pollen                            deterioration and anthropogenic activity
+assemblage reflects an amelioration in climatic                             impacting the swamp ecosystem.
+conditions across the region. An increase in tropical                    4. Recent sediment profiles (Pollen Zone GU-III,
+moist deciduous taxa, particularly Shorea robusta,                          15–0 cm depth) exhibit a partial recovery of
+suggests a shift toward warmer and more humid                               moist deciduous elements, including Shorea
+conditions, accompanied by a timely monsoon                                 robusta, suggesting an amelioration of climatic
+onset than previous phase. Furthermore, a decline                           conditions in the late Holocene.
+in the relative abundance of Cerealia and other                                         ACKNOWLEDGEMENTS
+cultivated taxa indicates a reduction in agricultural
+                                                                             The authors are thankful to the Director,
+activity around the swamp. Comparable records
+                                                                         Prof. M.G. Thakkar, Birbal Sahni Institute of
+from lakes in Northeast India, including the
+                                                                         Palaeosciences (BSIP), Lucknow, India for
+Merbeel Swamp (Bera & Dixit 2011), Khecheopalri
+                                                                         providing necessary facilities, co-operation to
+Lake (Sharma & Chauhan 1999), and Mikir Hills
+                                                                         accomplish this work and permission to submit
+(Bera 2003), indicate warm and humid conditions
+                                                                         the same. The second author (AP) is also thankful
+associated with enhanced precipitation in their
+                                                                         to the Dr. Rubul Buragohain, Superintendent of
+recent sediment profiles. Similarly, records from
+                                                                         the Botanical Garden, Gauhati University, Assam
+Renuka Lake suggest the persistence of moderate
+                                                                         for providing necessary information about the
+Indian Summer Monsoon (ISM) conditions during
+                                                                         campus vegetation. This manuscript is the part of
+this interval (Nag et al. 2025). Additional evidence
+                                                                         the M.Sc. dissertation work of the second author
+from the Kerha Swamp in Madhya Pradesh
+                                                                         (AP), carried out at the Birbal Sahni Institute of
+points to a robust monsoon phase that facilitated
+                                                                         Palaeosciences (BSIP), under the training program
+the expansion of Shorea robusta (Sal) forests,
+                                                                         reference number BSIP/IV/SA/S/Training/2023-
+indicative of a warmer, more humid climate and
+                                                                         2024/L-539.
+the timely onset of the Southwest Monsoon from
+~400 cal yr BP to the present (Chauhan 2005).                                                    REFERENCES
+                                                                         Agarwal A.K., Rizvi M.H., Singh I.B., Kumar A. & Chandra S.
+                  CONCLUSION                                               1992. Carbonate deposits in Ganga Plain. In: Singh, I.B. (Ed.),
+1. A distinct signal of the Holocene Climate                               Gangetic Plain: Terra Incognita. Geology Department, Lucknow
+                                                                           University, pp. 35–43.
+   Optimum (HCO) is recorded at Pollen Zone
+                                                                         Basumatary S. K., Bera S. K., Sangma S. N. & Marak G. 2014.
+   GU-I (50–30 cm depth), marked by the                                    Modern pollen deposition in relation to vegetation and climate
+   expansion of Shorea robusta and other tropical                          of Balpakram valley, Meghalaya, northeast India: Implications
+   moist deciduous taxa under a strengthened                               for Indo-Burma palaeoecological contexts. Quaternary
+                                                                           International, 325, 30-40.
+   Indian Summer Monsoon (ISM).
+                                                                         Benarde M.A. 1996. Global Warming. John Wiley and Sons, New
+2. Palynological evidence from Pollen Zone                                 York, U.S.A.
+   GU-II (30–15 cm depth) indicates a transition                         Bera S.K. & Basumatary S. K. 2013. Vegetation history and
+                                                                           monsoonal fluctuations during the last 12,500 years BP inferred
+   from dense forest cover to an open vegetation
+                                                                           from pollen record at Lower Subansiri Basin, Assam, Northeast
+   landscape, reflecting a weakening of                                    India. India. Journal of Palaeosciences 62(1-2): 1–10.
+   monsoonal strength.                                                   Bera S.K. 2003. Early Holocene pollen data from Mikir Hills,
+                                                                           Assam, India. Journal of Palaeosciences 52(1-3): 121-126.
+3. The decline in arboreal pollen taxa and
+                                                                         Bhattacharyya A., Mehrotra N., & Shah S.K. 2011. Holocene
+   emergence of marshy indicators during Pollen                            vegetation and climate of south Tripura based on palynological
+   Zone GU-II coincides with the global 4200                               analysis. Journal of the Geological Society of India 77: 521-526.
+54                                                   Geophytology, Volume 55(1), 2025
+
+
+Booth R.K., Jackson S.T., Forman S.L., Kutzbach J.E., Bettis III          Reconstructing Mid–Late Holocene Climate Dynamics in
+  E. A., Kreigs J. & Wright D.K. 2005. A severe centennial-scale          Northwestern Himalaya, India. Quaternary 8(1): 6. https://doi.
+  drought in midcontinental North America 4200 years ago and              org/10.3390/quat8010006.
+  apparent global linkages. The Holocene 15(3): 321-328.               Neog D. & Khinchi S.S. 2015. Climate of Assam: Some Significant
+Breitenbach S. F., Adkins J. F., Meyer H., Marwan N., Kumar              Analysis. Global Climate Change and Biodiversity, V.L. Media
+   K.K., & Haug G.H. 2010. Strong influence of water vapor               Solutions, New Delhi, 71-84. ISBN: 978-93- 85068-73-7.
+   source dynamics on stable isotopes in precipitation observed        Özcan E., Pignatti, J., Pereira, C., Yücel, A. O., Drobne, K., Barattolo,
+   in Southern Meghalaya, NE India. Earth and Planetary Science          F. & Saraswati, P. K. 2018. Paleocene orthophragminids from
+   Letters 292(1-2): 212-220.                                            the Lakadong Limestone, Mawmluh Quarry section, Meghalaya
+Chauhan M. S. 2005. Pollen record of vegetation and climatic             (Shillong, NE India): implications for the regional geology and
+  changes in northeastern Madhya Pradesh during last 1,600               paleobiogeography. Journal of Micropalaeontology 37(1): 357-
+  years. Tropical Ecology 46(2): 265.                                    381.
+Chauhan M. S., Pokharia A.K. & Singh I. B. 2009. Pollen record         Saxena A. & Trivedi A. 2017. Pollen based vegetation and
+  of Holocene vegetation, climate change and human habitation             climate change records deduced from the lacustrine sediments
+  from Lahuradewa lake, Sant Kabir Nagar District, Uttar Pradesh,         of Kikar Tal (Lake), Central Ganga Plain, India. Journal of
+  India. Man and Environment 34(1): 88-100.                               Palaeosciences, 66(1-2)): 37-46.
+Dixit S. & Bera S.K. 2011. Mid-Holocene vegetation and climatic        Sharma C. & Chauhan M.S. 1999. Palaeoclimatic inferences from
+   variability in tropical deciduous sal (Shorea robusta) forest of      quaternary palynostratigraphy of the Himalayas. The Himalayan
+   lower Brahmaputra valley, Assam. Journal of the Geological            Environment. New Age International, New Delhi, 193-207.
+   Society of India 77: 419-432.                                       Shukla R.C., Gopalkrishnan R. & Chakrabarty S. 1989. Study
+Dixit S. & Bera S.K. 2012. Holocene climatic fluctuations from           of Granitic rocks around Kamakhya Hill and adjoining area,
+   Lower Brahmaputra flood plain of Assam, northeast India.              Kamrup District Assam, GSI Record. -122 Pt IV P: 72-73.
+   Journal of Earth System Science 121: 135-147.                       Singh I.B. 1996. Geological Evolution of Ganga Plain–an Overview.
+Dixit S. & Bera S.K. 2013. Pollen-inferred vegetation vis-à-vis           Journal Palaeontological Society of India 41: 99–137.
+   climate dynamics since Late Quaternary from Western Assam,          Sustainable Campus 2021. Gauhati Univrsity portal. Available at:
+   Northeast India: signal of global climatic events. Quaternary          https://web.gauhati.ac.in/landscapes/sustian [Accessed on: 28
+   International 286: 56-68.                                              April 2025].
+Ghosh R., Paruya D. K., Khan M. A., Chakraborty S., Sarkar A. &        Tandon S.K. & Sinha R. 2022. Geology of large river systems.
+  Bera S. 2014. Late Quaternary climate variability and vegetation        Large Rivers: Geomorphology and Management, Second
+  response in Ziro Lake Basin, Eastern Himalaya: A multiproxy             Edition, 7-41.
+  approach. Quaternary International 325: 13-29.
+                                                                       Trivedi A. 2022. Holocene vegetation, climate, and culture in
+Hovius N. 1998. Controls on Sediment Supply by Large Rivers,              Northeast India: a pollen data based review. In: Holocene
+  Relative Role of Eustacy, Climate, and Tectonism in Continental         Climate Change and Environment Elsevier Publishing Group
+  Rocks, Gary Kocurek. 59. SEPM Society for Sedimentary                   (611-628).
+  Geology. https://doi.org/10.2110/pec.98.59.0002.
+                                                                       Trivedi A., Agrawal S., Sharma A., Ali S.N., Manoj M.C., Nag A.,
+Kar A. & Borthakur S.K. 2007. Angiospermic flora of Gauhati               Misra S. & Kawsar M. 2024. Climatic Oscillations and Dynastic
+  University Campus, Assam, India. Genus 189(55): 244.                    Trends: A Multiproxy analysis of the past two millennia in the
+Kathayat G., Cheng H., Sinha A., Berkelhamme, M., Zhang H.,               Indian Subcontinent. Catena 246: 108424.
+  Duan P., Li H., Li X., Ning Y. & Edwards R.L. 2018. Evaluating       Trivedi A., Chauhan, M. S., Sharma, A., Nautiyal, C. M. &
+  the timing and structure of the 4.2 ka event in the Indian summer       Tiwari, D.P. 2013. Record of vegetation and climate during
+  monsoon domain from an annually resolved speleothem record              late Pleistocene–Holocene in Central Ganga Plain, based
+  from Northeast India. Climate of the Past 14(12): 1869-1879.            on multiproxy data from Jalesar Lake, Uttar Pradesh, India.
+Latrubesse E. M. 2008. Patterns of anabranching channels:                 Quaternary International 306: 97-106.
+   The ultimate end-member adjustment of mega rivers.                  Trivedi A., Saxena A., Chauhan M.S., Sharma A., Farooqui A.,
+   Geomorphology 101(1-2): 130-145.                                       Nautiyal C.M. Yao Y.F., Wang, Y.F., Li C.S. & Tiwari D.P. 2019.
+Leipe C., Demske D., Tarasov P. E. & Members H.P. 2014. A                 Vegetation, climate and culture in Central Ganga plain, India:
+   Holocene pollen record from the northwestern Himalayan lake            A multi-proxy record for Last Glacial Maximum. Quaternary
+   Tso Moriri: implications for palaeoclimatic and archaeological         International 507: 134-147.
+   research. Quaternary International 348: 93-112.                     Zhao Y., Yu Z., Chen F., Zhang J. & Yang B. 2009. Vegetation
+Nag A., Trivedi, A., Farooqui, A. & Morthekai, P. 2025.                  response to Holocene climate change in monsoon-influenced
+  Palaeoclimatic Signatures Based on Pollen Fingerprints:                region of China. Earth Science Reviews 97(1): 242–256.
+

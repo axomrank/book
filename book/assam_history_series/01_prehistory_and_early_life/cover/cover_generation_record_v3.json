@@ -1,0 +1,39 @@
+{
+  "book": "B01",
+  "title": "Before the Kingdoms: Prehistory and Early Life in Assam",
+  "date": "2026-10-11",
+  "tool": "image_gen.imagegen",
+  "mode": "Entire cover generated natively; no programmed composition or typography",
+  "prompt_file": "native_cover_prompt_v3.txt",
+  "output": "Before_the_Kingdoms_Cover_v3_hovering.png",
+  "generated_source": "/home/angsuman/.codex/generated_images/01a12b2e-72c1-7cb1-bb7b-a566458d0e01/exec-0688a424-c6b7-46a8-862c-a599d8eedf7a.png",
+  "references": [
+    {
+      "path": "assets/reference-v3/carved-capped-stones.jpeg",
+      "original": "/home/angsuman/Desktop/images.jpeg",
+      "role": "User-supplied carved capped stone forms"
+    },
+    {
+      "path": "assets/reference-v3/circular-relief-stone-slab.jpeg",
+      "original": "/home/angsuman/Desktop/images (1).jpeg",
+      "role": "User-supplied tall flat slab with circular relief"
+    },
+    {
+      "path": "assets/reference-v3/open-stone-jars.jpeg",
+      "original": "/home/angsuman/Desktop/images (2).jpeg",
+      "role": "User-supplied open stone jar forms"
+    },
+    {
+      "path": "../../../../../Social_Media_asset/brand-kit/v1/logo/png/rang-ghar-master-2048.png",
+      "role": "Official publisher mark reference; native generation rendering"
+    }
+  ],
+  "reference_status": "User-supplied photographs are design references; provenance, object identification, chronology and reproduction rights not independently verified",
+  "classification": "Modern AI illustrative montage; objects are interpreted from reference photographs, not a documentary record or claim of prehistoric co-occurrence",
+  "design": "Isolated hovering 3D stone objects; maroon oversized title partially occluded; ivory background, gold orbital ellipse, detached shadows",
+  "typography": "Generated condensed sans-serif title and serif secondary typography; modern editorial treatment requested by user",
+  "review": "Visually inspected: three reference forms distinct, objects hover, partial title overlap present, title and subtitle inferable and correctly spelled",
+  "status": "Design proof; print production settings and publication clearance pending",
+  "previous_versions": "v1 and v2 retained",
+  "manuscript_changed": false
+}

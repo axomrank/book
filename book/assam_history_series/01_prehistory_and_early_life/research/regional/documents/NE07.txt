@@ -1,0 +1,878 @@
+Neolithic      Reconsidered:                              Uncovering                  Uncharted
+Territories in Mizoram, India
+Amrita Sarkar1 and Lalhminghlua2
+
+1. Department of Ancient Indian History, Culture and Archaeology, Deccan College
+   Post Graduate and Research Institute, Yerawada, Pune, Maharashtra – 411 006,
+   India (Email: amrita.sarkar@dcpune.ac.in)
+2. Department of History, Higher and Technical Institute Mizoram, Pukpui, Lunglei,
+
+   Mizoram – 796 691, India (Email: hmingteasailung@gmail.com)
+
+
+Received: 01 August 2023; Revised: 12 November 2023; Accepted: 15 December 2023
+Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2 (2023-24): 43-65
+
+
+Abstract: Prehistoric investigation in the state of Mizoram, India is still in its infancy. Although the
+state of Mizoram is well known for its megalithic traditions, there is virtually no site investigated from
+the point of prehistory. Moreover, Mizoram’s location shows its importance to tracing, cultural,
+linguistic, traditional and genetic linkages between east and South East Asia especially with the country
+of Myanmar. This paper lays down the first attempt to report the presence of Neolithic tools, which are
+mostly accidental, solitary findings and understand its nature of development keeping in mind the
+uniqueness of Northeastern states in India coupled with migration and cultural transmission.
+
+
+Keywords: Mizoram, Prehistory, Neolithic, Megalithic, Feasting, Migration, Folksongs
+
+
+Introduction
+The field of prehistoric research in Mizoram is relatively young and under-developed.
+Although the state of Mizoram is well known for its megalithic traditions
+(Lalhminghlua and Sarkar 2017, Malsawmliana 2017, Malsawmliana 2019), there is
+virtually no site investigated from the point of prehistory. Moreover, Mizoram's
+strategic location facilitates the exploration of cultural, linguistic, traditional, and
+genetic connections between East and Southeast Asia, particularly with Myanmar. This
+study is the first of its kind to investigate the Neolithic period in Northeastern India,
+taking into account the unique cultural and historical characteristics of the region, as
+well as the influence of migration and cultural transmission from neighboring areas.
+
+The Northeastern region comprises the states of Assam, Meghalaya, Manipur,
+Mizoram, Arunachal Pradesh, Tripura, Sikkim and Nagaland. This entire area
+displayed several ecological settings and geomorphology. A large number of Neolithic
+tools for the first time were reported from Assam by Lubbock (1867). Worman (1949),
+Dani (1960), Krishnaswami (1960), and Thapar (1985) made a systematic study of
+Assam Neolithic tools and placed these materials within the framework of Indian
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+Neolithic as well as within the chronology of the Neolithic of the Indian subcontinent.
+Dani (1960) made a systematic study of Assam Neolithic tools. Most of the Neolithic
+sites are located on the hilly tracts of upland areas suggesting a unique trait of this
+cultural phase in the region The important excavated Neolithic sites are Parsi – Parlo
+(Ashraf 1990) and Daporijo (IAR 1996 - 97) from Arunachal Pradesh; Daojali Hading
+(Goswami & Sharma 1963), Sarutaru (Rao 1977) and Marakdola (Rao 1977) from
+Assam; Nongpok Keithelmanbi (Singh 1993) and Napachik (O.K. Singh, unpublished
+Ph.D. Dissertation 1993) from Manipur; Selbalgiri II (IAR 1967-68), Pynthorlangtein
+(IAR 1992-93), Lawnongthrow (Mitri & Neog 2016), and Mirkhan (Mitri &Neo 2016)
+from Meghalaya; Chungliyimti (Jamir 2011) in Nagaland.
+
+Physical Settings of Mizoram
+Bounded by Myanmar and Bangladesh internationally and with its domestic
+neighbours of Assam, Tripura, and Manipur, Mizoram lies between 21o56N – 23o31N
+latitudes and 92o16E-93o26E longitudes. The Tropic of Cancer passes through the state
+almost dividing in equal halves. The maximum dimension running from north to
+south is 285 km while that from east to west is 115 km (Pachuau 2009). Owing to
+rugged terrain and thick vegetation, geological studies in Mizoram is comparatively
+low (Mandaokar 2000; Pachuau 2009) (Fig 1). However, geological studies have shown
+sedimentary settings consisting of sandstones and shales belonging to tertiary age
+(Pachuau 2009; Sati 2019 b) and which are continuation of rock formation belonging to
+Patkai range and Cachar hills. There are evidences of marine fossils embedded in the
+rocks (Pachuau 2009).
+
+            Table 1: General geological succession of Mizoram (Pachuau 2009)
+ Geological Age        Group Name          Formation Name                    Rock Type
+Recent                                   Alluvium                  Mainly in river beds
+Pleistocene                              Unconformity              -
+Mio-Pliocene           Surma             Bokabil                   Shale, Siltstone, Mudstone
+                                                                   and little shale
+                                         Upper Bhuban              Mainly sandstone, siltstone
+                                                                   and little shale
+Oligo-Miocene          Surma             Middle Bhuban             Mainly shale and Siltstone
+                                         Lower Bhuban              Mainly Hardstone
+Oligocene              Barail            Barail                    Predominantly           shale,
+                                                                   siltstone and grey wakes, etc.
+
+From a geological perspective, the state is part of Tripura-Mizoram Accretionary belt
+belonging to Cenozoic age (Evans 1964; Srivastava et.al. 2008). The state has been
+divided into five geotectonic provinces (Mandaokar 2000). The general formation of
+Mizoram geology is of repetitive succession of arenaceous and argillaceous sediments
+in NNW-SSE trending anticlines and synclines in longitudinal directions (Srivastava
+et.al. 2008; Pachuau 2009). The anticline shows long, narrow and tight formation but
+
+
+44
+                                              Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+the synclines are broad and gentle (Mandaokar 2000). The stratigraphic succession of
+Mizoram is given as follows (Table 1).
+
+As mentioned, Mizoram is mountainous in physical set up with ranges separated by
+valleys. The lowest elevation can be found at Tlabung, i.e., 21m while the highest
+elevation is that of Phawngpui (Blue Mountain) at 2157m. Since the terrain is young,
+the landforms do not show much diversity in formation, except for a distinctive feature
+that the western mountain have higher degrees of slopes (Pachuau 2009; Sati 2019b).
+The eastern half of the state has higher slopes and are steeper than the western half
+with the altitude ranging from 400-2157 meters. Generally, the high points are over
+1000 meters. There are various mountain ranges such Sialkal Range with Lengteng
+being the highest peak at 2149 meter above sea level; Chalfilh Range with an elevation
+of 1905 meters and Ṭawi Range at 1889 meters. Other range includes Mawmrang,
+Hmuifang, Reiek, Mamit, and Hachhek (Pachuau 2009).
+
+                 Table 2: Physical divisions of Mizoram (Sati 2019b)
+Sl. Geographical Altitude          Area     Percentage             Location
+No.      Unit           (M)        (km )
+                                       2
+
+1   High            >1200        1732.1     8.2         Eastern      part     of   the
+    structural hill                                     longitudinal half largely and
+                                                        central
+                                                        part of the state with limited
+                                                        distribution
+2   Medium          800-1200     4350.6     20.6        Found in the surrounding of
+    structural hill                                     the high structural hills
+                                                        comprises of foothills
+3   Low             <800         13,013.3 61.7          They cover almost the entire
+    structural hill                                     area of the state
+4   Valley fill     Along the 574.3         2.7         The             unconsolidated
+                    valleys                             sediments       deposited   by
+                                                        streams or rivers in a narrow
+                                                        fluvial valley
+5   Flood plain     Low-         78.4       0.4         Formed by deposition of
+                    lying                               recent       alluvium—gravel,
+                    plains                              sand, and silt
+6   Linear ridge    Parallel     1338.3     6.4         Low-dissected, parallel and
+                    and                                 linear ridge of uniform
+                    linear                              heights and dimensions,
+                    ridges                              found along the western and
+                                                        south-western parts of the
+                                                        state stretching from the
+                                                        Lawngtlai district in the
+                                                        south to Mamit district in the
+                                                        north
+
+
+                                                                                        45
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+Amongst the high elevation and mountainous terrains, there are some flat areas, the
+largest of which is located in Champhai with a length and width of 11.27 and 4.83
+kilometres respectively. Presently, the whole area has been taken up for terrace
+farming. Other flat areas include Tuiphai in North Vanlaiphai and Thenzawl both
+belonging to Serchhip District; Chemphai flat land is located along Serlui River while
+Buhchangphai flat land is that of Teirei River. Smaller flat areas can also be found at
+Zawlpui, Hortoki, and Bairabi etc. (Pachuau 2009). Sati (2019a & b) has stated that 3.1%
+of the geographical area are floodplains and valleys, linear ridges form 6.4%, while
+90.5% is that of hills with varying low and high altitudes. Physical division table of
+Mizoram is given as follows (Table 2).
+
+Naturally forming lakes are few and formed only where the mountains can provide
+embankments. The naturally formed lakes are Palak, Ṭamdil, and Rengdil apart from
+various other smaller lakes. With regard to drainage, most of them originated in the
+central part of the state flowing either towards north or south directed by the ridges.
+There are rivers such as Tlawng (the longest river in the state), Tuivawl, Tuirial,
+Langkaih, and Tuivai all draining into Barak River in the north. The southward
+flowing is Chhimtuipui while Khawthlangtuipui flows towards the west. Ṭiau and
+Chhimtuipui forms natural political boundary with Myanmar (Pachuau 2009).
+
+Cultural Landscapes
+The term Mizo is a generic word meant to comprise of the various tribes living within
+and outside the state. The major clans of Mizo are Lusei, Ralte, Hmar, Mara, Lai, Paite,
+Kuki etc. (Lalzarzoa 2021). Origin according to traditional viewpoint is Chhinlung
+(Covering stone) from which people emerged. The origin viewpoint of Chhinlung can
+be found in the folksongs of Hmar clan. However, the meaning and interpretation of
+Chhinlung vary among scholars. One of the earliest Mizo writers Liangkhaia identified
+it with that of a Chinese story Chhinlunga who left home and settling in Myanmar c. 750
+CE. Following his death, the people dispersed in different directions and calling
+themselves Chhinlung chhuak (originating from Chhinlung). Another writer K. Zawla
+(2011) says that they passed through a gap in the Great Wall of China escaping the
+clutches of the ruler. Ginzatuang placed Chhinlung in Tibet from where Mizos moved
+out; Sangkima connects it with the builder of the Great Wall of China while the need
+for locating the people at a larger context culturally and geographically, according to
+Joy L. Pachuau becomes the reason for historicizing the myth (Chhangte 2021).
+
+It is difficult to ascertain when Mizos entered Myanmar from China but believed to
+have happened in three stages. Amongst the first group, there are the Pyu, Arakanese,
+Kachin and other smaller tribes. Shans or Tais, Karen, Mon-Khmer and others are
+believed to be in the second and third group. Mizos forming part of the first group
+entered Myanmar reaches the Chindwin River (Lalthangliana 2014; Lalzarzoa 2021)
+and moved westward to Kabaw Valley called as (Kawlphai by Mizos) and departed
+again c. 800-850 CE (Lalthangliana 2014). Based on some words such as Kawlhnam,
+Kawlhrei, Kawltu, Kawlbahra, Kawlhai, Kawlthei, Kawlfung, Kawlhren, Kawlper etc. they
+
+
+46
+                                                 Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+appeared to have interacted and shared some aspects of culture. According to K. Zawla
+(2011, Lalzaroa 2021), they departed again for Khampat c.950 CE and after staying for
+some period, they headed for Chin Hills c. 1200 CE according to Lalthangliana (2001)
+and c. 1250 CE according to K. Zawla (2011). Here, some groups such as Zous, Paite,
+Simte, and Haukip belonging to Thado clan moved towards Manipur while others
+moved towards the southwest settling in Tiddim, Falam, and Hakha. Belonging to
+another group Pautu, Hualngo, Khawlhring, Darlong, Hmar etc. crossed Ṭiau River
+and entered Mizoram. Thântlang and Rûn area (Chin Hills) was occupied by clans
+such as Hauhnar, Chuaungo, CHuauhang, Ngente etc. c. 1250-1400 CE and moved
+towards Lêntlang and Ṭiau area c. 1450-1700 CE (Lalthangliana 2001). Not all groups
+and clans migrated at the same time and Hrangkhawl, Darlong, Biate or Hmar clans
+are thought to be at the forefront and venturing beyond the present-day Mizoram
+boundary. Some have labelled them as old Kuki. They were thought to be driven out
+by Thado, Jangshen and their offspring. The last to enter into Mizoram was the Sailo
+clan around second half of the 17th century CE (Sangkima 2000); Lalzarzoa 2021).
+
+It is difficult to ascertain when the word ‘Mizo’ came into use. According to
+Lalthangliana (1980), the term came to be used in the reign of Lallula of Sailo clan,
+during his rule at Zopui c. 1765 CE. The term Mizo did not circulate widely for
+identification that by the time of 1901 census, there was none who considered
+himself/herself as Mizo. However, by the 1961 census, there were over 200,000
+thousand people who considered themselves as Mizo. In the record of the earlier
+census, people identified themselves according to their clans such as Hmar, Lusei,
+Paihte, Pawih, and Ralte. However, the latter census shows identification of only three
+i.e. Hmar, Mizo, and Pawih. It can be surmised that certain level of cultural unity
+occurred in between the census where people began to identify themselves under a
+single term, and that clan-based identification took hold for quite a significant amount
+of time.
+
+The lack of writing system proved to be a hurdle when it comes to reconstructing the
+past. Information was passed on orally through forms such as stories and lore etc.
+Recordings were first made by the Colonialists. The history that is now available are all
+based primarily on colonial accounts and oral sources. This naturally narrows what
+may actually have been the case in the past. Historian Lalthangliana (2014) has made
+an attempt in understanding how farming may have been conducted in the past.
+According to him, during their stay in Chindwin and Kabaw valley, their conditions
+would not have been too poor owing to the flat fertile land and their contacts with the
+Burmese. However, he is not certain if terrace farming was ever practiced by the Mizos.
+With migration to the Chin Hills and occupying the areas between Thân Tlang and
+Rûn River, their economic conditions have deteriorated. Owing to the high altitude,
+rice was not yielding and they had to rely on corns, millet, taro (Colocasia esculenta), and
+broad beans (Canavalia ensiformis). They did not have proper tools and antlers of deer
+and sazuk (Rusa unicolor) including sharpened sticks were used for weeding and
+clearing the cultivated lands. This is reflected in an old song:
+
+
+                                                                                           47
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+                 Khisa chhuk chho chhumpui zing hnuaiah,
+                 A ki riau riau riang lo thlawh nan a ṭha e.
+                                                          (Lalthangliana 2014)
+
+                 A deer moves around under the cloud,
+                 The horn is good for clearing cultivated land.
+                                                       (Translation: Lalhminghlua)
+
+Colonial records on the cultivation system do not differ much when compared to the
+present day in terms of cultivated items and the nature of cultivation. The use of
+plough apparently was not practiced as mentioned by Lewin (1870) and that jhum
+system was practiced by everyone. Stevenson (1943) has written a detailed account of
+how crops were rotated on the basis of seasonal change. There were two main seasons
+– Fur (June to October) and Ṭhal (November to May). The cultivated crops have been
+classified into four classes – gain, pulses, roots and vegetables (Carey & Tuck 2008).
+The staple foods include rice, millet, corn, sulphur beans, and pea. There are also
+subsidiary foods such as broad beans, pumpkins, melons, taro, and gourds etc.
+(Stevenson 1943). Colonial records on the tools used for cultivation are axe and hoe
+(Stevenson 1943; Carey & Tuck 2008), the broad edge not measuring more than four
+inches (Carey & Tuck 2008), Burmese working chopper, indigenous billhook
+(Stevenson 1943).
+
+Archaeological Findings
+From Context: Neolithic in Mizoram up until now are not exhibited by habitation sites.
+Hence a major challenge faced was to decide on a starting point. However, few
+neolithic celts as accidental, solitary findings have been reported and is getting
+reported every now and then. Under the present study an extensive village to village
+survey was undertaken to find these Neolithic celts and locate their original context.
+From Champhai District, villages surveyed were Buang, Dilkawn, Zotlang, Zote,
+Bulfekzawl, Leisenzo, Lianpui, Sesih, Vangchhia, Sazep, Chawngtlai; from Khawzawl
+District, Chawngtlai village and from rom Saitual District, Maite village was surveyed
+(Figure 1). The reason why probably habitation sites are still not found is because they
+were not truly practising intensive agriculture.
+
+They probably were hunter-gatherer, forager living in rock-shelters but showed a
+tendency of making settlements at open stations as primitive farming developed
+among them. The area was rich with natural resources and the people learnt to utilize
+these plants and animals. For this season few villages in eastern Mizoram were
+selected; especially the ones which has reported Neolithic celts. The findings are as
+follows:
+
+Zote: This is a Village in Champhai Block in Champhai District of Mizoram State,
+India. It is located 5 KM towards East from District headquarters Champhai. It has
+reported Neolithic celt (Figure 2). It is 9.8cm in length and 4.1 cm in breadth along the
+
+
+
+48
+                                                Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+cutting edge and 3cm along the butt end. The maximum thickness is 2.1cm. Although
+the specimen was in Aizawl, however we wanted to visit the original location and also
+understand the landscape context from which it was found. The specimen was found
+from a paddy field and was an accidental finding (N 23. 49156, E 93.35621; accuracy 2
+m radius; elevation 1288m). The provenance was a naturally low-lying area developed
+further for terrace farming. The area is fed with perennial river Tuipui and there are
+streams which cone from the mountains. The paddy cultivation area is surrounded by
+mountains and vegetations. While returning some sections were observed, however no
+habitation deposit was found.
+
+
+
+
+Figure 1: Villages surveyed for Neolithic celt (Data sources: Shape Boundary from
+Bhuvan portal, vector and raster map data from Shuttle Radar Topography Mission -
+SRTM)
+
+Vangchhia: The village of Vangchhia is located in the Champhai district, Mizoram. The
+village is home to the state’s first protected archaeological site. There are around 180
+menhir stones of different shapes and sizes in this village that are fully carved. Not too
+far away from these menhirs is a cave or a rock shelter that overlooks Myanmar.
+Vangchhia (Aizawl Circle, Archaeological Survey of India 2018) has also been subject
+to excavation by Archaeological Survey of India. Besides structural findings,
+handmade cord impressed pottery and smoking pipes have also been reported from
+the excavation. Another interesting finding is stone paved pathways leading to the
+Ṭiau River. These pathways might have been used for fishing, hunting, agricultural
+activities and other subsistence activities along the river courses of Ṭiau river by the
+
+
+                                                                                          49
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+people of the bygone ages. A neolithic celt (Figure 3) has also been reported from the
+site. Its small in size, finely polished with a convex cutting edge and resembles late
+Neolithic in nature. Its 4.7 cm in length and 4cm in breadth along the cutting edge and
+1.8 cm at the butt end. The maximum thickness is 1.3 cm. It’s broken on the butt
+portion and also fresh damaged marks were noticed both on the cutting edge as well as
+sides. The location (N 23.18370, E 93.34249; accuracy 3 m radius; Elevation 943m) from
+where this tool was found has a gentle slope. The trail to reach this area goes down
+from the mountain almost 5.8 km from the motorable road. The trail was heavily
+vegetated as no one has used the same road for last 5 years. This locality is on the
+southern side of the present village of Vangchhia. From that locality the mountain
+slopes down further and meet the Iva River. The area from where the celt was found is
+a flatter area approximately stretching 70 to 80 m and then again ends in a cliff.
+
+
+
+
+            Figure 2: Celt (Zote)                           Figure 3: Celt (Vangchhia)
+
+Sazep: It is a village in the Champhai district of Mizoram, India. A neolithic celt (Figure
+4) has been reported from the village. The location (N 23.23240 E 93.30175, Accuracy 2
+m radius; Elevation 1376m) of the celt from where it was found is just a few meters
+away from the habitation area of the present village above the road close to a banyan
+tree. Its 8.6 cm in length and 4.1 cm along the cutting edge. The breadth of the butt end
+is 2.4 cm and the maximum thickness is 1.6cm. This tool was actually found in 1994
+during slash and burn activity along with some potsherds as well as metal artefacts
+none of which has survived. The whole area looks like old settlement as it is strewn
+with pottery and the colour and composition of the soil looks like that of an older
+settlement. The present village also has a long history and was established in 1888 by
+Hualngo clan. Before westward movement, people from Chin areas used to hunt in
+the present day Sazep area. This was supposedly a rich hunting ground. Hunters who
+came here always have successful hunt and hence wanted to keep this area secret to
+others. The name Sazep comes from two words, “Sa” means meat and “Zêp” means
+hidden. Although this is literal translation of the word but popularly it should be taken
+
+
+50
+                                                 Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+as a hidden hunting ground. There are plenty of water sources around. In the bygone
+eras there were competitive feasting as well as sharing of the entire hunt with the
+community.
+
+
+
+
+   Figure 4: Celt (Sazep)          Figure 5: Celt (Maite)         Figure 6: Celt (Maite)
+
+People who set up the present village came from Saṭawm side of Myanmar. The
+present village is sitting on an old settlement. When these people came the name Sazep
+was already in vogue and they just adopted the name. Based on the long history,
+archaeological evidences and the strategic location of the village it seems to have a
+prehistoric foundation and has potential for more intensive archaeological
+investigation.
+
+Maite: Maite is a village in Thingsulthliah Block in Aizawl District of Mizoram State,
+India. It is located 44 KM towards East from District headquarter Aizawl. Two
+Neolithic celts were found in the village. The first one (Figure 5) was a bigger one
+highly polished, 16.6 cm in length and 6.3 cm in breadth along the cutting edge. The
+butt end has a breadth of 3.8cm. It weighed approximately 800 gm and probably was
+used for heavy duty. The maximum thickness in 3.1 cm. The other one (Figure 6) was
+not as polished as the first one and small in size too. The length of the tool is 6.7 cm, the
+breadth at the cutting edge is 6.2 cm and at the butt end is 3.2 cm. The maximum
+thickness is 1.4 cm. Both are intact complete tools with some surface scratchings.
+
+From Private Collection: Apart from contextual findings, there are also some celts
+belonging to private collection of a Mizo historian, B. Lalthangliana from Aizawl. They
+were collected from various places. The authors could document ten celts from his
+collection as mentioned in his book (Figures 7- 9). The details of the documented stone
+tools are outlined in Table 3. Amongst the celts that were documented, the length
+ranges from 4.3cm – 9.5cm; the cutting-edge ranges from 3.7cm – 5.7cm; while the butt
+edge ranges from 1.7cm – 3.2cm. The tools are polished and smoothened although
+some damages were observed. Based on the profiles, they may be divided into axes
+and adzes. Amongst the tools, No. 3 can be of volcanic in morphology, perhaps that of
+
+
+
+                                                                                           51
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+basalt or gabbro. However, this requires confirmation. Should it be of volcanic, it
+would mean that it is not of local origin. There are also some tools that have wooden
+texture in their appearance. They could be made out of petrified wood. This may be
+considered as silicified woods have been reported from Zawlnuam in Mamit District,
+Buhchang in Kolasib District (Tiwari et.al. 2012; Chandra et.al. 2013) and Tuipang in
+Saiha District (Agarwal et.al. 2006). The origin of these stones may only be clarified
+based on laboratory testing.
+
+               Table 3: Neolithic celts from B. Lalthangliana’s Collection
+  Sl.        Length (in    Cutting edge        Butt edge                Profile
+  No.           cm)            (in cm)           (in cm)
+   1            5.9               5.2              3.0      Single sided bevel edge
+     2            5.5                 4.6                2.5        Single sided bevel edge
+     3            4.3                 3.8                3.2        Single sided bevel edge
+     4            4.7                 4.1                1.7        Single sided bevel edge
+     5            6.0                 3.7                1.7        Double sided bevel edge
+     6            5.7                 5.7                2.4        Double sided bevel edge
+     7            7.4                 4.5                1.9        Double sided bevel edge
+     8            6.0                 5.2                1.9        Single sided bevel edge
+     9            6.2                 3.9                2.5        Single sided bevel edge
+     10           9.5                 3.7                2.7        Single sided bevel edge
+
+
+
+
+                              Figure 7: Lalthangliana Collection
+
+
+52
+                    Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+
+
+Figure 8: Lalthangliana Collection
+
+
+
+
+Figure 9: Lalthangliana Collection
+
+
+                                                              53
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+Ethnographic Context: The importance of Ethnographic survey in archaeology is that
+it helps in the examination of the role of material culture through observation and
+interviews. Ethnographic data also helps archaeologists to think more broadly about
+the original social context of the tangible as well an intangible aspect of the prehistoric
+society that they are investigating. During this field work many a times the researchers
+needed to take detours depending on information that was received and to their
+surprise most of these times instead of finding what they went looking for, they found
+something more engaging in terms of materials culture of Neolithic on a generic level
+like cord impressed pottery and food processing equipment like pestle and mortar etc.
+However, since not a single cord impressed pottery has been found in association to
+celts no connection could be establshed with ethnographic data and
+ethnoarchaeological data and hence the understanding will remain ethno-sociological
+rather than archaeological in this case.
+
+
+
+
+                Figure 10: Cord impressed globular pot from Bunag Village
+
+Cord Impressed Pottery: In Buang village, an old cord impressed pot was shown
+(Figure 10) to us that has been passed down through generations. It’s a typical cord
+impressed globular jar. The pot is 50 cm in height; outer rim diameter is 25.5.cm and
+inner rim diameter if 18 cm. the maximum body circumference is 128 cm and
+circumference of neck is 70 cm. The condition of the pot is intact. According to the
+
+
+54
+                                                  Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+family the pot is more than 160 years old and was traditionally used for making of rice
+liquor. However, in the present context it is being used to store tobacco.
+
+
+
+
+                      Figure 11: Cord impressed jar (Buang village)
+
+A second pot having slight carination and belonging cord impressed black ware
+(Figure 11) was also there. This pot is smaller than the previous one with an opening in
+the front side to facilitate dry frying of seeds and chillies. Height of this pot is 21.5 cm;
+outer rim diameter 17.8cm and inner rim diameter is 12.5 cm. Maximum body
+circumference is 77 cm. The opening is almost squarish in shape measuring 13 cm in
+length and 15 cm in breadth. Both the pots are handmade.
+
+Another cord impressed pot was recorded in the village Leisenzo. This was a globular
+jar with perforations at the base. This particular pot was an import from Saizang in
+Myanmar by people who came looking for employment in 1990s. At present they are
+using it to cook sticky rice. They put a vessel with boiling water and hang this
+perforated vessel on top. The perforations are covered by gourd skin and pre-soaked
+rice are cooked in it through steaming. Eighteen perforations were noticed at the
+bottom with an average diameter of 0.7 m. the height of the vessel is 30.5 cm with a
+maximum body circumference of 97 cm. Diameter of outer rim is 25 cm and inner rim
+is 18cm.
+
+
+                                                                                            55
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+At the village of Sazep, similar perforated cord impressed pot was found with a family
+(Figures 12a and 12b). In this case there were thirteen perforations. This is a globular
+pot with a maximum body circumference of 102 cm. The diameter of perforations
+ranged between 0.5 to 0.7 cm. the family mentioned that that this perforated pot and
+the phallus shaped pestle came with their grandparents when they moved to Mizoram
+and they believe them to be an import from Myanmar. The locals mentioned that
+perforated pot was traditionally used for brewing liquor.
+
+
+
+
+                      a                                           b
+        Figure 12 a and b: Perforated cord impressed globular pot (Sazep village)
+
+
+
+
+                                   Figure 13: Pestle (Lianpui village)
+
+Pestle: Lianpui village which was reported for findings of polished stones along with
+pestle and mortars were also visited for documenting those artefacts and recording
+their primary locations. To our surprise we could not locate the polishing stone as
+according to the owner it was sent to Aizawl Museum. However, he still has the pestle
+(Figure 13) that he found along with the polishing stone. At present he is using that
+pestle as a clay andiron for firewood. It is broken into two halves because of regular
+
+
+56
+                                               Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+heating and one half has also developed some cracks. Nonetheless we documented it.
+The length of the pestle is 26 cm and breadth are 5.5cm the owner also recalled finding
+cord impressed potsherds, more pestle and mortars and pipes in the area in earlier
+days.
+
+Another pestle was found at the village of Sazep similar to the previous one although
+they mentioned they it’s a surface collection. At present day they are using it as a
+pounding stone to smash garlic and other vegetables. The length was measured as
+16.5cm at the broader end the circumference is 19cm and at the tapering end is it 12 cm.
+We found another interesting pestle with a family in the shape of a phallus (Figure 14).
+The length of this pestle was 16.2cm. They locally call it chirawtlung meaning salt
+grinding stone. Although phallus shaped stone objects are not uncommon in global
+perspectives and have been reported from the early Neolithic of Southern Levant
+(Mithen et al 2005), Roman culture (Moser 2006) and Native American Culture
+(Koerper and Evans, 2008), however they are meagre. Considering that one of the
+earliest representations of male sexuality in the form of stone phallus comes from
+Gravettian culture (Upper palaeolithic) in Germany (Conard, 2006) and is
+contemporary to Venus figurines, male sexual imagery is comparatively rare among
+the figurative representations from prehistoric context. This finding is intriguing from
+this perspective.
+
+
+
+
+                            Figure 14: Pestle (Sazep village)
+
+
+                                                                                         57
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+Present Day Garden Tools: In Lianpui village we also recorded present day garden
+tools (Fig 15) having exact shape like Neolithic celts and axes but made out of iron. One
+tool was bended into the shape of a hoe but made out of a thin sheet of metal.
+
+
+
+
+                    Figure 15: Present day garden tools (Lianpui village)
+
+Carinated Metal Cooking Vessel: In Bulfekzawl village we were shown a big carinated
+cooking vessel similar to handi made out of pure copper (Figure 16). This belonged to
+Mrs. Zosangi an octogenarian, who inherited it from her father and her mother was a
+village Chief’s sister. She comes from a socio-economically advantaged background.
+The vessel is still being used to cook rice and meat and sometime even borrowed by
+neighbours to cook feasts. At a time 8kg of rice can be cooked in this vessel. The
+maximum circumference of the body is 140.5 cm. The outer rim diameter is 38cm and
+inner rim diameter is 29cm.
+
+
+58
+                                                Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+
+
+                Figure 16: Carinated Copper Vessel (Bulfekzawl village)
+
+Theoretical Perspective
+Neolithic for the state of Mizoram has not been established from a stratigraphic context
+till date. There are findings of Neolithic markers such as celt, cord-impressed ware, and
+megalithic erections (if one considers them as culturally similar in practice to those of
+Europe). However, all these findings come from surface level except for some sherds
+from Vangchhia excavation. The lack of extensive explorations to find undisturbed
+areas and excavations are factors as to why till date, no proper Neolithic site can be
+established. This factor is heightened by the mountainous nature where erosion occurs
+and also due to the quasi-sedentary nature of the people in the past moving from one
+place to another periodically. Their movement depended on the fertility of the soil and
+most likely even due to game animals. With lesser intensive farming and periodic
+migrations, understanding Neolithic may require a different approach.
+
+Looking into the nature and method of production, ethnographic history has shown
+that competitive feastings were practiced. The idea or concept of feast can be found in
+many cultures. Feast may be defined as sharing of any special food, either in quality,
+preparation, or quantity by two or more people not on a daily basis but on special
+occasions or events (Hayden & Villeneuve 2011). Studies related to food from the
+perspective of archaeology are built upon the assumptions that food material culture
+can create social relations and groups; food preferences are not always determined by
+calories but traditions and cultural constitutions; food as a transformative agent; and
+the agency nature of meals and dishes in social processes. Feasts has been classified
+into three broad categories – celebratory, patron-client, and status/display, each with
+their own meanings within societies (Hastorf 2008). Of the kind that is dealt here is the
+last category, i.e. status/display feasts called as feast of merit. The Neolithic feasting
+
+
+                                                                                          59
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+model asserts that the desire for ostentatious display of power was the driving force of
+agriculture (Hayden 2009). To display power through harvest requires more income
+which also automatically drove development of production tools.
+
+
+
+
+       Figure 17: Hranghleia’s memorial erection mentioning 82 communal feasts
+
+Among the Chins, certain feasts were considered to have connection that would
+enhance the fertility of the host (Stevenson 1943; Hayden & Villeneuve 2011). The feast
+
+
+60
+                                                   Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+of merit among the Mizos eventually end up in what is locally termed as Thangchhuah,
+a status of an all achiever who succeeded in gaining all the requirements to climb up
+the open social ladder. This status was achieved through two processes – Inlam
+Thangchhuah (within the village) and Ramlam Thangchhuah (through hunting of specific
+animals). Thangchhuah involves series of steps necessarily incorporating feasts multiple
+times. Outside the research area but within a proximal distance, feasts were also
+important among the Nagas for transferring fertility from the host to monuments
+through which fellow villagers can access for their own benefit (Simoons 1968; Hayden
+& Villeneuve 2011).
+
+For the Chins or Mizos, the idea of feast was entwined with religion where production
+played a key role in their understanding of the afterlife. The fact that communal
+feastings can be given by anyone capable shows the nature of ideological platform in
+which society was built. For illustration, Hranghleia (1854-1942 CE), a warrior
+belonging to Hmar Pulun clan gave communal feasts for 82 times who finally rests in
+Chawngtlai village (Figure 17). Similar case was also recorded from Sazep village
+where in the past communal feastings were practiced (C. Vanlalvunga, personal
+communication, 2018). Thangchhuah feasts is possible only with a good harvest and
+successful hunting. Consistent efforts were given to host feasts showing their power
+and achievements which would eventually lead to attainment of Thangchhuah. The
+practice of feasting also implies necessarily a stratified society.
+
+However, what must also be kept in mind is the nature of the society regarding
+habitation deposit as they were not permanently tied down to one single area. Their
+continuous periodic migrations probably did not allow for much cultural deposits.
+Celts were probably discarded at the place of their use after being worn out. It is from
+this perspective that Neolithic in Mizoram may be glanced, at least to begin.
+
+Discussion and Conclusion
+Currently, the scenario of Neolithic research is meagre and extensive works are
+required to have an idea of pan-Neolithic in the state. Based on the field survey,
+ethnography, and written sources, it is clear that neolithic was practiced until some
+hundred years or so as evident based on the practice of feasting. In fact, shifting
+cultivation is still practiced today. The mountainous nature of the terrain perhaps did
+not allow for prolonged settlement as compared to the plain areas where source of
+agricultural income based on fertile soil are regularly deposited. The transferring of
+soil fertility from the mountains carried by rains and rivers only allowed for periodic
+cultivations until the potency of the soil is regained in the hilly areas. This is a factor for
+periodic migrations in the past. The tools required for cultivation based on
+ethnohistory is animal horns while archaeology is that of celt shows the probable status
+of society where some may have struggled in their cultivations. The sporadic nature of
+celt findings requires further work, especially those that are in collection. With the
+establishment of their provenance, a better view of Neolithic may be derived for the
+state.
+
+
+                                                                                             61
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+The historic pattern may be given a similar consideration based on the evidence of
+surface findings in other states of the Northeast, which are also geographically
+belonging to the same Himalayan range. The tools that have been documented and
+those that have been reported from other states are more or less similar in design,
+material, and intended functions. Observation of the documented materials shows that
+few celts were most likely made out of petrified woods which is readily available in the
+state in places such as Zawlnuam, Buhchang, and Tuipang. In fact, Zawlnuam and
+Buhchang are located close to Tripura border with Mizoram; and those celts in Tripura
+mentioned by B. Lalthangliana could have their origin from these places. Moreover, the
+similar practice of slash-burn cultivation, the close affinity of aspects such as language
+and cultural practices etc. shows that Neolithic of Northeast India do not diverge in
+extreme manner, but rather tend to show similar bases and foundations.
+
+The practice and nature of feasting can shed light on the nature of Neolithism,
+especially of the past. This would allow the entire Neolithism to be considered at par
+with those of Southeast Asia and Oceania where feastings were also practiced by
+different cultures. It also further establishes the geographical extent of feasting and its
+significance in the formation of society.
+
+Acknowledgements
+This survey was only fruitful with the assistances and contributions of various people.
+We would like to thank to Dr. Laithangpuii, Assistant Professor in the Department of
+History, ICFAI University, Mizoram and Mr. Vanlalhuma Singson, Archaeologist, Art
+and Culture Department, Government of Mizoram for their expertise and assistance
+throughout our field work. We are also extremely grateful to Ms. Aishwarya Mhaske
+for her contribution in mapping Mr. Sumeet Jadhav in photo editing. We would also
+like to show our gratitude to Mr. B. Lalthangliana, one of the seniormost historian and
+author in Mizoram for his pearls of wisdom and also allowing us to document his
+private collection of Neolithic celts. We are also immensely grateful to Mr. MC
+Saithanzama, Mr. Zirkunga of Zote village, Mr. Dara Tlau of Buang village, Mr.
+Kawlkhuma and Ms. C. Lalrinsangi of Khuangleng village, Mr. Huallawta, C.
+Ramlianzauva, and Ms. Lalremchhungi of Lianpui village, Mrs. Zosangi, Ms. C.
+Lalhmingliani, and Mr. Lalnuntluanga of Bulfekzawl village, Mr. K. Ngaihthanga of
+Leisenzo village, Mr. Tinkhandala of Ramhlun North, Mr. F. Malsawmtluanga and Mr.
+F. Lalmuanchhunga of Vangchhia village, Mr. C. Thangvunga, Mr. Lalthangzuala, Mr.
+Vawmhranga of Sazep village, Mr. J.H. Ṭhahrima of Tualte village, and Mr.
+Lalduhawma Pachuau of Maite village.
+
+References
+Agarwal, A., M. Prasad, and B. D. Mandaokar. 2006. "A Leguminous Fossil Wood from
+           the Lower Miocene Sediments of Tuipang Area, Mizoram, India." Journal of
+           Applied Biosciences 32(2): 168–173.
+Ashraf, A. A. 1990. Prehistoric Arunachal: A Study on Prehistory and Ethnoarchaeology of
+           Kamla Valley. Itanagar: Directorate of Research, Govt of Arunachal Pradesh.
+
+
+
+62
+                                                   Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+Carey, B. S., and H. N. Tuck. 2008 (1932). The Chin Hills: A History of the People, Our
+            Dealings with Them, Their Customs and Manners, and a Gazetteer of Their
+            Country (Vol. 1, pp. 210–211). Aizawl: Tribal Research Institute.
+Chhangte, L. 2021 (2013). "Mizo Origin Myths." In Malsawmdawngliana and
+            Rohmingmawii (Eds.), Mizo Narratives: Accounts from Mizoram (Rev. ed., pp.
+            7–9). Guwahati: South Eastern Book Agencies.
+Conrad, J. N. 2006. "A Phallus-Shaped Stone Tool from Gravettian Deposits at the
+            Hohle Fels Cave and the Interpretation of Paleolithic Sexual Imagery."
+            Archäologisches Korrespondenzblatt 36(4): 455–472.
+Dani, A. H. 1960. Prehistory and Protohistory of Eastern India. Calcutta: Firma.
+Evans, P. 1964. "The Tectonic Framework of Assam." Geological Society of India 5: 80–96.
+Goswami, M. C., and T. C. Sharma. 1963. "A Brief Report on the Investigation into
+            Prehistoric Archaeology in the N.C. Hills." Journal of the Gauhati University
+            13(2): 63–66.
+Gupta, S. D. 1982. "Synthesis and Review of Faunal Records from the Surma Basin."
+            Records of the Geological Survey of India 12(IV): 31–38.
+Hastorf, C. A. 2008. "Food and Feasting: Social and Political Aspects." In D. M. Pearsall
+            (Ed.), Encyclopedia of Archaeology (pp. 1386–1395). Elsevier Inc.
+            https://doi.org/10.1016/B978-012373962-9.00113-8.
+Hayden, B. 2009. "The Proof Is in the Pudding: Feasting and the Origins of
+            Domestication." Current Anthropology 50(5): 597–601.
+Hayden, B., and S. Villeneuve. 2011. "A Century of Feasting Studies." Annual Review of
+            Anthropology 40: 433–449.
+Hian, H. H. 2018. A Brief Report on Excavation and New Discoveries at Vangchhia, Mizoram.
+            Aizawl. Aizawl Circle, Archaeological Survey of India.
+Indian Archaeology: A Review. 1967–68. B. B. Lal (Ed.), pp. 7–8. New Delhi: Director
+            General, Archaeological Survey of India.
+Indian Archaeology: A Review. 1992–93. Ajai Shankar (Ed.), p. 75. New Delhi: Director
+            General, Archaeological Survey of India.
+Indian Archaeology: A Review. 1996–97, pp. 2–3. New Delhi: Director General,
+            Archaeological Survey of India.
+Jamir, T. 2011. "Integrating Traditional Knowledge, Archaeology, and Heritage
+            Management in Nagaland." In M. Mitri and D. Kharmawphlang (Eds.), The
+            Northeast Umbrella: Cultural-Historical Interactions and Isolation of the Tribes in
+            the Region (Prehistory to the 21st Century) (pp. 37–56). Shillong: Don Bosco
+            Center for Indigenous Cultures.
+Koerper, H. C., and J. Cramer. 2008. "Lost and Found: From CA-ORA-291, an Unusual
+            Phallic Pestle and a Set of Fishnet Weights." Pacific Coast Archaeological
+            Society Quarterly 44(2): 67–74.
+Krishnaswami, V. D. 1960. "The Neolithic Patterns of India." Ancient India 16: 25–64.
+Lalhminghlua, and A. Sarkar. 2017. "A Short Report on Megaliths and Petroglyphs on
+            Natural Rock Surfaces from Farkawn and Khankawn Villages, Champhai
+            District, Mizoram, India." Ancient Asia 8(1): 1–13.
+
+
+
+                                                                                             63
+ISSN 2347 – 5463 Heritage: Journal of Multidisciplinary Studies in Archaeology 11.2: 2023-24 (2024)
+
+
+Lalthangliana, B. 1980. History of Mizo in Burma. Aizawl: Zawlbuk Agencies.
+Lalthangliana, B. 2014 (2001). India, Burma Leh Bangladesh-a Mizo Chanchin. Aizawl:
+             Remkungi.
+Lalzarzoa. 2021. "Migration of Mizo Tribes: A Brief Overview." In
+             Malsawmdawngliana and Rohmingmawii (Eds.), Mizo Narratives: Accounts
+             from Mizoram (Rev. ed., pp. 17–26). Guwahati: South Eastern Book
+             Agencies.
+Lewin, T. H. 1870. Wild Races of South-Eastern India (pp. 39). London: W. M. H. Allen &
+             Co.
+Lubbock, J. 1867. "The Stone Age." Atheneum, June 22, 822.
+Malsawmliana. 2017. Megalithic Culture of Mizoram. New Delhi: Research India Press.
+Malsawmliana. 2019. "Ideological Basis of Megaliths in Mizo Society." In Q. Marak
+             (Ed.), Megalithic Traditions of North East India (pp. 64–76). New Delhi:
+             Concept Publishing Company.
+Mandaokar, B. D. 2000. "Palynology and Palaeoenvironment of the Bhuban Formation
+             (Early Miocene) of Ramrikawn, Near Aizawl, Mizoram, India."
+             Palaeobotanist 49: 317–324.
+Mehrotra, R. C., R. P. Tiwari, G. Srivastava, and A. Shukla. 2013. "Further Contribution
+             to the Neogene Petrified Wood Forest of Mizoram, India." Chinese Science
+             Bulletin 58(Suppl. I): 104–110. https://doi.org/10.1360/tb-2013-suppl006.
+Mithen, S., B. Finlayson, and R. Shaffrey. 2005. "Sexual Symbolism in the Early
+             Neolithic of the Southern Levant: Pestles and Mortars from WF16."
+             Documenta Praehistorica 32: 103–110.
+Mitri, M., and D. Neog. 2016. "Preliminary Report on the Excavations of Neolithic Sites
+             from Khasi Hills, Meghalaya." Ancient Asia 7(7): 1–17. https://doi.org/
+             10.5334/aa.119.
+Moser, C. 2006. "Naked Power: The Phallus as an Apotropaic Symbol in the Images
+             and Texts of Roman Italy." Undergraduate Humanities Forum 2005–6.
+             University of Pennsylvania. https://core.ac.uk/reader/76387110.
+Pachuau, R. 2009. Mizoram: A Study in Comprehensive Geography. New Delhi: Northern
+             Book Centre.
+Rao, S. N. 1977. "Excavation at Sarutaru: A Neolithic Site in Assam." Man and
+             Environment 1: 39–42.
+Sangkima. 2000. "A Study of the Historic Movements of an Early Mizo." Historical
+             Journal of Mizoram 1(1): 20.
+Sati, V. P. 2019a. "Shifting Cultivation in Mizoram, India: An Empirical Study of Its
+             Economic Implications." Journal of Mountain Science 16(9): 2136–2149.
+             https://doi.org/10.1007/s11629-019-5416-9.
+Sati, V. P. 2019b. Economic and Ecological Implications of Shifting Cultivation in Mizoram,
+             India. Springer Nature.
+Simoons, F. J. 1968. A Ceremonial Ox. Madison: University of Wisconsin Press.
+Singh, O. K. 1993. Stone Age Culture of Manipur (Unpublished Ph.D. dissertation).
+             University of Manipur, Imphal.
+
+
+
+64
+                                                Sarkar and Lalhminghlua 2023-24 (2024): 43-65
+
+
+Srivastava, D. K., L. Hatley, and R. P. Tiwari. 2008. "Echinoids from the Bhuban
+            Formation (Surma Group), Mizoram." Journal of the Palaeontological Society of
+            India 53(2): 221–226.
+Stevenson, H. 1986 (1943). The Economics of the Central Chin Tribes. Bombay: Times India
+            Press.
+Thapar, B. K. 1985. "Fresh Light on the Neolithic Cultures of India." In K. N. Dikshit
+            (Ed.), Archaeological Perspective of India Since Independence (pp. 37-43). New
+            Delhi: Books and Books.
+Tiwari, R. P., R. C. Mehrotra, G. Srivastava, and A. Shukla. 2012. "The Vegetation and
+            Climate of a Neogene Petrified Wood Forest of Mizoram, India." Journal of
+            Asian Earth Sciences 61: 143–165.
+Worman, E. C. 1949. "The Neolithic Problem in the Prehistory of India." Journal of the
+            Washington Academy of Sciences 39(6): 181-200.
+Zawla, K. 2011. Mizo Pi Pute Leh an Thlahte Chanchin. Aizawl: Lalnipuii.
+
+
+
+
+                                                                                          65
+

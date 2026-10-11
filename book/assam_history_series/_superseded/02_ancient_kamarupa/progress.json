@@ -1,0 +1,33 @@
+{
+  "planning_date": "2026-10-11",
+  "series_book": 2,
+  "title": "Kamarupa: Kings, Communities, and Sacred Landscapes",
+  "scope": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+  "status": "planned",
+  "planned_chapters": [
+    "B02-C01",
+    "B02-C02",
+    "B02-C03",
+    "B02-C04",
+    "B02-C05",
+    "B02-C06",
+    "B02-C07",
+    "B02-C08",
+    "B02-C09",
+    "B02-C10",
+    "B02-C11",
+    "B02-C12",
+    "B02-C13",
+    "B02-C14",
+    "B02-C15",
+    "B02-C16"
+  ],
+  "content_divisions": 80,
+  "drafted_chapters": [],
+  "research_dossiers": [],
+  "main_prose_words": 0,
+  "complete_book": false,
+  "publication_ready": false,
+  "manuscript_home": "manuscript/",
+  "status_authority": "progress.json"
+}

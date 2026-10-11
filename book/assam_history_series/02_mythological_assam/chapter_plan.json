@@ -1,0 +1,354 @@
+[
+  {
+    "id": "B02-C01",
+    "series_book": 2,
+    "number": 1,
+    "title": "How to Read Mythological Assam",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Reading traditions and the Danava figures",
+    "content": [
+      "Introduce myth, sacred tradition, epic narrative, and regional reception",
+      "Distinguish narrative time from composition and manuscript dates",
+      "Compare Sanskrit texts, translations, oral accounts, and visual retellings",
+      "Explain Pragjyotisha and Kamarupa without imposing a single fixed epic geography",
+      "State the respectful evidence language used throughout the book"
+    ],
+    "visual": "Text-family and narrative-time diagram",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C02",
+    "series_book": 2,
+    "number": 2,
+    "title": "Sura Danava: Name, Variants, and Traditions",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Reading traditions and the Danava figures",
+    "content": [
+      "Preserve Sura Danava exactly as requested in the planning authority",
+      "Search Sura, Shura, Sura Danava, and relevant original-language forms",
+      "Identify whether an actual edition treats this as a person, epithet, or variant",
+      "Keep unresolved identification visible instead of inventing a biography",
+      "Compare attributed local tellings without merging names merely by similarity"
+    ],
+    "visual": "Name-and-witness comparison table",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C03",
+    "series_book": 2,
+    "number": 3,
+    "title": "Mahiranga Danava and Founding Narratives",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Reading traditions and the Danava figures",
+    "content": [
+      "Collect passages and tellings that name Mahiranga",
+      "Compare accounts of founding, authority, and sacred geography",
+      "Examine how later lists assemble an earliest ruling line",
+      "Distinguish named tradition from excavation or inscription evidence",
+      "Explain source-specific uses of Danava without labelling living communities"
+    ],
+    "visual": "Attributed founding-story variants",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C04",
+    "series_book": 2,
+    "number": 4,
+    "title": "Hataka, Sambara, Ratna, and Other Danava Figures",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Reading traditions and the Danava figures",
+    "content": [
+      "Locate witnesses for Hataka or Hatakasura and spellings",
+      "Locate Sambara or Sambarasura accounts without conflating similarly named figures",
+      "Investigate Ratna or Ratnasura and other names actually supported by sources",
+      "Compare sequence and kinship claims across editions and compilations",
+      "Give sparse figures individual entries without fabricating reigns or deeds"
+    ],
+    "visual": "Source-specific Danava figure register",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C05",
+    "series_book": 2,
+    "number": 5,
+    "title": "Ghataka and the Transition to Naraka",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Ghataka and the Naraka narratives",
+    "content": [
+      "Read Ghataka or Ghatakasura stories in exact passages",
+      "Compare narrations of conflict, replacement, and regional authority",
+      "Investigate Kirata and other textual labels in context",
+      "Separate a story's political meaning from historical ethnic identification",
+      "Show disagreement in variants rather than writing one universal succession"
+    ],
+    "visual": "Variant narrative sequence",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C06",
+    "series_book": 2,
+    "number": 6,
+    "title": "Naraka: Birth, Bhumi, and Varaha",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Ghataka and the Naraka narratives",
+    "content": [
+      "Compare maternal and paternal genealogies in different witnesses",
+      "Study Bhumi, Varaha, and other divine relationships as narrated",
+      "Investigate Janaka, upbringing, and arrival episodes where actually attested",
+      "Explain the name Bhauma through its source contexts",
+      "Avoid assigning Naraka a historical birth year from mythic genealogy"
+    ],
+    "visual": "Naraka origin-variant chart",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C07",
+    "series_book": 2,
+    "number": 7,
+    "title": "Naraka, Pragjyotisha, and Kingship",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Ghataka and the Naraka narratives",
+    "content": [
+      "Compare accounts of installation, rule, and sacred obligations",
+      "Investigate the relationship with Kamakhya in regional traditions",
+      "Read alliances and antagonisms without joining unrelated texts silently",
+      "Explore changing portrayal as ruler, devotee, and antagonist",
+      "Separate story-world geography from claims about actual territorial control"
+    ],
+    "visual": "Attributed Naraka narrative map",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C08",
+    "series_book": 2,
+    "number": 8,
+    "title": "Naraka, Krishna, and Competing Endings",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Ghataka and the Naraka narratives",
+    "content": [
+      "Compare accounts of Krishna, Mura, and the defeat of Naraka",
+      "Investigate Satyabhama's role in witnesses that actually include her",
+      "Study Aditi, rescued women, objects, and moral themes in their textual contexts",
+      "Explain differences in responsibility and narrative emphasis",
+      "Trace regional festival or performance reception without treating it as an eyewitness record"
+    ],
+    "visual": "Ending and character-role comparison",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C09",
+    "series_book": 2,
+    "number": 9,
+    "title": "Bhagadatta and Epic Pragjyotisha",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Epic rulers, Bana, and the goddess",
+    "content": [
+      "Read Bhagadatta episodes in relevant Mahabharata editions",
+      "Investigate elephant-warrior imagery and attributed alliances",
+      "Compare geography and names across recensions and translations",
+      "Examine his relation to Naraka in each witness rather than assume one genealogy",
+      "Show how epic memory is later linked to regional kingship"
+    ],
+    "visual": "Epic passage and genealogy table",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C10",
+    "series_book": 2,
+    "number": 10,
+    "title": "Vajradatta and Successor Traditions",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Epic rulers, Bana, and the goddess",
+    "content": [
+      "Locate Vajradatta episodes and their narrative setting",
+      "Compare relationships to Bhagadatta across textual and inscriptional traditions",
+      "Record additional names only when a witness actually supports them",
+      "Separate epic succession from later royal pedigree",
+      "Explain uncertainty instead of bridging unnamed generations with invented rulers"
+    ],
+    "visual": "Witness-specific successor trees",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C11",
+    "series_book": 2,
+    "number": 11,
+    "title": "Bana, Usha, Chitralekha, and Aniruddha",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Epic rulers, Bana, and the goddess",
+    "content": [
+      "Compare Bana or Banasura stories across actual editions",
+      "Study Usha and Chitralekha as actors in the narrative",
+      "Investigate Aniruddha, Krishna, and Shiva in the conflict and reconciliation",
+      "Trace Sonitpur or Tezpur localisation and its documented reception",
+      "Separate sacred-place association from proof of a dated historical battle"
+    ],
+    "visual": "Story and localisation comparison",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C12",
+    "series_book": 2,
+    "number": 12,
+    "title": "Kamakhya, Sati, and Shiva",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Epic rulers, Bana, and the goddess",
+    "content": [
+      "Collect relevant goddess and sacred-site narratives",
+      "Compare Sati and Shiva motifs across distinct textual witnesses",
+      "Distinguish theological traditions from archaeological temple phases",
+      "Explain regional ritual meaning with attributed accounts",
+      "Preserve differing tellings rather than declare one canonical local version"
+    ],
+    "visual": "Sacred narrative and material chronology",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C13",
+    "series_book": 2,
+    "number": 13,
+    "title": "Kama, Kamarupa, and the Meaning of Place",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Sacred landscapes, genealogy, and memory",
+    "content": [
+      "Investigate Kama or Madana-related accounts in exact sources",
+      "Compare traditions explaining the name Kamarupa",
+      "Separate religious etiology from historical linguistic analysis",
+      "Trace literary, visual, and popular retellings",
+      "Explain why a sacred explanation need not date a state's foundation"
+    ],
+    "visual": "Place-name and story-witness matrix",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C14",
+    "series_book": 2,
+    "number": 14,
+    "title": "Lauhitya, Brahmaputra, and Parashurama",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Sacred landscapes, genealogy, and memory",
+    "content": [
+      "Locate river-origin and Parashurama stories by edition",
+      "Compare Lauhitya and Brahmaputra names in different witnesses",
+      "Investigate sacred journeys and sites without fixing uncertain ancient routes",
+      "Distinguish mythology from geomorphology and river history",
+      "Include local variants with their collection context and attribution"
+    ],
+    "visual": "Attributed sacred river map",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C15",
+    "series_book": 2,
+    "number": 15,
+    "title": "Sacred Places and Regional Retellings",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Sacred landscapes, genealogy, and memory",
+    "content": [
+      "Build a gazetteer of sites actually linked to these narratives",
+      "Compare temple accounts, manuscripts, performance, and oral memory",
+      "Study women and community voices in the transmission of stories",
+      "Record changes in language, audience, and setting",
+      "Separate modern tourism copy from older or locally attributed witnesses"
+    ],
+    "visual": "Place and retelling provenance atlas",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B02-C16",
+    "series_book": 2,
+    "number": 16,
+    "title": "From Mythic Ancestors to Royal Legitimacy",
+    "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+    "division": "Sacred landscapes, genealogy, and memory",
+    "content": [
+      "Compare Naraka and Bhauma lineage claims as representations of authority",
+      "Explain how historical dynasties use shared sacred ancestry",
+      "Cross-reference the three Kamarupa books rather than imply one biological line",
+      "Prepare a figure index and unresolved-identification register",
+      "Conclude with the stories' continuing meanings and clear evidence boundaries"
+    ],
+    "visual": "Myth-to-inscription concordance",
+    "source_lead_ids": [
+      "MYTH-TEXT-CATALOGUE",
+      "GENEALOGY-STUDY",
+      "DHAS-CATALOGUE"
+    ],
+    "status": "planned"
+  }
+]

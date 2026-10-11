@@ -1,0 +1,15 @@
+{
+  "book": "B01",
+  "date": "2026-10-11",
+  "tool": "image_gen.imagegen",
+  "mode": "Full native image edit; no programmed composition",
+  "input": "Before_the_Kingdoms_Cover_v4_assam.png",
+  "output": "Before_the_Kingdoms_Cover_v5_outline.png",
+  "prompt": "native_cover_prompt_v5.txt",
+  "change": "ASSAM and HISTORY · BOOK 01 rendered as hollow outline lettering; solid main title and hovering objects retained",
+  "review": "Visually inspected: both masthead lines have outline-only glyphs, wording correct, subtitle and publisher legible",
+  "classification": "Modern AI illustrative montage",
+  "reference_status": "Inherits user-reference provenance and unresolved identities, chronology and rights from cover_generation_record_v3.json",
+  "status": "Design proof; print preparation pending",
+  "previous_versions": "Retained"
+}

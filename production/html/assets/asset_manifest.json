@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-11",
+  "generation": "built-in image_gen",
+  "asset": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/book/production/html/assets/reading-evidence-3d-v1.png",
+  "prompt_file": "assets/reading-evidence-3d-v1.prompt.txt",
+  "historical_status": "Modern conceptual illustration; props are not documentary finds",
+  "sha256": "2dcc2edbf4864b4d2b8232c2e7da57b27ae98569d4ae958334d5534ee1a76c48",
+  "documentary_plates": [
+    {
+      "id": "B01-C01-F01",
+      "source_id": "ARCH-02",
+      "source_figure": "3, p.495 / PDF 4",
+      "path": "../../book/assam_history_series/01_prehistory_and_early_life/research/visuals/DJL17-F3B.png",
+      "treatment": "Original retained pixels in raised page mount",
+      "publication_cleared": false
+    },
+    {
+      "id": "B01-C01-F02",
+      "source_id": "ARCH-02",
+      "source_figure": "2, p.494 / PDF 3",
+      "path": "../../book/assam_history_series/01_prehistory_and_early_life/research/visuals/DJL17-F2B.png",
+      "treatment": "Original retained pixels in raised page mount",
+      "publication_cleared": false
+    }
+  ]
+}

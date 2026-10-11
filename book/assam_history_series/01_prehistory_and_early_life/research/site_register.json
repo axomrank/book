@@ -1,0 +1,150 @@
+[
+  {
+    "id": "B01-SITE01",
+    "name": "Daojali Hading",
+    "location": "Dima Hasao, Assam",
+    "source_ids": [
+      "ARCH-02"
+    ],
+    "chapters": [
+      5,
+      7
+    ],
+    "limits": "Original trench and archive contexts need further checking; acquire 2025 reconnaissance report."
+  },
+  {
+    "id": "B01-SITE02",
+    "name": "Sarutaru",
+    "location": "Digaru foothills, Assam",
+    "source_ids": [
+      "ARCH-01",
+      "ARCH-08"
+    ],
+    "chapters": [
+      6,
+      7
+    ],
+    "limits": "Original reports differ on excavation seasons; no independently verified calendar age in this pass."
+  },
+  {
+    "id": "B01-SITE03",
+    "name": "Marakdola / Morogdula",
+    "location": "Digaru foothills, Assam",
+    "source_ids": [
+      "ARCH-04",
+      "ARCH-08"
+    ],
+    "chapters": [
+      6,
+      7,
+      11
+    ],
+    "limits": "Historic ceramic interpretation and site relocation require contextual verification."
+  },
+  {
+    "id": "B01-SITE04",
+    "name": "Bichikkri",
+    "location": "Karbi Langpi valley, Assam",
+    "source_ids": [
+      "ARCH-05"
+    ],
+    "chapters": [
+      6,
+      7
+    ],
+    "limits": "Surface exploration; pottery parallels do not establish prehistoric occupation."
+  },
+  {
+    "id": "B01-SITE05",
+    "name": "Kekang-Adong",
+    "location": "Karbi Langpi valley, Assam",
+    "source_ids": [
+      "ARCH-05"
+    ],
+    "chapters": [
+      6,
+      7
+    ],
+    "limits": "Surface exploration; reported stone tools were not recovered in the cited survey."
+  },
+  {
+    "id": "B01-SITE06",
+    "name": "Langmet",
+    "location": "Karbi Langpi valley, Assam",
+    "source_ids": [
+      "ARCH-05"
+    ],
+    "chapters": [
+      6,
+      7
+    ],
+    "limits": "Surface ceramics with provisional comparative chronology."
+  },
+  {
+    "id": "B01-SITE07",
+    "name": "Ambari",
+    "location": "Guwahati, Assam",
+    "source_ids": [
+      "ARCH-06"
+    ],
+    "chapters": [
+      11
+    ],
+    "limits": "Historical transition context; excavation-season report and discovery date conflict unresolved."
+  },
+  {
+    "id": "B01-SITE08",
+    "name": "Sakali wetland",
+    "location": "Majuli, Assam",
+    "source_ids": [
+      "ENV01"
+    ],
+    "chapters": [
+      2,
+      4,
+      8
+    ],
+    "limits": "Environmental archive, not an excavated settlement."
+  },
+  {
+    "id": "B01-SITE09",
+    "name": "Gauhati University swamp",
+    "location": "Guwahati, Assam",
+    "source_ids": [
+      "ENV02"
+    ],
+    "chapters": [
+      2,
+      4,
+      8
+    ],
+    "limits": "Undated pollen archive."
+  },
+  {
+    "id": "B01-SITE10",
+    "name": "Dima Hasao stone jar sites",
+    "location": "Dima Hasao, Assam",
+    "source_ids": [
+      "BUR01",
+      "BUR02"
+    ],
+    "chapters": [
+      9,
+      10
+    ],
+    "limits": "Survey corpus; exact ancient date, makers and funerary association not established here."
+  },
+  {
+    "id": "B01-SITE11",
+    "name": "Gawak Abri",
+    "location": "West Garo Hills, Meghalaya",
+    "source_ids": [
+      "ARCH-02"
+    ],
+    "chapters": [
+      5,
+      9
+    ],
+    "limits": "Explicit neighbouring comparison; not within present Assam."
+  }
+]

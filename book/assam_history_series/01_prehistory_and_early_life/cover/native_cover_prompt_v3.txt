@@ -1,0 +1,23 @@
+Use case: stylized-concept.
+Asset type: complete modern portrait front book cover, approximately 7:10 proportions, flat cover artwork, not a photographed book mockup.
+Primary request: Redesign Before the Kingdoms as a sophisticated contemporary editorial cover with isolated, hovering photorealistic 3D archaeological stone objects reconstructed from the user's three photographs. Large typography sits in multiple depth planes with selected portions hidden behind objects. Create the ENTIRE finished cover natively, including typography and publisher signature.
+
+Input images:
+1. Reference for a distinctive carved stone form: rounded mushroom-like domed cap, ringed shaft and fluted lower body. Reproduce the recognizable carved silhouette and weathered sandstone texture of ONE monument from this photo, as an isolated floating object, not the entire grassy scene.
+2. Reference for ONE tall narrow flat stone slab, slightly tapering, with carved circular concentric relief near its upper face. Keep the slab flat and elongated, retain the circular relief, weathering and subtle incisions; isolate it and float it at a slight angle.
+3. Reference for a large OPEN sandstone jar, rounded tapering barrel body with thick circular rim and a dark hollow mouth. Reproduce this open jar accurately as the largest hovering object. Distinguish its vessel shape clearly from the carved capped object.
+4. Exact original maroon AxomRank Rang Ghar publisher mark: preserve this supplied mark's architecture, proportions and silhouette for the small publisher signature; do not invent a replacement building.
+
+Composition: deliberately modern gallery-poster book design, warm ivory background with generous controlled negative space. Giant bold condensed Noto Sans-like maroon uppercase typography in a strong grid: BEFORE / THE / KINGDOMS. Title occupies upper and middle portions, while the objects weave in front of and behind its letterforms. Three hero objects at different depths and sizes: circular-relief slab floating diagonally toward upper left; carved capped stone monument hovering near upper right/middle; a large open sandstone jar hovering forward at lower right, tilted enough to reveal its dark opening and rounded body. Preserve plausible stone shapes rather than merging them. Cover roughly 10–15 percent of selected large title letters with the slab and jar, leaving the complete title immediately inferable. This typography overlap is ESSENTIAL: objects visibly occlude parts of words, not just sit beneath a title. Show real empty space around all three artifacts, soft detached shadows, crisp studio rim lighting, warm stone highlights, physically convincing rough mineral material, deep ambient occlusion, subtle moss restricted to stone crevices. No ground, no floating earth island, no forest background.
+
+Modern supporting elements: restrained maroon geometric disk partially behind one floating object; a very fine gold orbital ellipse and sparse fine editorial rules. Quiet charcoal microtype for series and book number. The image should feel like a premium art-directed archaeological museum publication with dramatic sculptural depth, not fantasy game art and not an infographic. Warm ivory #F7F2EC, deep brand maroon #80151A, charcoal #292929, restrained gold #A77B37. Realistic muted sandstone objects. No bright unrelated colors.
+
+Text, render exactly and legibly:
+Top small series line: "ASSAM: A HISTORY OF ITS LAND AND PEOPLE"
+Huge title across three lines: "BEFORE" / "THE" / "KINGDOMS"
+Subtitle in a clear unobscured lower-left or lower panel: "Prehistory and Early Life in Assam"
+Small book label: "BOOK 01"
+Bottom publisher signature with reference 4 mark: "AxomRank"
+Small bottom line: "An AxomRank History Publication"
+
+Keep subtitle, series line and publisher perfectly unobscured; overlap only some of the huge main title. Maintain safe outer margins. Don't place the museum objects at identical scales or on pedestals. No author name, no dates, no object labels, no invented captions or claims of a single prehistoric site. This is a modern illustrative montage of supplied reference forms, not a reconstruction of their historical co-occurrence. No gamosa/woven borders, people, boats, forests, rivers, mountains, extra buildings, fabricated writing on the stones, glossy plastic, excessive decorative particles, or cheesy science-fiction effects.

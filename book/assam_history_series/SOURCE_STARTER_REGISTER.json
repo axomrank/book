@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ARCH-SITES",
+    "title": "Assam Directorate of Archaeology — protected sites and monuments",
+    "url": "https://archaeology.assam.gov.in/information-services/detail/list-of-protected-archaeological-sites-and-monuments",
+    "status": "Official site inventory consulted for planning; underlying excavation reports not acquired in this task",
+    "use": "Locate sites, reports, and responsible institutions",
+    "limit": "Brief descriptions and dating claims need checking against excavation publications; not an excavation archive",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "ASI-AMBARI",
+    "title": "ASI Guwahati Circle — Ambari excavation account",
+    "url": "https://www.asiguwahaticircle.gov.in/excavation8.html",
+    "status": "Official excavation summary consulted; full field records not read",
+    "use": "Identify excavation phases and evidence questions for early settlement",
+    "limit": "Reconcile dating and discovery accounts with full reports; one site cannot establish the history of the entire region",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "NE-PREHISTORY",
+    "title": "Man and Environment, Vol. I (1977), hosted by IGNCA",
+    "url": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "status": "PDF located and opened; individual articles not yet read or verified",
+    "use": "Lead for older regional archaeological research and its bibliographies",
+    "limit": "Older work must be compared with newer dating and field reports; no exact site age adopted from it here",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "DHAS-CATALOGUE",
+    "title": "Directorate of Historical and Antiquarian Studies — publication catalogue",
+    "url": "https://dhas.assam.gov.in/portlet-innerpage/list-of-publications",
+    "status": "Catalogue page inspected for planning; listed works not acquired through this page",
+    "use": "Discover chronicle editions, translations, manuscript catalogues, and historical publications",
+    "limit": "Catalogue access is not evidence that the listed books have been read; verify exact editions and bibliographic errors",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "STATE-ARCHIVES",
+    "title": "Assam State Archives — research facilities",
+    "url": "https://archives.assam.gov.in/portlets/research-facilities",
+    "status": "Research-access page consulted; no archival files accessed",
+    "use": "Plan acquisition of colonial and post-independence records",
+    "limit": "Locate series, file numbers, access conditions, and documents before making historical claims",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "REORG-1971",
+    "title": "North-Eastern Areas (Reorganisation) Act, 1971 — India Code",
+    "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/1534?view_type=browse",
+    "status": "Official indexed act metadata inspected; later direct opening timed out; full sections not read",
+    "use": "Legal basis for the 1972 territorial transition; acquire original and amended texts for chapter drafting",
+    "limit": "Distinguish territories formed under this act from later statehood and from other states previously outside Assam",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "ACCORD-1985",
+    "title": "Assam Accord — official implementation department page",
+    "url": "https://assamaccord.assam.gov.in/portlets/the-assam-accord",
+    "status": "Official overview and displayed clauses consulted; downloadable signed document not yet inspected",
+    "use": "Plan the 1985 endpoint and later implementation research",
+    "limit": "Accord wording, later legislation, judicial interpretation, and implementation are separate evidence categories",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "CENSUS-2011",
+    "title": "Census of India — Assam 2011 C-14 table catalogue",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/1545",
+    "status": "Official indexed catalogue description inspected; direct page opening timed out; spreadsheet not downloaded",
+    "use": "Identify a dated demographic dataset and its geographic units",
+    "limit": "This is a 2011 age/sex table, not a contemporary population estimate or a language, migration, or citizenship dataset",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "DES-SURVEY",
+    "title": "Directorate of Economics and Statistics — Economic Survey, Assam",
+    "url": "https://des.assam.gov.in/information-services/detail/economic-survey",
+    "status": "Official download index consulted; 2025–26 survey listed; report tables not yet read",
+    "use": "Acquire latest accessible economic baseline for the contemporary book",
+    "limit": "Publication year, reference year, provisional status, price base, and territorial coverage must accompany each statistic",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "DES-PUBLICATIONS",
+    "title": "Directorate of Economics and Statistics — publication series",
+    "url": "https://des.assam.gov.in/portlets/our-publications",
+    "status": "Official index inspected through web search; individual publications not read",
+    "use": "Find historical surveys, handbooks, and Assam at a Glance editions",
+    "limit": "Index listings do not validate any numerical trend; compare methods and boundaries before combining years",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "LEGACY-AHOM",
+    "title": "Existing Ahom manuscript evidence register",
+    "url": "../volume_01/research/source_register.md",
+    "status": "Local register inspected; earlier source-consultation statements retained as recorded, not independently repeated in this planning task",
+    "use": "Continue existing source and claim IDs and their locators",
+    "limit": "Gait and Barua partly share source lineage; initial drafts still require broader comparison",
+    "planning_access_date": "2026-10-11"
+  },
+  {
+    "id": "GENEALOGY-STUDY",
+    "title": "Jae-Eun Shin — Changing Dynasties, Enduring Genealogy",
+    "url": "https://list.indology.info/pipermail/indology/attachments/20170209/d815b926/attachment.pdf",
+    "planning_access_date": "2026-10-11",
+    "status": "Published research paper opened; introductory discussion and selected genealogy passages consulted for naming and evidence policy; not a fresh verification of every inscription",
+    "use": "Compare Naraka-related pedigree across the three dynastic treatments",
+    "limit": "Scholarly analysis is not the primary inscription edition; verify readings and dates in the underlying corpus. Bhauma is not restricted to Salastambha"
+  },
+  {
+    "id": "MYTH-TEXT-CATALOGUE",
+    "title": "British Library Archives and Manuscripts — Kalika Purana catalogue record EAP1023/25/17",
+    "url": "https://searcharchives.bl.uk/catalog/040-003666099",
+    "planning_access_date": "2026-10-11",
+    "status": "Catalogue record consulted; manuscript passages not read",
+    "use": "Acquire identifiable textual witnesses for mythology and transmission research",
+    "limit": "Catalogue presence is not a consulted text or a verified episode; acquire an appropriate complete edition and passage locators"
+  }
+]

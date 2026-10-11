@@ -1,0 +1,35 @@
+[
+  {
+    "title": "A Note on the Neolithic Pottery of Assam",
+    "author": "T. C. Sharma",
+    "year": 1967,
+    "publication": "Man New Series 2(1):126–128",
+    "status": "Bibliography verified in primary 2024 paper; original text still needed"
+  },
+  {
+    "title": "Archaeometric Perspectives on Cord-Marked Pottery: Provenance, Technology, and Cultural Connections in Northeast India",
+    "authors": [
+      "Momi Das",
+      "Sukanya Sharma",
+      "Marco Babit Mitri",
+      "Rajeev Lochan Mishra"
+    ],
+    "year": 2026,
+    "publication": "Man and Environment LI(1):1–15",
+    "url": "https://www.iitg.ernet.in/hss/faculty_page_profile.php?name=ZHBEc1ZCamJaQlJPcnZaTmlZWGpEQT09",
+    "status": "Institutional faculty bibliography identifies this new publication; full text not located"
+  },
+  {
+    "title": "IntCal20 Northern Hemisphere radiocarbon calibration curve",
+    "author": "Reimer et al.",
+    "year": 2020,
+    "url": "https://doi.org/10.1017/RDC.2020.41",
+    "candidate_download_url": "https://epic.awi.de/id/eprint/53055/1/reimer2020r.pdf",
+    "status": "Primary methodological source identified; direct web fetch returned protection page; full text not consulted."
+  },
+  {
+    "title": "2025 Daojali Hading reconnaissance and reported furnace/slag: obtain original team report",
+    "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/discovery-of-furnace-and-iron-slag-at-daojali-hading-sheds-light-on-early-metallurgy-in-dima-hasao",
+    "status": "News lead only; original departmental report, stratigraphic associations and sample dates required. Do not transfer the 2017 pottery OSL age to metalworking."
+  }
+]

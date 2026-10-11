@@ -1,0 +1,255 @@
+{
+  "scope": "Book 1 chapters 2,4,8–10,12: environment, subsistence, exchange, megaliths and burial",
+  "research_date": "2026-10-11",
+  "status": "Evidence packet; manuscript not drafted. Full text read for two papers, publisher abstracts for other records; access limits explicit.",
+  "sources": [
+    {
+      "id": "ENV01",
+      "citation": "Pandey, Arya; Tripathi, Swati; Singh, Hema. 2026. Reconstructing mid–late Holocene ecosystem dynamics in the Upper Brahmaputra Valley of Assam, Northeast India, using non-pollen palynomorphs (NPPs). Journal of the Palaeontological Society of India 71(1):191–206.",
+      "doi": "10.1177/05529360251409913",
+      "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913",
+      "download_url": "https://journals.sagepub.com/doi/pdf/10.1177/05529360251409913",
+      "read_scope": "Full HTML: abstract, study site, methods/chronology, zone results, rights.",
+      "locators": [
+        "Abstract",
+        "Materials and methods: NPP extraction and chronology of sediment samples",
+        "NPP Zone I (150–100 cm, 4,040–2,260 cal yrs BP)",
+        "Rights and permissions"
+      ],
+      "summary": "A 1.5 m Sakali wetland sequence contains 34 NPP types. Five bulk sediment radiocarbon samples underpin an IntCal20/Bacon age model spanning roughly 4,100 calibrated years. The earliest zone is interpreted as warm/humid with woody vegetation. Grazing and agriculture proxies intensify particularly within the last 500 years; these cannot establish prehistoric rice domestication.",
+      "chapters": [
+        2,
+        4,
+        8,
+        12
+      ],
+      "limitations": "Environmental proxy archive, not an excavated settlement. Bulk sediment dating requires scrutiny for reworking/reservoir effects. Modern Majuli island geometry must not be projected unchanged into prehistory. NPP indicators are ecological inferences, not crop identification.",
+      "visuals": [
+        {
+          "figure": 1,
+          "description": "Assam DEM/location of Majuli",
+          "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913#fig1"
+        },
+        {
+          "figure": 2,
+          "description": "Sakali wetland study-area representation",
+          "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913#fig2"
+        },
+        {
+          "figure": 3,
+          "description": "NPP abundance diagram across sediment samples",
+          "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913#fig3"
+        },
+        {
+          "figure": 4,
+          "description": "NPP micrographs",
+          "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913#fig4"
+        }
+      ],
+      "rights": "CC BY-NC 4.0 explicitly stated; noncommercial research library with attribution is permitted, commercial book reuse needs permission. Figure click media requests failed in web tool."
+    },
+    {
+      "id": "ENV02",
+      "citation": "Trivedi, Anjali; Phukan, Arnab; Nag, Anupam; Gogoi, Bikash; Dehingia, Panchanan; Rao, V. Sreenivasa; Harmukh, Neetu. 2025. Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India. Geophytology 55(1):45–54.",
+      "url": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+      "download_url": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+      "read_scope": "PDF text, pp.45–52 including methods and chronology caveat.",
+      "locators": [
+        "p.46 paragraph beginning The present study",
+        "p.47 Materials and methods",
+        "p.49 Discussion",
+        "p.50 agricultural interpretation"
+      ],
+      "summary": "A 50 cm swamp core from Gauhati University yielded ten analysed samples and three pollen zones. Authors explicitly obtained no absolute dates and infer relative chronology through nearby archives. Cerealia and other pollen support their local agricultural interpretation, but cannot provide a securely dated prehistoric cultivation horizon.",
+      "chapters": [
+        2,
+        4,
+        8,
+        12
+      ],
+      "limitations": "Undated core. Holocene title does not independently date each horizon. Cerealia is not a species-level identification of cultivated rice.",
+      "visuals": [
+        {
+          "figure": 1,
+          "page": 47,
+          "description": "DEM locating Gauhati University swamp"
+        },
+        {
+          "figure": 2,
+          "page": 50,
+          "description": "Pollen frequency chart"
+        },
+        {
+          "figure": 3,
+          "page": 51,
+          "description": "Pollen and spores micrographs"
+        },
+        {
+          "figure": 4,
+          "page": 53,
+          "description": "Comparison chronology; estimated chronology must be labelled"
+        }
+      ],
+      "rights": "© Palaeobotanical Society; no open reuse licence located. Publicly downloadable PDF is not blanket commercial image permission."
+    },
+    {
+      "id": "ENV03",
+      "citation": "Dixit, Swati; Bera, S. K. 2012. Holocene climatic fluctuations from Lower Brahmaputra flood plain of Assam, northeast India. Journal of Earth System Science 121(1):135–147.",
+      "doi": "10.1007/s12040-012-0150-5",
+      "url": "https://link.springer.com/article/10.1007/s12040-012-0150-5",
+      "download_url": "https://www.bsip.res.in/old/apar/Dr%20Samir%20K%20Bera%2C%20Scientist%20%27E%27.pdf",
+      "read_scope": "Publisher abstract read; BSIP PDF search-indexed but fetch failed. Full article chronology/methods NOT read.",
+      "locators": [
+        "Publisher abstract"
+      ],
+      "summary": "The Dabaka Swamp 3.2 m core is interpreted as alternating fluvial and vegetation phases from 14,120 cal BP, including cool/dry conditions around the Younger Dryas and mixed deciduous forest later. The abstract links post-768 cal BP vegetation disturbance to settlement. Obtain full methods and dating table before treating phase boundaries as verified.",
+      "chapters": [
+        2,
+        4,
+        8,
+        12
+      ],
+      "limitations": "Only abstract verified. Early Cerealia claims visible in secondary citations require primary full-text review; no dated rice macroremain has been verified here.",
+      "visuals": [
+        {
+          "description": "Potential core profile, pollen diagram and dating table in full article; figure identifiers not inspected"
+        }
+      ],
+      "rights": "Indian Academy of Sciences copyright indicated in indexed PDF; verify actual permission."
+    },
+    {
+      "id": "BUR01",
+      "citation": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+      "doi": "10.12766/jna.2019S.11",
+      "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+      "download_url": "https://www.jna.uni-kiel.de/index.php/jna/article/download/192/325/1576",
+      "read_scope": "Publisher landing abstract read; indexed p.160 extract read. PDF exceeds web tool 10MB limit; full PDF not read.",
+      "locators": [
+        "Landing-page Abstract",
+        "Search-indexed PDF p.160 Discussion and conclusion, NOT full-page visual inspection"
+      ],
+      "summary": "The field overview reports renewed examinations in 2014/2016 and comparisons with Laos. Its p.160 extract acknowledges unresolved dating and iron associations. Similar jar morphology is a comparative lead, not a measured Assam chronology or proof of one migration.",
+      "chapters": [
+        9,
+        10,
+        12
+      ],
+      "limitations": "Landing abstract says first reported 1932; 2022 paper cites Mills/Hutton 1929. Distinguish discovery date, reporting date and re-publication. Do not infer Assam jar date from Laos dates or identify ancient makers using modern communities.",
+      "visuals": [
+        {
+          "figure": 11,
+          "page": 160,
+          "description": "Engraved human figure on stone slab; identified via indexed caption, full visual not inspected"
+        }
+      ],
+      "rights": "Licence not verified from landing page. Obtain PDF licence before extracting and reproducing images."
+    },
+    {
+      "id": "BUR02",
+      "citation": "Thakuria, Tilok; Bathari, Uttam; Skopal, Nicholas. 2022. An archaeological survey of the Assam stone jar sites. Asian Archaeology 5:41–50.",
+      "doi": "10.1007/s41826-022-00043-3",
+      "url": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+      "download_url": null,
+      "read_scope": "Publisher abstract, bibliography and figure links inspected. Main text subscription restricted.",
+      "locators": [
+        "Abstract",
+        "Figures 1–10 link list",
+        "References: Mills/Hutton; Thakuria/Jamir/Chauley 2016"
+      ],
+      "summary": "The 2020 Dima Hasao survey recorded four previously unreported jar sites, bringing the reported total to eleven, ten geolocated. This is documentation evidence. The accessible abstract provides no scientific dating result or burial excavation result.",
+      "chapters": [
+        9,
+        10,
+        12
+      ],
+      "limitations": "Cannot claim full text verified. Geolocation precision is archaeological context, not cultural identity. Burial interpretation needs excavated remains and association.",
+      "visuals": [
+        {
+          "figure": 3,
+          "description": "Publisher figure image accessible, caption not provided in abstract page; inspect before description",
+          "url": "https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs41826-022-00043-3/MediaObjects/41826_2022_43_Fig3_HTML.png"
+        }
+      ],
+      "rights": "Publisher reprints/permissions link; no OA licence shown. Keep as permission-required candidate."
+    },
+    {
+      "id": "BUR03",
+      "citation": "Mitri, Marco; Jamir, Tiatoshi; Mepusangba; Syiemlieh, Hiambok; Darnei, Lanthanmuani; Thakuria, Tilok; Kharpuri, Larilin. 2022. Recent research on the stone jars of Northeast India: Evidence from East Jaintia Hills of Meghalaya. Archaeological Research in Asia 31:100393.",
+      "doi": "10.1016/j.ara.2022.100393",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352226722000447",
+      "download_url": null,
+      "read_scope": "Publisher abstract and introductory extract read via search result, not full article.",
+      "locators": [
+        "Abstract",
+        "Introduction extract"
+      ],
+      "summary": "Documents stone jars in Saipung, East Jaintia Hills. The historical salt-network connection is Colani's speculation, and earlier uses proposed for Assam included grinding or storage. Such interpretive variation is useful to show uncertainty rather than assert confirmed funerary function everywhere.",
+      "chapters": [
+        9,
+        10,
+        12
+      ],
+      "limitations": "Regional comparison in Meghalaya, not Assam excavation dates. Full methods/figures restricted; verify association and reuse rights before further claims.",
+      "visuals": [],
+      "rights": "Elsevier permissions; no open licence verified."
+    },
+    {
+      "id": "RIV01",
+      "citation": "Pickering, Jennifer Lynne. 2013. Late Quaternary Sedimentary Record of Holocene Channel Avulsions of the Brahmaputra River in the Upper Bengal Delta Plain. Vanderbilt University thesis.",
+      "url": "https://ir.vanderbilt.edu/items/038f6133-bd8f-4c5d-93c8-cb33c0adb6d1",
+      "download_url": null,
+      "read_scope": "Institutional repository abstract read; downloadable pickering.pdf 25.89 MB listed but direct URL not resolved.",
+      "locators": [
+        "Repository abstract"
+      ],
+      "summary": "Forty-one boreholes along a 120 km transect distinguish Brahmaputra-Jamuna and Old Brahmaputra paleovalleys and infer repeated avulsions. This is downstream Bengal delta evidence. It illustrates river mobility methods but cannot date channel changes at an Assam settlement.",
+      "chapters": [
+        2,
+        4,
+        12
+      ],
+      "limitations": "Explicit regional comparison: Upper Bengal Delta Plain, not Assam. Full thesis not read.",
+      "visuals": [],
+      "rights": "Thesis repository access does not establish commercial figure reuse."
+    }
+  ],
+  "research_gaps": [
+    {
+      "chapters": [
+        8
+      ],
+      "gap": "No excavated, directly dated domesticated rice grain, spikelet-base assemblage or securely stratified Assam rice phytolith study was verified in this research pass. Grinding stones indicate processing, not a crop species; polished celts do not prove rice cultivation.",
+      "next": "Read original Daojali Hading excavation inventory and current excavation report; locate archaeobotanical sampling and radiocarbon laboratory documentation."
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "gap": "No mineralogical provenance analysis establishing a China–Assam jadeite trade route was verified. Visual similarity or mineral occurrence cannot establish an exchange network.",
+      "next": "Require petrography/chemical sourcing, geological reference samples and securely dated artifact contexts before writing trade routes."
+    },
+    {
+      "chapters": [
+        10
+      ],
+      "gap": "No direct scientific Assam jar placement or associated burial date was verified. Laos jar dates must remain regional comparison.",
+      "next": "Acquire JNA 2019 full PDF, 2022 full report, 2016 Man and Environment article and Assam Directorate/ASI reports; verify excavated osteological evidence."
+    },
+    {
+      "chapters": [
+        4,
+        12
+      ],
+      "gap": "No Assam prehistoric burial assemblage or faunal hunting spectrum was verified.",
+      "next": "Obtain excavation reports including bone preservation, recovery methodology and taphonomy."
+    }
+  ],
+  "general_cautions": [
+    "Use calibrated BP with BP = AD 1950 and distinguish radiocarbon BP from calibrated age.",
+    "Environmental proxies reconstruct a local archive; they do not demonstrate human occupation at nearby archaeological sites.",
+    "Modern ceremonial megaliths and community knowledge are contemporary/ethnographic context unless independently dated.",
+    "Do not transfer prehistoric dates from Northeast India or Southeast Asia to Assam."
+  ],
+  "download_status": "No downloads completed by this subagent: shell curl failed DNS; primary PDF/media URLs supplied for parent downloader.",
+  "parent_review_note": "Preserved initial research packet. Acquisition and reading updates are authoritative in source_register.json and downloads.json; original access notes are historical."
+}

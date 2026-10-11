@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7in" height="10in" viewBox="0 0 504 720">
+<defs><style>@font-face{font-family:Noto;src:url(assets/NotoSans-Regular.ttf)}@font-face{font-family:Noto;src:url(assets/NotoSans-Bold.ttf);font-weight:700}</style></defs>
+<rect width="504" height="720" fill="#F7F2EC"/>
+<image href="artwork-v1.png" x="0.0" y="256.07970479704795" width="504.0" height="431.8405904059041"/>
+<image href="assets/rang-ghar.png" x="42" y="25.94921875" width="42" height="23.05078125"/>
+<text x="96" y="43" font-family="Noto" font-size="16" font-weight="700" fill="#80151A">AxomRank</text>
+<text x="42" y="74" font-family="Noto" font-size="8.5" font-weight="400" fill="#292929">ASSAM: A HISTORY OF ITS LAND AND PEOPLE</text>
+<text x="40" y="135" font-family="Noto" font-size="44" font-weight="700" fill="#80151A">BEFORE THE</text>
+<text x="38" y="191" font-family="Noto" font-size="59" font-weight="700" fill="#80151A">KINGDOMS</text>
+<text x="42" y="229" font-family="Noto" font-size="15.5" font-weight="400" fill="#292929">Prehistory and Early Life in Assam</text>
+<path d="M42 247H86" stroke="#A77B37" stroke-width=".7"/>
+<text x="42" y="703" font-family="Noto" font-size="7.5" font-weight="700" fill="#80151A">BOOK 01</text>
+<text x="462" y="703" text-anchor="end" font-family="Noto" font-size="7.5" fill="#292929">AxomRank History Series</text>
+</svg>

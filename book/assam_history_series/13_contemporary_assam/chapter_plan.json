@@ -1,0 +1,482 @@
+[
+  {
+    "id": "B13-C01",
+    "series_book": 13,
+    "number": 1,
+    "title": "After the Accord: A New Political Landscape",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace 1985 elections and the formation of regional government",
+      "Compare campaign commitments with administrative choices",
+      "Investigate changing relations between state and Union institutions",
+      "Include opposition, civic groups, and community perspectives",
+      "Set the documentary cutoff at 11 October 2026"
+    ],
+    "visual": "Government and election timeline",
+    "status": "planned",
+    "division": "Government, armed conflict, rights, and civilian life",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C02",
+    "series_book": 13,
+    "number": 2,
+    "title": "Electoral Change and Governance",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace subsequent elections and ministries using official returns",
+      "Study regional and national parties without partisan summary",
+      "Investigate decentralisation, service delivery, and administrative reform",
+      "Compare public commitments with independently measured outcomes",
+      "Verify names and office dates only against current dated sources"
+    ],
+    "visual": "Election and policy timeline",
+    "status": "planned",
+    "division": "Government, armed conflict, rights, and civilian life",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C03",
+    "series_book": 13,
+    "number": 3,
+    "title": "ULFA and Insurgency",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Investigate origins, objectives, recruitment, and factional change",
+      "Trace negotiations and armed conflict through multiple source types",
+      "Compare organisation statements with documented civilian experience",
+      "Separate allegations, prosecutions, convictions, and historical interpretation",
+      "Avoid presenting one armed organisation as all of Assamese society"
+    ],
+    "visual": "Conflict-phase chronology",
+    "status": "planned",
+    "division": "Government, armed conflict, rights, and civilian life",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C04",
+    "series_book": 13,
+    "number": 4,
+    "title": "Counterinsurgency, Rights, and Civilian Life",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Read legal frameworks in the versions relevant to each event",
+      "Investigate operations, disappearances, killings, and accountability proceedings",
+      "Compare judicial findings, official reports, and independent documentation",
+      "Recover survivors' experience with consent and careful attribution",
+      "Record unsettled cases without declaring unsupported guilt"
+    ],
+    "visual": "Case-status and evidence table",
+    "status": "planned",
+    "division": "Government, armed conflict, rights, and civilian life",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C05",
+    "series_book": 13,
+    "number": 5,
+    "title": "Bodo Movements and Political Settlements",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace movement organisations and different political demands",
+      "Investigate accords, council institutions, and territorial arrangements",
+      "Compare conflict and displacement across affected communities",
+      "Assess implementation through records and local testimony",
+      "Distinguish autonomous institutions from sovereign or state boundaries"
+    ],
+    "visual": "Accord and autonomy map by date",
+    "status": "planned",
+    "division": "Autonomy, citizenship, borders, and migration",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C06",
+    "series_book": 13,
+    "number": 6,
+    "title": "Karbi Anglong, Dima Hasao, and Other Autonomy Claims",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace distinct political organisations and regional demands",
+      "Investigate council change, agreements, and local representation",
+      "Study displacement and violence with separate event dossiers",
+      "Compare constitutional structures with community experience",
+      "Include less documented movements without merging their histories"
+    ],
+    "visual": "Council and settlement chronology",
+    "status": "planned",
+    "division": "Autonomy, citizenship, borders, and migration",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C07",
+    "series_book": 13,
+    "number": 7,
+    "title": "Citizenship, NRC, and Legal Change",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Reconstruct NRC processes through official notices and court records",
+      "Study citizenship legislation and rulings in dated historical sequence",
+      "Distinguish list exclusion, legal status, appeals, and detention categories",
+      "Compare affected households' experiences without inferring status from identity",
+      "Reverify all live legal positions at the writing cutoff"
+    ],
+    "visual": "Process and judgment timeline",
+    "status": "planned",
+    "division": "Autonomy, citizenship, borders, and migration",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C08",
+    "series_book": 13,
+    "number": 8,
+    "title": "Borders, Migration, and Regional Disputes",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Study international-border livelihoods and movement controls",
+      "Investigate interstate boundary disputes through dated documents",
+      "Compare local accounts from both sides of disputed areas",
+      "Distinguish negotiated lines, claims, and adjudicated boundaries",
+      "Use population data with clear reference year and geography"
+    ],
+    "visual": "Period-labelled border map",
+    "status": "planned",
+    "division": "Autonomy, citizenship, borders, and migration",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C09",
+    "series_book": 13,
+    "number": 9,
+    "title": "Tea, Oil, Gas, and Economic Restructuring",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace changing ownership, investment, and production",
+      "Investigate worker welfare and industrial employment",
+      "Study small tea growers and supply-chain change",
+      "Compare resource revenue with regional development outcomes",
+      "Separate company claims from audited and independent evidence"
+    ],
+    "visual": "Industry and labour trend chart",
+    "status": "planned",
+    "division": "Industry, rural livelihoods, cities, and environmental risk",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C10",
+    "series_book": 13,
+    "number": 10,
+    "title": "Farming, Markets, and Rural Livelihoods",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Investigate agricultural change, prices, credit, and land access",
+      "Study chars, erosion displacement, and tenancy",
+      "Examine fisheries, horticulture, weaving, and other livelihoods",
+      "Compare support schemes with measurable access and outcomes",
+      "Keep rural diversity visible beyond headline crop totals"
+    ],
+    "visual": "Livelihood and land-risk map",
+    "status": "planned",
+    "division": "Industry, rural livelihoods, cities, and environmental risk",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C11",
+    "series_book": 13,
+    "number": 11,
+    "title": "Guwahati, Towns, and Infrastructure",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace urban growth and changing municipal boundaries",
+      "Investigate bridges, roads, railways, and airports by commissioning date",
+      "Study housing, water, waste, traffic, and informal work",
+      "Compare investment across Brahmaputra, Barak, and hill regions",
+      "Explain displacement and ecological costs alongside connectivity"
+    ],
+    "visual": "Dated urban and transport atlas",
+    "status": "planned",
+    "division": "Industry, rural livelihoods, cities, and environmental risk",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C12",
+    "series_book": 13,
+    "number": 12,
+    "title": "Floods, Erosion, and Climate Risk",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Compare hydrological records and reported disaster impacts",
+      "Investigate embankments, river engineering, and resettlement",
+      "Distinguish weather events from long-term climate attribution",
+      "Study household adaptation and public disaster response",
+      "Use consistent measurement periods and avoid invented projections"
+    ],
+    "visual": "Flood and erosion time series",
+    "status": "planned",
+    "division": "Industry, rural livelihoods, cities, and environmental risk",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C13",
+    "series_book": 13,
+    "number": 13,
+    "title": "Forests, Wildlife, and Conservation",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace protected areas, conservation policy, and habitat change",
+      "Study Kaziranga, Manas, and other settings through dated evidence",
+      "Investigate conflict, livelihoods, poaching, and enforcement",
+      "Compare official conservation records with community perspectives",
+      "Assess tourism and ecological pressure without treating residents as obstacles"
+    ],
+    "visual": "Conservation and settlement map",
+    "status": "planned",
+    "division": "Conservation, social services, gender, and culture",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C14",
+    "series_book": 13,
+    "number": 14,
+    "title": "Education, Health, and Unequal Access",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace institutions and service availability across regions",
+      "Compare literacy, schooling, health, and nutrition using dated datasets",
+      "Investigate gender, disability, class, and community barriers",
+      "Study public and private provision without advertising claims",
+      "Separate survey estimates from administrative totals"
+    ],
+    "visual": "Dated social-indicator dashboard",
+    "status": "planned",
+    "division": "Conservation, social services, gender, and culture",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C15",
+    "series_book": 13,
+    "number": 15,
+    "title": "Women, Work, and Social Change",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Investigate workforce participation and unpaid labour",
+      "Study public representation, associations, and cultural leadership",
+      "Examine violence and rights through documented evidence and legal context",
+      "Include plantation, rural, urban, and marginalised experiences",
+      "Avoid judging progress through a few celebrated individuals"
+    ],
+    "visual": "Gender and work evidence chart",
+    "status": "planned",
+    "division": "Conservation, social services, gender, and culture",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C16",
+    "series_book": 13,
+    "number": 16,
+    "title": "Languages, Literature, Music, and Cinema",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Trace changing publishing, media, and cultural institutions",
+      "Study Assamese, Bengali, Bodo, and other creative traditions",
+      "Investigate language policy and digital access",
+      "Compare cultural recognition with local participation and livelihood",
+      "Use documented works and dates rather than invented achievements"
+    ],
+    "visual": "Multilingual cultural timeline",
+    "status": "planned",
+    "division": "Conservation, social services, gender, and culture",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C17",
+    "series_book": 13,
+    "number": 17,
+    "title": "Youth, Sport, Mobility, and Digital Life",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Study education-to-work pathways and outward migration",
+      "Investigate sports achievements through official event records",
+      "Examine internet access, platforms, and digital public debate",
+      "Compare urban, rural, gender, and class experiences",
+      "Protect personal information when using contemporary testimony"
+    ],
+    "visual": "Youth opportunity and access chart",
+    "status": "planned",
+    "division": "Youth, pandemic, the 2020s, and a dated state portrait",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C18",
+    "series_book": 13,
+    "number": 18,
+    "title": "Pandemic and Public Health Disruption",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Reconstruct COVID-19 chronology from dated health records",
+      "Study work, migration, schools, and household care",
+      "Compare recorded deaths and survey findings with methodological limits",
+      "Investigate public measures and changing healthcare capacity",
+      "Assess longer-term effects without claiming unmeasured causation"
+    ],
+    "visual": "Pandemic and service-disruption timeline",
+    "status": "planned",
+    "division": "Youth, pandemic, the 2020s, and a dated state portrait",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C19",
+    "series_book": 13,
+    "number": 19,
+    "title": "Politics and Society in the 2020s",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Create an event register through 11 October 2026",
+      "Verify elections, policies, protests, and agreements from dated records",
+      "Separate announcements, enactment, implementation, and measured results",
+      "Include regional and community responses across the state",
+      "Leave events after the cutoff for a subsequent edition"
+    ],
+    "visual": "Cutoff-based event register",
+    "status": "planned",
+    "division": "Youth, pandemic, the 2020s, and a dated state portrait",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  },
+  {
+    "id": "B13-C20",
+    "series_book": 13,
+    "number": 20,
+    "title": "Assam in the Present: A Dated Portrait",
+    "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+    "content": [
+      "Synthesize economy, people, institutions, culture, and environment",
+      "Give every statistic its reference period and territorial definition",
+      "Separate enduring historical findings from provisional contemporary analysis",
+      "Publish a corrections and next-edition update protocol",
+      "Conclude with documented questions rather than predictions presented as facts"
+    ],
+    "visual": "Source-linked contemporary dashboard",
+    "status": "planned",
+    "division": "Youth, pandemic, the 2020s, and a dated state portrait",
+    "source_lead_ids": [
+      "ACCORD-1985",
+      "REORG-1971",
+      "CENSUS-2011",
+      "DES-SURVEY",
+      "DES-PUBLICATIONS"
+    ]
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "id": "B03-C01",
+    "series_book": 3,
+    "number": 1,
+    "title": "Reading the Varman Evidence",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Evidence, geography, and early rulers",
+    "content": [
+      "Introduce the evidence for the dynasty and its chronological limits",
+      "Compare inscription editions, seals, literary accounts, and archaeology",
+      "Distinguish genealogical praise from independently dated acts",
+      "Explain Barma, Barman, Varman, and Bhauma-Varman spellings",
+      "Cross-reference mythic ancestry to Book 02 without importing its stories as facts"
+    ],
+    "visual": "Varman source-family chart",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C02",
+    "series_book": 3,
+    "number": 2,
+    "title": "Kamarupa and Its Early Neighbours",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Evidence, geography, and early rulers",
+    "content": [
+      "Reconstruct landscapes and river corridors during the period",
+      "Investigate Davaka and other political names through exact witnesses",
+      "Compare claimed boundaries with demonstrated administration",
+      "Study proposed capitals and settlement contexts",
+      "Use period-specific maps with uncertainty visible"
+    ],
+    "visual": "Early political geography map",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C03",
+    "series_book": 3,
+    "number": 3,
+    "title": "Pushyavarman and the Foundation Problem",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Evidence, geography, and early rulers",
+    "content": [
+      "Locate records that name Pushyavarman and his lineage",
+      "Compare founder claims with contemporary and retrospective testimony",
+      "Assess the conventional opening date and its derivation",
+      "Investigate royal titles and possible relationships with neighbouring powers",
+      "Separate later pedigree from evidence for state formation"
+    ],
+    "visual": "Founder evidence dossier",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C04",
+    "series_book": 3,
+    "number": 4,
+    "title": "The First Successors: A Complete Regnal Dossier",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Evidence, geography, and early rulers",
+    "content": [
+      "Establish the early successor list from exact royal genealogies",
+      "Give each attested ruler a separate name, accession, and evidence entry",
+      "Investigate consorts and succession claims where witnesses name them",
+      "Separate inherited formulae from actions actually recorded",
+      "Keep reign dates unresolved where the evidence cannot distinguish them"
+    ],
+    "visual": "Early ruler and consort table",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C05",
+    "series_book": 3,
+    "number": 5,
+    "title": "Middle Varman Reigns and Consolidation",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Succession, Bhaskaravarman, and external witnesses",
+    "content": [
+      "Identify every middle-period ruler through the inscription sequence",
+      "Investigate grant, ritual, office, and territorial claims by reign",
+      "Compare chronology across modern editions and underlying readings",
+      "Examine local political relationships beyond dynastic praise",
+      "Explain gaps without assuming peace or prosperity"
+    ],
+    "visual": "Reign-by-reign evidence chronology",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C06",
+    "series_book": 3,
+    "number": 6,
+    "title": "Late Succession and the Royal Brothers",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Succession, Bhaskaravarman, and external witnesses",
+    "content": [
+      "Reconstruct the late dynastic sequence with separate ruler dossiers",
+      "Investigate Supratishthitavarman and Bhaskaravarman in relevant witnesses",
+      "Study the household and succession claims without invented personal motives",
+      "Compare literary and inscriptional accounts of conflict",
+      "Explain disagreements in accession and reign duration"
+    ],
+    "visual": "Late succession comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C07",
+    "series_book": 3,
+    "number": 7,
+    "title": "Bhaskaravarman: Court and Diplomacy",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Succession, Bhaskaravarman, and external witnesses",
+    "content": [
+      "Develop a documented political biography of Bhaskaravarman",
+      "Study relationships with Harsha and other regional powers",
+      "Read envoys, gifts, alliance language, and court representation",
+      "Compare campaigns and territorial claims with actual witnesses",
+      "Discuss institutions and social consequences beyond royal achievement"
+    ],
+    "visual": "Diplomatic mission chronology",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C08",
+    "series_book": 3,
+    "number": 8,
+    "title": "Bhaskaravarman in External Accounts",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Succession, Bhaskaravarman, and external witnesses",
+    "content": [
+      "Read Bana's Harshacharita in identified editions and translations",
+      "Investigate Xuanzang's account with chronology and translation cautions",
+      "Compare what independent witnesses can and cannot establish",
+      "Separate court eulogy, travel writing, and later synthesis",
+      "Avoid treating agreement based on shared information as independent confirmation"
+    ],
+    "visual": "External witness comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C09",
+    "series_book": 3,
+    "number": 9,
+    "title": "Dubi, Nidhanpur, and the Charter Record",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Charters, institutions, land, and religion",
+    "content": [
+      "Inspect exact text, seals, plates, and edition conventions",
+      "Separate original grants, reissues, and narrated earlier donations",
+      "Map beneficiaries and places with uncertain identifications marked",
+      "Read Naraka-related pedigree as a lineage claim",
+      "Explain each charter's legal and representational functions"
+    ],
+    "visual": "Annotated charter comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C10",
+    "series_book": 3,
+    "number": 10,
+    "title": "Kingship, Officers, and Administration",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Charters, institutions, land, and religion",
+    "content": [
+      "Catalogue offices and titles actually named in Varman records",
+      "Investigate delegated authority and local intermediaries",
+      "Compare royal claims with administrative acts",
+      "Study military and judicial questions where evidence survives",
+      "Do not import institutions from later Kamarupa or Ahom periods"
+    ],
+    "visual": "Period-specific office chart",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C11",
+    "series_book": 3,
+    "number": 11,
+    "title": "Land, Labour, Cultivation, and Exchange",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Charters, institutions, land, and religion",
+    "content": [
+      "Read charter boundaries, revenue rights, and exemptions",
+      "Investigate cultivators and labour through available records",
+      "Compare archaeological settlement evidence with donation rhetoric",
+      "Study river routes, crafts, and exchange hypotheses",
+      "Avoid reading a grant as a complete household survey"
+    ],
+    "visual": "Grant and livelihood evidence map",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C12",
+    "series_book": 3,
+    "number": 12,
+    "title": "Religion and Royal Patronage",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Charters, institutions, land, and religion",
+    "content": [
+      "Investigate religious affiliations and patronage by reign",
+      "Read ritual claims in inscription and literary contexts",
+      "Compare sacred sites with securely dated material phases",
+      "Include plural traditions only where period-specific evidence supports them",
+      "Distinguish religious legitimacy from uniform popular practice"
+    ],
+    "visual": "Dated patronage register",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C13",
+    "series_book": 3,
+    "number": 13,
+    "title": "Scripts, Languages, Art, and Knowledge",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Culture, society, transition, and historical memory",
+    "content": [
+      "Compare writing through securely dated inscriptions",
+      "Distinguish inscription language from household speech",
+      "Investigate sculpture, building fragments, and provenance",
+      "Study learning and manuscript transmission with actual witnesses",
+      "Keep later artistic attributions separate from Varman-period material"
+    ],
+    "visual": "Inscription and object plate",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C14",
+    "series_book": 3,
+    "number": 14,
+    "title": "Women, Households, and Social Difference",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Culture, society, transition, and historical memory",
+    "content": [
+      "Record all women and relatives actually named in the sources",
+      "Study donor, consort, and kinship roles without speculative biographies",
+      "Examine occupational and social labels in historical context",
+      "Include cultivators and communities where evidence permits",
+      "Make court-centred silences visible in the account"
+    ],
+    "visual": "Named-person and social evidence table",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C15",
+    "series_book": 3,
+    "number": 15,
+    "title": "The End of Varman Rule",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Culture, society, transition, and historical memory",
+    "content": [
+      "Compare witnesses for the dynasty's closing sequence",
+      "Investigate claims about heirs, successors, and political transition",
+      "Assess discontinuity and continuity without a presumed family connection",
+      "Introduce Salastambha through dated and retrospective evidence",
+      "Show why uncertain endings require explanation rather than an exact invented date"
+    ],
+    "visual": "Transition evidence chart",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B03-C16",
+    "series_book": 3,
+    "number": 16,
+    "title": "Varman Memory and the Kamarupa Sequence",
+    "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+    "division": "Culture, society, transition, and historical memory",
+    "content": [
+      "Synthesize secure findings and unresolved reign questions",
+      "Explain later appropriation of dynastic and Bhauma ancestry",
+      "Prepare every-ruler, inscription, and place appendices",
+      "Cross-reference historical themes carried into Books 04 and 05",
+      "Keep sacred genealogy and historical succession as separate registers"
+    ],
+    "visual": "Dynasty and memory concordance",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  }
+]

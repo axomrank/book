@@ -1,0 +1,683 @@
+{
+  "title": "Assam: A History of Its Land and People",
+  "title_status": "proposed umbrella title; selected Ahom series title preserved",
+  "planning_date": "2026-10-11",
+  "contemporary_cutoff": "2026-10-11",
+  "books": [
+    {
+      "number": 1,
+      "slug": "01_prehistory_and_early_life",
+      "title": "Before the Kingdoms: Prehistory and Early Life in Assam",
+      "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+      "parts": [
+        [
+          1,
+          3,
+          "Evidence and landscapes"
+        ],
+        [
+          4,
+          6,
+          "Early communities and archaeological sites"
+        ],
+        [
+          7,
+          9,
+          "Food, crafts, and connections"
+        ],
+        [
+          10,
+          12,
+          "Ritual, transition, and knowledge limits"
+        ]
+      ],
+      "sources": [
+        "ARCH-SITES",
+        "ASI-AMBARI",
+        "NE-PREHISTORY"
+      ],
+      "gaps": [
+        "Date and context of early tool finds",
+        "Daojali Hading and other site dating",
+        "Unexcavated and lost collections",
+        "Do not equate artifacts or ancestry with a modern ethnicity"
+      ],
+      "appendices": [
+        "Dated site gazetteer",
+        "Artifact and context catalogue",
+        "Dating-method glossary and uncertainty register"
+      ],
+      "chapter_count": 12,
+      "content_divisions": 60,
+      "folder": "01_prehistory_and_early_life",
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "30,000–45,000"
+    },
+    {
+      "slug": "02_mythological_assam",
+      "title": "Mythological Assam: Danava, Naraka, and the Sacred Worlds of Pragjyotisha",
+      "period": "Mythic narrative time, textual transmission, and later regional reception; no asserted BCE/CE reign dates",
+      "parts": [
+        [
+          1,
+          4,
+          "Reading traditions and the Danava figures"
+        ],
+        [
+          5,
+          8,
+          "Ghataka and the Naraka narratives"
+        ],
+        [
+          9,
+          12,
+          "Epic rulers, Bana, and the goddess"
+        ],
+        [
+          13,
+          16,
+          "Sacred landscapes, genealogy, and memory"
+        ]
+      ],
+      "sources": [
+        "MYTH-TEXT-CATALOGUE",
+        "GENEALOGY-STUDY",
+        "DHAS-CATALOGUE"
+      ],
+      "gaps": [
+        "Identify the user-supplied name Sura Danava from exact editions or local testimony; do not silently substitute a different figure",
+        "Acquire and compare Kalika Purana, Yogini Tantra, Mahabharata, Harivamsha, Vishnu Purana, and Bhagavata Purana passages by edition",
+        "Separate narrative chronology, text composition, manuscript copying, and modern retelling",
+        "Explain sacred lineage claims without converting them into verified prehistoric or dynastic dates"
+      ],
+      "appendices": [
+        "Figure and spelling authority including Sura Danava",
+        "Edition and passage concordance",
+        "Separate genealogy variants, never a forced continuous ruler list",
+        "Sacred-place gazetteer with attribution",
+        "Retelling and oral-tradition provenance register"
+      ],
+      "number": 2,
+      "folder": "02_mythological_assam",
+      "chapter_count": 16,
+      "content_divisions": 80,
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "40,000–60,000"
+    },
+    {
+      "slug": "03_kamarupa_varman",
+      "title": "Kamarupa I — Barma/Varman: Dynasty, State, and Society",
+      "period": "Varman period, broadly c. fourth–seventh centuries CE; precise reign boundaries to verify",
+      "parts": [
+        [
+          1,
+          4,
+          "Evidence, geography, and early rulers"
+        ],
+        [
+          5,
+          8,
+          "Succession, Bhaskaravarman, and external witnesses"
+        ],
+        [
+          9,
+          12,
+          "Charters, institutions, land, and religion"
+        ],
+        [
+          13,
+          16,
+          "Culture, society, transition, and historical memory"
+        ]
+      ],
+      "sources": [
+        "ARCH-SITES",
+        "ASI-AMBARI",
+        "DHAS-CATALOGUE",
+        "GENEALOGY-STUDY"
+      ],
+      "gaps": [
+        "Verify every ruler and regnal sequence against inscription editions rather than popular lists",
+        "Compare Dubi and Nidhanpur genealogies, grants, and seal evidence",
+        "Separate Bhaskaravarman diplomacy from later claims of durable conquest",
+        "Document Barma, Barman, Varman, and Bhauma-Varman naming without implying shared ethnicity or an unbroken mythic line"
+      ],
+      "appendices": [
+        "Every-ruler dossier and variant-name concordance",
+        "Varman inscription and seal register",
+        "Grant and diplomatic chronology",
+        "Place identifications and uncertainty map"
+      ],
+      "number": 3,
+      "folder": "03_kamarupa_varman",
+      "chapter_count": 16,
+      "content_divisions": 80,
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "45,000–65,000"
+    },
+    {
+      "slug": "04_kamarupa_salastambha",
+      "title": "Kamarupa II — Salastambha: Rule, Society, and Bhauma Lineage Traditions",
+      "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+      "parts": [
+        [
+          1,
+          4,
+          "Names, transition, landscape, and early reigns"
+        ],
+        [
+          5,
+          8,
+          "Power, recorded rulers, and dynastic change"
+        ],
+        [
+          9,
+          12,
+          "Government, land, religion, and material culture"
+        ],
+        [
+          13,
+          16,
+          "Society, connections, genealogy, and synthesis"
+        ]
+      ],
+      "sources": [
+        "ARCH-SITES",
+        "DHAS-CATALOGUE",
+        "GENEALOGY-STUDY"
+      ],
+      "gaps": [
+        "Preserve user spelling Salstambha and verify Salastambha variants in the name authority",
+        "Bhauma is a lineage claim used across dynasties, not an unquestioned synonym restricted to Salastambha",
+        "Investigate the source context of Mlechchha without equating it to a modern community",
+        "Verify the complete ruler sequence, Haruppesvara identification, and inscription dates before drafting"
+      ],
+      "appendices": [
+        "Complete ruler and spelling dossier",
+        "Salastambha inscription concordance",
+        "Capital and site identification register",
+        "Bhauma and Naraka ancestry-claim comparison"
+      ],
+      "number": 4,
+      "folder": "04_kamarupa_salastambha",
+      "chapter_count": 16,
+      "content_divisions": 80,
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "45,000–65,000"
+    },
+    {
+      "slug": "05_kamarupa_pala",
+      "title": "Kamarupa III — Pal/Pala: Kingship, Change, and Fragmentation",
+      "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+      "parts": [
+        [
+          1,
+          4,
+          "Identity, origins, and early rulers"
+        ],
+        [
+          5,
+          8,
+          "Later reigns, geography, government, and economy"
+        ],
+        [
+          9,
+          12,
+          "Sacred authority, culture, society, and regional power"
+        ],
+        [
+          13,
+          16,
+          "Fragmentation, continuity, and the medieval transition"
+        ]
+      ],
+      "sources": [
+        "ARCH-SITES",
+        "ASI-AMBARI",
+        "DHAS-CATALOGUE",
+        "GENEALOGY-STUDY"
+      ],
+      "gaps": [
+        "Distinguish Kamarupa Palas from Bengal/Gauda Palas and similarly named rulers",
+        "Verify Brahmapala accession claims, Ratnapala and later ruler sequences, and actual grant dates",
+        "Compare late capital and territorial claims with material and external evidence",
+        "Explain fragmentation through specific witnesses rather than an exact assumed collapse year"
+      ],
+      "appendices": [
+        "Every-ruler and variant-name dossiers",
+        "Pala grant and seal concordance",
+        "Late Kamarupa chronology with conflicting readings",
+        "Place and political-transition atlas"
+      ],
+      "number": 5,
+      "folder": "05_kamarupa_pala",
+      "chapter_count": 16,
+      "content_divisions": 80,
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "45,000–65,000"
+    },
+    {
+      "number": 6,
+      "slug": "06_regional_kingdoms_and_communities",
+      "title": "Many Kingdoms, Many Peoples: Regional Assam in the Medieval Age",
+      "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+      "parts": [
+        [
+          1,
+          5,
+          "Kamata, Koch, and western power"
+        ],
+        [
+          6,
+          10,
+          "Eastern kingdoms, Barak, and hill societies"
+        ],
+        [
+          11,
+          14,
+          "Religious change and cultural worlds"
+        ],
+        [
+          15,
+          18,
+          "Livelihoods, agency, upheaval, and regional synthesis"
+        ]
+      ],
+      "sources": [
+        "DHAS-CATALOGUE",
+        "ARCH-SITES",
+        "STATE-ARCHIVES"
+      ],
+      "gaps": [
+        "Koch, Chutiya, Dimasa, and community source comparison",
+        "Dating of hagiographies and manuscript witnesses",
+        "Distinct histories of Barak and hill areas",
+        "Do not turn conquest narratives into complete community histories"
+      ],
+      "appendices": [
+        "Parallel regional ruler chronology",
+        "Community and language source guide",
+        "Period-specific political maps",
+        "Ahom-trilogy cross-reference concordance"
+      ],
+      "chapter_count": 18,
+      "content_divisions": 90,
+      "folder": "06_regional_kingdoms_and_communities",
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "55,000–80,000"
+    },
+    {
+      "number": 7,
+      "slug": "07_ahom_origins_and_expansion",
+      "title": "From Sukaphaa to Gomdhar Konwar — Volume I: Origins, Foundation and Expansion",
+      "period": "Origins and pre-1228 context; 1228–1603 political narrative",
+      "legacy": 1,
+      "range": [
+        1,
+        16
+      ],
+      "parts": [
+        [
+          1,
+          9,
+          "Sources, origins, and the early kingdom"
+        ],
+        [
+          10,
+          16,
+          "Expansion and the regional order"
+        ]
+      ],
+      "sources": [
+        "LEGACY-AHOM",
+        "DHAS-CATALOGUE",
+        "ARCH-SITES"
+      ],
+      "gaps": [
+        "Early reign dates and interregna",
+        "Gait and Barua source dependence",
+        "Migration totals and sacred ancestry",
+        "Chutiya, Dimasa, Koch, and Bengal comparison"
+      ],
+      "appendices": [
+        "Working regnal and event chronology",
+        "Name and place authorities",
+        "Diplomatic register",
+        "Source-family and dispute register"
+      ],
+      "chapter_count": 16,
+      "content_divisions": 80,
+      "folder": "07_ahom_origins_and_expansion",
+      "status": "Five opening chapter drafts; sixteen preliminary dossiers; incomplete and not publication-ready",
+      "main_text_word_target": "Part of the original shared trilogy target"
+    },
+    {
+      "number": 8,
+      "slug": "08_ahom_war_and_renewal",
+      "title": "From Sukaphaa to Gomdhar Konwar — Volume II: War, Power and Renewal",
+      "period": "1603–1769 political narrative",
+      "legacy": 2,
+      "range": [
+        17,
+        34
+      ],
+      "parts": [
+        [
+          17,
+          22,
+          "Reorganisation, invasion, and treaty"
+        ],
+        [
+          23,
+          28,
+          "Recovery, Saraighat, and succession crisis"
+        ],
+        [
+          29,
+          34,
+          "Restoration, patronage, and regional diplomacy"
+        ]
+      ],
+      "sources": [
+        "LEGACY-AHOM",
+        "DHAS-CATALOGUE",
+        "ARCH-SITES"
+      ],
+      "gaps": [
+        "Persian and Ahom witness comparison",
+        "Alaboi and Saraighat troop and casualty claims",
+        "Joymoti narrative source history",
+        "Dating monument construction phases and royal patronage"
+      ],
+      "appendices": [
+        "War and treaty chronology",
+        "Command and court prosopography",
+        "Patronage and building catalogue",
+        "Chronicle-to-Persian concordance"
+      ],
+      "chapter_count": 18,
+      "content_divisions": 90,
+      "folder": "08_ahom_war_and_renewal",
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "Part of the original shared trilogy target"
+    },
+    {
+      "number": 9,
+      "slug": "09_ahom_society_collapse_resistance",
+      "title": "From Sukaphaa to Gomdhar Konwar — Volume III: Society, Collapse and Resistance",
+      "period": "Thematic history across 1228–1828; late political narrative c. 1769–1828",
+      "legacy": 3,
+      "range": [
+        35,
+        60
+      ],
+      "parts": [
+        [
+          35,
+          40,
+          "Government, work, economy, and communities"
+        ],
+        [
+          41,
+          46,
+          "Gender, religion, culture, sites, and everyday life"
+        ],
+        [
+          47,
+          52,
+          "Rebellion, civil war, and reconstruction"
+        ],
+        [
+          53,
+          60,
+          "Occupation, Company rule, and Gomdhar"
+        ]
+      ],
+      "sources": [
+        "LEGACY-AHOM",
+        "DHAS-CATALOGUE",
+        "STATE-ARCHIVES"
+      ],
+      "gaps": [
+        "Period-specific paik and office histories",
+        "Moamoria phases and Matak perspectives",
+        "Burmese and Company evidence and civilian testimony",
+        "Gomdhar proceedings, sentence, and uncertain later biography"
+      ],
+      "appendices": [
+        "Full regnal and event chronologies",
+        "Institution and community registers",
+        "Material culture and architectural catalogue",
+        "Gomdhar unresolved-questions dossier and bounded later-restoration coda"
+      ],
+      "chapter_count": 26,
+      "content_divisions": 130,
+      "folder": "09_ahom_society_collapse_resistance",
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "Part of the original shared trilogy target"
+    },
+    {
+      "number": 10,
+      "slug": "10_colonial_rule_and_transformation",
+      "title": "Under Company and Crown: Colonial Rule and the Making of Modern Assam",
+      "period": "1826–1905; regional incorporation dates handled individually",
+      "parts": [
+        [
+          1,
+          4,
+          "Conquest, administration, and uneven incorporation"
+        ],
+        [
+          5,
+          8,
+          "Plantations, land, extraction, and transport"
+        ],
+        [
+          9,
+          12,
+          "Environment, education, faith, and 1857"
+        ],
+        [
+          13,
+          16,
+          "Protest, province, everyday life, and public politics"
+        ]
+      ],
+      "sources": [
+        "STATE-ARCHIVES",
+        "DHAS-CATALOGUE"
+      ],
+      "gaps": [
+        "Treaty wording versus occupation and annexation",
+        "Cachar and hill jurisdiction timelines",
+        "Plantation recruitment and worker testimony",
+        "Phulaguri, Patharughat, and administrative-boundary comparisons"
+      ],
+      "appendices": [
+        "Treaty and jurisdiction chronology",
+        "District-boundary atlas",
+        "Plantation and industrial register",
+        "Protest and proceedings catalogue"
+      ],
+      "chapter_count": 16,
+      "content_divisions": 80,
+      "folder": "10_colonial_rule_and_transformation",
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "45,000–65,000"
+    },
+    {
+      "number": 11,
+      "slug": "11_public_politics_and_freedom",
+      "title": "Assam and the Struggle for Freedom: Politics, Labour, Culture, and Partition",
+      "period": "1905–1947, with an explicitly bounded independence transition",
+      "parts": [
+        [
+          1,
+          4,
+          "Reorganisation, association, mobilisation, and war"
+        ],
+        [
+          5,
+          8,
+          "Mass movements, labour, land, and migration"
+        ],
+        [
+          9,
+          12,
+          "Culture, participation, campaigns, and representation"
+        ],
+        [
+          13,
+          16,
+          "World war, Quit India, Partition, and independence"
+        ]
+      ],
+      "sources": [
+        "STATE-ARCHIVES",
+        "DHAS-CATALOGUE"
+      ],
+      "gaps": [
+        "District-level movement and participation records",
+        "Labour and peasant voices beyond elite politics",
+        "1930s ministries and representation laws",
+        "Sylhet referendum, boundary award, and displaced households"
+      ],
+      "appendices": [
+        "Political and movement chronology",
+        "Verified participant and martyr biographies",
+        "Election and ministry tables",
+        "Sylhet and Partition document guide"
+      ],
+      "chapter_count": 16,
+      "content_divisions": 80,
+      "folder": "11_public_politics_and_freedom",
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "45,000–65,000"
+    },
+    {
+      "number": 12,
+      "slug": "12_independence_and_state_reorganisation",
+      "title": "A State Remade: Assam from Independence to the Accord",
+      "period": "1947–1985",
+      "parts": [
+        [
+          1,
+          4,
+          "Independence, constitution, territory, and language"
+        ],
+        [
+          5,
+          8,
+          "Development, livelihoods, plantations, and social services"
+        ],
+        [
+          9,
+          12,
+          "Culture, environment, migration, and politics"
+        ],
+        [
+          13,
+          16,
+          "Movement, violence, negotiations, and the Accord"
+        ]
+      ],
+      "sources": [
+        "STATE-ARCHIVES",
+        "REORG-1971",
+        "ACCORD-1985",
+        "CENSUS-2011"
+      ],
+      "gaps": [
+        "Legal distinction between autonomy, UT creation, and statehood",
+        "Language law and Barak Valley evidence",
+        "Changing district boundaries and missing data periods",
+        "Nellie and other violence: inquiry access and independent testimony"
+      ],
+      "appendices": [
+        "State-boundary and capital chronology",
+        "Autonomy and constitutional instrument register",
+        "Election, government, and social-indicator tables",
+        "Movement and violence evidence register"
+      ],
+      "chapter_count": 16,
+      "content_divisions": 80,
+      "folder": "12_independence_and_state_reorganisation",
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "45,000–65,000"
+    },
+    {
+      "number": 13,
+      "slug": "13_contemporary_assam",
+      "title": "Assam Today in Historical Perspective: Society, Politics, and Change",
+      "period": "1985–11 October 2026; fixed edition cutoff, not a live news feed",
+      "parts": [
+        [
+          1,
+          4,
+          "Government, armed conflict, rights, and civilian life"
+        ],
+        [
+          5,
+          8,
+          "Autonomy, citizenship, borders, and migration"
+        ],
+        [
+          9,
+          12,
+          "Industry, rural livelihoods, cities, and environmental risk"
+        ],
+        [
+          13,
+          16,
+          "Conservation, social services, gender, and culture"
+        ],
+        [
+          17,
+          20,
+          "Youth, pandemic, the 2020s, and a dated state portrait"
+        ]
+      ],
+      "sources": [
+        "ACCORD-1985",
+        "REORG-1971",
+        "CENSUS-2011",
+        "DES-SURVEY",
+        "DES-PUBLICATIONS"
+      ],
+      "gaps": [
+        "Current legal status must be checked against dated court and gazette records",
+        "Contested conflict and casualty claims need independent documentation",
+        "Announcements differ from operating projects and measured outcomes",
+        "Latest accessible survey and census periods differ from publication dates"
+      ],
+      "appendices": [
+        "Government, election, and policy timeline",
+        "Accord and court-document register",
+        "Boundary-consistent statistical tables",
+        "Conflict and displacement evidence register",
+        "Corrections log and next-edition update checklist"
+      ],
+      "chapter_count": 20,
+      "content_divisions": 100,
+      "folder": "13_contemporary_assam",
+      "status": "Plan only; manuscript drafting has not begun",
+      "main_text_word_target": "55,000–80,000"
+    }
+  ],
+  "book_count": 13,
+  "chapter_count": 222,
+  "content_divisions": 1110,
+  "planning_revision_date": "2026-10-11",
+  "superseded_plans": [
+    {
+      "folder": "_superseded/02_ancient_kamarupa",
+      "reason": "Replaced by dedicated Varman, Salastambha, and Pala plans",
+      "active_books": [
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "planning_id_migration": "PLANNING_ID_MIGRATION.json"
+}

@@ -1,0 +1,370 @@
+[
+  {
+    "id": "B05-C01",
+    "series_book": 5,
+    "number": 1,
+    "title": "Which Palas? Names, Sources, and Chronology",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Identity, origins, and early rulers",
+    "content": [
+      "Explain Pal and Pala spelling conventions",
+      "Distinguish Kamarupa rulers from Bengal Palas and namesakes",
+      "Introduce exact grants, seals, archaeological records, and external witnesses",
+      "Set tentative period boundaries with the evidence behind them",
+      "State the limits of reconstructing a continuous dynasty"
+    ],
+    "visual": "Dynasty and source identity table",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C02",
+    "series_book": 5,
+    "number": 2,
+    "title": "Brahmapala and the Accession Tradition",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Identity, origins, and early rulers",
+    "content": [
+      "Locate records describing Brahmapala's accession",
+      "Compare narratives of selection, legitimacy, and preceding dynastic change",
+      "Investigate dates and titles through specific readings",
+      "Separate retrospective praise from independently demonstrable circumstances",
+      "Give the founder a documented dossier without invented popular consensus"
+    ],
+    "visual": "Accession-source comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C03",
+    "series_book": 5,
+    "number": 3,
+    "title": "Ratnapala and Royal Consolidation",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Identity, origins, and early rulers",
+    "content": [
+      "Read grants and other witnesses attributed to Ratnapala",
+      "Investigate authority, patronage, and court self-representation",
+      "Study the place and capital claims in their exact wording",
+      "Compare genealogy with actual land and administrative acts",
+      "Keep chronology and identity disagreements explicit"
+    ],
+    "visual": "Ratnapala grant and act timeline",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C04",
+    "series_book": 5,
+    "number": 4,
+    "title": "Indrapala and the Early Successor Sequence",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Identity, origins, and early rulers",
+    "content": [
+      "Establish the early Pala list through exact witness comparison",
+      "Develop separate ruler dossiers including Indrapala where attested",
+      "Read kinship and succession claims rather than infer them from similar names",
+      "Investigate grants, offices, and religious patronage by reign",
+      "Record gaps in accession or duration without filling them silently"
+    ],
+    "visual": "Early Pala ruler register",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C05",
+    "series_book": 5,
+    "number": 5,
+    "title": "Later Rulers: Gopala, Harshapala, and Dharmapala",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Later reigns, geography, government, and economy",
+    "content": [
+      "Verify names and order from the relevant inscriptions",
+      "Give each attested ruler an individual evidence dossier",
+      "Investigate political and institutional change by reign",
+      "Compare claims of renewal with actual documented acts",
+      "Include uncertain successors through attributed entries rather than fabricated biographies"
+    ],
+    "visual": "Later Pala reign comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C06",
+    "series_book": 5,
+    "number": 6,
+    "title": "Capitals, Territory, and Settlement Networks",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Later reigns, geography, government, and economy",
+    "content": [
+      "Investigate Durjaya and other capital-place readings",
+      "Compare proposed locations with archaeological and topographic evidence",
+      "Map river routes, local centres, and political relationships",
+      "Separate charter boundaries from kingdom-wide territorial claims",
+      "Avoid projecting a modern district onto an early polity"
+    ],
+    "visual": "Capital and settlement hypothesis map",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C07",
+    "series_book": 5,
+    "number": 7,
+    "title": "Court, Officers, and Local Government",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Later reigns, geography, government, and economy",
+    "content": [
+      "Catalogue offices and forms of delegated authority",
+      "Compare administrative formulae with earlier Kamarupa records",
+      "Investigate grants, judicial questions, and local intermediaries",
+      "Study military and revenue arrangements only where witnesses support them",
+      "Distinguish title continuity from unchanged institutional function"
+    ],
+    "visual": "Office and act concordance",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C08",
+    "series_book": 5,
+    "number": 8,
+    "title": "Land, Revenue, Labour, and Exchange",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Later reigns, geography, government, and economy",
+    "content": [
+      "Study beneficiaries, donation terms, boundaries, and exemptions",
+      "Investigate cultivators and social obligations in actual records",
+      "Compare settlement archaeology with agrarian interpretations",
+      "Trace crafts and exchange through securely identified evidence",
+      "Do not treat elite charters as a complete account of rural life"
+    ],
+    "visual": "Agrarian and trade evidence map",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C09",
+    "series_book": 5,
+    "number": 9,
+    "title": "Religion and Sacred Authority",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Sacred authority, culture, society, and regional power",
+    "content": [
+      "Read patronage and affiliation claims by ruler and institution",
+      "Compare sacred genealogy with actual ritual or donation evidence",
+      "Study changing temple and religious landscapes",
+      "Investigate plural practices and their material witnesses",
+      "Avoid presenting royal belief as uniform public religion"
+    ],
+    "visual": "Dated patronage catalogue",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C10",
+    "series_book": 5,
+    "number": 10,
+    "title": "Texts, Scripts, Images, and Buildings",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Sacred authority, culture, society, and regional power",
+    "content": [
+      "Compare script forms through exact dated inscriptions",
+      "Investigate languages, knowledge traditions, and manuscript dating",
+      "Catalogue sculptures and architecture with secure provenance",
+      "Separate later reuse from original patronage",
+      "Document competing attributions and absent material"
+    ],
+    "visual": "Writing and object comparison plate",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C11",
+    "series_book": 5,
+    "number": 11,
+    "title": "Women, Kinship, and Social Difference",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Sacred authority, culture, society, and regional power",
+    "content": [
+      "Record consorts, donors, and household relations named in witnesses",
+      "Investigate gendered authority and labour where evidence survives",
+      "Read caste, occupational, and community terms historically",
+      "Compare elite representation with archaeological and local evidence",
+      "Explain what remains unknown beyond the court"
+    ],
+    "visual": "Social and person evidence table",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C12",
+    "series_book": 5,
+    "number": 12,
+    "title": "Neighbouring Powers and External Pressure",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Sacred authority, culture, society, and regional power",
+    "content": [
+      "Investigate relationships with Bengal and other relevant polities",
+      "Read external accounts alongside local inscriptions",
+      "Compare warfare, alliance, travel, and tribute claims",
+      "Separate temporary reach from sustained administration",
+      "Avoid confusing a neighbouring Pala ruler with a local namesake"
+    ],
+    "visual": "External-witness and event map",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C13",
+    "series_book": 5,
+    "number": 13,
+    "title": "Late Kamarupa and Fragmentation",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Fragmentation, continuity, and the medieval transition",
+    "content": [
+      "Establish the latest secure dynastic and grant records",
+      "Compare alternative explanations of political change",
+      "Investigate local centres without assuming one instantaneous collapse",
+      "Read changing authority through specific sites and witnesses",
+      "Keep disputed rulers and dates in the chronology"
+    ],
+    "visual": "Late evidence and transition timeline",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C14",
+    "series_book": 5,
+    "number": 14,
+    "title": "Successor Authorities and the Thirteenth-Century Bridge",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Fragmentation, continuity, and the medieval transition",
+    "content": [
+      "Investigate post-Pala rulers and local power through exact records",
+      "Differentiate Kamarupa, Kamata, and other changing political labels",
+      "Read conquest and external expedition accounts critically",
+      "Give bounded context up to the regional and Ahom books",
+      "Avoid treating the 1228 arrival as the end of every older institution"
+    ],
+    "visual": "Successor and regional power diagram",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C15",
+    "series_book": 5,
+    "number": 15,
+    "title": "Pala Kings and Bhauma Lineage Claims",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Fragmentation, continuity, and the medieval transition",
+    "content": [
+      "Compare the dynasty's Naraka-related pedigree formulations",
+      "Explain how ancestry rhetoric differs from earlier dynasties",
+      "Distinguish sacred legitimacy from an unbroken biological line",
+      "Cross-reference the mythology book for the relevant narrative variants",
+      "Prepare the grant and genealogy concordance with locatable readings"
+    ],
+    "visual": "Three-dynasty ancestry comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B05-C16",
+    "series_book": 5,
+    "number": 16,
+    "title": "The Three Kamarupa Books: A Connected Synthesis",
+    "period": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+    "division": "Fragmentation, continuity, and the medieval transition",
+    "content": [
+      "Compare political change across Varman, Salastambha, and Pala eras",
+      "Trace period-specific social, religious, and material continuities",
+      "Identify unanswered questions for epigraphic and archaeological specialists",
+      "Prepare the complete ruler, grant, place, and transition appendices",
+      "Connect to the regional book without repeating its full medieval narrative"
+    ],
+    "visual": "Kamarupa comparative matrix",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  }
+]

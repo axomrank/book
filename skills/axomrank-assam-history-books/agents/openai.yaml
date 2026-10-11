@@ -1,0 +1,6 @@
+interface:
+  display_name: "AxomRank Assam History Book Agent"
+  short_description: "Write sourced Assam history in AxomRank's brand style"
+  default_prompt: "Use $axomrank-assam-history-books to continue the Assam history book in axomrank/book with sourced writing and consistent AxomRank branding."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,21 @@
+{
+  "html": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/book/book/assam_history_series/01_prehistory_and_early_life/manuscript/01_Reading_the_Deep_Past.html",
+  "pdf": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/book/output/pdf/Before_the_Kingdoms_Chapter_01_HTML_Design_Proof.pdf",
+  "pages": 14,
+  "image_count": 4,
+  "engine": "WeasyPrint 70.0",
+  "visual_review": "All 14 pages inspected through contact sheets; final opener, source-image panels, notes and revised answer/model pages checked at larger size. No clipping, missing images or glyph defects observed.",
+  "publication_ready": false,
+  "review_date": "2026-10-11",
+  "checks": {
+    "trim_points": [
+      504,
+      720
+    ],
+    "local_links_and_anchors": "passed",
+    "source_notes": 6,
+    "original_mcqs": 8,
+    "short_answer_model": "kept together"
+  },
+  "pdf_sha256": "783bfeed7e15c1556ee22ba1e6edf5b3c1110e24be5ddc2628dcd7e3109754f0"
+}

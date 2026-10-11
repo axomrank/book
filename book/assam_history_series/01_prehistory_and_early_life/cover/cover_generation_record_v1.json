@@ -1,0 +1,34 @@
+{
+  "book_id": "B01",
+  "title": "Before the Kingdoms: Prehistory and Early Life in Assam",
+  "date": "2026-10-11",
+  "status": "Front cover design proof, visually reviewed",
+  "generation_tool": "Built-in image_gen.imagegen",
+  "artwork": "artwork-v1.png",
+  "prompt": "artwork_prompt_v1.txt",
+  "reference_roles": {
+    "DJL17-F3B": "Celt morphology reference, Sharma and Singh 2017 Figure 3",
+    "DJL17-F3A": "Cord-impressed sherd morphology reference, Sharma and Singh 2017 Figure 3"
+  },
+  "artwork_classification": "Modern AI illustration; imagined landscape and artifact arrangement; not a site photograph or documented reconstruction",
+  "logo": "Unchanged official AxomRank brand-kit/v1 Rang Ghar master PNG, embedded separately",
+  "typography": "Native Noto Sans regular and bold; exact title text typeset independently of artwork",
+  "palette": [
+    "#80151A",
+    "#F7F2EC",
+    "#292929",
+    "#A77B37",
+    "#3F6B4F"
+  ],
+  "cover_extent": "Front only, 7 x 10 inch trim; no spine, back, bleed or printer profile commissioned",
+  "personal_author": "Unspecified; no personal name invented",
+  "checks": [
+    "One-page PDF",
+    "Exact title and brand text extracted",
+    "Native text width assertions passed",
+    "Original logo maintained",
+    "Rendered cover visually inspected"
+  ],
+  "publication_ready": false,
+  "artwork_sha256": "0532241162e7329ca6482f3af203ae1ab5fedef318909c66a08b4069b7b58077"
+}

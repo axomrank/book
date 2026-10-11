@@ -1,0 +1,32 @@
+{
+  "planning_date": "2026-10-11",
+  "series_book": 4,
+  "title": "Kamarupa II — Salastambha: Rule, Society, and Bhauma Lineage Traditions",
+  "scope": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+  "status": "planned",
+  "planned_chapters": [
+    "B04-C01",
+    "B04-C02",
+    "B04-C03",
+    "B04-C04",
+    "B04-C05",
+    "B04-C06",
+    "B04-C07",
+    "B04-C08",
+    "B04-C09",
+    "B04-C10",
+    "B04-C11",
+    "B04-C12",
+    "B04-C13",
+    "B04-C14",
+    "B04-C15",
+    "B04-C16"
+  ],
+  "content_divisions": 80,
+  "drafted_chapters": [],
+  "research_dossiers": [],
+  "main_prose_words": 0,
+  "complete_book": false,
+  "publication_ready": false,
+  "manuscript_home": "manuscript/"
+}

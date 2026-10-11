@@ -1,0 +1,338 @@
+[
+  {
+    "id": "B11-C01",
+    "series_book": 11,
+    "number": 1,
+    "title": "1905 and a Reordered Political Map",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Read instruments reorganising Bengal and Assam",
+      "Compare responses in Brahmaputra, Barak, and hill settings",
+      "Investigate administration, trade, and political representation",
+      "Separate contemporary responses from later nationalist summaries",
+      "Explain the boundary transition and the return of separate Assam administration"
+    ],
+    "visual": "1905–1912 boundary sequence",
+    "status": "planned",
+    "division": "Reorganisation, association, mobilisation, and war",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C02",
+    "series_book": 11,
+    "number": 2,
+    "title": "Associations and Provincial Politics",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Trace political associations and representative institutions",
+      "Investigate Assam Association and regional public debate",
+      "Study local leaders without reducing politics to biographies",
+      "Examine links with all-India organisations",
+      "Include worker, peasant, and minority political voices"
+    ],
+    "visual": "Political organisation timeline",
+    "status": "planned",
+    "division": "Reorganisation, association, mobilisation, and war",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C03",
+    "series_book": 11,
+    "number": 3,
+    "title": "Swadeshi, Reform, and Local Mobilisation",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Compare reception of swadeshi ideas across localities",
+      "Investigate schools, commerce, cultural work, and public meetings",
+      "Read boycott claims against contemporary records",
+      "Study participation and dissent across communities",
+      "Explain continuities with earlier social movements"
+    ],
+    "visual": "Campaign and publication map",
+    "status": "planned",
+    "division": "Reorganisation, association, mobilisation, and war",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C04",
+    "series_book": 11,
+    "number": 4,
+    "title": "War, Labour, and the Colonial Economy",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Investigate First World War recruitment and economic pressures",
+      "Study labour mobility and plantation conditions",
+      "Read wartime reports alongside petitions and press",
+      "Compare inflation, production, and household effects",
+      "Track the transition to intensified political mobilisation"
+    ],
+    "visual": "War-economy evidence table",
+    "status": "planned",
+    "division": "Reorganisation, association, mobilisation, and war",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C05",
+    "series_book": 11,
+    "number": 5,
+    "title": "Non-Cooperation in Assam",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Reconstruct local movement chronology and organisations",
+      "Study students, lawyers, teachers, peasants, and workers",
+      "Investigate different religious and political alliances",
+      "Compare programme statements with actual mobilisation",
+      "Follow repression, withdrawal, and continuing local activity"
+    ],
+    "visual": "District-level movement timeline",
+    "status": "planned",
+    "division": "Mass movements, labour, land, and migration",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C06",
+    "series_book": 11,
+    "number": 6,
+    "title": "Plantation Workers and Labour Politics",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Investigate strikes, departures, unions, and employer responses",
+      "Compare labour legislation with contract enforcement",
+      "Recover worker voices and regional recruitment networks",
+      "Study class, gender, and community within plantations",
+      "Keep distinct episodes and casualty claims source-specific"
+    ],
+    "visual": "Labour-mobilisation route map",
+    "status": "planned",
+    "division": "Mass movements, labour, land, and migration",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C07",
+    "series_book": 11,
+    "number": 7,
+    "title": "Peasant Movements and Rural Organisation",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Trace tenant and cultivator grievances by region",
+      "Investigate local associations, revenue demands, and resistance",
+      "Compare national programmes with local priorities",
+      "Examine class and community differences within agrarian society",
+      "Follow repression and institutional responses"
+    ],
+    "visual": "Agrarian protest map",
+    "status": "planned",
+    "division": "Mass movements, labour, land, and migration",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C08",
+    "series_book": 11,
+    "number": 8,
+    "title": "Migration, Settlement, and the Line System",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Read settlement policy and relevant district records",
+      "Investigate peasant migration and land pressures",
+      "Separate colonial labels from migrants' varied experiences",
+      "Trace political debates over demographic and electoral change",
+      "Use comparable boundaries and avoid unsourced ethnic totals"
+    ],
+    "visual": "Settlement-policy chronology",
+    "status": "planned",
+    "division": "Mass movements, labour, land, and migration",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C09",
+    "series_book": 11,
+    "number": 9,
+    "title": "Literature, Music, Theatre, and Cinema",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Study cultural work alongside political organising",
+      "Investigate Jyotiprasad, Bishnu Rabha, and other documented contributors",
+      "Read texts and performances in their actual period contexts",
+      "Include multilingual and community cultural production",
+      "Compare public reception with later canon formation"
+    ],
+    "visual": "Cultural production timeline",
+    "status": "planned",
+    "division": "Culture, participation, campaigns, and representation",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C10",
+    "series_book": 11,
+    "number": 10,
+    "title": "Women, Students, and Everyday Activism",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Recover organisations, protests, and local support networks",
+      "Investigate Chandraprabha Saikiani and other source-backed biographies",
+      "Study household work and gendered limits of participation",
+      "Compare student, rural, urban, and plantation settings",
+      "Include dissent and participation beyond iconic figures"
+    ],
+    "visual": "Participation and source matrix",
+    "status": "planned",
+    "division": "Culture, participation, campaigns, and representation",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C11",
+    "series_book": 11,
+    "number": 11,
+    "title": "Civil Disobedience and Local Campaigns",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Trace campaign phases and district-level activity",
+      "Study boycott, meetings, refusal, and symbolic acts",
+      "Compare police records with movement testimony",
+      "Assess differences in participation and political objectives",
+      "Follow repression, negotiations, and lasting networks"
+    ],
+    "visual": "Campaign chronology",
+    "status": "planned",
+    "division": "Culture, participation, campaigns, and representation",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C12",
+    "series_book": 11,
+    "number": 12,
+    "title": "Constitutional Reform and Provincial Government",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Read representation rules and the 1935 framework",
+      "Investigate elections, ministries, and legislative debates",
+      "Examine Gopinath Bordoloi, Saadulla, and other actors through records",
+      "Study coalition-building and disputes over land and representation",
+      "Avoid turning electoral results into a single community's voice"
+    ],
+    "visual": "Election and ministry chronology",
+    "status": "planned",
+    "division": "Culture, participation, campaigns, and representation",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C13",
+    "series_book": 11,
+    "number": 13,
+    "title": "Second World War and the Eastern Frontier",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Investigate wartime logistics, airfields, roads, and labour",
+      "Study proximity to Burma campaigns without conflating theatres",
+      "Examine displacement, supplies, censorship, and household effects",
+      "Compare strategic accounts with local experience",
+      "Document the geography of wartime change"
+    ],
+    "visual": "Wartime logistics map",
+    "status": "planned",
+    "division": "World war, Quit India, Partition, and independence",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C14",
+    "series_book": 11,
+    "number": 14,
+    "title": "Quit India and Repression",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Reconstruct 1942 activity through district and movement records",
+      "Study Kanaklata, Kushal Konwar, and other verified biographies",
+      "Separate legal proceedings from later commemorative claims",
+      "Investigate sabotage allegations, policing, and civilian consequences",
+      "Include local differences in organisation and response"
+    ],
+    "visual": "1942 event and evidence map",
+    "status": "planned",
+    "division": "World war, Quit India, Partition, and independence",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C15",
+    "series_book": 11,
+    "number": 15,
+    "title": "Partition, Sylhet, and Border Making",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Read referendum, boundary, and administrative records",
+      "Investigate Sylhet's different local experiences and political choices",
+      "Study Karimganj, displacement, property, and family separation",
+      "Compare Brahmaputra, Barak, and hill responses to Partition",
+      "Avoid presenting a boundary award as a complete account of lived change"
+    ],
+    "visual": "1947 boundary and displacement map",
+    "status": "planned",
+    "division": "World war, Quit India, Partition, and independence",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B11-C16",
+    "series_book": 11,
+    "number": 16,
+    "title": "Independence and Its Unfinished Questions",
+    "period": "1905–1947, with an explicitly bounded independence transition",
+    "content": [
+      "Explain transition of provincial government and institutions",
+      "Investigate citizenship, refugees, autonomy, and political representation",
+      "Assess freedom-struggle narratives across communities",
+      "Provide movement, martyr-biography, and source appendices with disputes",
+      "Set up the post-independence book without assuming uniform outcomes"
+    ],
+    "visual": "Transition and unresolved-questions chart",
+    "status": "planned",
+    "division": "World war, Quit India, Partition, and independence",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "B10-C01",
+    "series_book": 10,
+    "number": 1,
+    "title": "From War to Company Rule",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Read Yandabo's wording and parties in an exact edition",
+      "Separate treaty provisions from actual occupation and administration",
+      "Explain the differing trajectories of Brahmaputra, Cachar, and hill areas",
+      "Cross-reference Gomdhar and later restoration episodes with Ahom Book III",
+      "Establish the 1826 opening as a transition rather than one uniform annexation"
+    ],
+    "visual": "Territorial transition timeline",
+    "status": "planned",
+    "division": "Conquest, administration, and uneven incorporation",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C02",
+    "series_book": 10,
+    "number": 2,
+    "title": "Early Administration and Local Intermediaries",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Study administrative reports and officials' correspondence",
+      "Investigate inherited offices and new magistracy arrangements",
+      "Examine revenue experiments and the limits of official knowledge",
+      "Recover local petitions and responses to Company authority",
+      "Separate administrative aspiration from practice"
+    ],
+    "visual": "Administrative district map by date",
+    "status": "planned",
+    "division": "Conquest, administration, and uneven incorporation",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C03",
+    "series_book": 10,
+    "number": 3,
+    "title": "Restoration Attempts and Resistance",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Place Gomdhar's 1828 movement in a concise linked bridge",
+      "Develop the separate 1830 resistance and participants",
+      "Investigate Purandar's 1833–1838 arrangement through original records",
+      "Trace local resistance, punishment, and contested biographies",
+      "Compare restoration narratives with wider social grievances"
+    ],
+    "visual": "Resistance and restoration chronology",
+    "status": "planned",
+    "division": "Conquest, administration, and uneven incorporation",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C04",
+    "series_book": 10,
+    "number": 4,
+    "title": "Cachar, Hill Frontiers, and Uneven Incorporation",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Follow regional transitions through treaties and proceedings",
+      "Study Cachar's political succession and changing administration",
+      "Investigate hill expeditions, local agreements, and intermediary power",
+      "Differentiate colonial jurisdiction from mapped claims",
+      "Include local and neighbouring accounts of incorporation"
+    ],
+    "visual": "Layered jurisdiction map",
+    "status": "planned",
+    "division": "Conquest, administration, and uneven incorporation",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C05",
+    "series_book": 10,
+    "number": 5,
+    "title": "Tea and the Plantation Order",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Separate discovery narratives from existing local knowledge of tea",
+      "Study companies, land grants, and plantation capital",
+      "Investigate recruitment, coercion, labour contracts, and resistance",
+      "Recover workers' origins and continuing community formation",
+      "Compare production records with living and working conditions"
+    ],
+    "visual": "Plantation and labour-route map",
+    "status": "planned",
+    "division": "Plantations, land, extraction, and transport",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C06",
+    "series_book": 10,
+    "number": 6,
+    "title": "Land, Revenue, and Agrarian Society",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Read revenue laws and district settlement reports",
+      "Investigate peasant cultivation, tenancy, and indebtedness",
+      "Examine land allocation to plantations and other enterprises",
+      "Follow conflict over commons and customary access",
+      "Distinguish official categories from household livelihood"
+    ],
+    "visual": "Land-use and revenue comparison",
+    "status": "planned",
+    "division": "Plantations, land, extraction, and transport",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C07",
+    "series_book": 10,
+    "number": 7,
+    "title": "Oil, Coal, and Industrial Beginnings",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Trace dated exploration and industrial institutions",
+      "Investigate extraction labour, capital, and transport",
+      "Compare claimed economic benefits with local costs",
+      "Study changing industrial towns and service networks",
+      "Use company records critically alongside public and worker evidence"
+    ],
+    "visual": "Dated industrial sites map",
+    "status": "planned",
+    "division": "Plantations, land, extraction, and transport",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C08",
+    "series_book": 10,
+    "number": 8,
+    "title": "Rivers, Railways, and Communications",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Reconstruct steamer routes and transport infrastructure",
+      "Investigate railway development by operating date and route",
+      "Study roads, postal systems, and telegraph networks",
+      "Examine labour, commerce, and unequal access to mobility",
+      "Connect infrastructure to extraction and administrative reach"
+    ],
+    "visual": "Transport chronology and map",
+    "status": "planned",
+    "division": "Plantations, land, extraction, and transport",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C09",
+    "series_book": 10,
+    "number": 9,
+    "title": "Forests, Frontiers, and Resource Control",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Read forest regulations and reservation proceedings",
+      "Investigate customary access and the creation of protected boundaries",
+      "Study timber extraction and local resistance",
+      "Examine hunting, conservation, and changing environmental knowledge",
+      "Connect river erosion and cultivation with official land policy"
+    ],
+    "visual": "Forest-policy and land map",
+    "status": "planned",
+    "division": "Environment, education, faith, and 1857",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C10",
+    "series_book": 10,
+    "number": 10,
+    "title": "Language, Schools, and Print",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Investigate official language policy and its changing implementation",
+      "Trace missionary and local education initiatives",
+      "Study Assamese print, Arunodoi, dictionaries, and periodicals",
+      "Recover women and marginalised communities in education records",
+      "Compare language revival narratives with multilingual experience"
+    ],
+    "visual": "School and print chronology",
+    "status": "planned",
+    "division": "Environment, education, faith, and 1857",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C11",
+    "series_book": 10,
+    "number": 11,
+    "title": "Religion, Reform, and Public Debate",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Study missions alongside existing religious institutions",
+      "Investigate reform, conversion, philanthropy, and social criticism",
+      "Follow Muslim, Hindu, Christian, and community voices",
+      "Read public debate through actual texts and their audiences",
+      "Avoid presenting one reform tradition as the whole society"
+    ],
+    "visual": "Institution and publication network",
+    "status": "planned",
+    "division": "Environment, education, faith, and 1857",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C12",
+    "series_book": 10,
+    "number": 12,
+    "title": "1857 and Its Assam Contexts",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Reconstruct Maniram Dewan and Piyali Barua from locatable records",
+      "Compare proceedings, correspondence, and later commemoration",
+      "Investigate local military and civilian responses",
+      "Distinguish regional episodes from a uniform uprising",
+      "Connect repression and memory to later public politics"
+    ],
+    "visual": "Event and witness chronology",
+    "status": "planned",
+    "division": "Environment, education, faith, and 1857",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C13",
+    "series_book": 10,
+    "number": 13,
+    "title": "Peasant Protest and State Violence",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Investigate Phulaguri and Patharughat with dated records",
+      "Compare revenue grievances and local mobilisation",
+      "Read casualty and participant claims across sources",
+      "Recover survivors and later commemorative histories",
+      "Distinguish separate protests and their political contexts"
+    ],
+    "visual": "Protest-site and claim comparison",
+    "status": "planned",
+    "division": "Protest, province, everyday life, and public politics",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C14",
+    "series_book": 10,
+    "number": 14,
+    "title": "Making a Province and Counting People",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Examine the 1874 administrative change through its instruments",
+      "Follow Shillong, Sylhet, and territorial composition by date",
+      "Read census categories and district gazetteers critically",
+      "Investigate migration policies without treating categories as immutable identities",
+      "Create comparable boundary and demographic datasets"
+    ],
+    "visual": "Administrative boundary sequence",
+    "status": "planned",
+    "division": "Protest, province, everyday life, and public politics",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C15",
+    "series_book": 10,
+    "number": 15,
+    "title": "Women, Households, and Everyday Change",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Study work in plantations, farms, markets, and towns",
+      "Investigate schooling, health, family law, and associations",
+      "Read testimony and literature with genre and authorship identified",
+      "Explore inequality across communities and class positions",
+      "Avoid filling archival silence with invented domestic scenes"
+    ],
+    "visual": "Everyday-life source portfolio",
+    "status": "planned",
+    "division": "Protest, province, everyday life, and public politics",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B10-C16",
+    "series_book": 10,
+    "number": 16,
+    "title": "Public Associations and the Road to 1905",
+    "period": "1826–1905; regional incorporation dates handled individually",
+    "content": [
+      "Trace local associations, newspapers, and political language",
+      "Investigate labour and agrarian organising beyond elite institutions",
+      "Examine emerging debates on regional representation",
+      "Explain the 1905 reorganisation as the next book's opening transition",
+      "Prepare an archive guide and unresolved-claims register"
+    ],
+    "visual": "Association and boundary timeline",
+    "status": "planned",
+    "division": "Protest, province, everyday life, and public politics",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "DHAS-CATALOGUE"
+    ]
+  }
+]

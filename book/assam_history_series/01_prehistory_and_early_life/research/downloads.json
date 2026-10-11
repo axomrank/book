@@ -1,0 +1,126 @@
+[
+  {
+    "id": "D01",
+    "title": "Daojali pottery luminescence dating",
+    "url": "https://www.currentscience.ac.in/Volumes/113/03/0492.pdf",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "Downloaded full paper; abstract, method paragraphs, Table 1 and figure captions reviewed.",
+    "final_url": "https://www.currentscience.ac.in/Volumes/113/03/0492.pdf",
+    "path": "documents/D01.pdf",
+    "bytes": 7054779,
+    "sha256": "5130570056f4eb156b3a1b04e845b83695022f6cca6b4d973c101773bb473cda",
+    "status": "downloaded"
+  },
+  {
+    "id": "D02",
+    "title": "Karbi Langpi ceramic explorations",
+    "url": "https://www.heritageuniversityofkerala.com/JournalPDF/Volume7/43.pdf",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "All nine pages extracted; methods and ceramic comparison reviewed; page previews rendered.",
+    "final_url": "https://heritageuniversityofkerala.com/JournalPDF/Volume7/43.pdf",
+    "path": "documents/D02.pdf",
+    "bytes": 1958722,
+    "sha256": "b783e50825f550ee8a6a7643295059b17a7c1755ad5550daf2944fc3324453e9",
+    "status": "downloaded"
+  },
+  {
+    "id": "D03",
+    "title": "Man and Environment 1977 including Sarutaru report",
+    "url": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "Scan opening p.39 and illustrations p.43 inspected directly; PDF pages 48 and 52. Remaining report pages retained for close reading.",
+    "final_url": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "path": "documents/D03.pdf",
+    "bytes": 8350984,
+    "sha256": "9cee04734ae94627ae318863bab1c75984d4622a31b5757591ca1f8b2e1fafc0",
+    "status": "downloaded"
+  },
+  {
+    "id": "D04",
+    "title": "Digaru\u2013Kolong archaeological thesis",
+    "url": "https://gyan.iitg.ac.in/bitstreams/bdf44f07-e5c5-42a4-8b35-ae4e8d12fd9f/download",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "Thesis downloaded; relocation discussion pp.40\u201344 and specified figure/plate captions reviewed; other chapters not yet closely reviewed.",
+    "final_url": "https://gyan.iitg.ac.in/server/api/core/bitstreams/bdf44f07-e5c5-42a4-8b35-ae4e8d12fd9f/content",
+    "status": "downloaded",
+    "path": "documents/D04.pdf",
+    "bytes": 20515661,
+    "sha256": "bbf67be279882e74d9e74235c3fb6bacb4256397c9ca78170f77f8f34a956013"
+  },
+  {
+    "id": "D05",
+    "title": "IGNOU prehistoric archaeology teaching material",
+    "url": "https://egyankosh.ac.in/bitstream/123456789/41364/1/MAN-002B7E.pdf",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "No content review recorded",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+    "acquisition_note": "Not downloaded; any consultation was through the source webpage, metadata or indexed text."
+  },
+  {
+    "id": "D06",
+    "title": "Assam stone jars overview 2019",
+    "url": "https://www.jna.uni-kiel.de/index.php/jna/article/download/192/325/1576",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "PDF downloaded; introduction and chronological discussion reviewed; Figures 1\u201311 located.",
+    "final_url": "https://www.jna.uni-kiel.de/index.php/jna/article/download/192/325/1576",
+    "path": "documents/D06.pdf",
+    "bytes": 11947035,
+    "sha256": "017c4e5464dbe6ef280a1efe7efbfe53ea1d6b02a9c60e5ab909b1db23b25e57",
+    "status": "downloaded"
+  },
+  {
+    "id": "D07",
+    "title": "Gauhati University swamp pollen 2025",
+    "url": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "PDF text, pp.45\u201352 including methods and chronology caveat.",
+    "final_url": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+    "path": "documents/D07.pdf",
+    "bytes": 3869003,
+    "sha256": "d5d6c7a3cdc649b7a67fb44b2f3589a6daf18887e597c71b435ce348545d2b94",
+    "status": "downloaded"
+  },
+  {
+    "id": "D08",
+    "title": "Sakali wetland NPP study 2026",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/05529360251409913",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "Full HTML: abstract, study site, methods/chronology, zone results, rights.",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisition_note": "Not downloaded; any consultation was through the source webpage, metadata or indexed text."
+  },
+  {
+    "id": "D09",
+    "title": "Holocene Lower Brahmaputra climate 2012",
+    "url": "https://www.ias.ac.in/article/fulltext/jess/121/01/0135-0147",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "Publisher abstract read; BSIP PDF search-indexed but fetch failed. Full article chronology/methods NOT read.",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisition_note": "Not downloaded; any consultation was through the source webpage, metadata or indexed text."
+  },
+  {
+    "id": "D10",
+    "title": "Sarutaru and Neolithic traditions 1977",
+    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "Selected full-text sections pp.195\u2013200 reviewed; figures and plate captions located.",
+    "final_url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "path": "documents/D10.pdf",
+    "bytes": 982768,
+    "sha256": "1dccdbee6adbad6875d98bdee046ebee4e672f2fc263b84d6eb47c36fb92a9f1",
+    "status": "downloaded"
+  },
+  {
+    "id": "D11",
+    "title": "ASI field review 1966\u201367",
+    "url": "https://nmma.nic.in/nmma/NAS1/nmma_doc/IAR/Indian%20Archaeology%201966-67%20A%20Review.pdf",
+    "rights": "Publicly accessible; reproduction permission unverified",
+    "read_status": "Indexed report cover and section 7 consulted; full fetch timed out",
+    "status": "failed",
+    "error": "<urlopen error timed out>",
+    "acquisition_note": "Not downloaded; any consultation was through the source webpage, metadata or indexed text."
+  }
+]

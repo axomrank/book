@@ -1,0 +1,17 @@
+{
+  "output": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/book/output/pdf/Before_the_Kingdoms_Chapter_01_7x10.pdf",
+  "source": "/home/angsuman/extra_spac/Axomrank_Social_Media_Asset/book/book/assam_history_series/01_prehistory_and_early_life/manuscript/01_Reading_the_Deep_Past.md",
+  "pages": 11,
+  "main_prose_words": 2356,
+  "notes": 11,
+  "link_annotations": 20,
+  "trim_inches": [
+    7,
+    10
+  ],
+  "body_font": "Noto Sans 10.4 pt / 16.2 pt leading",
+  "display_font": "Noto Serif",
+  "cover": "selected native v6 included unchanged",
+  "status": "Research draft; all pages visually inspected; final endnote pages re-rendered and checked",
+  "pdf_text_checks": "all five division headings and citation definitions present"
+}

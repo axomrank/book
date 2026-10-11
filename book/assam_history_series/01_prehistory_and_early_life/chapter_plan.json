@@ -1,0 +1,267 @@
+[
+  {
+    "id": "B01-C01",
+    "series_book": 1,
+    "number": 1,
+    "title": "Reading the Deep Past",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Archaeological contexts and the limits of surviving evidence",
+      "Stratigraphy, excavation records, and the difference between finds and sites",
+      "Radiocarbon and other dating methods, calibration, and uncertainty ranges",
+      "Separate prehistoric evidence from later origin legends",
+      "How museums and field reports support a responsible reconstruction"
+    ],
+    "visual": "Evidence-and-dating diagram",
+    "status": "first_draft",
+    "division": "Evidence and landscapes",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ],
+    "manuscript": "manuscript/01_Reading_the_Deep_Past.md"
+  },
+  {
+    "id": "B01-C02",
+    "series_book": 1,
+    "number": 2,
+    "title": "Rivers, Hills, and Changing Landscapes",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Brahmaputra and Barak catchments as different historical environments",
+      "River migration, sedimentation, wetlands, and preservation bias",
+      "Hill corridors and valley travel without projecting modern borders",
+      "Climate reconstruction from dated environmental records",
+      "How landscape change affects the visibility of early occupation"
+    ],
+    "visual": "Palaeolandscape map with uncertainty bands",
+    "status": "planned",
+    "division": "Evidence and landscapes",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C03",
+    "series_book": 1,
+    "number": 3,
+    "title": "The Earliest Human Traces",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Inventory reported early stone tools and find circumstances",
+      "Distinguish excavated assemblages from surface collections",
+      "Test proposed age and tool classifications against specialist studies",
+      "Place local evidence within Northeast and South Asian comparisons",
+      "Document gaps without claiming absence of human occupation"
+    ],
+    "visual": "Stone-tool identification plate",
+    "status": "planned",
+    "division": "Evidence and landscapes",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C04",
+    "series_book": 1,
+    "number": 4,
+    "title": "Hunting, Gathering, and Seasonal Life",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "What faunal and botanical remains can reveal about food",
+      "Tool use, wear, and possible activities at different sites",
+      "Seasonal mobility as a hypothesis requiring environmental support",
+      "Shelter, hearths, and household evidence where preserved",
+      "Why living communities are not unchanged models of prehistoric people"
+    ],
+    "visual": "Site-based seasonal activity diagram",
+    "status": "planned",
+    "division": "Early communities and archaeological sites",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C05",
+    "series_book": 1,
+    "number": 5,
+    "title": "Daojali Hading and Neolithic Evidence",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Discovery and excavation history from the original reports",
+      "Context of ground stone tools and pottery assemblages",
+      "Chronometric estimates and disagreement over cultural sequence",
+      "Proposed links with eastern regions, tested through material comparisons",
+      "What the site establishes and what remains conjectural"
+    ],
+    "visual": "Excavation-context and object plate",
+    "status": "planned",
+    "division": "Early communities and archaeological sites",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C06",
+    "series_book": 1,
+    "number": 6,
+    "title": "Other Early Sites and Regional Sequences",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Survey Sarutaru and other reported sites with verified provenance",
+      "Compare site assemblages without assuming identical chronology",
+      "Hill and valley preservation and sampling differences",
+      "Locate material from older collections and test identification",
+      "Build a dated site catalogue with unresolved entries marked"
+    ],
+    "visual": "Regional site catalogue map",
+    "status": "planned",
+    "division": "Early communities and archaeological sites",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C07",
+    "series_book": 1,
+    "number": 7,
+    "title": "Pottery, Stone, and Craft Knowledge",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Manufacturing sequences and evidence for local production",
+      "Cord-marking, vessel shapes, and functional interpretations",
+      "Stone sourcing and the limits of trade inferences",
+      "Experimental comparisons clearly separated from archaeological results",
+      "Changes in craft practice across secure excavated contexts"
+    ],
+    "visual": "Pottery and tool-making sequence",
+    "status": "planned",
+    "division": "Food, crafts, and connections",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C08",
+    "series_book": 1,
+    "number": 8,
+    "title": "Cultivation and Settled Life",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Plant remains and the evidential threshold for cultivation",
+      "Investigate rice history without assuming one arrival date",
+      "Settlement permanence, storage, and household organisation",
+      "Interaction between cultivation, gathering, and changing landscapes",
+      "Separate agricultural origins from modern ethnic ownership narratives"
+    ],
+    "visual": "Crop-evidence timeline",
+    "status": "planned",
+    "division": "Food, crafts, and connections",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C09",
+    "series_book": 1,
+    "number": 9,
+    "title": "Exchange and Connections",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Raw-material movement and distribution of related artifacts",
+      "Hill routes, river corridors, and possible exchange networks",
+      "Comparative evidence from surrounding regions with their own dates",
+      "Distinguish exchange, migration, and stylistic similarity",
+      "Explain when network models exceed available evidence"
+    ],
+    "visual": "Evidence-weighted contact map",
+    "status": "planned",
+    "division": "Food, crafts, and connections",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C10",
+    "series_book": 1,
+    "number": 10,
+    "title": "Burials, Megaliths, and Social Memory",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Record dated burial evidence and associated material",
+      "Megalithic traditions across the wider region without conflating periods",
+      "Ritual interpretations and alternative explanations",
+      "Ethnographic analogy with explicit collection dates and limits",
+      "Protect sacred contexts and record community knowledge respectfully"
+    ],
+    "visual": "Burial-evidence comparison table",
+    "status": "planned",
+    "division": "Ritual, transition, and knowledge limits",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C11",
+    "series_book": 1,
+    "number": 11,
+    "title": "Approaching the Early Historic Period",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Investigate metals without imposing a universal three-age sequence",
+      "Changes in settlement scale and production where securely dated",
+      "Written records and their relationship to archaeological sequences",
+      "Ambari as a bridge to later urban archaeology, with excavation phases checked",
+      "Explain overlap between prehistoric and early historic evidence"
+    ],
+    "visual": "Material-and-writing transition timeline",
+    "status": "planned",
+    "division": "Ritual, transition, and knowledge limits",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  },
+  {
+    "id": "B01-C12",
+    "series_book": 1,
+    "number": 12,
+    "title": "What Can Be Known Before Kingdoms",
+    "period": "Earliest recoverable evidence to c. fourth century CE; site-specific chronologies",
+    "content": [
+      "Synthesize securely dated developments and remaining gaps",
+      "Compare competing models of settlement and connection",
+      "Reject biological ancestry as a direct substitute for culture or polity",
+      "Provide a reader guide to the site and dating registers",
+      "Introduce early historical polities without inventing a smooth transition"
+    ],
+    "visual": "Evidence confidence matrix",
+    "status": "planned",
+    "division": "Ritual, transition, and knowledge limits",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "NE-PREHISTORY"
+    ]
+  }
+]

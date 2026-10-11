@@ -1,0 +1,18 @@
+{
+  "checked": "2026-10-11",
+  "image_urls_checked": 87,
+  "all_ok": true,
+  "sarutaru_page_43": [
+    {
+      "path": "visuals/pages/D03-page-52.jpg",
+      "status": 200,
+      "bytes": 157718
+    },
+    {
+      "path": "visuals/thumbnails/D03-page-52.jpg",
+      "status": 200,
+      "bytes": 35757
+    }
+  ],
+  "fix": "Retained preview server and eager image loading"
+}

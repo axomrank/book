@@ -1,0 +1,34 @@
+Generate a complete aesthetic portrait CONTENTS PAGE for the book shown in the reference, entirely through native image generation including every letter. Reference role: style, palette, paper material and publisher signature only. This is an interior front-matter page, not another cover. Flat portrait page approximately 7:10.
+
+Design: warm ivory lightly textured paper, generous margins, maroon serif "Contents" heading, small "ASSAM HISTORY · BOOK 01" running identity and modest "Before the Kingdoms" book title. A restrained hairline gold rule below the heading. Main list is the priority: two generous columns, with chapters 01–06 in the LEFT column read top to bottom, chapters 07–12 in the RIGHT column read top to bottom. Each column has two thematic groups of three chapters. Four small maroon uppercase or small-cap section headings, allowed to wrap neatly. Each chapter has its two-digit number in a narrow maroon gutter and exact chapter title in clearly readable charcoal serif or clean book typography. Ample line spacing; longer titles wrap to two or three lines. No page numbers, no dotted leaders, no fabricated page-number placeholders. This is a planned book, not yet paginated.
+
+Exact typography/copy, with grouping:
+Top: "ASSAM HISTORY · BOOK 01"
+Book title: "Before the Kingdoms"
+Large heading: "Contents"
+
+LEFT COLUMN:
+Section I: "Evidence and landscapes"
+01 "Reading the Deep Past"
+02 "Rivers, Hills, and Changing Landscapes"
+03 "The Earliest Human Traces"
+
+Section II: "Early communities and archaeological sites"
+04 "Hunting, Gathering, and Seasonal Life"
+05 "Daojali Hading and Neolithic Evidence"
+06 "Other Early Sites and Regional Sequences"
+
+RIGHT COLUMN:
+Section III: "Food, crafts, and connections"
+07 "Pottery, Stone, and Craft Knowledge"
+08 "Cultivation and Settled Life"
+09 "Exchange and Connections"
+
+Section IV: "Ritual, transition, and knowledge limits"
+10 "Burials, Megaliths, and Social Memory"
+11 "Approaching the Early Historic Period"
+12 "What Can Be Known Before Kingdoms"
+
+Bottom modest publisher signature: reference Rang Ghar mark and exact "AxomRank".
+
+Place the entire chapter list in the upper and middle 80 percent of the page, with enough height for comfortable legibility. Section II and IV align as the second row of groups. If needed make the heading smaller to preserve room for all twelve exact titles. In the bottom outer margin ONLY, use a quietly folded ivory paper edge exposing a narrow maroon corner and one small hovering rough open stone jar echoing the cover; the decorative jar must stay well below and away from all text, no overlap. Refined dimensional shadow, simple understated artifact silhouette, no decorative fake carvings. No title letters hidden, no scenic backgrounds, no new content, no author, no additional chapters, no page number including a footer folio, no footnotes, no fake paragraphs. Keep this a tasteful readable editorial contents page. Maroon #80151A, ivory #F7F2EC, charcoal #292929, subtle gold #A77B37. Preserve all punctuation, exact spelling including Daojali Hading, correct numbers 01 through 12, and all four thematic groups. All text must be crisp and unobscured. Do not substitute or shorten any title.

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "B06-C01",
+    "series_book": 6,
+    "number": 1,
+    "title": "An Interconnected Medieval Region",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Define the book's parallel relationship with the Ahom trilogy",
+      "Map Brahmaputra, Barak, hill, and frontier settings by period",
+      "Compare chronicles, genealogies, inscriptions, objects, and oral history",
+      "Separate modern community names from earlier source categories",
+      "Establish chronological overlap and cross-reference rules"
+    ],
+    "visual": "Regional chronology with parallel polities",
+    "status": "planned",
+    "division": "Kamata, Koch, and western power",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C02",
+    "series_book": 6,
+    "number": 2,
+    "title": "Kamata and the Khen Rulers",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Reconstruct changing centres of authority in western Assam",
+      "Compare dynastic genealogies with inscriptions and external accounts",
+      "Investigate the Khen rulers and disputed reign sequences",
+      "Examine the Bengal campaign and its regional consequences",
+      "Distinguish later remembrance from contemporary evidence"
+    ],
+    "visual": "Kamata chronology and approximate map",
+    "status": "planned",
+    "division": "Kamata, Koch, and western power",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C03",
+    "series_book": 6,
+    "number": 3,
+    "title": "The Rise of Koch Power",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Examine Biswa Singha and accounts of state formation",
+      "Read genealogies critically alongside material and external evidence",
+      "Investigate administration, revenue, and relations with local communities",
+      "Discuss changing political and social identities",
+      "Avoid converting later borders into an early kingdom map"
+    ],
+    "visual": "Source-linked Koch genealogy",
+    "status": "planned",
+    "division": "Kamata, Koch, and western power",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C04",
+    "series_book": 6,
+    "number": 4,
+    "title": "Nara Narayan and Chilarai",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Reconstruct court, campaigns, diplomacy, and patronage",
+      "Compare the chronology of conflicts with neighbouring rulers",
+      "Investigate regional allies, labour, and material resources",
+      "Read narratives of Chilarai against the earliest available witnesses",
+      "Explain campaign reach separately from durable administration"
+    ],
+    "visual": "Campaign and diplomacy map",
+    "status": "planned",
+    "division": "Kamata, Koch, and western power",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C05",
+    "series_book": 6,
+    "number": 5,
+    "title": "Koch Branches and Western Frontiers",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Trace Koch Bihar and Koch Hajo with dated evidence",
+      "Examine alliances and disputes involving Mughals and Ahoms",
+      "Investigate frontier offices, tribute, and regional brokers",
+      "Follow political change into later regional arrangements",
+      "Keep changing sovereignty visible across maps"
+    ],
+    "visual": "Branch and frontier chronology",
+    "status": "planned",
+    "division": "Kamata, Koch, and western power",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C06",
+    "series_book": 6,
+    "number": 6,
+    "title": "Chutiya Kingdom and Eastern Networks",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Reconstruct rulers, centres, and institutions from multiple traditions",
+      "Compare archaeology, inscriptions, chronicles, and community histories",
+      "Investigate Sadiya and trade or sacred networks",
+      "Study the Ahom conquest and its effects beyond royal narratives",
+      "Examine Sati Sadhani traditions with source history and uncertainty"
+    ],
+    "visual": "Eastern polity evidence map",
+    "status": "planned",
+    "division": "Eastern kingdoms, Barak, and hill societies",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C07",
+    "series_book": 6,
+    "number": 7,
+    "title": "Dimasa and Kachari Political Worlds",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Clarify names and historical source usage without collapsing identities",
+      "Follow Dimapur, Maibang, and Khaspur as distinct political settings",
+      "Compare court records, inscriptions, archaeology, and oral accounts",
+      "Investigate diplomacy, warfare, and population movement",
+      "Document changing institutions across different centres"
+    ],
+    "visual": "Capital sequence and inscription plate",
+    "status": "planned",
+    "division": "Eastern kingdoms, Barak, and hill societies",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C08",
+    "series_book": 6,
+    "number": 8,
+    "title": "Barak Valley and Cachar",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Trace local polities and links with Sylhet and Tripura",
+      "Investigate river trade, settlement, and multiple language traditions",
+      "Examine royal transitions and local elite relationships",
+      "Follow the region's distinct route into colonial rule",
+      "Cross-reference the colonial books rather than assuming an Ahom pathway"
+    ],
+    "visual": "Barak corridor map",
+    "status": "planned",
+    "division": "Eastern kingdoms, Barak, and hill societies",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C09",
+    "series_book": 6,
+    "number": 9,
+    "title": "Bhuyans and Local Authority",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Investigate what Bhuyan labels mean in different sources",
+      "Compare local lineages and centres of power",
+      "Examine cultivation, military support, and regional patronage",
+      "Discuss shifting relations with larger kingdoms",
+      "Separate inherited origin stories from dated local acts"
+    ],
+    "visual": "Local authority network diagram",
+    "status": "planned",
+    "division": "Eastern kingdoms, Barak, and hill societies",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C10",
+    "series_book": 6,
+    "number": 10,
+    "title": "Hill Societies and Borderlands",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Develop period-specific chapters on Karbi, hill Dimasa, and neighbouring societies",
+      "Compare community histories with external descriptions critically",
+      "Study mobility, exchange, tribute, and conflict with negotiated relations",
+      "Avoid treating diverse hill populations as one political unit",
+      "Record limits of written evidence and consent for oral testimony"
+    ],
+    "visual": "Period-labelled hill-valley routes",
+    "status": "planned",
+    "division": "Eastern kingdoms, Barak, and hill societies",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C11",
+    "series_book": 6,
+    "number": 11,
+    "title": "Sankardeva and Religious Change",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Reconstruct biography from dated and critically edited sources",
+      "Investigate teaching, performance, writing, and social contexts",
+      "Distinguish early accounts from later hagiographical elaboration",
+      "Examine patronage and conflict across different political settings",
+      "Treat religious participation as varied rather than universal"
+    ],
+    "visual": "Life-and-text chronology",
+    "status": "planned",
+    "division": "Religious change and cultural worlds",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C12",
+    "series_book": 6,
+    "number": 12,
+    "title": "Madhavdeva, Satras, and Namghars",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Study textual lineages and institutional formation",
+      "Investigate differing traditions and regional growth",
+      "Compare patronage, land, teaching, and performance practices",
+      "Examine caste, gender, authority, and community participation",
+      "Avoid projecting modern institutions unchanged into early centuries"
+    ],
+    "visual": "Institution and manuscript network",
+    "status": "planned",
+    "division": "Religious change and cultural worlds",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C13",
+    "series_book": 6,
+    "number": 13,
+    "title": "Sacred Pluralism and Shared Spaces",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Trace Islamic institutions and Muslim communities in regional evidence",
+      "Investigate Shakta, Shaiva, Buddhist, and local ritual traditions",
+      "Study sacred journeys and changing shrines",
+      "Compare exchange, conflict, and shared practices without romanticising harmony",
+      "Use community-specific evidence and accurate terminology"
+    ],
+    "visual": "Dated sacred landscape atlas",
+    "status": "planned",
+    "division": "Religious change and cultural worlds",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C14",
+    "series_book": 6,
+    "number": 14,
+    "title": "Languages, Literature, and Performance",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Compare Assamese, Bengali, Sanskrit, Tai, and other relevant traditions",
+      "Study texts with composition and manuscript dates separated",
+      "Investigate storytelling, music, drama, and translation",
+      "Follow literacy and patronage beyond royal courts",
+      "Connect linguistic change to contact without ranking languages"
+    ],
+    "visual": "Multilingual text and performance table",
+    "status": "planned",
+    "division": "Religious change and cultural worlds",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C15",
+    "series_book": 6,
+    "number": 15,
+    "title": "Land, Labour, Trade, and Crafts",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Compare agrarian systems across polities without assuming one model",
+      "Investigate artisans, river markets, salt, metal, and textiles",
+      "Trace labour obligations and local intermediaries",
+      "Study household livelihoods and environmental constraints",
+      "Use objects and records to recover non-elite activity"
+    ],
+    "visual": "Commodity and labour network",
+    "status": "planned",
+    "division": "Livelihoods, agency, upheaval, and regional synthesis",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C16",
+    "series_book": 6,
+    "number": 16,
+    "title": "Women, Kinship, and Community Agency",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Investigate named women's acts and uncertain biographies",
+      "Compare royal households with available wider social evidence",
+      "Study marriage alliances, inheritance, labour, and patronage",
+      "Identify community actors absent from dominant chronicles",
+      "Discuss later gendered commemoration critically"
+    ],
+    "visual": "Biographical evidence matrix",
+    "status": "planned",
+    "division": "Livelihoods, agency, upheaval, and regional synthesis",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C17",
+    "series_book": 6,
+    "number": 17,
+    "title": "Conquest, Survival, and Regional Change",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Compare different experiences of Ahom, Mughal, and Burmese intervention",
+      "Investigate local negotiation, refuge, and political persistence",
+      "Trace Matak histories and other late regional centres",
+      "Examine civilian effects through independent witnesses",
+      "Connect regional transitions to the 1826–1830s colonial frontier"
+    ],
+    "visual": "Parallel transition timeline",
+    "status": "planned",
+    "division": "Livelihoods, agency, upheaval, and regional synthesis",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  },
+  {
+    "id": "B06-C18",
+    "series_book": 6,
+    "number": 18,
+    "title": "A Region Larger Than One Dynasty",
+    "period": "c. 1200–1826, with bounded regional transitions into the 1830s",
+    "content": [
+      "Synthesize regional political and cultural connections",
+      "Explain overlapping sovereignties and disputed boundaries",
+      "Prepare parallel ruler and community-source appendices",
+      "Identify questions requiring regional and language specialists",
+      "Link readers to precise chapters in the Ahom and colonial books"
+    ],
+    "visual": "Cross-volume regional index",
+    "status": "planned",
+    "division": "Livelihoods, agency, upheaval, and regional synthesis",
+    "source_lead_ids": [
+      "DHAS-CATALOGUE",
+      "ARCH-SITES",
+      "STATE-ARCHIVES"
+    ]
+  }
+]

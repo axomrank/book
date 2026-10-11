@@ -1,0 +1,32 @@
+{
+  "planning_date": "2026-10-11",
+  "series_book": 5,
+  "title": "Kamarupa III — Pal/Pala: Kingship, Change, and Fragmentation",
+  "scope": "Kamarupa Pala period, broadly c. tenth–twelfth centuries CE; bounded thirteenth-century transition context",
+  "status": "planned",
+  "planned_chapters": [
+    "B05-C01",
+    "B05-C02",
+    "B05-C03",
+    "B05-C04",
+    "B05-C05",
+    "B05-C06",
+    "B05-C07",
+    "B05-C08",
+    "B05-C09",
+    "B05-C10",
+    "B05-C11",
+    "B05-C12",
+    "B05-C13",
+    "B05-C14",
+    "B05-C15",
+    "B05-C16"
+  ],
+  "content_divisions": 80,
+  "drafted_chapters": [],
+  "research_dossiers": [],
+  "main_prose_words": 0,
+  "complete_book": false,
+  "publication_ready": false,
+  "manuscript_home": "manuscript/"
+}

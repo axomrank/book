@@ -1,0 +1,67 @@
+[
+  {
+    "id": "B01-DATE01",
+    "site": "Daojali Hading",
+    "source": "ARCH-02",
+    "locator": "Table 1, printed p.493 / PDF page 2",
+    "sample": "LD1728",
+    "material": "Excavated pottery, archived 1961 collection",
+    "method": "Optically stimulated luminescence (OSL)",
+    "reported_age": "2.7 ± 0.3 ka",
+    "reference_epoch": "Do not assume AD 1950; reporting epoch needs verification",
+    "calendar_conversion": null,
+    "limits": "One pottery estimate; not first human arrival or an independently dated furnace."
+  },
+  {
+    "id": "B01-DATE02",
+    "site": "Gawak Abri, Meghalaya",
+    "source": "ARCH-02",
+    "locator": "Table 1, printed p.493 / PDF page 2",
+    "sample": "LD1727",
+    "material": "Pottery",
+    "method": "OSL",
+    "reported_age": "2.3 ± 0.2 ka",
+    "reference_epoch": "Verification required",
+    "calendar_conversion": null,
+    "limits": "Neighbouring regional comparison; not an Assam site date."
+  },
+  {
+    "id": "B01-DATE03",
+    "site": "Digaru–Kolong sampled sites",
+    "source": "ARCH-03",
+    "locator": "Publisher abstract; full sample table not acquired",
+    "material": "Charcoal, potsherds, sediments",
+    "method": "AMS radiocarbon",
+    "reported_age": "Approximately 240–1379 CE in abstract",
+    "limits": "Aggregate published range; requires site/sample/calibration table before transferring any date to a named site."
+  },
+  {
+    "id": "B01-DATE04",
+    "site": "Sakali wetland, Majuli",
+    "source": "ENV01",
+    "locator": "Methods / chronology; NPP Zone I",
+    "material": "Bulk sediment",
+    "method": "Radiocarbon, IntCal20 calibration and Bacon modelling",
+    "reported_age": "Sequence spans roughly 4,100 calibrated years",
+    "reference_epoch": "Calibrated BP: AD 1950",
+    "limits": "Local environmental sequence; not settlement occupation or species-level proof of cultivated rice."
+  },
+  {
+    "id": "B01-DATE05",
+    "site": "Gauhati University swamp",
+    "source": "ENV02",
+    "locator": "Printed p.46 and discussion p.49",
+    "method": "Relative comparisons; no absolute date",
+    "reported_age": null,
+    "limits": "Do not assign prehistoric calendar ages to individual pollen horizons."
+  },
+  {
+    "id": "B01-DATE06",
+    "site": "Assam stone jars",
+    "source": "BUR01",
+    "locator": "Discussion, printed p.160 / PDF page 10",
+    "method": "No scientific date reported in this source",
+    "reported_age": null,
+    "limits": "This is the 2019 report’s status; later dating still needs checking. Laos chronology cannot be imported."
+  }
+]

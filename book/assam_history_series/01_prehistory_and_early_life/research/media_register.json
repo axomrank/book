@@ -1,0 +1,2546 @@
+[
+  {
+    "id": "DJL17-F2A",
+    "title": "Gawak Abri excavation and objects — Meghalaya comparison",
+    "path": "visuals/DJL17-F2A.png",
+    "thumbnail": "visuals/thumbnails/DJL17-F2A.png",
+    "source": "https://doi.org/10.18520/cs/v113/i03/492-496",
+    "document": "documents/D01.pdf",
+    "pdf_page": 3,
+    "chapters": [
+      4,
+      5,
+      7,
+      9
+    ],
+    "creator": "Sukanya Sharma and Pankaj Singh (2017), Figure 2",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1535,
+    "height": 607,
+    "sha256": "e212d66c583306b479b76e7607b695d2694651d0ba14c7b6befb2f19d58e373a",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-02"
+  },
+  {
+    "id": "DJL17-F2B",
+    "title": "Gawak Abri potsherds and celts — Meghalaya comparison",
+    "path": "visuals/DJL17-F2B.png",
+    "thumbnail": "visuals/thumbnails/DJL17-F2B.png",
+    "source": "https://doi.org/10.18520/cs/v113/i03/492-496",
+    "document": "documents/D01.pdf",
+    "pdf_page": 3,
+    "chapters": [
+      5,
+      7,
+      9
+    ],
+    "creator": "Sukanya Sharma and Pankaj Singh (2017), Figure 2",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1535,
+    "height": 607,
+    "sha256": "24b5ae29364014f69ed200216dd37a9d0b1eb17fd63fa59b43f655ffe854dee6",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-02"
+  },
+  {
+    "id": "DJL17-F3A",
+    "title": "Daojali Hading trench and cord-impressed pottery",
+    "path": "visuals/DJL17-F3A.png",
+    "thumbnail": "visuals/thumbnails/DJL17-F3A.png",
+    "source": "https://doi.org/10.18520/cs/v113/i03/492-496",
+    "document": "documents/D01.pdf",
+    "pdf_page": 4,
+    "chapters": [
+      5,
+      7
+    ],
+    "creator": "Sukanya Sharma and Pankaj Singh (2017), Figure 3",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1004,
+    "height": 604,
+    "sha256": "ccfb664828e7eece08abef13e44733f450f6a29ac8b84f0992c98237674e60e1",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-02"
+  },
+  {
+    "id": "DJL17-F3B",
+    "title": "Daojali Hading stone celts",
+    "path": "visuals/DJL17-F3B.png",
+    "thumbnail": "visuals/thumbnails/DJL17-F3B.png",
+    "source": "https://doi.org/10.18520/cs/v113/i03/492-496",
+    "document": "documents/D01.pdf",
+    "pdf_page": 4,
+    "chapters": [
+      5,
+      7
+    ],
+    "creator": "Sukanya Sharma and Pankaj Singh (2017), Figure 3",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1004,
+    "height": 604,
+    "sha256": "e9f2d5ef647f383cf0ce13f50a7b97451324822de4feedb050c9df990a261b1a",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-02"
+  },
+  {
+    "id": "JAR19-F01",
+    "title": "Chiselling marks inside an Assam stone jar",
+    "path": "visuals/JAR19-F01.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F01.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 4,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 1",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 822,
+    "height": 522,
+    "sha256": "203568d23aa981cbb0c1b63f089282342c66c2d68b5fe5f910442432b603cd2d",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F02",
+    "title": "Assam stone jar — elongated biconical type I",
+    "path": "visuals/JAR19-F02.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F02.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 4,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 2",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 730,
+    "height": 475,
+    "sha256": "0953e9ef7befe8f2e54326f36129ceac558328a86aa26b105ef951649483eeed",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F03",
+    "title": "Assam stone jar — bulbous type IV",
+    "path": "visuals/JAR19-F03.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F03.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 4,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 3",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1178,
+    "height": 783,
+    "sha256": "a700ae6de140c8d0df617259c7361a25c1bc299139485bbbe38f412260507526",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F04",
+    "title": "Assam stone jar — type V",
+    "path": "visuals/JAR19-F04.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F04.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 5,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 4",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1178,
+    "height": 783,
+    "sha256": "d6072196a440aa4defde806f04046a354060d39912a8635c0c20e9a22958c06f",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F05",
+    "title": "Engraved decoration around a stone jar mouth",
+    "path": "visuals/JAR19-F05.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F05.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 5,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 5",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1178,
+    "height": 1178,
+    "sha256": "bead7d8ecd5e25caab5eee0cef1362bf1a0c7e1b78ba7a2304230167bb537083",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F06",
+    "title": "Large stone jar at Dubungling, Dima Hasao",
+    "path": "visuals/JAR19-F06.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F06.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 6,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 6",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1902,
+    "height": 1209,
+    "sha256": "204064a14a635f8dcdf575f3d57f238581a283395d8cf61171d7d02c932e3bf3",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F07",
+    "title": "Stone discs at Kobak, Dima Hasao",
+    "path": "visuals/JAR19-F07.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F07.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 6,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 7",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1178,
+    "height": 808,
+    "sha256": "c0ae56bf9956203f5417bba4c6ba6ad4e92a5149a93b6b6a5d2742e647998339",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F08",
+    "title": "Engraved decoration on a stone jar at Kobak",
+    "path": "visuals/JAR19-F08.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F08.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 7,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 8",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1178,
+    "height": 1155,
+    "sha256": "6e36f2b386025638b7e101192b42d897875f614979724c1592f06e22c0a926d8",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F09",
+    "title": "Engraved circular stone — Assam jar-site research",
+    "path": "visuals/JAR19-F09.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F09.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 8,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 9",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1016,
+    "height": 654,
+    "sha256": "e6e2775748315454a2441a6205bbcc4a241d83f40817cc4929d5e12be1bfc689",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F10",
+    "title": "Excavated locality of circular stones",
+    "path": "visuals/JAR19-F10.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F10.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 9,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 10",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1902,
+    "height": 1237,
+    "sha256": "5fdaabb835d4b4bff4d25ead8ffb2a35a7e4cc80ac6e939254517c938e111f04",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR19-F11",
+    "title": "Human figure engraved on a stone slab",
+    "path": "visuals/JAR19-F11.png",
+    "thumbnail": "visuals/thumbnails/JAR19-F11.png",
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "document": "documents/D06.pdf",
+    "pdf_page": 10,
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria (2019), Figure 11",
+    "kind": "Photograph",
+    "scope": "Standalone original illustration extracted without cropping from the cited source; its caption and archaeological context must accompany reuse.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1178,
+    "height": 1591,
+    "sha256": "096bd6ca6e810e6fc1d21f889049329c712cdead8622ad4d1fed4b608c082dc6",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR01"
+  },
+  {
+    "id": "JAR22-F04",
+    "title": "Dima Hasao jar-site landscape — survey Figure 4",
+    "path": "visuals/JAR22-F04.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F04.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 4",
+    "kind": "Photograph",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1200,
+    "height": 899,
+    "sha256": "0285a681d2a5d46cd6956df09dda0c6576837989c48d75c434bdbc8ac3c6df4c",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "JAR22-F07",
+    "title": "Dima Hasao stone jars in woodland — survey Figure 7",
+    "path": "visuals/JAR22-F07.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F07.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 7",
+    "kind": "Photograph",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 966,
+    "height": 725,
+    "sha256": "3688e20a01bd13517cda867c78147c0b3c6905bf330183e9bde24cecdaf54e84",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "JAR22-F08",
+    "title": "Assam stone jars and details — survey Figure 8",
+    "path": "visuals/JAR22-F08.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F08.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 8",
+    "kind": "Photograph",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1200,
+    "height": 1740,
+    "sha256": "1a49535496d64338b464380fb6fc8ed083fd7ce478e7583baffefc61671aa017",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "JAR22-F09",
+    "title": "Dima Hasao jars in the ground — survey Figure 9",
+    "path": "visuals/JAR22-F09.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F09.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 9",
+    "kind": "Photograph",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 966,
+    "height": 544,
+    "sha256": "4ffdaf714398f983ab1bff81c68630efc4de13a37622ad8b03cea89d1e94b7e6",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "JAR22-F10",
+    "title": "Dima Hasao stone jar cavity — survey Figure 10",
+    "path": "visuals/JAR22-F10.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F10.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 10",
+    "kind": "Photograph",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 966,
+    "height": 718,
+    "sha256": "6dd6d3c38f03f046e36315929878bab2c1dce8805d31c8a66da6e00e748c1af0",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "TH04-F21",
+    "title": "Sarutari village context — departmental farm sign",
+    "path": "visuals/TH04-F21.png",
+    "thumbnail": "visuals/thumbnails/TH04-F21.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 62,
+    "chapters": [
+      3,
+      6
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 42",
+    "kind": "Photograph",
+    "scope": "Present Sarutari village context. The thesis did not securely relocate the old Sarutaru excavation spot; this sign is not a photograph of that excavation.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 362,
+    "height": 487,
+    "sha256": "5fe53ece9e5028cdf3e17c517b16243f77fbeaf590d2658a95a3c8c633fea796",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "TH04-F22",
+    "title": "Marakdola menhirs — earlier photograph reproduced from Rao",
+    "path": "visuals/TH04-F22.png",
+    "thumbnail": "visuals/thumbnails/TH04-F22.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 62,
+    "chapters": [
+      6,
+      10
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 42",
+    "kind": "Photograph",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 823,
+    "height": 478,
+    "sha256": "ccb1806e5bafd000fe7cf7f30a38ebc40292d8c09665c0e5beee0a4b53ab612a",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "TH04-F23",
+    "title": "Marakdola menhirs — thesis fieldwork photograph",
+    "path": "visuals/TH04-F23.png",
+    "thumbnail": "visuals/thumbnails/TH04-F23.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 63,
+    "chapters": [
+      6,
+      10
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 43",
+    "kind": "Photograph",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1305,
+    "height": 864,
+    "sha256": "52be9e8b16962a5964817c456676dde2dd3c780f9e6c717caab20209e14ada74",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "TH04-P11",
+    "title": "Marakdola exposed deposit with pottery and celts",
+    "path": "visuals/TH04-P11.png",
+    "thumbnail": "visuals/thumbnails/TH04-P11.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 238,
+    "chapters": [
+      6,
+      7
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 218",
+    "kind": "Photograph",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1191,
+    "height": 676,
+    "sha256": "45e065e9df161cfa5ab59076e4e9152eaa19e364462604c099f7439ef508fc3e",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "TH04-P21",
+    "title": "Marakdola test pit",
+    "path": "visuals/TH04-P21.png",
+    "thumbnail": "visuals/thumbnails/TH04-P21.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 245,
+    "chapters": [
+      1,
+      6
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 225",
+    "kind": "Photograph",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 900,
+    "height": 537,
+    "sha256": "952519fb3d62daa289cf0a7032b25181c8826bb10f38012e7ce02cda8ca22348",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "TH04-P22",
+    "title": "Charcoal sampling at the Marakdola test pit",
+    "path": "visuals/TH04-P22.png",
+    "thumbnail": "visuals/thumbnails/TH04-P22.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 245,
+    "chapters": [
+      1,
+      6
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 225",
+    "kind": "Photograph",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 901,
+    "height": 375,
+    "sha256": "12819802d82bd375b1e85698c212eaf8387d71604c366582b34fe8c667e0dd2f",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "TH04-P39A",
+    "title": "Marakdola potsherds — rim and vessel fragments",
+    "path": "visuals/TH04-P39A.png",
+    "thumbnail": "visuals/thumbnails/TH04-P39A.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 260,
+    "chapters": [
+      6,
+      7
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 240",
+    "kind": "Photograph",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 775,
+    "height": 583,
+    "sha256": "09a45bbdf2737c5ba063b4a7fbc5802fe85537f1a42b6dbe0e1fb4a4643af315",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "TH04-P39B",
+    "title": "Marakdola potsherds — body fragments",
+    "path": "visuals/TH04-P39B.png",
+    "thumbnail": "visuals/thumbnails/TH04-P39B.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 260,
+    "chapters": [
+      6,
+      7
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 240",
+    "kind": "Photograph",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 785,
+    "height": 578,
+    "sha256": "a61976e9bc1d292922a996a1424f6126a5e614070ec7fd3fdf1182d03e0a1b81",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "M01",
+    "title": "Ambari excavations in Guwahati, Assam 1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambari%20excavations%20in%20Guwahati%2C%20Assam%201.jpg",
+    "chapters": [
+      11
+    ],
+    "scope": "Ambari transition context; object identification and date require excavation verification",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ambari_excavations_in_Guwahati%2C_Assam_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-09-06 06:57:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ambari excavations in Guwahati, Assam 1",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images from Wiki Loves Monuments 2018|Ancient ruins excavation site at Ambari in Guwahat|Self-published work|ASI monuments with known IDs|Uploaded via Campaign:wlm-in|Images from Wiki Loves Monuments 2018 in India|Images from WLM 2018 India of Poor Quality|India photographs taken on 2009-02-28|2009 in Guwahati|Files from competitions organized by West Bengal Wikimedians User Group",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "This is a photo of <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Archaeological_Survey_of_India\" class=\"extiw\" title=\"en:Archaeological Survey of India\"><span lang=\"en\" dir=\"ltr\">ASI monument</span></a></span> number",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-02-28 12:22:02",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mozzworld\" title=\"User:Mozzworld\">Mozzworld</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "path": "visuals/M01.jpg",
+    "sha256": "747c6e70897f0cb6002c9f4b945e2c4e515e04061310fbb6217aaac10736ff42",
+    "bytes": 301673,
+    "status": "downloaded",
+    "creator": "Mozzworld",
+    "rights": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "date": "2009-02-28 12:22:02",
+    "kind": "Photograph",
+    "width": 1022,
+    "height": 748,
+    "thumbnail": "visuals/thumbnails/M01.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M02",
+    "title": "Ambari excavations in Guwahati, Assam 2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambari%20excavations%20in%20Guwahati%2C%20Assam%202.jpg",
+    "chapters": [
+      11
+    ],
+    "scope": "Ambari transition context; object identification and date require excavation verification",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ambari_excavations_in_Guwahati%2C_Assam_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-09-06 06:57:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ambari excavations in Guwahati, Assam 2",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images from Wiki Loves Monuments 2018|Ancient ruins excavation site at Ambari in Guwahat|Self-published work|ASI monuments with known IDs|Uploaded via Campaign:wlm-in|Images from Wiki Loves Monuments 2018 in India|Images from WLM 2018 India of Poor Quality|India photographs taken on 2009-02-28|2009 in Guwahati|Files from competitions organized by West Bengal Wikimedians User Group",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "This is a photo of <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Archaeological_Survey_of_India\" class=\"extiw\" title=\"en:Archaeological Survey of India\"><span lang=\"en\" dir=\"ltr\">ASI monument</span></a></span> number",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-02-28 12:26:26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mozzworld\" title=\"User:Mozzworld\">Mozzworld</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "path": "visuals/M02.jpg",
+    "sha256": "57be784a3cae68932902b74dc60cc8e7de66888c6c89332bf137369846bd0f70",
+    "bytes": 336161,
+    "status": "downloaded",
+    "creator": "Mozzworld",
+    "rights": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "date": "2009-02-28 12:26:26",
+    "kind": "Photograph",
+    "width": 1068,
+    "height": 730,
+    "thumbnail": "visuals/thumbnails/M02.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M03",
+    "title": "Ambari excavations in Guwahati, Assam 3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambari%20excavations%20in%20Guwahati%2C%20Assam%203.jpg",
+    "chapters": [
+      11
+    ],
+    "scope": "Ambari transition context; object identification and date require excavation verification",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ambari_excavations_in_Guwahati%2C_Assam_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-09-06 06:57:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ambari excavations in Guwahati, Assam 3",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images from Wiki Loves Monuments 2018|Ancient ruins excavation site at Ambari in Guwahat|Self-published work|ASI monuments with known IDs|Uploaded via Campaign:wlm-in|Images from Wiki Loves Monuments 2018 in India|Images from WLM 2018 India of Poor Quality|India photographs taken on 2009-02-28|2009 in Guwahati|Files from competitions organized by West Bengal Wikimedians User Group",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "This is a photo of <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Archaeological_Survey_of_India\" class=\"extiw\" title=\"en:Archaeological Survey of India\"><span lang=\"en\" dir=\"ltr\">ASI monument</span></a></span> number",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-02-28 12:24:25",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mozzworld\" title=\"User:Mozzworld\">Mozzworld</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "status": "downloaded",
+    "path": "visuals/M03.jpg",
+    "bytes": 228242,
+    "sha256": "f8b46d606a53d0d16206233bb3cee562c403437f68c63ec6f5d9797b8ce4b0f1",
+    "creator": "Mozzworld",
+    "rights": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "date": "2009-02-28 12:24:25",
+    "kind": "Photograph",
+    "width": 1072,
+    "height": 700,
+    "thumbnail": "visuals/thumbnails/M03.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M04",
+    "title": "Ambari excavations in Guwahati, Assam 4.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambari%20excavations%20in%20Guwahati%2C%20Assam%204.jpg",
+    "chapters": [
+      11
+    ],
+    "scope": "Ambari transition context; object identification and date require excavation verification",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ambari_excavations_in_Guwahati%2C_Assam_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-09-06 06:57:34",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ambari excavations in Guwahati, Assam 4",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images from Wiki Loves Monuments 2018|Ancient ruins excavation site at Ambari in Guwahat|Self-published work|ASI monuments with known IDs|Uploaded via Campaign:wlm-in|Images from Wiki Loves Monuments 2018 in India|Images from WLM 2018 India of Poor Quality|India photographs taken on 2009-02-28|2009 in Guwahati|Files from competitions organized by West Bengal Wikimedians User Group",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "This is a photo of <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Archaeological_Survey_of_India\" class=\"extiw\" title=\"en:Archaeological Survey of India\"><span lang=\"en\" dir=\"ltr\">ASI monument</span></a></span> number",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-02-28 12:25:49",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mozzworld\" title=\"User:Mozzworld\">Mozzworld</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "path": "visuals/M04.jpg",
+    "sha256": "a969d9ff98db306e7632ab383da90b7cb128587c4599f3c3b18b5303370ba29f",
+    "bytes": 310194,
+    "status": "downloaded",
+    "creator": "Mozzworld",
+    "rights": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "date": "2009-02-28 12:25:49",
+    "kind": "Photograph",
+    "width": 1061,
+    "height": 740,
+    "thumbnail": "visuals/thumbnails/M04.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M05",
+    "title": "Base of a rouletted ware, terracotta.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Base%20of%20a%20rouletted%20ware%2C%20terracotta.jpg",
+    "chapters": [
+      11
+    ],
+    "scope": "Ambari transition context; object identification and date require excavation verification",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Base_of_a_rouletted_ware%2C_terracotta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-06-04 08:37:25",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Base of a rouletted ware, terracotta",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Assam|Sherds|Terracotta|Ancient ruins excavation site at Ambari in Guwahat|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Base of a rouletted ware, terracotta",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-06-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:SpeakingArch\" title=\"User:SpeakingArch\">SpeakingArch</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "status": "downloaded",
+    "path": "visuals/M05.jpg",
+    "bytes": 65729,
+    "sha256": "bf1ddf15bfec2d47b73bb95ef252c2a89271b89c8dc4846cb665d3ac2e62ae55",
+    "creator": "SpeakingArch",
+    "rights": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "date": "2026-06-04",
+    "kind": "Photograph",
+    "width": 736,
+    "height": 646,
+    "thumbnail": "visuals/thumbnails/M05.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M06",
+    "title": "Potsherd of a Roman Rouletted Ware, terracotta.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Potsherd%20of%20a%20Roman%20Rouletted%20Ware%2C%20terracotta.jpg",
+    "chapters": [
+      11
+    ],
+    "scope": "Ambari transition context; object identification and date require excavation verification",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Potsherd_of_a_Roman_Rouletted_Ware%2C_terracotta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-06-04 08:33:40",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Potsherd of a Roman Rouletted Ware, terracotta",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Assam|Sherds|Terracotta|Ancient ruins excavation site at Ambari in Guwahat|Self-published work|Roulette in art",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "potsherd of a Roman Rouletted Ware, terracotta",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-06-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:SpeakingArch\" title=\"User:SpeakingArch\">SpeakingArch</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "path": "visuals/M06.jpg",
+    "sha256": "1b8f63c36ffa9d356ba27f17d17d81a984bc211c550df191fb5d4bc310d3f95f",
+    "bytes": 92602,
+    "status": "downloaded",
+    "creator": "SpeakingArch",
+    "rights": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "date": "2026-06-04",
+    "kind": "Photograph",
+    "width": 735,
+    "height": 504,
+    "thumbnail": "visuals/thumbnails/M06.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M08",
+    "title": "Roman Rouletted Potsherd, Terracotta.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roman%20Rouletted%20Potsherd%2C%20Terracotta.jpg",
+    "chapters": [
+      11
+    ],
+    "scope": "Ambari transition context; object identification and date require excavation verification",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Rouletted_Potsherd%2C_Terracotta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-06-04 08:25:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Roman Rouletted Potsherd, Terracotta",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Assam|Sherds|Terracotta|Ancient Rome|Ancient ruins excavation site at Ambari in Guwahat|Self-published work|Roulette in art",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Roman Rouletted Potsherd, Terracotta",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-06-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:SpeakingArch\" title=\"User:SpeakingArch\">SpeakingArch</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "status": "downloaded",
+    "path": "visuals/M08.jpg",
+    "bytes": 23627,
+    "sha256": "a5ef116c818b7348abe9a29e063581713940a47c1fa08cf46ad071aac418bfad",
+    "creator": "SpeakingArch",
+    "rights": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "date": "2026-06-04",
+    "kind": "Photograph",
+    "width": 736,
+    "height": 414,
+    "thumbnail": "visuals/thumbnails/M08.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M09",
+    "title": "Ambari excavation — ASI photograph 1",
+    "source": "https://asiguwahaticircle.gov.in/images/ambariexcavation.JPG",
+    "chapters": [
+      11
+    ],
+    "scope": "Research reference; caption and chronological association must be verified",
+    "rights": "Permission required; no open reuse license verified",
+    "path": "visuals/M09.jpg",
+    "bytes": 2459443,
+    "sha256": "acf5a31c6ef40d3c3960789737c23ecbc260eff47c9ac7258c671e440f1b630d",
+    "status": "downloaded",
+    "creator": "Institutional source; individual photographer not identified",
+    "license_url": "",
+    "credit": "",
+    "date": "Not recorded",
+    "kind": "Photograph",
+    "width": 3872,
+    "height": 2592,
+    "thumbnail": "visuals/thumbnails/M09.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M10",
+    "title": "Ambari excavation — ASI photograph 2",
+    "source": "https://asiguwahaticircle.gov.in/images/ambariexcavation2.jpg",
+    "chapters": [
+      11
+    ],
+    "scope": "Research reference; caption and chronological association must be verified",
+    "rights": "Permission required; no open reuse license verified",
+    "path": "visuals/M10.jpg",
+    "bytes": 7493903,
+    "sha256": "4d8124901813657bd112094a2be170939ccf488d0d907bf941ead4f667672e2d",
+    "status": "downloaded",
+    "creator": "Institutional source; individual photographer not identified",
+    "license_url": "",
+    "credit": "",
+    "date": "Not recorded",
+    "kind": "Photograph",
+    "width": 3872,
+    "height": 2592,
+    "thumbnail": "visuals/thumbnails/M10.jpg",
+    "publication_ready": false
+  },
+  {
+    "id": "M13",
+    "title": "Lungzubel Meghalaya.JPG",
+    "chapters": [
+      9,
+      10
+    ],
+    "scope": "Meghalaya regional comparison; modern photograph. Ancient maker, date and use remain unresolved",
+    "source": "https://commons.wikimedia.org/wiki/File:Lungzubel%20Meghalaya.JPG",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lungzubel_Meghalaya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-09-12 10:12:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lungzubel Meghalaya",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Culture of Assam|GFDL|Taken with Canon PowerShot SX120 IS|License migration redundant|Homebrewing|Self-published work|Stone containers|Jaintia Hills",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Lungzubel-a stone container made by Lamlira to store ZU (rice beer)in Jaintia Hills, Meghalaya",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ezralalsim10&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ezralalsim10 (page does not exist)\">Ezralalsim10</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "status": "downloaded",
+    "path": "visuals/M13.JPG",
+    "bytes": 5437795,
+    "sha256": "76aa969d41207432c89d4cd61a57ad3939e2b1f50d3850f4c85cf1be9bae8821",
+    "creator": "Ezralalsim10",
+    "rights": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "credit": "Own work",
+    "date": "Not recorded",
+    "kind": "Photograph",
+    "width": 3648,
+    "height": 2736,
+    "thumbnail": "visuals/thumbnails/M13.JPG",
+    "publication_ready": false
+  },
+  {
+    "id": "JAR22-F02",
+    "title": "Assam stone jar forms — comparative drawing",
+    "path": "visuals/JAR22-F02.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F02.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 2",
+    "kind": "Artifact drawing",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1200,
+    "height": 368,
+    "sha256": "939cab663bb64e637590ec23ea75248bb0bc67448d0b1b3e4b2c9c6b5b55365a",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "TH04-P32A",
+    "title": "Marakdola stone celts — artifact drawings",
+    "path": "visuals/TH04-P32A.png",
+    "thumbnail": "visuals/thumbnails/TH04-P32A.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 253,
+    "chapters": [
+      6,
+      7
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 233",
+    "kind": "Artifact drawing",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1183,
+    "height": 756,
+    "sha256": "7785b0f8de5e24c9ea5401bea554524dbbd17ec106ffe4ccc8a91611f8f861d8",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "TH04-P32B",
+    "title": "Kraikijam stone celts — comparative artifact drawings",
+    "path": "visuals/TH04-P32B.png",
+    "thumbnail": "visuals/thumbnails/TH04-P32B.png",
+    "source": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "document": "documents/D04.pdf",
+    "pdf_page": 253,
+    "chapters": [
+      6,
+      7
+    ],
+    "creator": "Jitendra Kumar (2023), IIT Guwahati thesis; printed page 233",
+    "kind": "Artifact drawing",
+    "scope": "Thesis figure/plate extracted intact. Modern context and sampled deposits require the dated excavation record; no prehistoric date is inferred from the photograph.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 822,
+    "height": 351,
+    "sha256": "5ff07518efe1b17c1b4651750a4badafe7d91cb983192226841fa133a1abde06",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "ARCH-04"
+  },
+  {
+    "id": "JAR22-F01",
+    "title": "Assam jar survey — regional location map",
+    "path": "visuals/JAR22-F01.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F01.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 1",
+    "kind": "Map",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1200,
+    "height": 730,
+    "sha256": "75eb7dcaa090bc1780365d2aff3306a942c5b9198f67b85063608de42ec9366b",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "JAR22-F05",
+    "title": "Jar-site satellite context — survey Figure 5",
+    "path": "visuals/JAR22-F05.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F05.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 5",
+    "kind": "Map",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 984,
+    "height": 1386,
+    "sha256": "3cf2cdfcf02a1763a7bf153be4054bb3c45af3cdc1b2bdd7ce210c2f5e1bf742",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "JAR22-F06",
+    "title": "Jar-site satellite context — survey Figure 6",
+    "path": "visuals/JAR22-F06.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F06.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 6",
+    "kind": "Map",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1200,
+    "height": 847,
+    "sha256": "bf787a48aad883dd21ba2e2bde5609365e9de004794e8e888f863780057bb1df",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "M11",
+    "title": "Assam jar survey — site distribution map",
+    "path": "visuals/JAR22-F03.png",
+    "thumbnail": "visuals/thumbnails/JAR22-F03.png",
+    "source": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "chapters": [
+      9,
+      10
+    ],
+    "creator": "Tilok Thakuria, Uttam Bathari and Nicholas Skopal (2022), Figure 3",
+    "kind": "Map",
+    "scope": "Standalone publisher figure from the Assam survey. Exact locality caption unavailable in the subscription preview; do not assign a village or scientific age from appearance.",
+    "rights": "Research reference; publication permission unverified. Original and nested credits must be checked.",
+    "width": 1200,
+    "height": 832,
+    "sha256": "e07e1afd956470ca4e1220a45e609daad71c82229c9bf7bcc022970ec4a34194",
+    "status": "downloaded",
+    "publication_ready": false,
+    "date": "Original publication date; photograph date not independently established",
+    "source_id": "BUR02"
+  },
+  {
+    "id": "M12",
+    "title": "India Assam relief map.svg",
+    "chapters": [
+      2,
+      9
+    ],
+    "scope": "Modern relief and state outline; neither prehistoric boundaries nor reconstructed river courses",
+    "source": "https://commons.wikimedia.org/wiki/File:India%20Assam%20relief%20map.svg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/India_Assam_relief_map.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-07-02 04:52:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "India Assam relief map",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Maps of Assam|Location maps of Assam|SVG topographic maps of Indian states and union territories|Relief location maps of India",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Assam relief map. Elevation data from STRM.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-06-29",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Assam location map.svg",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Milenioscuro",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "status": "downloaded",
+    "path": "visuals/M12.svg",
+    "bytes": 2047465,
+    "sha256": "daf75ae2ee6bb6c84b2a367ef5573edf7769d7f94d2510966f63c9330e1ae877",
+    "creator": "Milenioscuro",
+    "rights": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "credit": "Assam location map.svg",
+    "date": "2020-06-29",
+    "kind": "Map",
+    "publication_ready": false
+  },
+  {
+    "id": "D01-P02",
+    "title": "Study-area map and pottery OSL table",
+    "chapters": [
+      1,
+      3,
+      5
+    ],
+    "path": "visuals/pages/D01-page-02.jpg",
+    "thumbnail": "visuals/thumbnails/D01-page-02.jpg",
+    "document": "documents/D01.pdf",
+    "pdf_page": 2,
+    "source_id": "D01",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "eab166c696271545fd10135defa239a5861dcfc5423e6f2018479da27f80f540",
+    "width": 1131,
+    "height": 1600,
+    "source": "https://doi.org/10.18520/cs/v113/i03/492-496",
+    "creator": "Sukanya Sharma, Pankaj Singh (2017). Luminescence Dating of Neolithic Pottery in North East India. Current Science 113(3):492–496; 10 August 2017",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D01-P03",
+    "title": "Gawak Abri excavation and objects — Meghalaya comparison",
+    "chapters": [
+      4,
+      5,
+      7,
+      9
+    ],
+    "path": "visuals/pages/D01-page-03.jpg",
+    "thumbnail": "visuals/thumbnails/D01-page-03.jpg",
+    "document": "documents/D01.pdf",
+    "pdf_page": 3,
+    "source_id": "D01",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "09581ebfe09160a4e81284401f89fcd846dbd9cde0b7b2b46d1217b61a1cbeb3",
+    "width": 1131,
+    "height": 1600,
+    "source": "https://doi.org/10.18520/cs/v113/i03/492-496",
+    "creator": "Sukanya Sharma, Pankaj Singh (2017). Luminescence Dating of Neolithic Pottery in North East India. Current Science 113(3):492–496; 10 August 2017",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D01-P04",
+    "title": "Daojali Hading trench, ceramics and celts; analytical plots",
+    "chapters": [
+      5,
+      7
+    ],
+    "path": "visuals/pages/D01-page-04.jpg",
+    "thumbnail": "visuals/thumbnails/D01-page-04.jpg",
+    "document": "documents/D01.pdf",
+    "pdf_page": 4,
+    "source_id": "D01",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "7883b57eb89f3792ddf239a737b8223580d0c292a918dd261cdc1f99bfc4e75c",
+    "width": 1131,
+    "height": 1600,
+    "source": "https://doi.org/10.18520/cs/v113/i03/492-496",
+    "creator": "Sukanya Sharma, Pankaj Singh (2017). Luminescence Dating of Neolithic Pottery in North East India. Current Science 113(3):492–496; 10 August 2017",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D02-P03",
+    "title": "Karbi Langpi explored-site map — Google Earth basemap",
+    "chapters": [
+      2,
+      6
+    ],
+    "path": "visuals/pages/D02-page-03.jpg",
+    "thumbnail": "visuals/thumbnails/D02-page-03.jpg",
+    "document": "documents/D02.pdf",
+    "pdf_page": 3,
+    "source_id": "D02",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "8707444e537f913bc4fd9e3214e91296e94e5ef4e4faa9f3652a29604df0fef7",
+    "width": 1199,
+    "height": 1600,
+    "source": "https://www.heritageuniversityofkerala.com/JournalPDF/Volume7/43.pdf",
+    "creator": "Nisha Rani Das (2019). Preliminary Explorations in the Karbi Langpi Valley, Karbi Anglong District, Assam with Special Emphasis on the Ceramics. Heritage: Journal of Multidisciplinary Studies in Archaeology 7:670–678",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D02-P04",
+    "title": "Bichikkri potsherds — after Senar 2016",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D02-page-04.jpg",
+    "thumbnail": "visuals/thumbnails/D02-page-04.jpg",
+    "document": "documents/D02.pdf",
+    "pdf_page": 4,
+    "source_id": "D02",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "04b558be5896ad9ad3482a6d59025e0d1823ff906267f9f1ff33ceefaf8b89b7",
+    "width": 1199,
+    "height": 1600,
+    "source": "https://www.heritageuniversityofkerala.com/JournalPDF/Volume7/43.pdf",
+    "creator": "Nisha Rani Das (2019). Preliminary Explorations in the Karbi Langpi Valley, Karbi Anglong District, Assam with Special Emphasis on the Ceramics. Heritage: Journal of Multidisciplinary Studies in Archaeology 7:670–678",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D02-P05",
+    "title": "Kekang-Adong ceramic assemblage",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D02-page-05.jpg",
+    "thumbnail": "visuals/thumbnails/D02-page-05.jpg",
+    "document": "documents/D02.pdf",
+    "pdf_page": 5,
+    "source_id": "D02",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "698c3060dd3cf4ec58adcd74034a22fe6bca6582ee23d8e9e9ff26433d553c80",
+    "width": 1199,
+    "height": 1600,
+    "source": "https://www.heritageuniversityofkerala.com/JournalPDF/Volume7/43.pdf",
+    "creator": "Nisha Rani Das (2019). Preliminary Explorations in the Karbi Langpi Valley, Karbi Anglong District, Assam with Special Emphasis on the Ceramics. Heritage: Journal of Multidisciplinary Studies in Archaeology 7:670–678",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D02-P06",
+    "title": "Langmet potsherds",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D02-page-06.jpg",
+    "thumbnail": "visuals/thumbnails/D02-page-06.jpg",
+    "document": "documents/D02.pdf",
+    "pdf_page": 6,
+    "source_id": "D02",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "4f979386a33672a540503ad62247fe5f7becb12ad6cdacfa426a1cea203945d9",
+    "width": 1199,
+    "height": 1600,
+    "source": "https://www.heritageuniversityofkerala.com/JournalPDF/Volume7/43.pdf",
+    "creator": "Nisha Rani Das (2019). Preliminary Explorations in the Karbi Langpi Valley, Karbi Anglong District, Assam with Special Emphasis on the Ceramics. Heritage: Journal of Multidisciplinary Studies in Archaeology 7:670–678",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D03-P48",
+    "title": "Sarutaru excavation report — opening page 39",
+    "chapters": [
+      1,
+      3,
+      6
+    ],
+    "path": "visuals/pages/D03-page-48.jpg",
+    "thumbnail": "visuals/thumbnails/D03-page-48.jpg",
+    "document": "documents/D03.pdf",
+    "pdf_page": 48,
+    "source_id": "D03",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "f3aec887fb98adfc595cbabd091b3dbc9973b6d2a3a9bc506176121c655a097f",
+    "width": 1200,
+    "height": 1600,
+    "source": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "creator": "S. N. Rao (1977). Excavations at Sarutaru: A Neolithic Site in Assam. Man and Environment 1; pagination variously cited 39–42 or 39–43, verify scan before final bibliography",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D03-P49",
+    "title": "Sarutaru excavation report — page 40",
+    "chapters": [
+      1,
+      6,
+      7
+    ],
+    "path": "visuals/pages/D03-page-49.jpg",
+    "thumbnail": "visuals/thumbnails/D03-page-49.jpg",
+    "document": "documents/D03.pdf",
+    "pdf_page": 49,
+    "source_id": "D03",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "68880298006b6d8b4f975ff185fcd0123888a358afae78a0e6a7d80f33a7468c",
+    "width": 1300,
+    "height": 1600,
+    "source": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "creator": "S. N. Rao (1977). Excavations at Sarutaru: A Neolithic Site in Assam. Man and Environment 1; pagination variously cited 39–42 or 39–43, verify scan before final bibliography",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D03-P50",
+    "title": "Sarutaru excavation report — page 41",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D03-page-50.jpg",
+    "thumbnail": "visuals/thumbnails/D03-page-50.jpg",
+    "document": "documents/D03.pdf",
+    "pdf_page": 50,
+    "source_id": "D03",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "8320d7b1b5762288b376d9196eb7b7d721fafc25eb232c37c3b2d04b368774bc",
+    "width": 1235,
+    "height": 1600,
+    "source": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "creator": "S. N. Rao (1977). Excavations at Sarutaru: A Neolithic Site in Assam. Man and Environment 1; pagination variously cited 39–42 or 39–43, verify scan before final bibliography",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D03-P51",
+    "title": "Sarutaru excavation report — page 42",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D03-page-51.jpg",
+    "thumbnail": "visuals/thumbnails/D03-page-51.jpg",
+    "document": "documents/D03.pdf",
+    "pdf_page": 51,
+    "source_id": "D03",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "7a5c3059a959fd205d97e4f442a4a427963a63ffb12691d00765f5376c2cbd80",
+    "width": 1300,
+    "height": 1600,
+    "source": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "creator": "S. N. Rao (1977). Excavations at Sarutaru: A Neolithic Site in Assam. Man and Environment 1; pagination variously cited 39–42 or 39–43, verify scan before final bibliography",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D03-P52",
+    "title": "Sarutaru polished axes and incised pottery — figures 1–2, page 43",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D03-page-52.jpg",
+    "thumbnail": "visuals/thumbnails/D03-page-52.jpg",
+    "document": "documents/D03.pdf",
+    "pdf_page": 52,
+    "source_id": "D03",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Reproduction permission unverified; research reference only",
+    "status": "downloaded",
+    "sha256": "d6480be09247e38a788cfe535708d53814801be6c9f6197886bee056016acc60",
+    "width": 1235,
+    "height": 1600,
+    "source": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "creator": "S. N. Rao (1977). Excavations at Sarutaru: A Neolithic Site in Assam. Man and Environment 1; pagination variously cited 39–42 or 39–43, verify scan before final bibliography",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D06-P04",
+    "title": "Assam stone jars — chisel marks and forms",
+    "chapters": [
+      7,
+      9,
+      10
+    ],
+    "path": "visuals/pages/D06-page-04.jpg",
+    "thumbnail": "visuals/thumbnails/D06-page-04.jpg",
+    "document": "documents/D06.pdf",
+    "pdf_page": 4,
+    "source_id": "D06",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "No explicit figure reuse license verified from downloaded PDF or landing page. Research reference; permission check remains.",
+    "status": "downloaded",
+    "sha256": "a14b43242a0711c753d8473a3de77fc2997bc7877287150a87cab6836e8c5c8e",
+    "width": 1132,
+    "height": 1600,
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "creator": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D06-P05",
+    "title": "Assam stone jars — forms and engraved mouth",
+    "chapters": [
+      7,
+      10
+    ],
+    "path": "visuals/pages/D06-page-05.jpg",
+    "thumbnail": "visuals/thumbnails/D06-page-05.jpg",
+    "document": "documents/D06.pdf",
+    "pdf_page": 5,
+    "source_id": "D06",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "No explicit figure reuse license verified from downloaded PDF or landing page. Research reference; permission check remains.",
+    "status": "downloaded",
+    "sha256": "c7a3ca8f62dff1c2906bba71d37045c88815bbee314186fdd9ee84595d656c2c",
+    "width": 1132,
+    "height": 1600,
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "creator": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D06-P06",
+    "title": "Assam stone jars — large jar and discs",
+    "chapters": [
+      9,
+      10
+    ],
+    "path": "visuals/pages/D06-page-06.jpg",
+    "thumbnail": "visuals/thumbnails/D06-page-06.jpg",
+    "document": "documents/D06.pdf",
+    "pdf_page": 6,
+    "source_id": "D06",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "No explicit figure reuse license verified from downloaded PDF or landing page. Research reference; permission check remains.",
+    "status": "downloaded",
+    "sha256": "11418ba90ea734acd77ee75bb7872cc4493d46cb3b2010e8856325329cdca35a",
+    "width": 1132,
+    "height": 1600,
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "creator": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D06-P07",
+    "title": "Assam stone jar engraved decoration",
+    "chapters": [
+      7,
+      10
+    ],
+    "path": "visuals/pages/D06-page-07.jpg",
+    "thumbnail": "visuals/thumbnails/D06-page-07.jpg",
+    "document": "documents/D06.pdf",
+    "pdf_page": 7,
+    "source_id": "D06",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "No explicit figure reuse license verified from downloaded PDF or landing page. Research reference; permission check remains.",
+    "status": "downloaded",
+    "sha256": "553a6f265f15f209f10866989b8624867f4164d20286d2dcf9f23c493851110e",
+    "width": 1132,
+    "height": 1600,
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "creator": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D06-P08",
+    "title": "Engraved circular stones — Assam jar research",
+    "chapters": [
+      10
+    ],
+    "path": "visuals/pages/D06-page-08.jpg",
+    "thumbnail": "visuals/thumbnails/D06-page-08.jpg",
+    "document": "documents/D06.pdf",
+    "pdf_page": 8,
+    "source_id": "D06",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "No explicit figure reuse license verified from downloaded PDF or landing page. Research reference; permission check remains.",
+    "status": "downloaded",
+    "sha256": "c87279c5b916c84134e090a651cb2c3f9e52aca995f039cc902b31d928a91d0a",
+    "width": 1132,
+    "height": 1600,
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "creator": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D06-P09",
+    "title": "Circular stone excavation locality",
+    "chapters": [
+      10
+    ],
+    "path": "visuals/pages/D06-page-09.jpg",
+    "thumbnail": "visuals/thumbnails/D06-page-09.jpg",
+    "document": "documents/D06.pdf",
+    "pdf_page": 9,
+    "source_id": "D06",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "No explicit figure reuse license verified from downloaded PDF or landing page. Research reference; permission check remains.",
+    "status": "downloaded",
+    "sha256": "38e8bf338a4af09b161d3d1e9701f428d0d6e83641fcd3e5f2994f8f74cdc1ce",
+    "width": 1132,
+    "height": 1600,
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "creator": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D06-P10",
+    "title": "Engraved human figure and discussion of undated jars",
+    "chapters": [
+      10,
+      12
+    ],
+    "path": "visuals/pages/D06-page-10.jpg",
+    "thumbnail": "visuals/thumbnails/D06-page-10.jpg",
+    "document": "documents/D06.pdf",
+    "pdf_page": 10,
+    "source_id": "D06",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "No explicit figure reuse license verified from downloaded PDF or landing page. Research reference; permission check remains.",
+    "status": "downloaded",
+    "sha256": "aa0c555f2f3ea0b7f48677748d3d24cedb304efdf807ca27f352a49551da9332",
+    "width": 1132,
+    "height": 1600,
+    "source": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "creator": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D07-P03",
+    "title": "Gauhati University swamp location — undated pollen core",
+    "chapters": [
+      2,
+      4,
+      8
+    ],
+    "path": "visuals/pages/D07-page-03.jpg",
+    "thumbnail": "visuals/thumbnails/D07-page-03.jpg",
+    "document": "documents/D07.pdf",
+    "pdf_page": 3,
+    "source_id": "D07",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "© Palaeobotanical Society; no open reuse licence located. Publicly downloadable PDF is not blanket commercial image permission.",
+    "status": "downloaded",
+    "sha256": "e3e525ebdcf8877679f19ad0ab4b93af1f802d561cb4a06308cb77504b6832f7",
+    "width": 1209,
+    "height": 1600,
+    "source": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+    "creator": "Trivedi, Anjali; Phukan, Arnab; Nag, Anupam; Gogoi, Bikash; Dehingia, Panchanan; Rao, V. Sreenivasa; Harmukh, Neetu. 2025. Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India. Geophytology 55(1):45–54.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D07-P06",
+    "title": "Pollen frequency diagram — undated core",
+    "chapters": [
+      2,
+      8
+    ],
+    "path": "visuals/pages/D07-page-06.jpg",
+    "thumbnail": "visuals/thumbnails/D07-page-06.jpg",
+    "document": "documents/D07.pdf",
+    "pdf_page": 6,
+    "source_id": "D07",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "© Palaeobotanical Society; no open reuse licence located. Publicly downloadable PDF is not blanket commercial image permission.",
+    "status": "downloaded",
+    "sha256": "8e96eee9e61f89458a9b2c93759c6a8ba8358237f1e4859a24057cf1f15ebf8e",
+    "width": 1209,
+    "height": 1600,
+    "source": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+    "creator": "Trivedi, Anjali; Phukan, Arnab; Nag, Anupam; Gogoi, Bikash; Dehingia, Panchanan; Rao, V. Sreenivasa; Harmukh, Neetu. 2025. Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India. Geophytology 55(1):45–54.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D07-P07",
+    "title": "Pollen and spore micrographs",
+    "chapters": [
+      2,
+      4,
+      8
+    ],
+    "path": "visuals/pages/D07-page-07.jpg",
+    "thumbnail": "visuals/thumbnails/D07-page-07.jpg",
+    "document": "documents/D07.pdf",
+    "pdf_page": 7,
+    "source_id": "D07",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "© Palaeobotanical Society; no open reuse licence located. Publicly downloadable PDF is not blanket commercial image permission.",
+    "status": "downloaded",
+    "sha256": "78ccbc1b98862b2ca6d92e66dff229a0b642410fdac646c315f091e46e72465f",
+    "width": 1209,
+    "height": 1600,
+    "source": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+    "creator": "Trivedi, Anjali; Phukan, Arnab; Nag, Anupam; Gogoi, Bikash; Dehingia, Panchanan; Rao, V. Sreenivasa; Harmukh, Neetu. 2025. Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India. Geophytology 55(1):45–54.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D07-P09",
+    "title": "Comparison chronology — estimated, not independent dates",
+    "chapters": [
+      1,
+      2,
+      8
+    ],
+    "path": "visuals/pages/D07-page-09.jpg",
+    "thumbnail": "visuals/thumbnails/D07-page-09.jpg",
+    "document": "documents/D07.pdf",
+    "pdf_page": 9,
+    "source_id": "D07",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "© Palaeobotanical Society; no open reuse licence located. Publicly downloadable PDF is not blanket commercial image permission.",
+    "status": "downloaded",
+    "sha256": "a450025b0592ca6b37c85876b7ddaeb0938391d15c06563be2ad2b6eba78b347",
+    "width": 1209,
+    "height": 1600,
+    "source": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+    "creator": "Trivedi, Anjali; Phukan, Arnab; Nag, Anupam; Gogoi, Bikash; Dehingia, Panchanan; Rao, V. Sreenivasa; Harmukh, Neetu. 2025. Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India. Geophytology 55(1):45–54.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P02",
+    "title": "Regional map — historical 1977 boundaries",
+    "chapters": [
+      2,
+      9
+    ],
+    "path": "visuals/pages/D10-page-02.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-02.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 2,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "3f8048dce44afd056460b14d9a092e2d8d3554721c33eedb1ab77710ec63f319",
+    "width": 949,
+    "height": 1600,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P05",
+    "title": "Khasi potters and regional monoliths — mixed ethnographic comparison",
+    "chapters": [
+      7,
+      10
+    ],
+    "path": "visuals/pages/D10-page-05.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-05.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 5,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "ef8aaea432a16b277f19896eee7200c8df8852488ec4792c5dc17508582caa8a",
+    "width": 948,
+    "height": 1600,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P06",
+    "title": "Sarutaru celts and Marakdola site and pottery in situ",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D10-page-06.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-06.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 6,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "4f7853c50d7bd3a0b82434be5a2d5761f5a32dcb6cfbe19b720d96c6364925a6",
+    "width": 950,
+    "height": 1600,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P07",
+    "title": "Sarutaru stratigraphic section",
+    "chapters": [
+      1,
+      6
+    ],
+    "path": "visuals/pages/D10-page-07.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-07.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 7,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "8cd529dfbd8e74488356e4d8fd1a338421e9a366bab0617508849f314ec507df",
+    "width": 949,
+    "height": 1600,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P08",
+    "title": "Sarutaru celts — figure 3",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D10-page-08.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-08.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 8,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "260b6af511d95c604c9808f9833b2b03891b3bd7eeb14084c3aa490f796aecec",
+    "width": 948,
+    "height": 1600,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P09",
+    "title": "Sarutaru cord-impressed pottery — figure 4",
+    "chapters": [
+      6,
+      7
+    ],
+    "path": "visuals/pages/D10-page-09.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-09.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 9,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "159b5189bb366f67efade83154f27a3e7a4057a942c402da17e6f9b0e9975288",
+    "width": 948,
+    "height": 1600,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P11",
+    "title": "Marakdola pottery — plate III",
+    "chapters": [
+      6,
+      7,
+      11
+    ],
+    "path": "visuals/pages/D10-page-11.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-11.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 11,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "8261ea286f6cb478b21b99af4cfe749d8fbbdcf2f2f096dfed9e0c88dd55516a",
+    "width": 1600,
+    "height": 950,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P12",
+    "title": "Marakdola stratigraphic section",
+    "chapters": [
+      1,
+      6,
+      11
+    ],
+    "path": "visuals/pages/D10-page-12.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-12.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 12,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "4760babaa96d45ad05f727417139cd107e24b845436ec76f38b984dd3364210b",
+    "width": 948,
+    "height": 1600,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  },
+  {
+    "id": "D10-P13",
+    "title": "Marakdola pottery drawings — figure 6",
+    "chapters": [
+      6,
+      7,
+      11
+    ],
+    "path": "visuals/pages/D10-page-13.jpg",
+    "thumbnail": "visuals/thumbnails/D10-page-13.jpg",
+    "document": "documents/D10.pdf",
+    "pdf_page": 13,
+    "source_id": "D10",
+    "kind": "Report page",
+    "scope": "Original source page; includes surrounding text. Date and attribution follow source, not modern photograph appearance.",
+    "rights": "Research reference; reproduction permission unverified.",
+    "status": "downloaded",
+    "sha256": "18476873397ac7d4dade01773a9ccc012a84ebc1d3ee85c67ba4835e27c4d093",
+    "width": 948,
+    "height": 1600,
+    "source": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "creator": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "date": "Publication date in source record; page image is a document facsimile",
+    "publication_ready": false
+  }
+]

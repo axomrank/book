@@ -40,3 +40,9 @@ No source-verified maps, genealogical plates, object photographs or publication 
 ## Continue the work
 
 Begin with acquisition and source comparison in the research log, then develop Chapters 6–9 from individual reign dossiers. Preserve claim IDs and competing readings. Expand Chapters 10–15 through neighbouring-state and community evidence. Build Chapter 16 from an enlarged diplomatic register. Edit the individual chapter files and regenerate the combined manuscript after changes.
+
+## Dedicated volume plan
+
+- [Volume I chapter briefs](BOOK_PLAN.md): Chapters 1–16.
+- [Structured Volume I outline](chapter_plan.json).
+- [All three volume folders](../README.md).

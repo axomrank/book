@@ -1,0 +1,728 @@
+[
+  {
+    "id": "ARCH-01",
+    "title": "Excavations at Sarutaru: A Neolithic Site in Assam",
+    "authors": [
+      "S. N. Rao"
+    ],
+    "year": 1977,
+    "publication": "Man and Environment 1:39–43 (printed page 43 confirmed in scan)",
+    "source_type": "Original excavation report hosted by IGNCA",
+    "url": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "download_url": "https://ignca.gov.in/Asi_data/61362.pdf",
+    "consulted_locator": "Man and Environment 1 (1977):39–43; PDF pages 48–52.",
+    "geographic_scope": "Present-day Assam evidence; Shillong plateau setting does not mean the site is necessarily in present Meghalaya.",
+    "conflicts": [
+      "Later reconnaissance papers sometimes say 1971–74; use original report dates provisionally and verify season records.",
+      "Indexed rainfall figures in this old report appear implausible if understood as annual mm; do not reuse them without original units and modern meteorological checking."
+    ],
+    "visual_assets": [],
+    "research_gap": "Close-read pages 40–42; compare with Rao’s separate Asian Perspectives article and season records.",
+    "chapters": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
+    ],
+    "summary": "Rao reports excavation during 1967–73 under Dibrugarh University's Anthropology department. The report places Sarutaru approximately 25 km southeast of Guwahati, on a small hillock at the Shillong plateau/Brahmaputra plain margin, with the Digaru river on the northern side. Rao distinguishes stratified Daojali Hading finds from earlier surface or household collections of celts.",
+    "limitations": "Later reconnaissance papers sometimes say 1971–74; use original report dates provisionally and verify season records. Indexed rainfall figures in this old report appear implausible if understood as annual mm; do not reuse them without original units and modern meteorological checking.",
+    "read_scope": "Scan opening p.39 and illustrations p.43 inspected directly; PDF pages 48 and 52. Remaining report pages retained for close reading.",
+    "citation": "S. N. Rao (1977). Excavations at Sarutaru: A Neolithic Site in Assam. Man and Environment 1:39–43.",
+    "document_id": "D03",
+    "download_status": "downloaded",
+    "local_path": "documents/D03.pdf",
+    "download_error": null,
+    "sha256": "9cee04734ae94627ae318863bab1c75984d4622a31b5757591ca1f8b2e1fafc0",
+    "rights": "Reproduction permission unverified; research reference only"
+  },
+  {
+    "id": "ARCH-02",
+    "title": "Luminescence Dating of Neolithic Pottery in North East India",
+    "authors": [
+      "Sukanya Sharma",
+      "Pankaj Singh"
+    ],
+    "year": 2017,
+    "publication": "Current Science 113(3):492–496; 10 August 2017",
+    "doi": "10.18520/cs/v113/i03/492-496",
+    "url": "https://doi.org/10.18520/cs/v113/i03/492-496",
+    "candidate_download_url": "https://www.currentscience.ac.in/Volumes/113/03/0492.pdf",
+    "author_abstract_url": "https://www.researchgate.net/publication/319245942_Luminescence_Dating_of_Neolithic_Pottery_in_North_East_India",
+    "institutional_confirmation_url": "https://www.iitg.ac.in/hss/faculty_page_profile.php?name=ZHBEc1ZCamJaQlJPcnZaTmlZWGpEQT09",
+    "consulted_locator": "Printed pp.492–496; Table 1 p.493; Figure 3 p.495.",
+    "visual_assets": [],
+    "conflicts": [
+      "An indexed IITG thesis Table 1.3 puts 2.7 ± 0.3 ka under a 14C heading. Do not inherit that mislabel.",
+      "Do not silently convert ka to an exact BCE date until the study's reference year and reporting conventions are checked."
+    ],
+    "research_gap": "Review complete sample archive chain, reference epoch and independent dating; compare with new fieldwork. Full PDF now acquired.",
+    "chapters": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
+    ],
+    "summary": "Authors report OSL dating of excavated pottery: Daojali Hading sample LD1728 gives 2.7 ± 0.3 ka; Gawak Abri LD1727 gives 2.3 ± 0.2 ka. These are pottery luminescence estimates, not radiocarbon dates or proof of the earliest arrival of humans. Daojali Hading is in Dima Hasao, Assam; Gawak Abri is a Meghalaya comparison.",
+    "limitations": "An indexed IITG thesis Table 1.3 puts 2.7 ± 0.3 ka under a 14C heading. Do not inherit that mislabel. Do not silently convert ka to an exact BCE date until the study's reference year and reporting conventions are checked.",
+    "read_scope": "Downloaded full paper; abstract, method paragraphs, Table 1 and figure captions reviewed.",
+    "citation": "Sukanya Sharma, Pankaj Singh (2017). Luminescence Dating of Neolithic Pottery in North East India. Current Science 113(3):492–496; 10 August 2017",
+    "document_id": "D01",
+    "download_status": "downloaded",
+    "local_path": "documents/D01.pdf",
+    "download_error": null,
+    "sha256": "5130570056f4eb156b3a1b04e845b83695022f6cca6b4d973c101773bb473cda",
+    "rights": "Reproduction permission unverified; research reference only"
+  },
+  {
+    "id": "ARCH-03",
+    "title": "AMS 14C Dating of the Sites of Digaru-Kolong River Valley, Assam-Meghalaya Foothills, India",
+    "authors": [
+      "Jitendra Kumar",
+      "Sukanya Sharma",
+      "Rajveer Sharma",
+      "Sundeep Chopra"
+    ],
+    "year": 2024,
+    "publication": "Radiocarbon 66(4):664–675; online 8 October 2024",
+    "doi": "10.1017/RDC.2024.93",
+    "url": "https://www.cambridge.org/core/journals/radiocarbon/article/abs/ams-14c-dating-of-the-sites-of-digarukolong-river-valley-assammeghalaya-foothills-india/CFF69C36FDB47769F07729532A0D87CB",
+    "consulted_locator": "Abstract; supplementary material link listed, not downloaded",
+    "geographic_scope": "Assam-Meghalaya foothill study; individual dated sites cannot be assigned to Assam without full sample table and site coordinates.",
+    "conflicts": [
+      "Tool form and cord marking alone cannot securely establish a prehistoric calendar age. The date range cannot be transferred to Sarutaru, Marakdola or Daojali without sample-level proof."
+    ],
+    "visual_assets": [],
+    "research_gap": "Acquire sample table, calibration results, laboratory IDs, stratigraphy, site coordinates and supplementary data before using calendar ranges in a chapter.",
+    "chapters": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
+    ],
+    "summary": "Study analyzes seven charcoal samples, five potsherds and five sediment samples from test pits. Publisher abstract reports approximately 240–1379 CE for the analyzed material, despite Neolithic classification of a nearby reported site. Ground/polished axes, pottery and megaliths occur in the archaeological record of the valley.",
+    "limitations": "Tool form and cord marking alone cannot securely establish a prehistoric calendar age. The date range cannot be transferred to Sarutaru, Marakdola or Daojali without sample-level proof.",
+    "read_scope": "Publisher abstract, metadata and reference list consulted; full article access restricted",
+    "citation": "Jitendra Kumar, Sukanya Sharma, Rajveer Sharma, Sundeep Chopra (2024). AMS 14C Dating of the Sites of Digaru-Kolong River Valley, Assam-Meghalaya Foothills, India. Radiocarbon 66(4):664–675; online 8 October 2024",
+    "document_id": null,
+    "rights": "Reproduction permission unverified; research reference only"
+  },
+  {
+    "id": "ARCH-04",
+    "title": "Archaeology of the Digaru-Kolong River Valley with Special Emphasis on the Neolithic Period",
+    "authors": [
+      "Jitendra Kumar"
+    ],
+    "year": 2023,
+    "publication": "PhD thesis, IIT Guwahati; TH-2997_156141011",
+    "url": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "download_url": "https://gyan.iitg.ac.in/bitstreams/bdf44f07-e5c5-42a4-8b35-ae4e8d12fd9f/download",
+    "consulted_locator": "Printed pp.40–44 (PDF pages 60–64); plates p.218,225,233,240 (PDF pages 238,245,253,260).",
+    "visual_assets": [
+      {
+        "description": "Marakdola menhirs used for relocation",
+        "locator": "Figures 2.2 and 2.3, indexed page 41; images not visually inspected",
+        "rights": "No reusable licence verified; research reference only"
+      }
+    ],
+    "conflicts": [
+      "Table 1.3's indexed 14C heading contains a pottery OSL date. Trace every date to original publication."
+    ],
+    "research_gap": "Full thesis now acquired. Review laboratory/sample tables and stratigraphic associations before dating pictured finds.",
+    "chapters": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
+    ],
+    "summary": "The study area lies in the Meghalaya plateau foothills; Sarutaru and Marakdola are its previously excavated sites. Indexed fieldwork passage says Marakdola, now Morogdula, was relocated using menhirs, but the old Sarutaru excavation spot remained untraceable. Modern roads, factories and residential development complicate relocation.",
+    "limitations": "Table 1.3's indexed 14C heading contains a pottery OSL date. Trace every date to original publication.",
+    "read_scope": "Thesis downloaded; relocation discussion pp.40–44 and specified figure/plate captions reviewed; other chapters not yet closely reviewed.",
+    "citation": "Jitendra Kumar (2023). Archaeology of the Digaru-Kolong River Valley with Special Emphasis on the Neolithic Period. PhD thesis, IIT Guwahati; TH-2997_156141011",
+    "document_id": "D04",
+    "download_status": "downloaded",
+    "local_path": "documents/D04.pdf",
+    "sha256": "bbf67be279882e74d9e74235c3fb6bacb4256397c9ca78170f77f8f34a956013",
+    "rights": "Reproduction permission unverified; research reference only"
+  },
+  {
+    "id": "ARCH-05",
+    "title": "Preliminary Explorations in the Karbi Langpi Valley, Karbi Anglong District, Assam with Special Emphasis on the Ceramics",
+    "authors": [
+      "Nisha Rani Das"
+    ],
+    "year": 2019,
+    "publication": "Heritage: Journal of Multidisciplinary Studies in Archaeology 7:670–678",
+    "url": "https://www.heritageuniversityofkerala.com/JournalPDF/Volume7/43.pdf",
+    "download_url": "https://www.heritageuniversityofkerala.com/JournalPDF/Volume7/43.pdf",
+    "consulted_locator": "Methods p.671; Figures 1–6 pp.672–675; discussion pp.676–677.",
+    "visual_assets": [
+      {
+        "description": "Explored-site map",
+        "locator": "Figure 1, printed p.672, PDF page 3",
+        "rights": "Google Earth credited; reuse rights not verified"
+      },
+      {
+        "description": "Bichikkri potsherds",
+        "locator": "Figure 2, p.673, PDF page 4",
+        "rights": "After Senar 2016; nested credit requires permission checking"
+      },
+      {
+        "description": "Kekang-Adong potsherds, rim sherds and decorated body sherds",
+        "locator": "Figures 3–5, p.674, PDF page 5",
+        "rights": "No open reuse licence verified"
+      },
+      {
+        "description": "Langmet potsherds",
+        "locator": "Figure 6, p.675, PDF page 6",
+        "rights": "No open reuse licence verified"
+      }
+    ],
+    "conflicts": [
+      "Its secondary description combines Sarutaru and Marakdola pottery manufacture; verify each separately against Rao's primary report."
+    ],
+    "research_gap": "Obtain independent stratified dates; avoid turning surface ceramic parallels into secure prehistoric occupation.",
+    "chapters": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
+    ],
+    "summary": "Author reports surface exploration of Bichikkri, Kekang-Adong and Langmet in western Karbi Anglong. Pottery similarities span Neolithic, early historic and medieval assemblages; chronology from fabric and decoration is difficult. Early historic assignment is comparative and provisional; locally reported stone tools at Kekang-Adong were not found during this survey.",
+    "limitations": "Its secondary description combines Sarutaru and Marakdola pottery manufacture; verify each separately against Rao's primary report.",
+    "read_scope": "All nine pages extracted; methods and ceramic comparison reviewed; page previews rendered.",
+    "citation": "Nisha Rani Das (2019). Preliminary Explorations in the Karbi Langpi Valley, Karbi Anglong District, Assam with Special Emphasis on the Ceramics. Heritage: Journal of Multidisciplinary Studies in Archaeology 7:670–678",
+    "document_id": "D02",
+    "download_status": "downloaded",
+    "local_path": "documents/D02.pdf",
+    "download_error": null,
+    "sha256": "b783e50825f550ee8a6a7643295059b17a7c1755ad5550daf2944fc3324453e9",
+    "rights": "Reproduction permission unverified; research reference only"
+  },
+  {
+    "id": "ARCH-06",
+    "title": "Ambari Archaeological Site",
+    "authors": [
+      "Archaeological Survey of India, Guwahati Circle"
+    ],
+    "year": null,
+    "url": "https://asiguwahaticircle.gov.in/excavation8.html",
+    "consulted_locator": "Site narrative lines 59–68 in web extraction, particularly 2008–09 findings",
+    "geographic_scope": "Guwahati, Assam; historical contextual bridge rather than prehistoric evidence",
+    "visual_assets": [
+      {
+        "description": "Ambari excavation photograph",
+        "url": "https://asiguwahaticircle.gov.in/images/ambariexcavation.JPG",
+        "locator": "First site image, link 19",
+        "rights": "Official publicly accessible image; no open reuse licence verified"
+      },
+      {
+        "description": "Second Ambari excavation photograph",
+        "url": "https://asiguwahaticircle.gov.in/images/ambariexcavation2.jpg",
+        "locator": "Second site image, link 20",
+        "rights": "Official publicly accessible image; no open reuse licence verified"
+      }
+    ],
+    "conflicts": [
+      "Assam Directorate protected-sites page gives discovery in 1968 and urban phase beginning BCE 200. Compare seasonal excavation reports before resolving chronology.",
+      "Arretine/Rouletted labels must be verified against ceramic analysis; avoid asserting actual Roman trade solely from webpage terminology."
+    ],
+    "research_gap": "Read the 2008–09 primary excavation report and older Ambari interim reports; determine which dates are stratified, scientific or typological.",
+    "chapters": [
+      11
+    ],
+    "summary": "ASI dates accidental discovery to 1969 and describes excavation between 1970 and 2003. Its joint 2008–09 excavation with Assam Directorate found brick steps leading to a tank, floors and hearths. Page reports earlier Sunga-Kushana-period cultural findings and several ceramic types, while also retaining the older medieval two-period scheme.",
+    "limitations": "Assam Directorate protected-sites page gives discovery in 1968 and urban phase beginning BCE 200. Compare seasonal excavation reports before resolving chronology. Arretine/Rouletted labels must be verified against ceramic analysis; avoid asserting actual Roman trade solely from webpage terminology.",
+    "read_scope": "Official full page extracted",
+    "citation": "Archaeological Survey of India, Guwahati Circle (undated). Ambari Archaeological Site. ",
+    "document_id": null,
+    "rights": "Reproduction permission unverified; research reference only"
+  },
+  {
+    "id": "ARCH-07",
+    "title": "Indian Archaeology 1966–67 — A Review",
+    "authors": [
+      "M. N. Deshpande, editor",
+      "Archaeological Survey of India"
+    ],
+    "year": 1975,
+    "field_season": "1966–67",
+    "url": "https://nmma.nic.in/nmma/NAS1/nmma_doc/IAR/Indian%20Archaeology%201966-67%20A%20Review.pdf",
+    "download_url": "https://nmma.nic.in/nmma/NAS1/nmma_doc/IAR/Indian%20Archaeology%201966-67%20A%20Review.pdf",
+    "consulted_locator": "Explorations and Excavations, ASSAM, section 7: Exploration in District Garo Hills; figure 1 mentioned in excerpt",
+    "geographic_scope": "Historical Assam administrative label; Garo Hills are in present Meghalaya. Use strictly as neighbouring regional comparison.",
+    "visual_assets": [
+      {
+        "description": "Reported chopper-like stone tools",
+        "locator": "Figure 1; exact printed/PDF page not verified",
+        "rights": "ASI publication; reuse licence unverified"
+      }
+    ],
+    "research_gap": "Confirm site name, geological context and absolute chronology before presenting this as early human evidence.",
+    "chapters": [
+      3,
+      4
+    ],
+    "summary": "Gauhati University researchers M. C. Goswami and T. C. Sharma explored central and northern Garo Hills. Report describes stone tools resembling palaeolithic choppers and scrapers; resemblance is a typological observation.",
+    "limitations": "",
+    "read_scope": "Indexed report cover and section 7 consulted; full fetch timed out",
+    "citation": "M. N. Deshpande, editor, Archaeological Survey of India (1975). Indian Archaeology 1966–67 — A Review. ",
+    "document_id": "D11",
+    "download_status": "failed",
+    "local_path": null,
+    "download_error": "<urlopen error timed out>",
+    "sha256": null,
+    "rights": "Reproduction permission unverified; research reference only"
+  },
+  {
+    "id": "ENV01",
+    "citation": "Pandey, Arya; Tripathi, Swati; Singh, Hema. 2026. Reconstructing mid–late Holocene ecosystem dynamics in the Upper Brahmaputra Valley of Assam, Northeast India, using non-pollen palynomorphs (NPPs). Journal of the Palaeontological Society of India 71(1):191–206.",
+    "doi": "10.1177/05529360251409913",
+    "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913",
+    "download_url": "https://journals.sagepub.com/doi/pdf/10.1177/05529360251409913",
+    "read_scope": "Full HTML: abstract, study site, methods/chronology, zone results, rights.",
+    "locators": [
+      "Abstract",
+      "Materials and methods: NPP extraction and chronology of sediment samples",
+      "NPP Zone I (150–100 cm, 4,040–2,260 cal yrs BP)",
+      "Rights and permissions"
+    ],
+    "summary": "A 1.5 m Sakali wetland sequence contains 34 NPP types. Five bulk sediment radiocarbon samples underpin an IntCal20/Bacon age model spanning roughly 4,100 calibrated years. The earliest zone is interpreted as warm/humid with woody vegetation. Grazing and agriculture proxies intensify particularly within the last 500 years; these cannot establish prehistoric rice domestication.",
+    "chapters": [
+      2,
+      4,
+      8,
+      12
+    ],
+    "limitations": "Environmental proxy archive, not an excavated settlement. Bulk sediment dating requires scrutiny for reworking/reservoir effects. Modern Majuli island geometry must not be projected unchanged into prehistory. NPP indicators are ecological inferences, not crop identification.",
+    "visuals": [
+      {
+        "figure": 1,
+        "description": "Assam DEM/location of Majuli",
+        "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913#fig1"
+      },
+      {
+        "figure": 2,
+        "description": "Sakali wetland study-area representation",
+        "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913#fig2"
+      },
+      {
+        "figure": 3,
+        "description": "NPP abundance diagram across sediment samples",
+        "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913#fig3"
+      },
+      {
+        "figure": 4,
+        "description": "NPP micrographs",
+        "url": "https://journals.sagepub.com/doi/10.1177/05529360251409913#fig4"
+      }
+    ],
+    "rights": "CC BY-NC 4.0 explicitly stated; noncommercial research library with attribution is permitted, commercial book reuse needs permission. Figure click media requests failed in web tool.",
+    "title": "Pandey, Arya; Tripathi, Swati; Singh, Hema. 2026. Reconstructing mid–late Holocene ecosystem dynamics in the Upper Brahmaputra Valley of Assam, Northeast India, using non-pollen palynomorphs (NPPs). Journal of the Palaeontological Society of India 71(1):191–206.",
+    "document_id": "D08",
+    "download_status": "failed",
+    "local_path": null,
+    "download_error": "HTTP Error 403: Forbidden",
+    "sha256": null
+  },
+  {
+    "id": "ENV02",
+    "citation": "Trivedi, Anjali; Phukan, Arnab; Nag, Anupam; Gogoi, Bikash; Dehingia, Panchanan; Rao, V. Sreenivasa; Harmukh, Neetu. 2025. Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India. Geophytology 55(1):45–54.",
+    "url": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+    "download_url": "https://palaeobotanicalsociety.org/geophytology/vol55_1_2025/4.%20Trivedi%20et%20al.pdf",
+    "read_scope": "PDF text, pp.45–52 including methods and chronology caveat.",
+    "locators": [
+      "p.46 paragraph beginning The present study",
+      "p.47 Materials and methods",
+      "p.49 Discussion",
+      "p.50 agricultural interpretation"
+    ],
+    "summary": "A 50 cm swamp core from Gauhati University yielded ten analysed samples and three pollen zones. Authors explicitly obtained no absolute dates and infer relative chronology through nearby archives. Cerealia and other pollen support their local agricultural interpretation, but cannot provide a securely dated prehistoric cultivation horizon.",
+    "chapters": [
+      2,
+      4,
+      8,
+      12
+    ],
+    "limitations": "Undated core. Holocene title does not independently date each horizon. Cerealia is not a species-level identification of cultivated rice.",
+    "visuals": [
+      {
+        "figure": 1,
+        "page": 47,
+        "description": "DEM locating Gauhati University swamp"
+      },
+      {
+        "figure": 2,
+        "page": 50,
+        "description": "Pollen frequency chart"
+      },
+      {
+        "figure": 3,
+        "page": 51,
+        "description": "Pollen and spores micrographs"
+      },
+      {
+        "figure": 4,
+        "page": 53,
+        "description": "Comparison chronology; estimated chronology must be labelled"
+      }
+    ],
+    "rights": "© Palaeobotanical Society; no open reuse licence located. Publicly downloadable PDF is not blanket commercial image permission.",
+    "title": "Trivedi, Anjali; Phukan, Arnab; Nag, Anupam; Gogoi, Bikash; Dehingia, Panchanan; Rao, V. Sreenivasa; Harmukh, Neetu. 2025. Holocene vegetation dynamics and climate variability inferred from pollen records from Northeast India. Geophytology 55(1):45–54.",
+    "document_id": "D07",
+    "download_status": "downloaded",
+    "local_path": "documents/D07.pdf",
+    "download_error": null,
+    "sha256": "d5d6c7a3cdc649b7a67fb44b2f3589a6daf18887e597c71b435ce348545d2b94"
+  },
+  {
+    "id": "ENV03",
+    "citation": "Dixit, Swati; Bera, S. K. 2012. Holocene climatic fluctuations from Lower Brahmaputra flood plain of Assam, northeast India. Journal of Earth System Science 121(1):135–147.",
+    "doi": "10.1007/s12040-012-0150-5",
+    "url": "https://link.springer.com/article/10.1007/s12040-012-0150-5",
+    "download_url": "https://www.bsip.res.in/old/apar/Dr%20Samir%20K%20Bera%2C%20Scientist%20%27E%27.pdf",
+    "read_scope": "Publisher abstract read; BSIP PDF search-indexed but fetch failed. Full article chronology/methods NOT read.",
+    "locators": [
+      "Publisher abstract"
+    ],
+    "summary": "The Dabaka Swamp 3.2 m core is interpreted as alternating fluvial and vegetation phases from 14,120 cal BP, including cool/dry conditions around the Younger Dryas and mixed deciduous forest later. The abstract links post-768 cal BP vegetation disturbance to settlement. Obtain full methods and dating table before treating phase boundaries as verified.",
+    "chapters": [
+      2,
+      4,
+      8,
+      12
+    ],
+    "limitations": "Only abstract verified. Early Cerealia claims visible in secondary citations require primary full-text review; no dated rice macroremain has been verified here.",
+    "visuals": [
+      {
+        "description": "Potential core profile, pollen diagram and dating table in full article; figure identifiers not inspected"
+      }
+    ],
+    "rights": "Indian Academy of Sciences copyright indicated in indexed PDF; verify actual permission.",
+    "title": "Dixit, Swati; Bera, S. K. 2012. Holocene climatic fluctuations from Lower Brahmaputra flood plain of Assam, northeast India. Journal of Earth System Science 121(1):135–147.",
+    "document_id": "D09",
+    "download_status": "failed",
+    "local_path": null,
+    "download_error": "HTTP Error 403: Forbidden",
+    "sha256": null
+  },
+  {
+    "id": "BUR01",
+    "citation": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "doi": "10.12766/jna.2019S.11",
+    "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/192",
+    "download_url": "https://www.jna.uni-kiel.de/index.php/jna/article/download/192/325/1576",
+    "read_scope": "PDF downloaded; introduction and chronological discussion reviewed; Figures 1–11 located.",
+    "locators": [
+      "Landing-page Abstract",
+      "Search-indexed PDF p.160 Discussion and conclusion, NOT full-page visual inspection"
+    ],
+    "summary": "The field overview reports renewed examinations in 2014/2016 and comparisons with Laos. Its p.160 extract acknowledges unresolved dating and iron associations. Similar jar morphology is a comparative lead, not a measured Assam chronology or proof of one migration.",
+    "chapters": [
+      9,
+      10,
+      12
+    ],
+    "limitations": "Landing abstract says first reported 1932; 2022 paper cites Mills/Hutton 1929. Distinguish discovery date, reporting date and re-publication. Do not infer Assam jar date from Laos dates or identify ancient makers using modern communities.",
+    "visuals": [
+      {
+        "figure": 11,
+        "page": 160,
+        "description": "Engraved human figure on stone slab; identified via indexed caption, full visual not inspected"
+      }
+    ],
+    "rights": "No explicit figure reuse license verified from downloaded PDF or landing page. Research reference; permission check remains.",
+    "title": "Thakuria, Tilok. 2019. Stone Jars of Assam, North East India: A Comprehensive Overview. Journal of Neolithic Archaeology special issue:151–162.",
+    "document_id": "D06",
+    "download_status": "downloaded",
+    "local_path": "documents/D06.pdf",
+    "download_error": null,
+    "sha256": "017c4e5464dbe6ef280a1efe7efbfe53ea1d6b02a9c60e5ab909b1db23b25e57",
+    "consulted_locator": "Printed pp.151–162; discussion p.160; figures pp.154–160."
+  },
+  {
+    "id": "BUR02",
+    "citation": "Thakuria, Tilok; Bathari, Uttam; Skopal, Nicholas. 2022. An archaeological survey of the Assam stone jar sites. Asian Archaeology 5:41–50.",
+    "doi": "10.1007/s41826-022-00043-3",
+    "url": "https://link.springer.com/article/10.1007/s41826-022-00043-3",
+    "download_url": null,
+    "read_scope": "Publisher abstract, bibliography and figure links inspected. Main text subscription restricted.",
+    "locators": [
+      "Abstract",
+      "Figures 1–10 link list",
+      "References: Mills/Hutton; Thakuria/Jamir/Chauley 2016"
+    ],
+    "summary": "The 2020 Dima Hasao survey recorded four previously unreported jar sites, bringing the reported total to eleven, ten geolocated. This is documentation evidence. The accessible abstract provides no scientific dating result or burial excavation result.",
+    "chapters": [
+      9,
+      10,
+      12
+    ],
+    "limitations": "Cannot claim full text verified. Geolocation precision is archaeological context, not cultural identity. Burial interpretation needs excavated remains and association.",
+    "visuals": [
+      {
+        "figure": 3,
+        "description": "Publisher figure image accessible, caption not provided in abstract page; inspect before description",
+        "url": "https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs41826-022-00043-3/MediaObjects/41826_2022_43_Fig3_HTML.png"
+      }
+    ],
+    "rights": "Publisher reprints/permissions link; no OA licence shown. Keep as permission-required candidate.",
+    "title": "Thakuria, Tilok; Bathari, Uttam; Skopal, Nicholas. 2022. An archaeological survey of the Assam stone jar sites. Asian Archaeology 5:41–50.",
+    "document_id": null
+  },
+  {
+    "id": "BUR03",
+    "citation": "Mitri, Marco; Jamir, Tiatoshi; Mepusangba; Syiemlieh, Hiambok; Darnei, Lanthanmuani; Thakuria, Tilok; Kharpuri, Larilin. 2022. Recent research on the stone jars of Northeast India: Evidence from East Jaintia Hills of Meghalaya. Archaeological Research in Asia 31:100393.",
+    "doi": "10.1016/j.ara.2022.100393",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2352226722000447",
+    "download_url": null,
+    "read_scope": "Publisher abstract and introductory extract read via search result, not full article.",
+    "locators": [
+      "Abstract",
+      "Introduction extract"
+    ],
+    "summary": "Documents stone jars in Saipung, East Jaintia Hills. The historical salt-network connection is Colani's speculation, and earlier uses proposed for Assam included grinding or storage. Such interpretive variation is useful to show uncertainty rather than assert confirmed funerary function everywhere.",
+    "chapters": [
+      9,
+      10,
+      12
+    ],
+    "limitations": "Regional comparison in Meghalaya, not Assam excavation dates. Full methods/figures restricted; verify association and reuse rights before further claims.",
+    "visuals": [],
+    "rights": "Elsevier permissions; no open licence verified.",
+    "title": "Mitri, Marco; Jamir, Tiatoshi; Mepusangba; Syiemlieh, Hiambok; Darnei, Lanthanmuani; Thakuria, Tilok; Kharpuri, Larilin. 2022. Recent research on the stone jars of Northeast India: Evidence from East Jaintia Hills of Meghalaya. Archaeological Research in Asia 31:100393.",
+    "document_id": null
+  },
+  {
+    "id": "RIV01",
+    "citation": "Pickering, Jennifer Lynne. 2013. Late Quaternary Sedimentary Record of Holocene Channel Avulsions of the Brahmaputra River in the Upper Bengal Delta Plain. Vanderbilt University thesis.",
+    "url": "https://ir.vanderbilt.edu/items/038f6133-bd8f-4c5d-93c8-cb33c0adb6d1",
+    "download_url": null,
+    "read_scope": "Institutional repository abstract read; downloadable pickering.pdf 25.89 MB listed but direct URL not resolved.",
+    "locators": [
+      "Repository abstract"
+    ],
+    "summary": "Forty-one boreholes along a 120 km transect distinguish Brahmaputra-Jamuna and Old Brahmaputra paleovalleys and infer repeated avulsions. This is downstream Bengal delta evidence. It illustrates river mobility methods but cannot date channel changes at an Assam settlement.",
+    "chapters": [
+      2,
+      4,
+      12
+    ],
+    "limitations": "Explicit regional comparison: Upper Bengal Delta Plain, not Assam. Full thesis not read.",
+    "visuals": [],
+    "rights": "Thesis repository access does not establish commercial figure reuse.",
+    "title": "Pickering, Jennifer Lynne. 2013. Late Quaternary Sedimentary Record of Holocene Channel Avulsions of the Brahmaputra River in the Upper Bengal Delta Plain. Vanderbilt University thesis.",
+    "document_id": null
+  },
+  {
+    "id": "ARCH-08",
+    "title": "Continuity and Survival of Neolithic Traditions in Northeastern India",
+    "citation": "S. N. Rao (1977). Asian Perspectives 20(2):191–205, with inserted plates.",
+    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ce6eadd8-52da-4d22-8aab-f733db9e7596/content",
+    "document_id": "D10",
+    "local_path": "documents/D10.pdf",
+    "download_status": "downloaded",
+    "sha256": "1dccdbee6adbad6875d98bdee046ebee4e672f2fc263b84d6eb47c36fb92a9f1",
+    "chapters": [
+      1,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "read_scope": "Selected full-text sections pp.195–200 reviewed; figures and plate captions located.",
+    "consulted_locator": "pp.195–198 Sarutaru; p.199 Marakdola section; plates I–III; figures 2–6.",
+    "summary": "Rao describes three Sarutaru trenches with celts and pottery in one cultural horizon, and two Marakdola trenches with ceramic deposits. Sarutaru vessels are described as handmade; Marakdola vessels include kaolin fabrics and wheel manufacture. The article reports fieldwork in 1971–74, differing from the Man and Environment report’s 1967–73.",
+    "limitations": "This is a 1977 interpretation. Modern community identity and contemporary shifting cultivation do not independently establish ancient makers or subsistence. No new scientific date should be inferred from illustrated types.",
+    "rights": "Research reference; reproduction permission unverified."
+  },
+  {
+    "id": "METH-01",
+    "title": "Radiocarbon Dating and Chronological Modelling: Guidelines and Best Practice",
+    "authors": [
+      "Alex Bayliss",
+      "Peter Marshall"
+    ],
+    "year": 2022,
+    "publication": "Historic England, London",
+    "url": "https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling",
+    "consulted_urls": [
+      "https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/radiocarbon-dating/",
+      "https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/the-bayesian-process/"
+    ],
+    "consulted_locator": "Sections 1.1,1.3,1.5 and 3.2.2–3.2.3",
+    "read_scope": "Online methods sections read, 11 October 2026",
+    "chapters": [
+      1
+    ],
+    "limitations": "General archaeological methods; not Assam chronological evidence",
+    "rights": "Paraphrased and cited; no figures reproduced"
+  },
+  {
+    "id": "NE02",
+    "title": "IGNCA / B. L. Malla (ed.), seminar brochure (2018)",
+    "source_type": "Primary report / selected passage review",
+    "url": "https://ignca.gov.in/invitations/10092018_National-Seminar-at-Manipur_Brochure.pdf",
+    "consulted_locator": "Concept note pp.7–8 (PDF 13–14); Padhan abstract p.17 (PDF 23)",
+    "read_scope": "abstract and selected passages checked",
+    "limitations": "Conference abstracts and a framing essay, not full excavation reports.",
+    "research_gap": "Conference abstracts and a framing essay, not full excavation reports.",
+    "chapters": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "accessed": "2026-10-11",
+    "local_path": "regional/documents/NE02.pdf",
+    "download_status": "downloaded",
+    "rights": "Research reference; inspect original licence and nested figure credits before publication"
+  },
+  {
+    "id": "NE09",
+    "title": "Tosabanta Padhan, Archaeological Investigations in the Ganol River Basin, West Garo Hills in Meghalaya (author-posted chapter, listed 2024)",
+    "source_type": "Primary report / selected passage review",
+    "url": "https://www.researchgate.net/publication/380215470_Archaeological_Investigations_in_the_Ganol_River_Basin_West_Garo_Hills_in_Meghalaya",
+    "consulted_locator": "Table 5.1; site descriptions; sections Lithic Technology, Palaeolithic Occupation and Garo Hills Assemblage, Conclusion; visible page labels XLVI–LIII",
+    "read_scope": "primary online passages checked",
+    "limitations": "Listed pagination and visible Roman page labels differ; original edition must be reconciled. Survey results do not prove absence of older occupation throughout the region.",
+    "research_gap": "Listed pagination and visible Roman page labels differ; original edition must be reconciled. Survey results do not prove absence of older occupation throughout the region.",
+    "chapters": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "accessed": "2026-10-11",
+    "local_path": null,
+    "download_status": "online passage consulted",
+    "rights": "Research reference; inspect original licence and nested figure credits before publication"
+  },
+  {
+    "id": "NE08",
+    "title": "Marco Mitri & Dhiraj Neog (2016), Preliminary Report on the Excavations of Neolithic sites from Khasi Hills Meghalaya, Ancient Asia 7:7, 1–17",
+    "source_type": "Primary report / selected passage review",
+    "url": "https://doi.org/10.5334/aa.119",
+    "consulted_locator": "pp.1–9; comparative analysis pp.9–16; notes and licence p.17",
+    "read_scope": "primary report checked",
+    "limitations": "Myrkhan upper layer undated (note 4). Table 1 arithmetic and BP/cal BP wording need original lab-record review. Ethnic continuity and migration are hypotheses.",
+    "research_gap": "Myrkhan upper layer undated (note 4). Table 1 arithmetic and BP/cal BP wording need original lab-record review. Ethnic continuity and migration are hypotheses.",
+    "chapters": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "accessed": "2026-10-11",
+    "local_path": "regional/documents/NE08.pdf",
+    "download_status": "downloaded",
+    "rights": "Research reference; inspect original licence and nested figure credits before publication"
+  },
+  {
+    "id": "NE07",
+    "title": "Amrita Sarkar & Lalhminghlua, Neolithic Reconsidered: Uncovering Uncharted Territories in Mizoram, India, Heritage 11.2 (2023–24):43–65",
+    "source_type": "Primary report / selected passage review",
+    "url": "https://www.heritageuniversityofkerala.com/JournalPDF/Volume11.2/3.pdf",
+    "consulted_locator": "pp.48–52 survey and celts; p.59 stratigraphic limitation; pp.55–56 contemporary pottery",
+    "read_scope": "primary survey passages checked",
+    "limitations": "Mostly solitary/surface finds. Modern feasting and pottery practices cannot date ancient deposits.",
+    "research_gap": "Mostly solitary/surface finds. Modern feasting and pottery practices cannot date ancient deposits.",
+    "chapters": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "accessed": "2026-10-11",
+    "local_path": "regional/documents/NE07.pdf",
+    "download_status": "downloaded",
+    "rights": "Research reference; inspect original licence and nested figure credits before publication"
+  },
+  {
+    "id": "NE10",
+    "title": "Jamir, Tetso & Venuh (2017), Recent Archaeological Investigation around the Naga Metamorphics and Ophiolite Belt of the Indo-Myanmar Border, pp.259–280",
+    "source_type": "Primary report / selected passage review",
+    "url": "https://www.researchgate.net/publication/319838386_Recent_Archaeological_Investigation_around_the_Naga_Metamorphics_and_Ophiolite_Belt_of_the_Indo-Myanmar_Border",
+    "consulted_locator": "pp.260–264 excavation; pp.274–278 fauna, dating, interpretation",
+    "read_scope": "primary online passages checked",
+    "limitations": "One dated ash context; full cave sequence needs more chronological controls. Published depth string is ambiguous; check original lab sheet.",
+    "research_gap": "One dated ash context; full cave sequence needs more chronological controls. Published depth string is ambiguous; check original lab sheet.",
+    "chapters": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "accessed": "2026-10-11",
+    "local_path": null,
+    "download_status": "online passage consulted",
+    "rights": "Research reference; inspect original licence and nested figure credits before publication"
+  },
+  {
+    "id": "NE05",
+    "title": "A. K. Sharma, Prehistoric Explorations in Sikkim, Puratattva 10, pp.82–83",
+    "source_type": "Primary report / selected passage review",
+    "url": "https://ignca.gov.in/Asi_data/68290.pdf",
+    "consulted_locator": "Printed pp.82–83 / PDF pp.93–94, visually read; title leaf PDF p.4",
+    "read_scope": "primary scan checked",
+    "limitations": "Title leaf labels volume 1978–79 but article reports 1980 fieldwork; publication date needs colophon check. Surface and household finds; no measured age reported in these pages. Migration-direction assertion is not adopted.",
+    "research_gap": "Title leaf labels volume 1978–79 but article reports 1980 fieldwork; publication date needs colophon check. Surface and household finds; no measured age reported in these pages. Migration-direction assertion is not adopted.",
+    "chapters": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "accessed": "2026-10-11",
+    "local_path": "regional/documents/NE05.pdf",
+    "download_status": "downloaded",
+    "rights": "Research reference; inspect original licence and nested figure credits before publication"
+  },
+  {
+    "id": "NE01",
+    "title": "V. Shivananda (2002), Recent Exploration in Meghalaya, Puratattva 32 (2001–2002):148–149",
+    "source_type": "Primary report / selected passage review",
+    "url": "https://ignca.gov.in/Asi_data/87125.pdf",
+    "consulted_locator": "Printed pp.148–149 / PDF pp.162–163 visually read; title and copyright leaves PDF pp.3–4",
+    "read_scope": "primary scan checked",
+    "limitations": "Barapani tool forms are typological claims without a measured age here. Summaries of earlier Garo Hills excavations require the original reports; absence of living megalithic practice at selected villages cannot be generalized.",
+    "research_gap": "Barapani tool forms are typological claims without a measured age here. Summaries of earlier Garo Hills excavations require the original reports; absence of living megalithic practice at selected villages cannot be generalized.",
+    "chapters": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "accessed": "2026-10-11",
+    "local_path": "regional/documents/NE01.pdf",
+    "download_status": "downloaded",
+    "rights": "Research reference; inspect original licence and nested figure credits before publication"
+  }
+]

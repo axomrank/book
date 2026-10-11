@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ARCH-04",
+    "title": "Archaeology of the Digaru-Kolong River Valley with Special Emphasis on the Neolithic Period",
+    "authors": [
+      "Jitendra Kumar"
+    ],
+    "year": 2023,
+    "publication": "PhD thesis, IIT Guwahati; TH-2997_156141011",
+    "url": "https://gyan.iitg.ac.in/items/912c8b53-91fb-4e92-80cc-51e77fe79f00",
+    "download_url": "https://gyan.iitg.ac.in/bitstreams/bdf44f07-e5c5-42a4-8b35-ae4e8d12fd9f/download",
+    "consulted_locator": "Printed pp.40–44 (PDF pages 60–64); plates p.218,225,233,240 (PDF pages 238,245,253,260).",
+    "visual_assets": [
+      {
+        "description": "Marakdola menhirs used for relocation",
+        "locator": "Figures 2.2 and 2.3, indexed page 41; images not visually inspected",
+        "rights": "No reusable licence verified; research reference only"
+      }
+    ],
+    "conflicts": [
+      "Table 1.3's indexed 14C heading contains a pottery OSL date. Trace every date to original publication."
+    ],
+    "research_gap": "Full thesis now acquired. Review laboratory/sample tables and stratigraphic associations before dating pictured finds.",
+    "chapters": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
+    ],
+    "summary": "The study area lies in the Meghalaya plateau foothills; Sarutaru and Marakdola are its previously excavated sites. Indexed fieldwork passage says Marakdola, now Morogdula, was relocated using menhirs, but the old Sarutaru excavation spot remained untraceable. Modern roads, factories and residential development complicate relocation.",
+    "limitations": "Table 1.3's indexed 14C heading contains a pottery OSL date. Trace every date to original publication.",
+    "read_scope": "Thesis downloaded; relocation discussion pp.40–44 and specified figure/plate captions reviewed; other chapters not yet closely reviewed.",
+    "citation": "Jitendra Kumar (2023). Archaeology of the Digaru-Kolong River Valley with Special Emphasis on the Neolithic Period. PhD thesis, IIT Guwahati; TH-2997_156141011",
+    "document_id": "D04",
+    "download_status": "downloaded",
+    "local_path": "documents/D04.pdf",
+    "sha256": "bbf67be279882e74d9e74235c3fb6bacb4256397c9ca78170f77f8f34a956013",
+    "rights": "Reproduction permission unverified; research reference only"
+  }
+]

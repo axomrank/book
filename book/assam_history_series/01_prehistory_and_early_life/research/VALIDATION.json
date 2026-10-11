@@ -1,0 +1,24 @@
+{
+  "checked_on": "2026-10-11",
+  "visual_assets": 44,
+  "source_records": 15,
+  "chapter_dossiers": 12,
+  "content_divisions": 60,
+  "errors": [],
+  "checks": [
+    "Original download SHA-256 hashes",
+    "Raster decoding",
+    "PDF file signatures",
+    "Thumbnail and full-document paths",
+    "HTML and CSS local dependencies",
+    "Chapter source references"
+  ],
+  "browser_checks_already_completed": [
+    "Gallery search",
+    "Image preview and close",
+    "Chapter filter",
+    "Source view filter",
+    "Twelve chapter listing",
+    "Expanded chapter content division"
+  ]
+}

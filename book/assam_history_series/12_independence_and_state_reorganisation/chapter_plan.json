@@ -1,0 +1,370 @@
+[
+  {
+    "id": "B12-C01",
+    "series_book": 12,
+    "number": 1,
+    "title": "Assam at Independence",
+    "period": "1947–1985",
+    "content": [
+      "Define province, state, and jurisdiction at the 1947 transition",
+      "Investigate institutions, leadership, and the new constitutional setting",
+      "Study refugee movement and the effects of Partition",
+      "Compare inherited infrastructure and social inequalities",
+      "Distinguish current state geography from the larger historical administration"
+    ],
+    "visual": "1947 jurisdiction map",
+    "status": "planned",
+    "division": "Independence, constitution, territory, and language",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C02",
+    "series_book": 12,
+    "number": 2,
+    "title": "Constitution, Autonomy, and Representation",
+    "period": "1947–1985",
+    "content": [
+      "Read constitutional provisions and Sixth Schedule histories",
+      "Study district councils and different autonomy arrangements",
+      "Investigate negotiations with hill and plains communities",
+      "Examine electoral representation and administrative institutions",
+      "Compare constitutional design with local practice"
+    ],
+    "visual": "Autonomy institution timeline",
+    "status": "planned",
+    "division": "Independence, constitution, territory, and language",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C03",
+    "series_book": 12,
+    "number": 3,
+    "title": "Reorganising the Northeast",
+    "period": "1947–1985",
+    "content": [
+      "Trace Nagaland and subsequent territorial changes through legal instruments",
+      "Differentiate autonomy, union-territory formation, and later statehood",
+      "Investigate Meghalaya, Mizoram, and NEFA administrative relationships precisely",
+      "Compare official maps, community demands, and legislative debates",
+      "Explain the shift from Shillong to Dispur with dated records"
+    ],
+    "visual": "Boundary and capital sequence",
+    "status": "planned",
+    "division": "Independence, constitution, territory, and language",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C04",
+    "series_book": 12,
+    "number": 4,
+    "title": "Language and Cultural Rights",
+    "period": "1947–1985",
+    "content": [
+      "Investigate official language legislation and implementation",
+      "Study Assamese, Bengali, Bodo, and other language claims",
+      "Examine Barak Valley protests and deaths through independent records",
+      "Compare education, administration, and regional language practice",
+      "Avoid framing the state as linguistically uniform"
+    ],
+    "visual": "Language-law and protest chronology",
+    "status": "planned",
+    "division": "Independence, constitution, territory, and language",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C05",
+    "series_book": 12,
+    "number": 5,
+    "title": "Planning, Industry, and Public Investment",
+    "period": "1947–1985",
+    "content": [
+      "Trace plans, budgets, and development institutions",
+      "Investigate refineries, industry, transport, and electricity projects",
+      "Distinguish sanctioned projects from completed and operating facilities",
+      "Compare investment with regional and household outcomes",
+      "Assess debates over extraction and economic benefit"
+    ],
+    "visual": "Project commissioning timeline",
+    "status": "planned",
+    "division": "Development, livelihoods, plantations, and social services",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C06",
+    "series_book": 12,
+    "number": 6,
+    "title": "Agriculture, Land, and Rural Change",
+    "period": "1947–1985",
+    "content": [
+      "Study land reform, tenancy, and access to commons",
+      "Investigate floodplain farming and char settlement",
+      "Examine tribal belts and blocks through legal and local records",
+      "Compare crops, irrigation, markets, and livelihood risks",
+      "Use district comparisons adjusted for boundary change"
+    ],
+    "visual": "Rural land and livelihood atlas",
+    "status": "planned",
+    "division": "Development, livelihoods, plantations, and social services",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C07",
+    "series_book": 12,
+    "number": 7,
+    "title": "Plantations, Workers, and Community Life",
+    "period": "1947–1985",
+    "content": [
+      "Investigate post-independence labour institutions and wage debates",
+      "Study health, education, housing, and women's labour",
+      "Trace unions and worker political representation",
+      "Compare employer and official reports with independent testimony",
+      "Document community formation beyond plantation management categories"
+    ],
+    "visual": "Worker welfare evidence table",
+    "status": "planned",
+    "division": "Development, livelihoods, plantations, and social services",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C08",
+    "series_book": 12,
+    "number": 8,
+    "title": "Education, Health, and Social Mobility",
+    "period": "1947–1985",
+    "content": [
+      "Trace schools, universities, and professional education",
+      "Compare rural, urban, hill, and valley access",
+      "Investigate health infrastructure and uneven outcomes",
+      "Study gender and community differences with dated data",
+      "Separate institutional founding from actual reach"
+    ],
+    "visual": "Institution and access map",
+    "status": "planned",
+    "division": "Development, livelihoods, plantations, and social services",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C09",
+    "series_book": 12,
+    "number": 9,
+    "title": "Culture, Media, and Public Life",
+    "period": "1947–1985",
+    "content": [
+      "Investigate literature, cinema, music, theatre, and broadcasting",
+      "Study Bhupen Hazarika and other contributors through documented works",
+      "Include Assamese, Bengali, Bodo, and other cultural traditions",
+      "Examine sports, civic associations, and public debate",
+      "Explain changing audiences and cultural politics"
+    ],
+    "visual": "Multilingual cultural timeline",
+    "status": "planned",
+    "division": "Culture, environment, migration, and politics",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C10",
+    "series_book": 12,
+    "number": 10,
+    "title": "The 1950 Earthquake and Environmental Change",
+    "period": "1947–1985",
+    "content": [
+      "Reconstruct the disaster through scientific and administrative records",
+      "Investigate river change, displacement, and rebuilding",
+      "Separate measured observations from remembered causal claims",
+      "Compare impacts across different localities",
+      "Follow the disaster's long effects without attributing every later flood to it"
+    ],
+    "visual": "Disaster and river-change map",
+    "status": "planned",
+    "division": "Culture, environment, migration, and politics",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C11",
+    "series_book": 12,
+    "number": 11,
+    "title": "Migration, Citizenship, and the 1971 War",
+    "period": "1947–1985",
+    "content": [
+      "Distinguish successive refugee and migration episodes",
+      "Investigate legal categories through their dated instruments",
+      "Study war, camps, border livelihoods, and family histories",
+      "Compare demographic claims with census methodology",
+      "Explain why identity does not by itself establish citizenship status"
+    ],
+    "visual": "Migration-event and source timeline",
+    "status": "planned",
+    "division": "Culture, environment, migration, and politics",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C12",
+    "series_book": 12,
+    "number": 12,
+    "title": "Governments, Elections, and Public Dissent",
+    "period": "1947–1985",
+    "content": [
+      "Trace ministries, elections, and party changes from official records",
+      "Investigate student, labour, peasant, and civic organising",
+      "Study the Emergency's local institutions and consequences",
+      "Compare national political shifts with regional issues",
+      "Include parliamentary opposition and minority perspectives"
+    ],
+    "visual": "Election and government timeline",
+    "status": "planned",
+    "division": "Culture, environment, migration, and politics",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C13",
+    "series_book": 12,
+    "number": 13,
+    "title": "The Assam Movement: Origins and Organisation",
+    "period": "1947–1985",
+    "content": [
+      "Investigate the circumstances around the 1979 mobilisation",
+      "Study AASU, AAGSP, local committees, and varied objectives",
+      "Read electoral and citizenship disputes in period-specific legal context",
+      "Trace strikes, negotiations, and everyday disruption",
+      "Compare participant accounts with contemporary records"
+    ],
+    "visual": "Movement phase and organisation map",
+    "status": "planned",
+    "division": "Movement, violence, negotiations, and the Accord",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C14",
+    "series_book": 12,
+    "number": 14,
+    "title": "Violence, the 1983 Election, and Civilian Experience",
+    "period": "1947–1985",
+    "content": [
+      "Reconstruct Nellie and other violence through multiple independent sources",
+      "Compare inquiry material, reporting, and survivor testimony",
+      "Distinguish allegations, documented findings, and unresolved responsibility",
+      "Use careful terminology and source-specific casualty figures",
+      "Study political polarisation without blaming whole communities"
+    ],
+    "visual": "Event chronology and evidential comparison",
+    "status": "planned",
+    "division": "Movement, violence, negotiations, and the Accord",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C15",
+    "series_book": 12,
+    "number": 15,
+    "title": "Negotiations and the Assam Accord",
+    "period": "1947–1985",
+    "content": [
+      "Trace negotiation stages and the signed 1985 text",
+      "Distinguish text, signatories, and subsequent interpretation",
+      "Investigate safeguards, development commitments, and citizenship provisions historically",
+      "Identify unresolved disputes at the point of agreement",
+      "Leave later implementation and legal developments to the contemporary book"
+    ],
+    "visual": "Negotiation and clause overview",
+    "status": "planned",
+    "division": "Movement, violence, negotiations, and the Accord",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  },
+  {
+    "id": "B12-C16",
+    "series_book": 12,
+    "number": 16,
+    "title": "The State at the 1985 Turning Point",
+    "period": "1947–1985",
+    "content": [
+      "Assess political, social, and economic change since independence",
+      "Compare regional experiences and continuing inequalities",
+      "Introduce new electoral formations without narrating later decades twice",
+      "Prepare boundary, election, institution, and movement appendices",
+      "Define the next book's overlapping 1985 opening precisely"
+    ],
+    "visual": "1947–1985 comparative dashboard",
+    "status": "planned",
+    "division": "Movement, violence, negotiations, and the Accord",
+    "source_lead_ids": [
+      "STATE-ARCHIVES",
+      "REORG-1971",
+      "ACCORD-1985",
+      "CENSUS-2011"
+    ]
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "B04-C01",
+    "series_book": 4,
+    "number": 1,
+    "title": "Salastambha, Salstambha, and the Dynasty's Names",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Names, transition, landscape, and early reigns",
+    "content": [
+      "Establish source-specific spellings and conventional scholarly names",
+      "Investigate the label Mlechchha in its actual inscription contexts",
+      "Explain the user's Bhauma grouping as a research topic rather than a fixed synonym",
+      "Distinguish political lineage, claimed ancestry, and modern ethnic identity",
+      "Link to the mythological and Varman naming guides"
+    ],
+    "visual": "Name and term authority table",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C02",
+    "series_book": 4,
+    "number": 2,
+    "title": "After the Varmans: The Accession Question",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Names, transition, landscape, and early reigns",
+    "content": [
+      "Compare evidence for the founder and circumstances of political change",
+      "Distinguish later genealogical accounts from contemporary records",
+      "Investigate proposed chronology and alternative transition models",
+      "Reject an automatic biological link with the preceding dynasty",
+      "Explain what can be established about Salastambha's authority"
+    ],
+    "visual": "Accession witness comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C03",
+    "series_book": 4,
+    "number": 3,
+    "title": "Haruppesvara and Political Landscapes",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Names, transition, landscape, and early reigns",
+    "content": [
+      "Investigate Haruppesvara and variant place-name readings",
+      "Compare proposed identifications with actual material evidence",
+      "Reconstruct river routes, settlements, and political geography",
+      "Separate royal reach from administration demonstrable at specific sites",
+      "Use uncertain capital identifications visibly on maps"
+    ],
+    "visual": "Capital hypothesis map",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C04",
+    "series_book": 4,
+    "number": 4,
+    "title": "Early Successors and Missing Reigns",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Names, transition, landscape, and early reigns",
+    "content": [
+      "Establish every attested early ruler from exact genealogical sequences",
+      "Give sparse reigns separate dossiers rather than merging them into a vague era",
+      "Compare uncertain names and damaged inscription readings",
+      "Record accession, duration, and kinship claims with witness provenance",
+      "Do not invent events to complete a regnal table"
+    ],
+    "visual": "Early reign evidence register",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C05",
+    "series_book": 4,
+    "number": 5,
+    "title": "Harshadeva and Claims of Wider Power",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Power, recorded rulers, and dynastic change",
+    "content": [
+      "Locate exact records naming Harshadeva or related title variants",
+      "Compare regional and external statements about political reach",
+      "Distinguish marriage, diplomacy, conquest rhetoric, and sustained control",
+      "Investigate chronology and identity rather than conflating namesakes",
+      "Assess competing interpretations of expansive royal titles"
+    ],
+    "visual": "External and internal claim comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C06",
+    "series_book": 4,
+    "number": 6,
+    "title": "Harjjaravarman and the Recorded Court",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Power, recorded rulers, and dynastic change",
+    "content": [
+      "Collect inscriptions and other records attributed to Harjjaravarman",
+      "Compare their dates, textual readings, and political statements",
+      "Investigate offices, kinship, and local acts actually recorded",
+      "Separate formulaic genealogy from evidence of administration",
+      "Locate material contexts and source gaps for the reign"
+    ],
+    "visual": "Reign and inscription dossier",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C07",
+    "series_book": 4,
+    "number": 7,
+    "title": "Vanamala and Royal Patronage",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Power, recorded rulers, and dynastic change",
+    "content": [
+      "Read Vanamala or Vanamalavarman witnesses in exact editions",
+      "Investigate gifts, sacred associations, and institutions named in records",
+      "Compare administrative and genealogical language",
+      "Study archaeology only where period attribution is supported",
+      "Explain differences between extant, reported, and lost inscriptions"
+    ],
+    "visual": "Patronage and witness catalogue",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C08",
+    "series_book": 4,
+    "number": 8,
+    "title": "Later Kings and the Dynastic Ending",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Power, recorded rulers, and dynastic change",
+    "content": [
+      "Create separate dossiers for every attested later ruler",
+      "Investigate Balavarman variants and Tyagasimha or Tyag Singha traditions",
+      "Read claims of childlessness or succession in source context",
+      "Compare the transition with retrospective Pala statements",
+      "Keep uncertain regnal dates and identities open"
+    ],
+    "visual": "Later succession evidence chart",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C09",
+    "series_book": 4,
+    "number": 9,
+    "title": "Kingship, Court, and Local Authority",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Government, land, religion, and material culture",
+    "content": [
+      "Catalogue offices, titles, and royal practices by record",
+      "Investigate intermediaries and local political relationships",
+      "Compare claims of rule with actual grants and orders",
+      "Study military and judicial questions proportionate to surviving evidence",
+      "Explain change from Varman institutions without presuming uniform continuity"
+    ],
+    "visual": "Office and act register",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C10",
+    "series_book": 4,
+    "number": 10,
+    "title": "Agrarian Life, Donations, and Revenue",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Government, land, religion, and material culture",
+    "content": [
+      "Read beneficiaries, boundaries, and exemptions from charters",
+      "Investigate cultivation, land rights, and social obligations",
+      "Assess the visibility of workers and non-elite households",
+      "Study economic connections without turning royal rhetoric into measured output",
+      "Cross-reference changes across the three dynasty books"
+    ],
+    "visual": "Donation and land-use comparison",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C11",
+    "series_book": 4,
+    "number": 11,
+    "title": "Religion, Ritual, and Sacred Legitimacy",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Government, land, religion, and material culture",
+    "content": [
+      "Investigate Shaiva, Shakta, Vaishnava, and other attested patronage",
+      "Study royal ritual and local sacred institutions",
+      "Compare textual claims with dated site phases",
+      "Explain plural practice rather than sudden universal conversion",
+      "Read Naraka-related sacred legitimacy with source-specific wording"
+    ],
+    "visual": "Patronage and sacred-claim timeline",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C12",
+    "series_book": 4,
+    "number": 12,
+    "title": "Art, Architecture, and Writing",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Government, land, religion, and material culture",
+    "content": [
+      "Catalogue securely attributed sculpture and architectural remains",
+      "Compare scripts and language with dated records",
+      "Investigate reused material, lost objects, and later restoration",
+      "Study craftsmanship and building patronage without unsupported attribution",
+      "Document image provenance and publication rights"
+    ],
+    "visual": "Dated material-culture plate",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C13",
+    "series_book": 4,
+    "number": 13,
+    "title": "Women, Kinship, and Communities",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Society, connections, genealogy, and synthesis",
+    "content": [
+      "Identify women and household relationships actually attested",
+      "Investigate donor and consort roles with exact references",
+      "Study changing social categories without imposing modern identities",
+      "Recover community perspectives where sources permit",
+      "Make the limits of court and elite evidence explicit"
+    ],
+    "visual": "Person and relationship evidence table",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C14",
+    "series_book": 4,
+    "number": 14,
+    "title": "Regional Connections and Diplomacy",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Society, connections, genealogy, and synthesis",
+    "content": [
+      "Compare relations with neighbouring powers through actual witnesses",
+      "Investigate movement of people, goods, and ritual authority",
+      "Differentiate warfare, tribute, marriage, and travel",
+      "Study hill-valley relationships without treating the hills as one polity",
+      "Keep uncertain borders and itineraries visible"
+    ],
+    "visual": "Evidence-weighted connection map",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C15",
+    "series_book": 4,
+    "number": 15,
+    "title": "Bhauma, Naraka, and Dynastic Self-Representation",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Society, connections, genealogy, and synthesis",
+    "content": [
+      "Read ancestry claims in each relevant inscription",
+      "Compare the dynasty's presentation with Varman and Pala formulations",
+      "Distinguish shared sacred ancestry from demonstrated biological succession",
+      "Study changing narrative purposes and political legitimacy",
+      "Refer story retellings to Book 02 rather than repeat them as fact"
+    ],
+    "visual": "Ancestry-claim concordance",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "B04-C16",
+    "series_book": 4,
+    "number": 16,
+    "title": "The Salastambha Period in Kamarupa History",
+    "period": "Salastambha period, broadly c. seventh–tenth centuries CE; exact dates and transitions disputed",
+    "division": "Society, connections, genealogy, and synthesis",
+    "content": [
+      "Synthesize every-ruler dossiers and period-specific institutions",
+      "Identify real continuities and unresolved discontinuities",
+      "Explain the transition to Brahmapala through its witnesses",
+      "Prepare the inscription, capital, and naming appendices",
+      "Carry disputed questions forward into the Pala book explicitly"
+    ],
+    "visual": "Dynastic transition and gap matrix",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "DHAS-CATALOGUE",
+      "GENEALOGY-STUDY"
+    ],
+    "status": "planned"
+  }
+]

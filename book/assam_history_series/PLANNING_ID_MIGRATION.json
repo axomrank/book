@@ -1,0 +1,1148 @@
+{
+  "revision_date": "2026-10-11",
+  "reason": "Insert mythology and expand Kamarupa into three dynastic books; renumber series positions",
+  "legacy_manuscript_and_evidence_ids": "unchanged",
+  "mappings": [
+    {
+      "previous_id": "B01-C01",
+      "current_id": "B01-C01",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C02",
+      "current_id": "B01-C02",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C03",
+      "current_id": "B01-C03",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C04",
+      "current_id": "B01-C04",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C05",
+      "current_id": "B01-C05",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C06",
+      "current_id": "B01-C06",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C07",
+      "current_id": "B01-C07",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C08",
+      "current_id": "B01-C08",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C09",
+      "current_id": "B01-C09",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C10",
+      "current_id": "B01-C10",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C11",
+      "current_id": "B01-C11",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B01-C12",
+      "current_id": "B01-C12",
+      "status": "unchanged",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C01",
+      "current_id": "B06-C01",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C02",
+      "current_id": "B06-C02",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C03",
+      "current_id": "B06-C03",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C04",
+      "current_id": "B06-C04",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C05",
+      "current_id": "B06-C05",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C06",
+      "current_id": "B06-C06",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C07",
+      "current_id": "B06-C07",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C08",
+      "current_id": "B06-C08",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C09",
+      "current_id": "B06-C09",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C10",
+      "current_id": "B06-C10",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C11",
+      "current_id": "B06-C11",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C12",
+      "current_id": "B06-C12",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C13",
+      "current_id": "B06-C13",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C14",
+      "current_id": "B06-C14",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C15",
+      "current_id": "B06-C15",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C16",
+      "current_id": "B06-C16",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C17",
+      "current_id": "B06-C17",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B03-C18",
+      "current_id": "B06-C18",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B04-C01",
+      "current_id": "B07-C01",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 1
+    },
+    {
+      "previous_id": "B04-C02",
+      "current_id": "B07-C02",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 2
+    },
+    {
+      "previous_id": "B04-C03",
+      "current_id": "B07-C03",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 3
+    },
+    {
+      "previous_id": "B04-C04",
+      "current_id": "B07-C04",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 4
+    },
+    {
+      "previous_id": "B04-C05",
+      "current_id": "B07-C05",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 5
+    },
+    {
+      "previous_id": "B04-C06",
+      "current_id": "B07-C06",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 6
+    },
+    {
+      "previous_id": "B04-C07",
+      "current_id": "B07-C07",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 7
+    },
+    {
+      "previous_id": "B04-C08",
+      "current_id": "B07-C08",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 8
+    },
+    {
+      "previous_id": "B04-C09",
+      "current_id": "B07-C09",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 9
+    },
+    {
+      "previous_id": "B04-C10",
+      "current_id": "B07-C10",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 10
+    },
+    {
+      "previous_id": "B04-C11",
+      "current_id": "B07-C11",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 11
+    },
+    {
+      "previous_id": "B04-C12",
+      "current_id": "B07-C12",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 12
+    },
+    {
+      "previous_id": "B04-C13",
+      "current_id": "B07-C13",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 13
+    },
+    {
+      "previous_id": "B04-C14",
+      "current_id": "B07-C14",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 14
+    },
+    {
+      "previous_id": "B04-C15",
+      "current_id": "B07-C15",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 15
+    },
+    {
+      "previous_id": "B04-C16",
+      "current_id": "B07-C16",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 16
+    },
+    {
+      "previous_id": "B05-C17",
+      "current_id": "B08-C17",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 17
+    },
+    {
+      "previous_id": "B05-C18",
+      "current_id": "B08-C18",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 18
+    },
+    {
+      "previous_id": "B05-C19",
+      "current_id": "B08-C19",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 19
+    },
+    {
+      "previous_id": "B05-C20",
+      "current_id": "B08-C20",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 20
+    },
+    {
+      "previous_id": "B05-C21",
+      "current_id": "B08-C21",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 21
+    },
+    {
+      "previous_id": "B05-C22",
+      "current_id": "B08-C22",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 22
+    },
+    {
+      "previous_id": "B05-C23",
+      "current_id": "B08-C23",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 23
+    },
+    {
+      "previous_id": "B05-C24",
+      "current_id": "B08-C24",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 24
+    },
+    {
+      "previous_id": "B05-C25",
+      "current_id": "B08-C25",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 25
+    },
+    {
+      "previous_id": "B05-C26",
+      "current_id": "B08-C26",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 26
+    },
+    {
+      "previous_id": "B05-C27",
+      "current_id": "B08-C27",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 27
+    },
+    {
+      "previous_id": "B05-C28",
+      "current_id": "B08-C28",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 28
+    },
+    {
+      "previous_id": "B05-C29",
+      "current_id": "B08-C29",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 29
+    },
+    {
+      "previous_id": "B05-C30",
+      "current_id": "B08-C30",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 30
+    },
+    {
+      "previous_id": "B05-C31",
+      "current_id": "B08-C31",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 31
+    },
+    {
+      "previous_id": "B05-C32",
+      "current_id": "B08-C32",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 32
+    },
+    {
+      "previous_id": "B05-C33",
+      "current_id": "B08-C33",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 33
+    },
+    {
+      "previous_id": "B05-C34",
+      "current_id": "B08-C34",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 34
+    },
+    {
+      "previous_id": "B06-C35",
+      "current_id": "B09-C35",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 35
+    },
+    {
+      "previous_id": "B06-C36",
+      "current_id": "B09-C36",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 36
+    },
+    {
+      "previous_id": "B06-C37",
+      "current_id": "B09-C37",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 37
+    },
+    {
+      "previous_id": "B06-C38",
+      "current_id": "B09-C38",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 38
+    },
+    {
+      "previous_id": "B06-C39",
+      "current_id": "B09-C39",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 39
+    },
+    {
+      "previous_id": "B06-C40",
+      "current_id": "B09-C40",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 40
+    },
+    {
+      "previous_id": "B06-C41",
+      "current_id": "B09-C41",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 41
+    },
+    {
+      "previous_id": "B06-C42",
+      "current_id": "B09-C42",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 42
+    },
+    {
+      "previous_id": "B06-C43",
+      "current_id": "B09-C43",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 43
+    },
+    {
+      "previous_id": "B06-C44",
+      "current_id": "B09-C44",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 44
+    },
+    {
+      "previous_id": "B06-C45",
+      "current_id": "B09-C45",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 45
+    },
+    {
+      "previous_id": "B06-C46",
+      "current_id": "B09-C46",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 46
+    },
+    {
+      "previous_id": "B06-C47",
+      "current_id": "B09-C47",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 47
+    },
+    {
+      "previous_id": "B06-C48",
+      "current_id": "B09-C48",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 48
+    },
+    {
+      "previous_id": "B06-C49",
+      "current_id": "B09-C49",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 49
+    },
+    {
+      "previous_id": "B06-C50",
+      "current_id": "B09-C50",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 50
+    },
+    {
+      "previous_id": "B06-C51",
+      "current_id": "B09-C51",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 51
+    },
+    {
+      "previous_id": "B06-C52",
+      "current_id": "B09-C52",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 52
+    },
+    {
+      "previous_id": "B06-C53",
+      "current_id": "B09-C53",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 53
+    },
+    {
+      "previous_id": "B06-C54",
+      "current_id": "B09-C54",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 54
+    },
+    {
+      "previous_id": "B06-C55",
+      "current_id": "B09-C55",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 55
+    },
+    {
+      "previous_id": "B06-C56",
+      "current_id": "B09-C56",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 56
+    },
+    {
+      "previous_id": "B06-C57",
+      "current_id": "B09-C57",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 57
+    },
+    {
+      "previous_id": "B06-C58",
+      "current_id": "B09-C58",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 58
+    },
+    {
+      "previous_id": "B06-C59",
+      "current_id": "B09-C59",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 59
+    },
+    {
+      "previous_id": "B06-C60",
+      "current_id": "B09-C60",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": 60
+    },
+    {
+      "previous_id": "B07-C01",
+      "current_id": "B10-C01",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C02",
+      "current_id": "B10-C02",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C03",
+      "current_id": "B10-C03",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C04",
+      "current_id": "B10-C04",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C05",
+      "current_id": "B10-C05",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C06",
+      "current_id": "B10-C06",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C07",
+      "current_id": "B10-C07",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C08",
+      "current_id": "B10-C08",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C09",
+      "current_id": "B10-C09",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C10",
+      "current_id": "B10-C10",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C11",
+      "current_id": "B10-C11",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C12",
+      "current_id": "B10-C12",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C13",
+      "current_id": "B10-C13",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C14",
+      "current_id": "B10-C14",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C15",
+      "current_id": "B10-C15",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B07-C16",
+      "current_id": "B10-C16",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C01",
+      "current_id": "B11-C01",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C02",
+      "current_id": "B11-C02",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C03",
+      "current_id": "B11-C03",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C04",
+      "current_id": "B11-C04",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C05",
+      "current_id": "B11-C05",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C06",
+      "current_id": "B11-C06",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C07",
+      "current_id": "B11-C07",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C08",
+      "current_id": "B11-C08",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C09",
+      "current_id": "B11-C09",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C10",
+      "current_id": "B11-C10",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C11",
+      "current_id": "B11-C11",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C12",
+      "current_id": "B11-C12",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C13",
+      "current_id": "B11-C13",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C14",
+      "current_id": "B11-C14",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C15",
+      "current_id": "B11-C15",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B08-C16",
+      "current_id": "B11-C16",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C01",
+      "current_id": "B12-C01",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C02",
+      "current_id": "B12-C02",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C03",
+      "current_id": "B12-C03",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C04",
+      "current_id": "B12-C04",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C05",
+      "current_id": "B12-C05",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C06",
+      "current_id": "B12-C06",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C07",
+      "current_id": "B12-C07",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C08",
+      "current_id": "B12-C08",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C09",
+      "current_id": "B12-C09",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C10",
+      "current_id": "B12-C10",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C11",
+      "current_id": "B12-C11",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C12",
+      "current_id": "B12-C12",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C13",
+      "current_id": "B12-C13",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C14",
+      "current_id": "B12-C14",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C15",
+      "current_id": "B12-C15",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B09-C16",
+      "current_id": "B12-C16",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C01",
+      "current_id": "B13-C01",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C02",
+      "current_id": "B13-C02",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C03",
+      "current_id": "B13-C03",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C04",
+      "current_id": "B13-C04",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C05",
+      "current_id": "B13-C05",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C06",
+      "current_id": "B13-C06",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C07",
+      "current_id": "B13-C07",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C08",
+      "current_id": "B13-C08",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C09",
+      "current_id": "B13-C09",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C10",
+      "current_id": "B13-C10",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C11",
+      "current_id": "B13-C11",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C12",
+      "current_id": "B13-C12",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C13",
+      "current_id": "B13-C13",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C14",
+      "current_id": "B13-C14",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C15",
+      "current_id": "B13-C15",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C16",
+      "current_id": "B13-C16",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C17",
+      "current_id": "B13-C17",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C18",
+      "current_id": "B13-C18",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C19",
+      "current_id": "B13-C19",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B10-C20",
+      "current_id": "B13-C20",
+      "status": "renumbered_planning_id",
+      "legacy_ahom_chapter": null
+    },
+    {
+      "previous_id": "B02-C01",
+      "current_ids": [
+        "B03-C01",
+        "B04-C01",
+        "B05-C01"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "From Archaeology to Written History"
+    },
+    {
+      "previous_id": "B02-C02",
+      "current_ids": [
+        "B03-C02",
+        "B04-C03",
+        "B05-C06"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Landscapes of Early Kamarupa"
+    },
+    {
+      "previous_id": "B02-C03",
+      "current_ids": [
+        "B03-C03",
+        "B03-C04",
+        "B03-C05",
+        "B03-C06",
+        "B03-C07",
+        "B03-C08",
+        "B03-C09"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "The Varman Dynasty"
+    },
+    {
+      "previous_id": "B02-C04",
+      "current_ids": [
+        "B03-C07",
+        "B03-C08",
+        "B03-C09"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Bhaskaravarman and a Wider World"
+    },
+    {
+      "previous_id": "B02-C05",
+      "current_ids": [
+        "B04-C01",
+        "B04-C02",
+        "B04-C03",
+        "B04-C04",
+        "B04-C05",
+        "B04-C06",
+        "B04-C07",
+        "B04-C08",
+        "B04-C09",
+        "B04-C10",
+        "B04-C11",
+        "B04-C12",
+        "B04-C13",
+        "B04-C14",
+        "B04-C15",
+        "B04-C16"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "The Salastambha or Mlechchha Line"
+    },
+    {
+      "previous_id": "B02-C06",
+      "current_ids": [
+        "B05-C01",
+        "B05-C02",
+        "B05-C03",
+        "B05-C04",
+        "B05-C05",
+        "B05-C06",
+        "B05-C07",
+        "B05-C08",
+        "B05-C09",
+        "B05-C10",
+        "B05-C11",
+        "B05-C12",
+        "B05-C13",
+        "B05-C14",
+        "B05-C15",
+        "B05-C16"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "The Pala Rulers of Kamarupa"
+    },
+    {
+      "previous_id": "B02-C07",
+      "current_ids": [
+        "B03-C10",
+        "B04-C09",
+        "B05-C07"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Kingship, Officers, and Authority"
+    },
+    {
+      "previous_id": "B02-C08",
+      "current_ids": [
+        "B03-C11",
+        "B04-C10",
+        "B05-C08"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Land Grants and Rural Society"
+    },
+    {
+      "previous_id": "B02-C09",
+      "current_ids": [
+        "B03-C11",
+        "B04-C14",
+        "B05-C08"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Settlements, Trade, and Crafts"
+    },
+    {
+      "previous_id": "B02-C10",
+      "current_ids": [
+        "B03-C12",
+        "B04-C11",
+        "B05-C09"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Religion and Sacred Landscapes"
+    },
+    {
+      "previous_id": "B02-C11",
+      "current_ids": [
+        "B03-C13",
+        "B04-C12",
+        "B05-C10"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Languages, Writing, and Knowledge"
+    },
+    {
+      "previous_id": "B02-C12",
+      "current_ids": [
+        "B03-C13",
+        "B04-C12",
+        "B05-C10"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Art and Architecture"
+    },
+    {
+      "previous_id": "B02-C13",
+      "current_ids": [
+        "B03-C14",
+        "B04-C13",
+        "B05-C11"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Women, Households, and Social Difference"
+    },
+    {
+      "previous_id": "B02-C14",
+      "current_ids": [
+        "B03-C02",
+        "B04-C14",
+        "B05-C12"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Frontiers and Regional Relations"
+    },
+    {
+      "previous_id": "B02-C15",
+      "current_ids": [
+        "B03-C15",
+        "B04-C16",
+        "B05-C13",
+        "B05-C14"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Fragmentation and New Centres"
+    },
+    {
+      "previous_id": "B02-C16",
+      "current_ids": [
+        "B02-C16",
+        "B03-C16",
+        "B04-C15",
+        "B05-C15",
+        "B05-C16"
+      ],
+      "status": "superseded_and_expanded",
+      "previous_title": "Kamarupa in Historical Memory"
+    }
+  ]
+}

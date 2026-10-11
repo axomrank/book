@@ -1,0 +1,354 @@
+[
+  {
+    "id": "B02-C01",
+    "series_book": 2,
+    "number": 1,
+    "title": "From Archaeology to Written History",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Compare excavation, epigraphy, texts, and later memory",
+      "Introduce Pragjyotisha and Kamarupa as historically changing names",
+      "Separate epic genealogies from dated political evidence",
+      "Build an inscription-based chronological framework",
+      "Explain the tentative c. fourth-century opening boundary"
+    ],
+    "visual": "Source-family diagram",
+    "status": "planned",
+    "division": "Evidence, geography, and the Varmans",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C02",
+    "series_book": 2,
+    "number": 2,
+    "title": "Landscapes of Early Kamarupa",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Reconstruct river routes, settlements, and environmental zones",
+      "Distinguish claimed territory from demonstrated administration",
+      "Introduce Davaka and surrounding polities through actual witnesses",
+      "Assess proposed capital locations and archaeological support",
+      "Place the Barak corridor and hill contacts within regional geography"
+    ],
+    "visual": "Approximate polity and route map",
+    "status": "planned",
+    "division": "Evidence, geography, and the Varmans",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C03",
+    "series_book": 2,
+    "number": 3,
+    "title": "The Varman Dynasty",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Document rulers and succession from exact inscription editions",
+      "Examine Pushyavarman traditions against contemporary evidence",
+      "Investigate titles, legitimacy, marriage, and court formation",
+      "Track changing claims of territorial reach",
+      "Keep genealogical claims and securely dated acts distinct"
+    ],
+    "visual": "Annotated Varman genealogy",
+    "status": "planned",
+    "division": "Evidence, geography, and the Varmans",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C04",
+    "series_book": 2,
+    "number": 4,
+    "title": "Bhaskaravarman and a Wider World",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Reconstruct diplomacy from independent witnesses where available",
+      "Compare accounts of relations with Harsha and eastern polities",
+      "Read Nidhanpur and other grants in their edition contexts",
+      "Assess the travel account attributed to Xuanzang through translations",
+      "Explain court representation and the limits of political inference"
+    ],
+    "visual": "Diplomatic chronology and grant facsimile",
+    "status": "planned",
+    "division": "Evidence, geography, and the Varmans",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C05",
+    "series_book": 2,
+    "number": 5,
+    "title": "The Salastambha or Mlechchha Line",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Clarify dynastic names and the problems of modern labels",
+      "Compare regnal sequences and gaps in inscription evidence",
+      "Trace royal centres and patronage claims",
+      "Investigate succession and transition from the Varmans",
+      "Explain disputed chronology rather than harmonising it silently"
+    ],
+    "visual": "Dynastic sequence with gaps",
+    "status": "planned",
+    "division": "Dynasties, authority, and land",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C06",
+    "series_book": 2,
+    "number": 6,
+    "title": "The Pala Rulers of Kamarupa",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Separate the local Pala dynasty from namesakes elsewhere",
+      "Read royal grants and genealogies across editions",
+      "Reconstruct institutions and patronage with dated evidence",
+      "Track political centres and frontier relationships",
+      "Explain the changing record near the dynasty's end"
+    ],
+    "visual": "Pala genealogy and dated grants",
+    "status": "planned",
+    "division": "Dynasties, authority, and land",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C07",
+    "series_book": 2,
+    "number": 7,
+    "title": "Kingship, Officers, and Authority",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Identify offices actually named in records",
+      "Compare royal rhetoric with administrative acts",
+      "Explore tribute, local intermediaries, and delegated authority",
+      "Investigate succession and the position of royal households",
+      "Avoid importing later Ahom institutions into early Kamarupa"
+    ],
+    "visual": "Inscription-based office chart",
+    "status": "planned",
+    "division": "Dynasties, authority, and land",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C08",
+    "series_book": 2,
+    "number": 8,
+    "title": "Land Grants and Rural Society",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Read donation boundaries and beneficiary descriptions",
+      "Investigate land tenure, revenue rights, and exemptions",
+      "Track cultivators and labour where evidence permits",
+      "Study river change and uncertain place identifications",
+      "Distinguish charter ideals from demonstrated village conditions"
+    ],
+    "visual": "Annotated land-grant diagram",
+    "status": "planned",
+    "division": "Dynasties, authority, and land",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C09",
+    "series_book": 2,
+    "number": 9,
+    "title": "Settlements, Trade, and Crafts",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Compare urban claims with dated excavation sequences",
+      "Study Ambari and relevant workshop or settlement evidence",
+      "Investigate trade corridors and material distributions",
+      "Assess coins and monetary evidence without invented attributions",
+      "Connect craft production to patronage and everyday consumption"
+    ],
+    "visual": "Settlement and artifact distribution map",
+    "status": "planned",
+    "division": "Economy, religion, language, and art",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C10",
+    "series_book": 2,
+    "number": 10,
+    "title": "Religion and Sacred Landscapes",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Investigate Shaiva, Shakta, Vaishnava, Buddhist, and Jain evidence",
+      "Separate later temple legends from early dated remains",
+      "Study Sri Surya Pahar and other sites through archaeological records",
+      "Explain religious patronage and interaction rather than uniform conversion",
+      "Record how changing ritual landscapes shaped local authority"
+    ],
+    "visual": "Dated sacred-site map",
+    "status": "planned",
+    "division": "Economy, religion, language, and art",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C11",
+    "series_book": 2,
+    "number": 11,
+    "title": "Languages, Writing, and Knowledge",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Read script development through dated inscriptions",
+      "Distinguish inscription language from household speech",
+      "Investigate Sanskrit scholarship and multilingual contacts",
+      "Assess manuscript dating and later copying practices",
+      "Explain debates on early Assamese without claiming linear certainty"
+    ],
+    "visual": "Script comparison plate",
+    "status": "planned",
+    "division": "Economy, religion, language, and art",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C12",
+    "series_book": 2,
+    "number": 12,
+    "title": "Art and Architecture",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Catalogue sculptural material with secure provenance",
+      "Compare building phases and changing sacred patronage",
+      "Assess iconographic identifications through specialist scholarship",
+      "Separate reused fragments from original architectural contexts",
+      "Record conservation and image permissions"
+    ],
+    "visual": "Dated sculpture and building plate",
+    "status": "planned",
+    "division": "Economy, religion, language, and art",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C13",
+    "series_book": 2,
+    "number": 13,
+    "title": "Women, Households, and Social Difference",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Identify women named in records and their documented acts",
+      "Investigate kinship, inheritance, and marriage evidence",
+      "Examine caste and occupational labels in their historical contexts",
+      "Distinguish donor perspectives from those absent in charters",
+      "Discuss evidential silences without inventing household narratives"
+    ],
+    "visual": "Named-person evidence table",
+    "status": "planned",
+    "division": "Society, frontiers, fragmentation, and memory",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C14",
+    "series_book": 2,
+    "number": 14,
+    "title": "Frontiers and Regional Relations",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Assess connections with Bengal, Bhutan, and eastern corridors",
+      "Distinguish conflict reports from proof of permanent territorial control",
+      "Compare external descriptions and local inscriptions",
+      "Treat hill societies as actors with their own evidence",
+      "Investigate travel, exchange, and shifting centres of power"
+    ],
+    "visual": "Layered frontier map",
+    "status": "planned",
+    "division": "Society, frontiers, fragmentation, and memory",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C15",
+    "series_book": 2,
+    "number": 15,
+    "title": "Fragmentation and New Centres",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Trace late inscription sequences and dynastic discontinuities",
+      "Assess competing explanations for political fragmentation",
+      "Introduce Kamata and local centres without fixed unsupported borders",
+      "Investigate regional continuities in settlement and worship",
+      "Keep the c. 1200 endpoint an editorial convenience"
+    ],
+    "visual": "Transition chronology",
+    "status": "planned",
+    "division": "Society, frontiers, fragmentation, and memory",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  },
+  {
+    "id": "B02-C16",
+    "series_book": 2,
+    "number": 16,
+    "title": "Kamarupa in Historical Memory",
+    "period": "c. fourth century CE–c. 1200; earlier and later context explicitly labelled",
+    "content": [
+      "Compare later genealogies and modern commemorative claims",
+      "Explain how early kingdoms enter Assamese and community histories",
+      "Summarize secure chronology and unresolved place identifications",
+      "Prepare inscription, ruler, and site reference appendices",
+      "Connect to regional medieval history and the Ahom arrival"
+    ],
+    "visual": "Evidence-to-memory diagram",
+    "status": "planned",
+    "division": "Society, frontiers, fragmentation, and memory",
+    "source_lead_ids": [
+      "ARCH-SITES",
+      "ASI-AMBARI",
+      "DHAS-CATALOGUE"
+    ]
+  }
+]

@@ -1,0 +1,276 @@
+RESEARCH COMMUNICATIONS
+24. Gardelle, J., Berthier, E. and Arnaud, Y., Slight mass gain of
+    Karakorum glaciers in the early 21st century. Nature Geosci.,
+                                                                           Luminescence dating of Neolithic
+    2012, 5, 322–325.                                                      pottery in North East India
+25. Berthier, E., Schiefer, E., Clarke, G. K. C., Menounos, B. and
+    Remy, F., Contribution of Alaskan glaciers to sea-level rise de-
+    rived from satellite imagery. Nat. Geosci., 2010, 3, 92–95.            Sukanya Sharma* and Pankaj Singh*
+26. Gaddam, V. K., Kulkarni, A. V. and Gupta, A. K., Reconstruction
+                                                                           Department of Humanities and Social Sciences,
+    of Specific mass balance for glaciers in Western Himalaya using        Indian Institute of Technology, Guwahati 781 039, India
+    seasonal sensitivity characteristic(s). J. Ear. Syst. Sci., 2017,
+    126(55); doi:10.1007/s12040-017-0839-6.
+27. Gardelle, J., Berither, E., Arnaud, Y. and Kaab, A., Region-wide       Imprecise chronological data have long been affecting
+    glacier mass balances over the Pamir–Karakoram–Himalaya dur-           archaeological studies in Assam and Meghalaya,
+    ing 1999–2011. Cryosphere, 2013, 7, 1263–1286.                         North East India. Relative dating methods have been
+28. Azam, M. F. et al., From balance to imbalance: a shift in the          used to study the antiquity of stone tools and ceramics
+    dynamic behaviour of Chhota Shigri glacier, western Himalaya,          found in the archaeological sites of these two areas.
+    India. J. Glaciol., 2012, 58(208), 315–324.                            Both the areas are important as the eastern Asiatic
+29. Tawde, A. S., Kulkarni, A. V. and Bala, G., Estimation of glacier      Neolithic complex of double-shouldered celts and
+    mass balance on a basin scale: an approach based on satellite-         cord-marked pottery was first reported in India from
+    derived snowlines and a temperature index model. Curr. Sci.,
+                                                                           Daojali Hading, Assam (1961), Garo Hills, Meghalaya
+    2016, 111(12), 1977–1989.
+30. Huss, M., Density assumptions for converting geodetic glacier
+                                                                           has the highest concentration of prehistoric sites
+    volume change to mass change. Cryosphere, 2013, 7, 877–887.            found in North East India. Optically stimulated lumi-
+31. Pieczonka, T., Bolch, T., Wei, J. and Liu, S., Heterogeneous mass      nescence dating offered an excellent opportunity for
+    loss of glaciers in the Aksu-Tarim Catchment (Central Tien Shan)       dating the ceramic samples recovered during the first
+    revealed by 1976 KH-9 Hexagon and 2009 SPOT-5 stereo im-               excavations in 1961 (Daojali Hading in Dima Hasao
+    agery. Remote Sensing Environ., 2013, 130, 233–244.                    district Assam) and 1999 (Gawak Abri, Garo Hills), as
+32. Kääb, A., Treichler, D., Nuth, C. and Berthier, E., Brief communi-     the method provided a direct age estimate of the time
+    cation: contending estimates of 2003–2008 glacier mass balance         of last exposure of quartz or feldspar minerals to light
+    over the Pamir–Karakoram–Himalaya. Cryosphere, 2015, 9, 557–           or heat, and the purity of the etched quartz (i.e. any
+    564.
+                                                                           feldspar contaminations) can be confirmed by infra-
+33. Gardelle, J., Berthier, E. and Arnaud, Y., Impact of resolution and
+    radar penetration on glacier elevation changes computed from
+                                                                           red stimulated luminescence technique. Date obtained
+    DEM differencing. J. Glaciol., 2012, 58, 419–422.                      from Daojali Hading is 2.7  0.3 ka (LD1728) and that
+34. Myoung-Jong Noh and Howat, I. M., Automated coregistration of          from Gawak Abri is 2.3  0.2 ka (LD1727).
+    repeat digital elevation models for surface elevation change meas-
+    urement using geometric constraints. IEEE Trans. Geosci. Remote        Keywords:       Cord marked, dating, hypothesis, neolithic,
+    Sensing, 2014, 52(4), 2247–2260.                                       pottery.
+35. Basnett, S., Kulkarni A. V. and Bolch, T., The influence of debris
+    cover and glacial lakes on the recession of glaciers in Sikkim         NEOLITHIC sites have been reported from all the eight
+    Himalaya, India. J. Glacio., 2013, 59(218), 1035–1046.                 states of North East India. Excavated Neolithic sites from
+                                                                           the region are Daojali Hading1 and Saru Taro2 from As-
+ACKNOWLEDGEMENTS. We thank Dr Ravi Chandran, Director
+                                                                           sam; Gawak Abri3 and Law Nongthroh 4 from Meghalaya;
+and Dr Thamban Meloth, Project Director, NCAOR for discussions,            Napachik and Nongpok Keithelmanbi from Manipur5,6
+financial and infrastructure support during the study. Special thanks to   Parsi Parlo from Arunachal Pradesh 7 and Ranyak Khen
+Dr Tobias Bolch, University of Zurich, Dr Ian M. Howat and Dr My-          from Nagaland8 . Daojali Hading, excavated in 1961, is
+oung-Jong Noh for technical suggestions during the study. We also          the first stratified Neolithic site discovered in NE India
+thank USGS for providing the SRTM, LPDAAC for AST14DMO Digi-
+tal Elevation Models and Hydrology Division, BBMB for providing the
+                                                                           (Figure 1). This site has put NE India in the Neolithic
+meteorological data of Rakcham Observatory. The NCAOR contribu-            map of the world because of the recovery of the double-
+tion number is 13/2017.                                                    shouldered celt and cord-marked pottery which till then
+                                                                           was considered as a character of the Neolithic of ‘East
+                                                                           Asia’1. After this discovery, the boundary of the East
+Received 26 August 2016; revised accepted 20 March 2017
+                                                                           Asiatic ‘Corded ware’ Neolithic culture was extended to
+                                                                           include NE India9–11.
+doi: 10.18520/cs/v113/i03/486-492                                             For the first time in India, the shouldered celts were
+                                                                           put into a stratigraphical context and the presence of
+                                                                           quadrangular adzes and square-shouldered celts at the site
+                                                                           suggest that the culture belonged to a Late Neolithic
+                                                                           phase, the date of which is most probably linked to the
+                                                                           late Neolithic cultures of southwest China and Southeast
+                                                                           Asia. As there were no absolute dates, these observations
+
+                                                                           *For correspondence. (e-mail: sukanya@iitg.ernet.in;
+                                                                           mpankaj.singh26@gmail.com)
+492                                                                                  CURRENT SCIENCE, VOL. 113, NO. 3, 10 AUGUST 2017
+                                                                                              RESEARCH COMMUNICATIONS
+
+
+
+
+                                                        Figure 1.   Map of the study area.
+
+                                  Table 1.     Optically stimulated luminescence dating of pottery samples
+
+                                                                                Potassium      Equivalent        Dose
+Lab no.     Sample no.       Depth (cm)       U (ppm)          Th (ppm)           K (%)        dose (Gy)     rate (Gy/ka)   Age (ka)
+
+LD1727      Gawak Abri           72          5.83  0.06      22.52  0.22      2.18  0.02    12.0  0.8     5.2  0.1     2.3  0.2
+LD1728      Daojali Hading      105          2.41  0.02      32.52  0.3       2.23  0.02    13.9  1.5     5.1  0.1     2.7  0.3
+
+
+
+
+remained hypothetical. Recently, using optically simu-                     not sufficient for conventional radiocarbon dating available
+lated luminescence (OSL) dating technique, the site could                  then. Dating these sites is a major breakthrough, as Dao-
+be dated to 2.7  0.3 ka (LD1728) and the hypothesis                       jali Hading is a type site and the Gawak Abri date is the
+now stands confirmed.                                                      first date to come from the prehistoric sites of Garo Hills.
+   Gawak Abri is a site in the Ganol–Rongram river val-                       The dates were obtained from ‘vintage samples’, i.e.
+ley of West Garo Hills, Meghalaya. Neolithic tools,                        using samples collected during the excavations in 1961
+mainly ground and polished celts, were first reported                      (Daojali Hading) and 1999 (Gawak Abri). This has been
+from Garo Hills in 1931 by G. D. Walker and systematic                     done on an experimental basis, and a comparison with 14C
+studies have been undertaken since then by various work-                   dates from the area has also been provided to highlight
+ers1–10. During the latter half of the last century, the pres-             the reliability of the technique. In the laboratory, under
+ence of tools belonging to this assemblage upon stretches                  subdued red-light conditions, the pottery samples were
+of bare ground on the hill slopes has been reported, where                 crushed and transferred to a beaker after removing light-
+they are usually exposed when the areas are cleared for                    exposed materials from the surface. The samples were
+shifting cultivation. In 1999, during exploration of the                   then treated for removing carbonate and organic matter
+area, a trial trench was undertaken in Gawak Abri3 for                     using 1 N HCl and 30% H2 O2 respectively, and later
+ascertaining the stratigraphy of the Neolithic tools. With                 sieved to obtain 90–125 m size fractions12. From the
+the Neolithic tools, pottery was also recovered from the                   separated size fractions (90–125 m), quartz grains (den-
+site. This pottery was dated using OSL technique as 2.3                   sity 2.65 g/cm3) were extracted by density separation
+0.2 ka (LD1727).                                                           using high-density liquid (sodium polytungstate solution).
+   Both these dates could be obtained only because of the                  The extracted quartz grains were etched for 80 min in
+development of the OSL dating technique in India (Table                    hydrofluoric acid (40%) to remove the outer layer (the
+1). There has been a gap in the study of research materi-                  HF treatment also removes any feldspar contamination)
+als of the Neolithic period in Assam and Meghalaya and                     and subsequently treated with HCl and washed in dis-
+only recently, we have started further analysis on these                   tilled water and re-sieved. The purity of the etched quartz
+materials in detail. Datable carbon material was recov-                    grains (i.e. any feldspar contamination) was confirmed by
+ered in very small quantities from both the sites and was                  infrared stimulated luminescence (IRSL) technique.
+
+CURRENT SCIENCE, VOL. 113, NO. 3, 10 AUGUST 2017                                                                                        493
+RESEARCH COMMUNICATIONS
+
+
+
+
+      Figure 2. Gawak Abri. a, Implimentiferous layers; b, Fine fabric potsherds; c, Probably utilized flakes; d, Celts; e, Coarse fabric potsherds.
+
+
+   The etched quartz grains were then fixed at the centre                      from a 2/2 m trial trench (Figure 2 a) on the northern side
+of stainless steel discs (i.e. about 3 mm diameter mono                        of the mound to ascertain the stratigraphy of the site dur-
+layer of samples in 10 mm diameter steel discs) using                          ing exploration. The implimentiferous layer is composed
+silicon oil (adhesive agent) to determine the radiation                        of highly acidic sandy alluvium of almost 1 m and is
+energy received by the samples after burial (i.e. paleo                        capped by a deposit of 1½ m. The lithic assemblage con-
+dose or equivalent dose). The single aliquot regeneration                      sisted of ground and polished celts (Figure 2 d), short
+protocol13 was used for equivalent dose (De) determina-                        axes, chipped celts and a high percentage of micro-sized
+tion. OSL measurements were carried out in an auto-                            flakes, some of which were probably used (Figure 2 c).
+mated Riso TL/DA-20 reader equipped with blue light-                           The pottery consisted of two varieties (Figure 2 b and e).
+emitting diodes. The equivalent dose (De) was calculated                       One was very coarse black pottery and the other used for
+using the initial integral (0.8 sec) of the OSL (using Dull-                   dating was also of coarse variety, but comparatively finer
+ers Analysis software).                                                        with a thin grey slip 3.
+   For estimation of annual dose rate, concentration of                           Daojali Hading consists of a low ridge (1500 ft above
+uranium, thorium and potassium in the pottery and sur-                         sea level) of Tertiary sandstone oriented in the northeast–
+rounding sediments needs to be measured. In the present                        southeast direction. It is situated at 2526N and 9310E
+case, no surrounding sediments were available and hence                        (Survey Map Sheet No. 83 C Haflong)1. Four trenches
+only the chemical concentration of U, Th and K in the                          (Figure 3 a) were dug at four different locations of the
+pottery sample was measured and Grun’s software was                            site with the multiple objectives of determining the strati-
+used for cosmic rays. The concentration of uranium, tho-                       graphy and ascertaining the context of the Neolithic arti-
+rium and potassium in the pottery was measured using                           facts (Figure 3 b and c). Artifacts were recovered from
+ICP-MS (inductively coupled plasma mass spectrometry).                         both the eastern and western faces of the ridge.
+Grun’s software was used for dose rate (including cosmic                          These dates agree well with the radiocarbon dates from
+ray contribution) and age calculation                                          the site of Law Nongthroh (2930  30 BP; 07/B1 Beta No.
+                                                                               406664) in the east Khasi Hills district of Meghalaya.
+           Equivalent dose (Gy)                                                This site is the nearest Neolithic settlement to Daojali
+  Age                          .
+            Dose rate  Gy/ka                                                 Hading with similar cultural characteristics. Cord-marked
+                                                                               pottery and double-shouldered celts were found with
+Gawak Abri is a single cultural site located in the uplands                    mullers, pounders, thrashers, polishers, etc. in both the
+of the Ganol–Rongram Valley. The pottery was collected                         sites. Pottery, in the three sites Daojali Hading, Law
+494                                                                                       CURRENT SCIENCE, VOL. 113, NO. 3, 10 AUGUST 2017
+                                                                                             RESEARCH COMMUNICATIONS
+                      Table 2.   Infrared peaks and tentative assignments of Daojali Hading (DJL) and Gawak Abri (GWK)
+
+                    Frequency cm–1     As received state                  Tentative vibrational assignments
+
+                    DJL
+                      3426                 Medium                   O–H stretching of absorbed water molecule
+                      1630                 Very weak                H–O–H bending of water
+                      1034                 Very strong              Si–O–Si (kaolinite)
+                      797, 694             Very weak                Si–O of quartz
+                      559                  Very weak                Fe2 O3
+                      482                  Very weak                Si–O–Si bending (microcline)
+                    GWK
+                      3448                 Medium                   O–H stretching of absorbed water molecule
+                      1631                 Very weak                H–O–H bending of water
+                      1043                 Very strong              Si–O–Si (kaolinite)
+                      797, 778, 693        Very weak                Si–O of quartz
+                      479                  Very weak                Si–O–Si bending (microcline)
+
+
+
+
+                                                                           Figure 4. a, FTIR peaks of Gawak Abri; b, Powder XRD pattern of
+Figure 3. Daojali Hading. a, Implimentiferous layers; b, Cord-impressed    Gawak Abri; c, FTIR peaks of Daojali Hading; d, Powder XRD pattern of
+potsherds; c, Mullers.                                                     Daojali Hading.
+
+
+
+
+Nongthroh and Gawak Abri was made using red kaolin                         were available to the Gawak Abri inhabitants during all
+clay (Figure 4 b and d) and the firing temperature ranged                  the seasons as they had access to the uplands, the valley
+between 500C and 700C (Figure 4 a and c; Table 2).                       and the flood plain, and topographical variation allowed
+   Daojali Hading and Law Nongthroh have a richer tool                     growth of resources in particular patches during particu-
+kit indicating agriculture and food processing, while the                  lar seasons3.
+Gawak Abri tool kit with pottery is suitable for incipient
+agriculture and foraging only. This may be because Dao-                      1. Sharma, T. C., A note on the Neolithic Pottery of Assam. Man,
+jali Hading and Law Nongthroh are located on low                                1967, 2(1), 125–128.
+ridges, close to a perennial river with ample ground                         2. Rao, S. N., Excavation at Sarutaru: a Neolithic site in Assam. Man
+available for cultivation, while ample wild food resources                      Environ., 1977, 1, 39–43.
+
+CURRENT SCIENCE, VOL. 113, NO. 3, 10 AUGUST 2017                                                                                              495
+RESEARCH COMMUNICATIONS
+ 3. Sharma, S., Celts, Flakes and Bifaces: The Garo Hills Story, Brit-
+    ish Archaeological Reports, Oxford, UK, 2007, 1664.
+                                                                         Antibacterial activity of protease
+ 4. Mitri, M., Kharmawphlang, D. and Syiemlieh, H., A preliminary        hydrolysates isolated from
+    report on the excavation at the Neolithic site of Law Nongthroh
+    (Sohpet Bneng). Man Environ., 2015, 40(1), 33–42.                    Silybum marianum
+ 5. Singh, O. K., Cord-marked pottery making tradition in Manipur.
+    Puratattva, 1998–99, 29, 60–61.
+ 6. Singh, O. K., Pottery through the Ages in Manipur, Amusana In-       Jing Yue1,2, Zhicheng Zhu3,4 and Xinhua Li1,*
+                                                                         1
+    stitute of Antiquarian Studies, Imphal, 2008.                          College of Food Science, Shenyang Agricultural University,
+ 7. Ashraf, A., Prehistoric Arunachal: a report on archaeological ex-    Shenyang 110866, People’s Republic of China
+                                                                         2
+    ploration and excavation at Kamla Valley with reference to Parsi       Department of Food Science and Engineering,
+    Parlo of Lower Subansiri District. Directorate of Research, Gov-     Shenyang University of Chemical Technology,
+    ernment of Arunachal Pradesh, Itanagar, 1990.                        Shenyang 110142, People’s Republic of China
+                                                                         3
+ 8. Pokharia, A. K., Jamir, T. T., Tetso, D. and Venuh, Z., Late first     College of Agronomy, Shenyang Agricultural University,
+    millennium BC to second millennium AD agriculture in Nagaland:       Shenyang 110866, People’s Republic of China
+                                                                         4
+    a reconstruction based on archaeological evidence and radiocarbon      Seeds Administration Bureau of Liaoning Province,
+    dates. Curr. Sci., 2010, 104(10), 1341–1353.                         Shenyang 110034, People’s Republic of China
+ 9. Worman, E. C., The Neolithic problem in the prehistory of India.
+    J. Wash. Acad. Sci., 1949, 39(6), 181–200.                           In this study, the antibacterial activity of protease
+10. Dani, A. H., Prehistory and Protohistory of Eastern India, Firma     hydrolysates from Silybum marianum protein isolates
+    K.L. Mukhopadhyay, Calcutta, 1960, pp. 41–74.
+                                                                         (SMPIs) was investigated. Neutral protease, papain,
+11. Mills, J. P., Assam as a field of research. J. Assam Res. Soc.,
+    1933, 1(1), 3–6.
+                                                                         pepsin and alkaline protease were used as experimen-
+12. Aitken, M. J., Thermoluminescence Dating, Academic Press, Lon-       tal enzymes, while Escherichia coli, Staphylococcus
+    don, UK, 1985, p. 359.                                               aureus, Sarcina lutea and Bacillus subtilis were the
+13. Murray, A. S. and Wintle, A. G., Luminescence dating of quartz       bacterial indicators. The results showed that neutral
+    using an improved single-aliquot regenerative-dose protocol.         protease, papain and pepsin hydrolysates exerted in-
+    Radiat. Meas., 2000, 32, 57–73.                                      hibitory effects on the four types of bacteria tested.
+                                                                         However, alkaline protease hydrolysates of SMPI
+                                                                         showed stimulatory effects on replication of the four
+ACKNOWLEDGEMENTS. We thank Dr N. Suresh (Wadia Institute                 bacteria tested. The antibacterial mechanism of SMPI
+of Himalayan Geology (WIHG), Dehradun) for help with luminescence
+                                                                         hydrolysates was studied using scanning electron
+dating. We also thank Prof. Mini Bhattacharya (Gauhati University) for
+providing us the Daojali Hading pottery samples and N. K. Juyal
+                                                                         microscopy, and the results showed effective inhibi-
+(WIHG) for assistance.                                                   tion of E. coli (Gram-negative, G– ) and S. aureus
+                                                                         (Gram-positive, G+). It is speculated that the underly-
+                                                                         ing mechanism of SMPI hydrolysates may involve
+Received 12 August 2016; revised accepted 21 March 2017                  injury to E. coli and S. aureus cell membranes. Cur-
+                                                                         rently, no similar studies have been conducted on the
+                                                                         antibacterial activity of SMPI.
+doi: 10.18520/cs/v113/i03/492-496
+                                                                         Keywords: Antibacterial activity, antibacterial mecha-
+                                                                         nism, proteolysis, Silybum marianum.
+
+                                                                         SILYBUM MARIANUM (L.) Gaertn, also known as milk this-
+                                                                         tle, is an annual or biennial herbaceous plant belonging to
+                                                                         the composite family. Originally from the Mediterranean,
+                                                                         it is now distributed worldwide1,2. From ancient times, S.
+                                                                         marianum has been considered a folkloric hepatoprotec-
+                                                                         tive herb. Its constituents include silymarin, milk thistle
+                                                                         oil3 and protein that are known to have high medicinal
+                                                                         value4,5.
+                                                                            Literature reports specify that S. marianum is mainly
+                                                                         used for extraction of silymarin 6 for clinical and pharma-
+                                                                         ceutical applications7–9 while a large portion of its protein
+                                                                         content remains in the spent meal, which is used as
+                                                                         forage or simply discarded after the extraction process.
+                                                                         At the end of the last century, Chen, Wang10 and Zhu11
+                                                                         studied S. marianum protein and confirmed that it contains
+                                                                         all the amino acids, and suggested it to be a potential
+
+                                                                         *For correspondence. (e-mail: 10833693@qq.com)
+
+496                                                                                CURRENT SCIENCE, VOL. 113, NO. 3, 10 AUGUST 2017
+

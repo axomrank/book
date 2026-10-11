@@ -1,0 +1,19 @@
+{
+  "book": "B01",
+  "date": "2026-10-11",
+  "tool": "image_gen.imagegen",
+  "mode": "Entire page generated natively, including all typography",
+  "plan": "CONTENTS_PAGE_PLAN.md",
+  "prompt": "native_contents_prompt_v1.txt",
+  "output": "Before_the_Kingdoms_Contents_v1_native.png",
+  "source": "/home/angsuman/.codex/generated_images/01a12b2e-72c1-7cb1-bb7b-a566458d0e01/exec-dd579394-a7e7-4c98-a525-664518f4a620.png",
+  "reference": "../cover/Before_the_Kingdoms_Cover_v6_sculptural.png",
+  "text_authority": "../chapter_plan.json",
+  "chapters": 12,
+  "groups": 4,
+  "pagination": "Intentionally omitted; manuscript unpaginated",
+  "verification": "Visual inspection confirms all 12 exact titles and numbers, section grouping, unobscured text and no fabricated page numbers",
+  "illustration_status": "Small jar is a modern decorative AI illustration, not documentary evidence",
+  "status": "Native raster front-matter design proof; not editable typeset master or press-ready file",
+  "cover_selection": "v6 sculptural selected by user; no alteration"
+}

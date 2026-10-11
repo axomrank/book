@@ -1,0 +1,15 @@
+{
+  "book": "B01",
+  "date": "2026-10-11",
+  "tool": "image_gen.imagegen",
+  "mode": "Native edit of complete v3 cover",
+  "input": "Before_the_Kingdoms_Cover_v3_hovering.png",
+  "prompt": "native_cover_prompt_v4.txt",
+  "output": "Before_the_Kingdoms_Cover_v4_assam.png",
+  "change": "Large unobscured ASSAM masthead and HISTORY · BOOK 01 line make geographic subject and genre immediately visible; floating objects and layered book title retained",
+  "provenance": "Inherits user-supplied object references and unverified chronology, identity and rights status recorded in cover_generation_record_v3.json",
+  "classification": "Modern AI illustrative montage; not documentary evidence",
+  "review": "Visually inspected for text accuracy, clear Assam/history identity and retained object forms",
+  "status": "Design proof; not print-ready",
+  "previous_versions": "Retained"
+}
